@@ -1,0 +1,45 @@
+{
+    "results": [{
+        "film": {
+            "title": "Sharknado",
+            "summary": "When a freak hurricane swamps Los Angeles, nature's deadliest killer rules sea, land, and air as thousands of sharks terrorize the waterlogged populace.",
+            "trailer": "https://www.youtube.com/watch?v=M-pXDoe5a0E",
+            "poster": "/static/assets/posters/sharknado-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Scott Aukerman",
+                "photo": "/static/assets/guests/scott-aukerman.jpg",
+                "bio": "Scott Aukerman began his comedy career as a writer and performer on HBO’s Mr. Show with Bob and David. In 2009, he debuted a comedy radio show featuring real-life guests and improvised characters, which is now called Comedy Bang Bang: The Podcast! In 2010, he co-founded the Earwolf Podcast Network. In 2012, he started a television series based upon his podcast, Comedy Bang! Bang!, which completed five seasons on IFC. Scott co-created and directs the Funny or Die series Between Two Ferns with Zach Galifianakis, for which he has won two Emmy Awards. Scott’s other credits include executive producer of the reality spoof series Bajillion Dollar Propertie$, and the sitcom Take My Wife, both now streaming on Seeso. He also executive produced and co-directed Michael Bolton’s Big, Sexy Valentine’s Day Special streaming now on Netflix.",
+                "plugs": [
+                    {
+                        "title": "Comedy Bang! Bang!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B008578B0Q",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    },
+                    {
+                        "title": "Between Two Ferns",
+                        "URL": "https://www.amazon.com/Michael-Cera/dp/B01MXOLM23",
+                        "media": "/static/assets/plugs/between-two-ferns.jpg"
+                    },
+                    {
+                        "title": "Earwolf",
+                        "URL": "http://earwolf.com",
+                        "media": "/static/assets/plugs/earwolf.jpg"
+                    },
+                    {
+                        "title": "Run Ronnie Run!",
+                        "URL": "https://www.amazon.com/Run-Ronnie-Not-Specified/dp/B00ALUZQMQ",
+                        "media": "/static/assets/plugs/run-ronnie-run.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "ATTENTION: There was a film that came on Syfy channel that was so important that we had to disrupt our regularly scheduled programming in order to present to you a very special episode of How Did This Get Made? about Sharknado. Most Valuable Podcaster, Scott Aukerman returns to help us figure out the importance of the ship captain opening scene, if a sharknado is scientifically possible, how Tara Reid become a part of this, and where the government was throughout the movie. Plus, June delivers an amazing performance of Nova’s monologue about the origin of her scar. Chomp. Chomp. Chomp.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/26178776",
+            "amazonURL": "https://www.amazon.com/gp/product/B00EY73NKY",
+            "itunesURL": "https://itunes.apple.com/us/movie/id685807292"
+        }
+    }]
+}

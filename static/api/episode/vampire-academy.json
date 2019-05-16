@@ -1,0 +1,51 @@
+{
+    "results": [{
+        "film": {
+            "title": "Vampire Academy",
+            "summary": "Rose Hathaway is a Dhampir, half human-half vampire, a guardian of the Moroi, peaceful, mortal vampires living discreetly within our world. Her calling is to protect the Moroi from bloodthirsty, immortal Vampires, the Strigoi.",
+            "trailer": "https://www.youtube.com/watch?v=E1ERrnYunBg",
+            "poster": "/static/assets/posters/vampire-academy-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Aisling Bea",
+                "photo": "/static/assets/guests/aisling-bea.jpg",
+                "bio": "Aisling Bea is an Irish actress, comedian and writer. She won The Gilded Balloon’s So You Think You’re Funny award at the Edinburgh Festival Fringe in 2012."
+            },
+            "guestTwo": {
+                "name": "Michael Showalter",
+                "photo": "/static/assets/guests/michael-showalter.jpg",
+                "bio": "Michael Showalter is an American comedian, actor, writer, and director. He is a member of the sketch comedy trio Stella. Showalter first came to recognition as a cast member on MTV’s The State, which aired from 1993 to 1995. He co-wrote (with David Wain) and starred in Wet Hot American Summer and he wrote, directed, and starred in The Baxter, with Michelle Williams, Justin Theroux and Elizabeth Banks. Both of these movies featured many of his co-stars from The State, and so do several of his other projects.",
+                "plugs": [
+                    {
+                        "title": "Search Party",
+                        "URL": "https://www.amazon.com/Mysterious-Disappearance-Girl-One-Knew/dp/B01M3TYECH",
+                        "media": "/static/assets/plugs/search-party.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    },
+                    {
+                        "title": "Wet Hot American Summer",
+                        "URL": "https://www.amazon.com/dp/B005EYLFOW",
+                        "media": "/static/assets/plugs/wet-hot-american-summer.jpg"
+                    },
+                    {
+                        "title": "The Big Sick",
+                        "URL": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B07193L7RD",
+                        "media": "/static/assets/plugs/the-big-sick.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Michael Showalter (Search Party) and Aisling Bea (The Fall) join Paul and Jason to talk about the vampire movie Vampire Academy. Theyll cover everything from the gumbo of a plot to out of place mall montage to the orgasmic vampire bites. Its not as sexy as Twilight, not as dangerous as Hunger Games, and not as childlike as Harry Potter.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48130985",
+            "amazonURL": "https://www.amazon.com/gp/product/B00JJH3R6E",
+            "youtubeURL": "https://www.youtube.com/watch?v=z2Gfh7EXsX8",
+            "itunesURL": "https://itunes.apple.com/us/movie/id1223168200"
+        }
+    }]
+}

@@ -1,0 +1,24 @@
+{
+    "results": [{
+        "film": {
+            "title": "Stop! Or My Mom Will Shoot",
+            "summary": "A tough police sergeant's overbearing mother comes to visit him and begins to meddle in his life and career.",
+            "trailer": "https://www.youtube.com/watch?v=oMQ-RoCKa6o",
+            "poster": "/static/assets/posters/stop-or-my-mom-will-shoot-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Kate Spencer",
+                "photo": "/static/assets/guests/kate-spencer.jpg",
+                "bio": "Kate Spencer has been writing and performing at the UCB Theatre since 2002. She is a member of the UCBT House Team Reuben Williams which performs on Saturday nights at 10:30pm in their show As Seen On TV. In addition, she is a teacher with the UCBT Training Center and is a member of the theatre’s Touring Company. Other UCBT credits include: Found On Craigslist, B Roll, NeoTokyo Girlcrush 2040, Gang Bang, and The Documentary. Kate has written for METRO newspaper and New York Magazine’s blog Vulture. She also writes a weekly column for CollegeHumor.com and contributed to the Gawker Guide to Conquering All Media. Kate can be found on a daily basis writing about celebrities and pop culture on The VH1 Blog at Vh1.com. She is a graduate of Bates College in Lewiston, Maine, a lifetime member of Red Sox Nation, and once spent a lot of time traveling the country following the band Phish."
+            }
+        },
+        "episodeDescription": "The wonderful Kate Spencer joins us this week to discuss the Sylvester Stallone & Estelle Getty classic Stop! Or My Mom Will Shoot. We discuss everything from infant fetishizing, diaper nightmares, and the possibility that all the characters in the film have borderline personality disorder. Tune in to hear us try to make sense of a movie that Sylvester himself is ashamed of. Enjoy!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/23453757",
+            "amazonURL": "https://www.amazon.com/Stop-My-Mom-Will-Shoot/dp/B0039NGB5S",
+            "youtubeURL": "https://www.youtube.com/watch?v=MApmcOJQi5o",
+            "itunesURL": "https://itunes.apple.com/us/movie/id356105109"
+        }
+    }]
+}

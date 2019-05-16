@@ -1,0 +1,78 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Adventures of Pluto Nash",
+            "summary": "In the future, a man struggles to keep his lunar nightclub out of the hands of the mafia.",
+            "trailer": "https://www.youtube.com/watch?v=BPQQe2fFM3Q",
+            "poster": "/static/assets/posters/the-adventures-of-pluto-nash-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Lennon Parham",
+                "photo": "/static/assets/guests/lennon-parham.jpg",
+                "bio": "Lennon co-created and starred in her own half hour USA series, Playing House, which just concluded after 3 critically acclaimed seasons. She also recurred as Julia Louis-Dreyfus' hilarious Senior Advisor, 'Karen Collins,' whose specialized field was 'common sense' on HBO's VEEP. Additionally, Lennon has made a number of memorable appearances on television including Fox's Ghosted, Netflix's Lady Dynamite, AMC's Mad Men and NBC's Parks and Recreation.",
+                "plugs": [
+                    {
+                        "title": "Playing House",
+                        "URL": "https://www.amazon.com/Bird-Bones/dp/B00JS6O1BQ",
+                        "media": "/static/assets/plugs/playing-house.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Jessica St. Clair",
+                "photo": "/static/assets/guests/jessica-st-clair.jpg",
+                "bio": "The very talented and renowned American actress and improv comedian Jessica St. Clair is known best for her work in the NBC series, Best Friends Forever. Jessica St. Clair net worth is known best to have been sourced from her work in TV series and movies like It’s Complicated, Life As We Know It, Wanderlust, Labor Pains, Veep, and more. Jessica St. Clair IMDB profile has details of her awards, TV series, and movies.",
+                "plugs": [
+                    {
+                        "title": "Playing House",
+                        "URL": "https://www.amazon.com/Bird-Bones/dp/B00JS6O1BQ",
+                        "media": "/static/assets/plugs/playing-house.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "The House",
+                        "URL": "https://www.amazon.com/House-Will-Ferrell/dp/B072X6H3QP",
+                        "media": "/static/assets/plugs/the-house.jpg"
+                    },
+                    {
+                        "title": "Lady Dynamite",
+                        "URL": "https://www.netflix.com/title/80046193",
+                        "media": "/static/assets/plugs/lady-dynamite.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    },
+                    {
+                        "title": "Review",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00IGCLCHE",
+                        "media": "/static/assets/plugs/review.jpg"
+                    }
+                ]
+            }   
+        },
+        "episodeDescription": "If you love Star Wars and Spaceballs, you'll LOVE The Adventures of Pluto Nash. This intergalactic flop will leave you questioning Eddie Murphy's career choices, the future of civilization, and your own sanity. Our guests Lennon Parham and Jessica St. Clair are down to deconstruct the confusing costuming and cloning that left us all stunned. Watch it if you must, but don't say we didn't warn you.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131207",
+            "amazonURL": "https://www.amazon.com/Adventures-Pluto-Nash-Eddie-Murphy/dp/B000GOT8R6",
+            "youtubeURL": "https://www.youtube.com/watch?v=35zBgsjjcfg",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-adventures-of-pluto-nash/id285471657"
+        }
+    }]
+}

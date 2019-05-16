@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Steel",
+            "summary": "John Henry Irons designs weapons for the military. When his project to create weapons that harmlessly neutralize soldiers is sabotaged, he leaves in disgust.",
+            "trailer": "https://www.youtube.com/watch?v=_8iutb2RUA8",
+            "poster": "/static/assets/posters/steel-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Anders Holm",
+                "photo": "/static/assets/guests/anders-holm.jpg",
+                "bio": "Anders Holm is one of the creators and stars of Comedy Central’s Workaholics.",
+                "plugs": [
+                    {
+                        "title": "Game Over, Man!",
+                        "URL": "https://www.netflix.com/title/80169617",
+                        "media": "/static/assets/plugs/game-over-man.jpg"
+                    },
+                    {
+                        "title": "Workaholics",
+                        "URL": "https://www.amazon.com/Piss-S-t/dp/B004VJQ7F8",
+                        "media": "/static/assets/plugs/workaholics.jpg"
+                    },
+                    {
+                        "title": "Arrested Development",
+                        "URL": "https://www.amazon.com/dp/B006IWJAXM",
+                        "media": "/static/assets/plugs/arrested-development.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "LIVE from Largo in Los Angeles, Anders Holm of Workaholics joins Paul, Jason, and June to discuss Shaquille O'Neal in the 1997 superhero film Steel. Theyll talk about the lethargic action, how much Shaq weighs with the steel armor, Shaq's non-sexual relationship with Sparks, and Judd Nelson as the villain who refers to himself as 'The Man.'",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131027",
+            "amazonURL": "https://www.amazon.com/gp/product/B003MB3T34",
+            "youtubeURL": "https://www.youtube.com/watch?v=JTJPraDA7gg",
+            "itunesURL": "https://itunes.apple.com/us/movie/id368851997"
+        }
+    }]
+}

@@ -1,0 +1,68 @@
+{
+    "results": [{
+        "film": {
+            "title": "Escape from L.A.",
+            "summary": "Snake Plissken is once again called in by the United States government to recover a potential doomsday device from Los Angeles, now an autonomous island where undesirables are deported.",
+            "trailer": "https://www.youtube.com/watch?v=o6SWofbYD90",
+            "poster": "/static/assets/posters/escape-from-la-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "D'Arcy Carden",
+                "photo": "/static/assets/guests/darcy-carden.jpg",
+                "bio": "D’Arcy Carden is an actress/writer/improviser. She has appeared on Comedy Central, Animal Planet and ESPN and can be seen in the movie The To-Do List. She performs every week with the improv group Search History at UCB-Franklin in Los Angeles.",
+                "plugs": [
+                    {
+                        "title": "Broad City",
+                        "URL": "https://www.amazon.com/What-a-Wonderful-World/dp/B00HNEDIZ0",
+                        "media": "/static/assets/plugs/broad-city.jpg"
+                    },
+                    {
+                        "title": "Barry",
+                        "URL": "https://www.amazon.com/Chapter-One-Make-Your-Mark/dp/B079KLHX5V",
+                        "media": "/static/assets/plugs/barry.jpg"
+                    },
+                    {
+                        "title": "The Good Place",
+                        "URL": "https://www.amazon.com/Everything-Is-Fine/dp/B01L3GQG7K",
+                        "media": "/static/assets/plugs/the-good-place.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Dan Levy",
+                "photo": "/static/assets/guests/dan-levy.jpg",
+                "bio": "Dan Levy is an American comedian, actor, writer, and producer, from Stamford, Connecticut. He currently lives in Los Angeles, California.",
+                "plugs": [
+                    {
+                        "title": "A Very Harold & Kumar Christmas",
+                        "URL": "https://www.amazon.com/dp/B0076HLI8S",
+                        "media": "/static/assets/plugs/a-very-harold-and-kumar-christmas.jpg"
+                    },
+                    {
+                        "title": "The Goldbergs",
+                        "URL": "https://www.amazon.com/The-Circle-of-Driving/dp/B00F2PH3F8",
+                        "media": "/static/assets/plugs/the-goldbergs.jpg"
+                    },
+                    {
+                        "title": "Baby Talk",
+                        "URL": "https://www.amazon.com/dp/B01N1QA9TI",
+                        "media": "/static/assets/plugs/baby-talk.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Recorded live from Largo at the Coronet in Los Angeles, DArcy Carden (The Good Place) and Dan Levy (Lion) join Paul and Jason to discuss the 1996 John Carpenter/Kurt Russell film Escape from L.A. Theyll talk about Snake Plissken possibly being immortal, Cuervo Jones, playing basketball to save your life, surfing on a tsunami, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48734815",
+            "amazonURL": "https://www.amazon.com/gp/product/B001KSY674",
+            "youtubeURL": "https://www.youtube.com/watch?v=tR1NK4aveF8",
+            "itunesURL": "https://itunes.apple.com/us/movie/id303664049"
+        }       
+    }]
+}

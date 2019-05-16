@@ -1,0 +1,45 @@
+{
+    "results": [{
+        "film": {
+            "title": "Shanghai Surprise",
+            "summary": "Glendon Wasey is a fortune hunter looking for a fast track out of China. Gloria Tatlock is a missionary nurse seeking the curing powers of opium for her patients.",
+            "trailer": "https://www.youtube.com/watch?v=yhX89dDoAw4",
+            "poster": "/static/assets/posters/shanghai-surprise-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jordan Rubin",
+                "photo": "/static/assets/guests/jordan-rubin.jpg",
+                "bio": "Jordan Rubin is funnier in 140 characters than most people are in their whole lives. A stand-up comedian turned writer, Jordan has written for The Man Show and Crank Yankers in addition to every awards show you’ve ever seen. You can watch his web series The Download on the Comedy Central website.",
+                "plugs": [
+                    {
+                        "title": "Zombeavers",
+                        "URL": "https://www.amazon.com/Zombeavers-Rachael-Melvin/dp/B00UY5SOMM",
+                        "media": "/static/assets/plugs/zombeavers.jpg"
+                    },
+                    {
+                        "title": "Critters: A New Binge",
+                        "URL": "https://www.amazon.com/Beginnings/dp/B07PW47HR5",
+                        "media": "/static/assets/plugs/critters-a-new-binge.jpg"
+                    },
+                    {
+                        "title": "The Man Show",
+                        "URL": "https://www.amazon.com/Oprahization/dp/B008RKA6TK",
+                        "media": "/static/assets/plugs/the-man-show.jpg"
+                    },
+                    {
+                        "title": "Tubbing with Tash",
+                        "URL": "https://www.youtube.com/playlist?list=PLmLMM7D7XLUX8EIwf33eqGuH5aeDPdG3I",
+                        "media": "/static/assets/plugs/tubbin-with-tash.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Director/writer/performer Jordan Rubin (Critters: A New Binge) joins Paul, June, and Jason to discuss the 1986 British American adventure comedy Shanghai Surprise starring Sean Penn and Madonna. They talk about George Harrison’s involvement with the movie, loud Jazz, and what exactly is a Shanghai Surprise.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made",
+            "amazonURL": "https://www.amazon.com/Shanghai-Surprise-artisan-Sean-Penn/dp/B00009NHAJ",
+            "youtubeURL": "https://www.youtube.com/watch?v=5yYVDirkHbU"
+        }
+    }]
+}

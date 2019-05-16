@@ -1,0 +1,54 @@
+{
+    "results": [{
+        "film": {
+            "title": "Highlander II: The Quickening",
+            "summary": "In the future, Highlander Connor MacLeod must prevent the destruction of Earth under an anti-ozone shield.",
+            "trailer": "https://www.youtube.com/watch?v=pRgJVvoihCQ",
+            "poster": "/static/assets/posters/highlander-ii-the-quickening-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Sam Richardson",
+                "photo": "/static/assets/guests/sam-richardson.jpg",
+                "bio": "Sam Richardson is an actor and writer known for Spy and HBO’s Veep.",
+                "plugs": [
+                    {
+                        "title": "Office Christmas Party",
+                        "URL": "https://www.amazon.com/Office-Christmas-Party-Jason-Bateman/dp/B01MSW0HJ5",
+                        "media": "/static/assets/plugs/office-christmas-party.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Champaign Ill",
+                        "URL": "https://www.youtube.com/watch?v=appKOCri_j8",
+                        "media": "/static/assets/plugs/champaign-ill.jpg"
+                    },
+                    {
+                        "title": "Detroiters",
+                        "URL": "https://www.amazon.com/Sam-The-Man/dp/B01MR8TT30",
+                        "media": "/static/assets/plugs/detroiters.jpg"
+                    },
+                    {
+                        "title": "We're the Millers",
+                        "URL": "https://www.amazon.com/Millers-bonus-features-Jennifer-Aniston/dp/B00GGETKE6",
+                        "media": "/static/assets/plugs/were-the-millers.jpg"
+                    },
+                    {
+                        "title": "Horrible Bosses 2",
+                        "URL": "https://www.amazon.com/Horrible-Bosses-2-Jason-Bateman/dp/B00S7HRCKY",
+                        "media": "/static/assets/plugs/horrible-bosses-2.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Recorded live from Largo at the Coronet in Los Angeles, Sam Richardson (HBOs Veep, Detroiters on Comedy Central) joins Paul, June, and Jason to discuss the 1991 film Highlander II: The Quickening. Theyll talk about why theres no need to see the first Highlander movie, Sean Connery trying on a suit, Highlander sex in the streets, the psychic cooking show, and much more. Plus, we get to the bottom of where Sean Connerys walking around money came from and what exactly is the difference between a Highlander and an immortal during Audience Q&A!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/44343585",
+            "amazonURL": "https://www.amazon.com/Highlander-II-Quickening-Sean-Connery/dp/B07DMTN57P"
+        }       
+    }]
+}

@@ -1,0 +1,61 @@
+{
+    "results": [{
+        "film": {
+            "title": "Zardoz",
+            "summary": "In the distant future, a savage trained only to kill finds a way into the community of bored immortals that alone preserves humanity's achievements.",
+            "trailer": "https://www.youtube.com/watch?v=TVakHZp5ZBE",
+            "poster": "/static/assets/posters/zardoz-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Brett Gelman",
+                "photo": "/static/assets/guests/brett-gelman.jpg",
+                "bio": "Brett Gelman wrote iBrain and ruined many a Comedy Bang Bang with his foul language. If you can find it in yourself to forgive him, you’ll find that he’s a talented comedian, actor and (perhaps not surprisingly) rapper. His role as Brett in Eagleheart is pretty great, but not nearly as great as his one-man show One Thousand Cats. If you have any more questions, consult the internet which is teeming with Brett’s comedy.",
+                "plugs": [
+                    {
+                        "title": "Camping",
+                        "URL": "https://www.amazon.com/Pilot/dp/B07FYVQV73",
+                        "media": "/static/assets/plugs/camping.jpg"
+                    },
+                    {
+                        "title": "Lemon",
+                        "URL": "https://www.amazon.com/Lemon-Brett-Gelman/dp/B074SZ195K",
+                        "media": "/static/assets/plugs/lemon.jpg"
+                    },
+                    {
+                        "title": "30 Minutes or Less",
+                        "URL": "https://www.amazon.com/30-Minutes-Less-Jesse-Eisenberg/dp/B0062KJ198",
+                        "media": "/static/assets/plugs/thirty-minutes-or-less.jpg"
+                    },
+                    {
+                        "title": "High Maintenance",
+                        "URL": "https://www.amazon.com/Meth-od/dp/B01MFHDHMH",
+                        "media": "/static/assets/plugs/high-maintenance.jpg"
+                    },
+                    {
+                        "title": "Bored to Death",
+                        "URL": "https://www.amazon.com/dp/B002P3ODNU",
+                        "media": "/static/assets/plugs/bored-to-death.jpg"
+                    },
+                    {
+                        "title": "Another Period",
+                        "URL": "https://www.amazon.com/dp/B00YYFSTRI",
+                        "media": "/static/assets/plugs/another-period.jpg"
+                    },
+                    {
+                        "title": "Love",
+                        "URL": "https://www.netflix.com/title/80026506",
+                        "media": "/static/assets/plugs/love.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Brett Gelman of Adult Swim’s Dinner with Family with Brett Gelman and Brett Gelman’s Family joins Paul & Jason to talk about John Boorman’s fever dream Zardoz. They’ll discuss everything including the multiple floating heads, Sean Connery oozing sexuality in a red diaper, and one of the laziest reveals in movie history.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131073",
+            "amazonURL": "https://www.amazon.com/gp/product/B0029LZ2DI",
+            "youtubeURL": "https://www.youtube.com/watch?v=7Lvyrzyap94",
+            "itunesURL": "https://itunes.apple.com/us/movie/id314918279"
+        }
+    }]
+}

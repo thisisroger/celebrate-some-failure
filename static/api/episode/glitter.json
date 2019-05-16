@@ -1,0 +1,105 @@
+{
+    "results": [{
+        "film": {
+            "title": "Glitter",
+            "summary": "A young singer dates a disc jockey who helps her get into the music business, but their relationship become complicated as she ascends to super stardom.",
+            "trailer": "https://www.youtube.com/watch?v=QaKxGrajnzY",
+            "poster": "/static/assets/posters/glitter-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Dan Levy",
+                "photo": "/static/assets/guests/dan-levy.jpg",
+                "bio": "Dan Levy is an American comedian, actor, writer, and producer, from Stamford, Connecticut. He currently lives in Los Angeles, California.",
+                "plugs": [
+                    {
+                        "title": "A Very Harold & Kumar Christmas",
+                        "URL": "https://www.amazon.com/dp/B0076HLI8S",
+                        "media": "/static/assets/plugs/a-very-harold-and-kumar-christmas.jpg"
+                    },
+                    {
+                        "title": "The Goldbergs",
+                        "URL": "https://www.amazon.com/The-Circle-of-Driving/dp/B00F2PH3F8",
+                        "media": "/static/assets/plugs/the-goldbergs.jpg"
+                    },
+                    {
+                        "title": "Baby Talk",
+                        "URL": "https://www.amazon.com/dp/B01N1QA9TI",
+                        "media": "/static/assets/plugs/baby-talk.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Adam Scott",
+                "photo": "/static/assets/guests/adam-scott.jpg",
+                "bio": "Adam Scott is perhaps best known for his roles in Knocked Up, Step Brothers, Party Down, Eastbound & Down, Parks and Recreation, and many Funny or Die videos. Additionally, he’s been a guest on shows such as The Sarah Silverman Program, Childrens Hospital, Veronica Mars and more. So, basically he’s great. Handsome, funny, good actor, the whole package.",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Party Down",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0040J4LH0",
+                        "media": "/static/assets/plugs/party-down.jpg"
+                    },
+                    {
+                        "title": "Step Brothers",
+                        "URL": "https://www.amazon.com/dp/B007OXHVSU",
+                        "media": "/static/assets/plugs/step-brothers.jpg"
+                    },
+                    {
+                        "title": "The Overnight",
+                        "URL": "https://www.amazon.com/dp/B07LGCQ3Q4",
+                        "media": "/static/assets/plugs/the-overnight.jpg"
+                    },
+                    {
+                        "title": "My Blind Brother",
+                        "URL": "https://www.amazon.com/dp/B01LXLQUKZ",
+                        "media": "/static/assets/plugs/my-blind-brother.jpg"
+                    },
+                    {
+                        "title": "A.C.O.D",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00GT8AV6U",
+                        "media": "/static/assets/plugs/acod.jpg"
+                    }
+                ]
+            },
+            "guestThree": {
+                "name": "Casey Wilson",
+                "photo": "/static/assets/guests/casey-wilson.jpg",
+                "bio": "Casey Wilson was a series regular on the sitcoms Marry Me and Happy Endings. She was twice nominated for a Critics’ Choice Award for her performance on the latter show, and Variety has called her one of the “Top 10 Comics to Watch.”",
+                "plugs": [
+                    {
+                        "title": "Happy Endings",
+                        "URL": "https://www.amazon.com/dp/B004V2E8SS",
+                        "media": "/static/assets/plugs/happy-endings.jpg"
+                    },
+                    {
+                        "title": "Ass Backwards",
+                        "URL": "https://www.amazon.com/dp/B00FJ01BN6",
+                        "media": "/static/assets/plugs/ass-backwards.jpg"
+                    },
+                    {
+                        "title": "Bored to Death",
+                        "URL": "https://www.amazon.com/dp/B002P3ODNU",
+                        "media": "/static/assets/plugs/bored-to-death.jpg"
+                    },
+                    {
+                        "title": "Marry Me",
+                        "URL": "https://www.amazon.com/dp/B00OBTFUPQ",
+                        "media": "/static/assets/plugs/marry-me.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "It's a special HDTGM All-Stars episode with guest co-hosts Adam Scott & Casey Wilson as well as special guest Dan Levy and they're talking all about Mariah Carey's Glitter. Recorded LIVE at Largo in Los Angeles, we get into why this movie is set in the 80s, what the deal is with Mariah’s friends Da Brat & the other one, Dice's death, and the true meaning of magical realism from the director's commentary track of the film.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131091",
+            "amazonURL": "https://www.amazon.com/gp/product/B00IPUFJJY",
+            "youtubeURL": "https://www.youtube.com/watch?v=899fdwycKEw",
+            "itunesURL": "https://itunes.apple.com/gb/movie/glitter/id318111789"
+        }
+    }]
+}

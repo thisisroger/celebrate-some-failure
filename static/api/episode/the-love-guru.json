@@ -1,0 +1,47 @@
+{
+    "results": [{
+        "id": "the-love-guru",
+        "film": {
+            "title": "The Love Guru",
+            "summary": "Pitka, an American raised outside of his country by gurus, returns to the States in order to break into the self-help business. His first challenge is to settle the romantic troubles and subsequent professional skid of a star hockey player whose wife left him for a rival athlete.",
+            "trailer": "https://www.youtube.com/embed/mVdD0ZxPq_g?iv_load_policy=3&modestbranding=1&playsinline=1&showinfo=0&rel=0&enablejsapi=1",
+            "poster": "/static/assets/posters/the-love-guru-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Matt Walsh",
+                "photo": "/static/assets/guests/matt-walsh.jpg",
+                "bio": "Matt Walsh is known to many as Trotter of the Upright Citizens Brigade. To others, he’s Kevin Beekin from Dog Bites Man or Ranger Glen from Reno 911. To less observant non-nerds, he’s “that guy” from The Hangover, Role Models, I Love You Man, Semi-Pro, and Step Brothers. To us at Earwolf, he’s one of our favorite guests!",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "The Hangover",
+                        "URL": "https://www.amazon.com/dp/B002RRXGKA",
+                        "media": "/static/assets/plugs/the-hangover.jpg"
+                    },
+                    {
+                        "title": "Comedy Bang! Bang!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B008578B0Q",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Wayne’s World was a successful sketch-turned-movie that satirized the music and mentality of the time with absolute precision. Austin Powers hit the cultural zeitgeist so hard that the quotes and characters remain in public consciousness. The Love Guru is, uh…well, it’s a movie, that’s for sure. Matt Walsh, director of the upcoming film High Road, joins the How Did This Get Made crew (including an internet connected Jason) to discuss how this pro-enlightenment, over-written piece of garbage got made. He even brings our attention to some of the more bizarre reviews the movie received. If you’re curious about the odd casting choices and borderline animal cruelty from this Mike Meyers flop, tune in.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/57834621",
+            "amazonURL": "https://www.amazon.com/gp/product/B001G58A0U",
+            "youtubeURL": "https://www.youtube.com/watch?v=6mBMksU2dLQ",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-love-guru/id285221151"
+        }
+    }]
+}

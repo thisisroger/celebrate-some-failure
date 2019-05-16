@@ -1,0 +1,36 @@
+{
+    "results": [{
+        "film": {
+            "title": "Barb Wire",
+            "summary": "During the Second American Civil War in 2017, Barb Wire owns a nightclub called the Hammerhead. Things become complicated when her ex-lover Axel Hood, who is married to the fugitive Corrina Devonshire, re-enters her life.",
+            "trailer": "https://www.youtube.com/watch?v=F2mk5MZwksg",
+            "poster": "/static/assets/posters/barb-wire-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jesse Thorn",
+                "photo": "/static/assets/guests/jesse-thorn.jpg",
+                "bio": "Jesse Thorn is America’s Radio Sweetheart, a men’s style expert, a bailiff, a pop culture television host, a comedian, an entrepreneur and….did I miss anything? Probably. Jesse leads a busy life as the head of Maximum Fun and the host of The Sound of Young America. He has been broadcasting since college and has no intentions of stopping, especially as his network, and family, expands. If you are new to Jesse Thorn, might I recommend Jordan, Jesse Go which has featured Earwolf hosts like Scott Aukerman, Paul Scheer, and more.",
+                "plugs": [
+                    {
+                        "title": "Jordan, Jesse, Go!",
+                        "URL": "https://itunes.apple.com/us/podcast/id207698746",
+                        "media": "/static/assets/plugs/jordan-and-jesse-go.jpg"
+                    },
+                    {
+                        "title": "Comedy Bang! Bang!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B008578B0Q",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Fans of gratuitous side boob are in luck as we discuss Barb Wire on today’s How Did This Get Made! America’s Radio Sweetheart Jesse Thorn joins us to talk about Barb’s wardrobe being full of black leather bustiers, Big Fatso’s amazing performance, and how this movie is a rip-off of Casablanca. Plus, we cover the crotch biting dog, prostitute medical cards, and steel bikini torture.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/54194713",
+            "amazonURL": "https://www.amazon.com/gp/product/B000I9VOX0",
+            "youtubeURL": "https://www.youtube.com/watch?v=b1z9yDVJgxE",
+            "itunesURL": "https://itunes.apple.com/us/movie/id288291653"
+        }
+    }]
+}

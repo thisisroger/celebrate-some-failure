@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Hudson Hawk",
+            "summary": "A cat burglar is forced to steal Da Vinci works of art for a world domination plot.",
+            "trailer": "https://www.youtube.com/watch?v=yRfn_kmZ1BU",
+            "poster": "/static/assets/posters/hudson-hawk-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Emily V. Gordon",
+                "photo": "/static/assets/guests/emily-v-gordon.jpg",
+                "bio": "Emily Gordon is a gamer, writer, relationship counselor, and co-host of the Nerdist podcast The Indoor Kids. She has written for Bust Magazine, Jane Magazine, Dame Magazine, and probably other four-letter-word-about-women magazines.",
+                "plugs": [
+                    {
+                        "title": "Who Charted: Glory Hole Jack-O-Lantern",
+                        "URL": "https://itunes.apple.com/us/podcast/who-charted/id408711228",
+                        "media": "/static/assets/plugs/who-charted.jpg"
+                    },
+                    {
+                        "title": "The Indoor Kids",
+                        "URL": "https://itunes.apple.com/us/podcast/id450637314",
+                        "media": "/static/assets/plugs/the-indoor-kids.jpg"
+                    },
+                    {
+                        "title": "The Big Sick",
+                        "URL": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B07193L7RD",
+                        "media": "/static/assets/plugs/the-big-sick.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Emily Gordon of The Indoor Kids joins Paul, June, and Jason to discuss Bruce Willis’ cappuccino obsession, Nintendo references, and burglary duets in Hudson Hawk. They cover everything from the candy bar named bad guys to Andie MacDowell being Nundercover.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/30784951",
+            "amazonURL": "https://www.amazon.com/gp/product/B001E93S3C",
+            "youtubeURL": "https://www.youtube.com/watch?v=9GlPKq0fyBk",
+            "itunesURL": "https://itunes.apple.com/us/movie/id295938808"
+        }
+    }]
+}

@@ -1,0 +1,51 @@
+{
+    "results": [{
+        "film": {
+            "title": "Death Spa",
+            "summary": "Gruesome deaths begin to occur at a hip Los Angeles health club.",
+            "trailer": "https://www.youtube.com/watch?v=7HImCpzFxCg",
+            "poster": "/static/assets/posters/death-spa-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Horatio Sanz",
+                "photo": "/static/assets/guests/horatio-sanz.jpg",
+                "bio": "Horatio Sanz is an actor and a comedian. He made us laugh and think with characters such as Gobi the stoner and Jasper Hahn the perverted children’s cartoonist on Saturday Night Live. You may have seen him in the Comedy Central series Big Lake with former SNL cast-mate Chris Parnell, Nick Swardson’s Pretend Time, and Comedy Bang! Bang!",
+                "plugs": [
+                    {
+                        "title": "Road Trip",
+                        "URL": "https://www.amazon.com/Road-Trip-unr8d-Breckin-Meyer/dp/B0788YVTZZ",
+                        "media": "/static/assets/plugs/road-trip.jpg"
+                    },
+                    {
+                        "title": "Boat Trip",
+                        "URL": "https://www.amazon.com/Boat-Trip-Cuba-Gooding-Jr/dp/B00BLV9DY6",
+                        "media": "/static/assets/plugs/boat-trip.jpg"
+                    },
+                    {
+                        "title": "Year One",
+                        "URL": "https://www.amazon.com/Year-One-Jack-Black/dp/B008Y7F63W",
+                        "media": "/static/assets/plugs/year-one.jpg"
+                    },
+                    {
+                        "title": "Love",
+                        "URL": "https://www.netflix.com/title/80026506",
+                        "media": "/static/assets/plugs/love.jpg"
+                    },
+                    {
+                        "title": "Do You Want to See a Dead Body?",
+                        "URL": "https://www.youtube.com/channel/UCFGGYi2aZoXzdeOeeNAD1sw",
+                        "media": "/static/assets/plugs/do-you-want-to-see-a-dead-body.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "LIVE from Largo in Los Angeles Paul, June, and Jason welcome Horatio Sanz to discuss the 1980's horror film Death Spa. They'll discuss 80's workout gear, paranormal-transgender villains, and whether or not this film can in fact be called a film. Additionally, the gang debates if serving sushi in a place of exercise is sanitary. Lastly, with the help of the audience our Hosts debate the best ways to die in a spa.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131036",
+            "amazonURL": "https://www.amazon.com/gp/product/B00KL5L1T8",
+            "youtubeURL": "https://www.youtube.com/watch?v=weUchLsIbfg",
+            "itunesURL": "https://itunes.apple.com/us/movie/id879910382"
+        }
+    }]
+}

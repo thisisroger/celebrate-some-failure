@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Green Lantern",
+            "summary": "Reckless test pilot Hal Jordan is granted an alien ring that bestows him with otherworldly powers that inducts him into an intergalactic police force, the Green Lantern Corps.",
+            "trailer": "https://www.youtube.com/watch?v=_axLoYlwwmU",
+            "poster": "/static/assets/posters/green-lantern-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Paul Rust",
+                "photo": "/static/assets/guests/paul-rust.jpg",
+                "bio": "Paul Rust is an actor, writer, and comedian living in Los Angeles. As an actor, Rust has appeared in the films I LOVE YOU, BETH COOPER, directed by Chris Columbus, and INGLOURIOUS BASTERDS, directed by Quentin Tarantino. In television, Paul has appeared in PARKS AND RECREATION, SUPER FUN NIGHT, COMEDY BANG! BANG!, and many more. He was also a writer on ARRESTED DEVELOPMENT and COMEDY BANG! BANG! and frequently performs improv and sketch comedy at the Upright Citizens Brigade in Los Angeles, CA.",
+                "plugs": [
+                    {
+                        "title": "Love",
+                        "URL": "https://www.netflix.com/title/80026506",
+                        "media": "/static/assets/plugs/love.jpg"
+                    },
+                    {
+                        "title": "Arrested Development",
+                        "URL": "https://www.amazon.com/dp/B006IWJAXM",
+                        "media": "/static/assets/plugs/arrested-development.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "In darkest night Paul, June, Jason, and Paul Rust went to see Green Lantern. In brightest day they reunited to figure out what the hell happened. You'd think that the art of the comic book movie would be perfected by now, but with it's awful CGI, ultra-quippy dialogue, and awkward pacing and storytelling, Green Lantern is certainly the exception. Even Jason who has read the comics didn't understand what was happening most of the time!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/57317899",
+            "amazonURL": "https://www.amazon.com/dp/B005LJITS0",
+            "youtubeURL": "https://www.youtube.com/watch?v=IOx5hOGbVJo",
+            "itunesURL": "https://itunes.apple.com/us/movie/id456443978"
+        }
+    }]
+}

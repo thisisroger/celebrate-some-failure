@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Island of Dr. Moreau",
+            "summary": "After being rescued and brought to an island, a man discovers that its inhabitants are experimental animals being turned into strange-looking humans, all of it the work of a visionary doctor.",
+            "trailer": "https://www.youtube.com/watch?v=5QagEozqPZs",
+            "poster": "/static/assets/posters/the-island-of-dr-moreau-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Alex Fernie",
+                "photo": "/static/assets/guests/alex-fernie.jpg",
+                "bio": "Alex Fernie is a writer for Funny or Die, a teacher for the Upright Citizens Brigade Theatre in Los Angeles, and a performer in Convoy and Sentimental Lady. I’ll give you a second to control your comedy boners before we go any further. Ready? Okay. So Alex is responsible for the Funny or Die videos Beiber 2051, Where Do Podcasts Come From?, Hipster Tea Party and many many more. His improv team Convoy has the UCB Cagematch record for most wins. He’s been on Terriers and Reno 911. I’m running out of space to list all his cool things!",
+                "plugs": [
+                    {
+                        "title": "Rob Riggle's Ski Master Academy",
+                        "URL": "https://www.sonycrackle.com/watch/3659/25059",
+                        "media": "/static/assets/plugs/ski-master-academy.jpg"
+                    },
+                    {
+                        "title": "Do You Want to See a Dead Body?",
+                        "URL": "https://www.youtube.com/channel/UCFGGYi2aZoXzdeOeeNAD1sw",
+                        "media": "/static/assets/plugs/do-you-want-to-see-a-dead-body.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Actor, director, writer Alex Fernie joins Paul & June in studio to talk about Marlon Brando and Val Kilmer not caring at all in 1996’s The Island of Dr. Moreau. They’ll discuss why Brando insisted to be in white face, Val Kilmer’s mocking performance of Brando later in the movie, Brando playing piano with the world’s smallest man, and more. Plus, we hear what Brando believed to be a much better ending to the movie.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/38089251",
+            "amazonURL": "https://www.amazon.com/gp/product/B076B8MSF9",
+            "youtubeURL": "https://www.youtube.com/watch?v=_LBEUp46NSc",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-island-of-dr-moreau-1996/id718304628"
+        }
+    }]
+}

@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Staying Alive",
+            "summary": "It's five years later and Tony Manero's Saturday Night Fever is still burning. Now he's strutting toward his biggest challenge yet - succeeding as a dancer on the Broadway stage.",
+            "trailer": "https://www.youtube.com/watch?v=D6UWYylKzlc",
+            "poster": "/static/assets/posters/staying-alive-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Katie Dippold",
+                "photo": "/static/assets/guests/katie-dippold.jpg",
+                "bio": "Katie Dippold is an improviser and writer. She currently writes on Parks and Recreation with frequent Earwolf guests Harris Wittles and Chelsea Peretti. Katie performs at UCBTLA with The Smokes. She has also performed on ASSSCAT and Harold Night. To find out more about Katie visit her website LongAwkwardPose.com.",
+                "plugs": [
+                    {
+                        "title": "The Heat",
+                        "URL": "https://www.amazon.com/Heat-Sandra-Bullock/dp/B00F4ARI3I",
+                        "media": "/static/assets/plugs/the-heat.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Ghostbusters",
+                        "URL": "https://www.amazon.com/Ghostbusters-Melissa-McCarthy/dp/B01I03B1BU",
+                        "media": "/static/assets/plugs/ghostbusters.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "The art of dance, sweat, and slow-mo sex faces are all brought you by Sylvester & Frank Stallone in the sequel to Saturday Night Fever. Recorded LIVE at Largo in Los Angeles, special guest Katie Dippold joins Paul, June, & Jason to talk about the Broadway production of Satan's Alley, John Travolta turning down a three-way with two new wave girls, and how much June knows about dance.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131093",
+            "amazonURL": "https://www.amazon.com/Staying-Alive-Sylvester-Stallone/dp/B001DNCJXO",
+            "youtubeURL": "https://www.youtube.com/watch?v=jZ46Dvuh_0U",
+            "itunesURL": "https://itunes.apple.com/us/movie/id285964205"
+        }
+    }]
+}

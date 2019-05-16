@@ -1,0 +1,35 @@
+{
+    "results": [{
+        "film": {
+            "title": "Fair Game",
+            "summary": "Max Kirkpatrick is a cop who protects Kate McQuean, a civil law attorney, from a renegade KGB team out to terminate her.",
+            "trailer": "https://www.youtube.com/watch?v=YC3npzqwXcs",
+            "poster": "/static/assets/posters/fair-game-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Danny Zuker",
+                "photo": "/static/assets/guests/danny-zuker.jpg",
+                "bio": "Danny Zuker is a writer for Twitter.com and writer/ executive producer on ABC’s Modern Family.",
+                "plugs": [
+                    {
+                        "title": "Modern Family",
+                        "URL": "https://www.amazon.com/Pilot/dp/B002NVTSGQ",
+                        "media": "/static/assets/plugs/modern-family.jpg"
+                    },
+                    {
+                        "title": "Just Shoot Me",
+                        "URL": "https://www.amazon.com/Back-Issues/dp/B000QUK8PG",
+                        "media": "/static/assets/plugs/just-shoot-me.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Modern Family's Danny Zuker joins Paul, June, and Jason to figure out how Cindy Crawford was given a starring role in 1995's Fair Game. They'll discuss the absurdity of someone having a pizza account, Cindy Crawford being awful at seducing a super nerd, and what exactly the film's title refers to.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/30499948",
+            "amazonURL": "https://www.amazon.com/Fair-Game-William-Baldwin/dp/B0091XODC8",
+            "itunesURL": "https://itunes.apple.com/us/movie/fair-game-1995/id327852015"
+        }
+    }]
+}

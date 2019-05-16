@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Covenant",
+            "summary": "Four young men who belong to a New England supernatural legacy are forced to battle a fifth power long thought to have died out. Meanwhile, jealousy and suspicion threaten to tear them apart.",
+            "trailer": "https://www.youtube.com/watch?v=sJkbm-a-T_U",
+            "poster": "/static/assets/posters/the-covenant-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Alison Rich",
+                "photo": "/static/assets/guests/alison-rich.jpg",
+                "bio": "Alison Rich is a writer, actor, and comedian known for starring in FOX’s Party Over Here and writing for Saturday Night Live.",
+                "plugs": [
+                    {
+                        "title": "Drunk History",
+                        "URL": "https://www.amazon.com/Drunk-History-Vol-Featuring-Michael/dp/B01MQKQ0N8",
+                        "media": "/static/assets/plugs/drunk-history.jpg"
+                    },
+                    {
+                        "title": "Popstar: Never Stop Never Stopping",
+                        "URL": "https://www.amazon.com/dp/B01GHBYIEY",
+                        "media": "/static/assets/plugs/popstar.jpg"
+                    },
+                    {
+                        "title": "Rob Riggle's Ski Master Academy",
+                        "URL": "https://www.sonycrackle.com/watch/3659/25059",
+                        "media": "/static/assets/plugs/ski-master-academy.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Alison Rich of Fox's sketch comedy show Party Over Here joins Paul and Jason in studio to talk about the Abercrombie & Witch of movies, the 2006 film The Covenant. They'll cover everything including the Harry Potter & Twilight connections, the poorly done fight scene, the boozy mom talking to her son, and the skirt flipping up scene.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131014",
+            "amazonURL": "https://www.amazon.com/gp/product/B00AWD4KFQ",
+            "youtubeURL": "https://www.youtube.com/watch?v=d_5Ahe8C1EQ",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-covenant/id277049065"
+        }       
+    }]
+}

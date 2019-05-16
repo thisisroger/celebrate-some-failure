@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "Timecop",
+            "summary": "Max Walker, an officer for a security agency that regulates time travel, must fend for his life against a shady politician who's intent on changing the past to control the future.",
+            "trailer": "https://www.youtube.com/watch?v=7OPLHgw54h4",
+            "poster": "/static/assets/posters/timecop-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Nick Kroll",
+                "photo": "/static/assets/guests/nick-kroll.jpg",
+                "bio": "Nick Kroll is dearly beloved here at Earwolf, in case you can’t tell from the El Chupcabra tag on the Earwolf theme. His characters , be they Bobby Bottleservice, Fabrice Fabrice, or Randy Moss’ Dog, are forever welcome on our shows. He’s a quick improviser and hilarious stand-up, and you can watch his special Thank You Very Cool or the semi-improvised The League for verification on that. His credits are unending, and incredibly impressive. So, like no offense none taken, we love him.",
+                "plugs": [
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Kroll Show",
+                        "URL": "https://www.amazon.com/dp/B00AVXZ5O2",
+                        "media": "/static/assets/plugs/kroll-show.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Adult Beginners",
+                        "URL": "https://www.amazon.com/dp/B00WKZ2YWK",
+                        "media": "/static/assets/plugs/adult-beginners.jpg"
+                    },
+                    {
+                        "title": "Sausage Party",
+                        "URL": "https://www.amazon.com/dp/B01JBARY4O",
+                        "media": "/static/assets/plugs/sausage-party.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/Pilot/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Nick Kroll (Oh, Hello on Broadway, The House) returns to join Paul, June, and Jason to discuss the 1994 Jean-Claude Van Damme movie Timecop. Recorded live from Austin, Texas, they cover JCVDs grief mullet, actor/activist Ron Silvers nut work, the confusing time travel, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/50712005",
+            "amazonURL": "https://www.amazon.com/Timecop-Jean-Claude-Van-Damme/dp/B006GLPQWY",
+            "youtubeURL": "https://www.youtube.com/watch?v=9RC4pRI5ex0",
+            "itunesURL": "https://itunes.apple.com/us/movie/timecop/id479095027"
+        }       
+    }]
+}

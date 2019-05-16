@@ -1,0 +1,50 @@
+{
+    "results": [{
+        "film": {
+            "title": "Chopping Mall",
+            "summary": "A group of young shopping mall employees stay behind for a late night party in one of the stores. When the mall goes on lock-down before they can get out, the robot security system malfunctions, and goes on a killing spree.",
+            "trailer": "https://www.youtube.com/watch?v=yzVoN6SD9cQ",
+            "poster": "/static/assets/posters/chopping-mall-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Mary Holland",
+                "photo": "/static/assets/guests/mary-holland.jpg",
+                "bio": "Mary Holland is an improvisor and actress originally from Galax, VA. She has appeared on Comedy Bang! Bang!, Tosh.O, and national commercial spots, including ads for Cascade, Temptations Cat Treats, Fiat, and Farmer’s Insurance. She also has made several videos with Funny or Die, including Raw Food Thanksgiving, NYC Sidewalk Pits of Doom, Snoozeroom (Ep. 4), Backseat Italians, Tidy Ghost, 1-900-HOT-GIRLS, and she also co-wrote/starred in Exorcism of Sarah Jo.",
+                "plugs": [
+                    {
+                        "title": "Mike and Dave Need Wedding Dates",
+                        "URL": "https://www.amazon.com/Mike-Dave-Need-Wedding-Dates/dp/B01I2CNZ72",
+                        "media": "/static/assets/plugs/mike-and-dave-need-wedding-dates.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    },
+                    {
+                        "title": "It's Always Sunny in Philadelphia",
+                        "URL": "https://www.amazon.com/gp/video/detail/B017344RXQ",
+                        "media": "/static/assets/plugs/its-always-sunny.jpg"
+                    },
+                    {
+                        "title": "Blunt Talk",
+                        "URL": "https://www.amazon.com/Seem-Running-Out-Dreams-Myself/dp/B017738I7Y",
+                        "media": "/static/assets/plugs/blunt-talk.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Mary Holland (Wild Horses, Blunt Talk) joins Paul, June, and Jason to discuss the 1986 science-fiction horror film Chopping Mall. Recorded live from Largo at the Coronet in Los Angeles, they talk about the slow moving robots, janitor bullies, the furniture storgy, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/39841782",
+            "amazonURL": "https://www.amazon.com/gp/product/B01MS6K8IX",
+            "youtubeURL": "https://www.youtube.com/watch?v=_PTTlRB7M4U"
+        }       
+    }]
+}

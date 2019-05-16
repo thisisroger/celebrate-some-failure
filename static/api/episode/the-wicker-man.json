@@ -1,0 +1,40 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Wicker Man",
+            "summary": "A sheriff investigating the disappearance of a young girl from a small island discovers there's a larger mystery to solve among the island's secretive, neo-pagan community.",
+            "trailer": "https://www.youtube.com/watch?v=tlvqLOo6apM",
+            "poster": "/static/assets/posters/the-wicker-man-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jonah Ray",
+                "photo": "/static/assets/guests/jonah-ray.jpg",
+                "bio": "Jonah Ray is a real nerd. I know this because he co-hosts the very popular podcast The Nerdist with Matt Mira and Chris Hardwick. I also know that because he writes for Web Soup. I also know that because I’ve heard his EP This Is Crazy/Mixed-Up Plumbing from AST Records.",
+                "plugs": [
+                    {
+                        "title": "ID10T",
+                        "URL": "https://itunes.apple.com/us/podcast/id355187485?mt=2",
+                        "media": "/static/assets/plugs/id10t.jpg"
+                    },
+                    {
+                        "title": "Mystery Science Theater 3000: The Gauntlet",
+                        "URL": "https://www.netflix.com/title/80128275",
+                        "media": "/static/assets/plugs/mst3k-the-gauntlet.jpg"
+                    },
+                    {
+                        "title": "The Meltdown with Jonah and Kumail",
+                        "URL": "https://www.amazon.com/dp/B00LH4HS26",
+                        "media": "/static/assets/plugs/the-meltdown.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "The Wicker Man has a measly 14% on Rotten Tomatoes. Does it deserve this terrible score? Jonah Ray is in the studio to deconstruct and celebrate the ridiculousness of this Neil Labute remake disaster. We also get a call from Liam O'Donnell, one of the writers of Skyline, who defends his movie and offers up an explanation of how it got made. In case that isn't enough, we've got a special tease into our next episode which you can expect earlier than normal. Now if you'll excuse me, I have a special ceremony to attend.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131238",
+            "amazonURL": "https://www.amazon.com/dp/B000M0OJO6",
+            "itunesURL": "https://itunes.apple.com/gb/movie/id323327768"
+        }
+    }]
+}

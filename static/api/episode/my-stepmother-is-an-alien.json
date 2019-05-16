@@ -1,0 +1,37 @@
+{
+    "results": [{
+        "film": {
+            "title": "My Stepmother Is an Alien",
+            "summary": "A creature from another planet tries to seduce a shy Earth physicist to gain control over his researches. The result of this important mission much exceeded her expectations.",
+            "trailer": "https://www.youtube.com/watch?v=bn_UVNRl_k8",
+            "poster": "/static/assets/posters/my-stepmother-is-an-alien-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Whitney Cummings",
+                "photo": "/static/assets/guests/whitney-cummings.jpg",
+                "bio": "Whitney Cummings is an American comedian and actress. She is best known as the creator and star of the NBC sitcom Whitney, as well as the co-creator of the CBS sitcom 2 Broke Girls.",
+                "plugs": [
+                    {
+                        "title": "Whitney Cummings: I'm Your Girlfriend",
+                        "URL": "https://www.amazon.com/Whitney-Cummings-Im-Your-Girlfriend/dp/B01DT5YNP0",
+                        "media": "/static/assets/plugs/im-your-girlfriend.jpg"
+                    },
+                    {
+                        "title": "Whitney",
+                        "URL": "https://www.amazon.com/Whitney-Pilot/dp/B005JR42VC",
+                        "media": "/static/assets/plugs/whitney.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Stand-up comedian Whitney Cummings (The Female Brain) joins Paul, June, and Jason to discuss the 1988 comedy science fiction film My Stepmother Is an Alien. Recorded live from Largo at the Coronet in Los Angeles, theyll talk about the horny adults party with kid waiters, Kim Basinger having conversations with the purse worm, Jon Lovitz improvising, and where Dan Aykroyd falls on the sex chart. Put her in a brar!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/50136781",
+            "amazonURL": "https://www.amazon.com/gp/product/B01D8AXQYK",
+            "youtubeURL": "https://www.youtube.com/watch?v=EVzLpTuKrEI",
+            "itunesURL": "https://itunes.apple.com/us/movie/id296078905"
+        }
+               
+    }]
+}

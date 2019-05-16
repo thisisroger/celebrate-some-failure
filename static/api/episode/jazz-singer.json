@@ -1,0 +1,51 @@
+{
+    "results": [{
+        "film": {
+            "title": "Jazz Singer",
+            "summary": "The son of a Jewish Cantor must defy the traditions of his religious father in order to pursue his dream of being a popular singer.",
+            "trailer": "https://www.youtube.com/watch?v=bXiJAlFYfXs",
+            "poster": "/static/assets/posters/the-jazz-singer-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Chris Gethard",
+                "photo": "/static/assets/guests/chris-gethard.jpg",
+                "bio": "Chris Gethard is the host of the podcast Beautiful Stories From Anonymous People and The Chris Gethard Show, a bizarre talk show on the Fusion network that became a cult hit on Manhattan public access over the course of five years. He’s also a stand up who’s had a half hour special on Comedy Central and tours all over the country, as well as a UCB Theater mainstay having performed at the NYC branch of their theater for sixteen years. You may have seen him come up for air in the mainstream with acting roles on shows like Broad City, Inside Amy Schumer, Parks and Recreation, The Office, and Louie, and films like The Heat and The Other Guys. He’s been heard on This American Life a bunch of times and New York Magazine once called him “The Carson of Cable Access”.",
+                "plugs": [
+                    {
+                        "title": "The Office",
+                        "URL": "https://www.amazon.com/The-Office-An-American-Workplace/dp/B000U7O8LA",
+                        "media": "/static/assets/plugs/the-office.jpg"
+                    },
+                    {
+                        "title": "Don't Think Twice",
+                        "URL": "https://www.amazon.com/Dont-Think-Twice-Keegan-Michael-Key/dp/B01M31UP72",
+                        "media": "/static/assets/plugs/dont-think-twice.jpg"
+                    },
+                    {
+                        "title": "The Chris Gethard Show: One Man's Trash",
+                        "URL": "https://www.youtube.com/watch?v=Nwi_kE0gy94",
+                        "media": "/static/assets/plugs/one-mans-trash.jpg"
+                    },
+                    {
+                        "title": "The Chris Gethard Show",
+                        "URL": "https://www.amazon.com/gp/video/detail/B01N37DUBS",
+                        "media": "/static/assets/plugs/the-chris-gethard-show.jpg"
+                    },
+                    {
+                        "title": "Chris Gethard: Career Suicide",
+                        "URL": "https://www.amazon.com/Chris-Gethard-Career-Suicide/dp/B071WSW5WG",
+                        "media": "/static/assets/plugs/career-suicide.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Chris Gethard (Beautiful Stories From Anonymous People and The Chris Gethard Show) joins Paul, June, and Jason to discuss the 1980 remake of The Jazz Singer starring Neil Diamond. Recorded live from the Now Hear This Festival in New York City, they talk about Laurence Oliviers questionable acting choices, Neil Diamond in blackface and a wig, the my body or pizza scene, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/52334809",
+            "amazonURL": "https://www.amazon.com/Jazz-Singer-Robert-Davi/dp/B00CB3KYMS",
+            "youtubeURL": "https://www.youtube.com/watch?v=te9WQWnRxTY",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-jazz-singer/id642542926"
+        }       
+    }]
+}

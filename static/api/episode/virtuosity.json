@@ -1,0 +1,103 @@
+{
+    "results": [{
+        "film": {
+            "title": "Virtuosity",
+            "summary": "When a virtual reality simulation created using the personalities of multiple serial killers manages to escape into the real world, an ex-cop is tasked with stopping its reign of terror.",
+            "trailer": "https://www.youtube.com/watch?v=KEDdaStz4kw",
+            "poster": "/static/assets/posters/virtuosity-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Sarah Silverman",
+                "photo": "/static/assets/guests/sarah-silverman.jpg",
+                "bio": "Sarah Silverman is all you could want and more. Her feature film Jesus is Magic was called “funny” by one Amazon reviewer. A different Amazon reviewer called her television show The Sarah Silverman Program “great.” When you look her book The Bedwetter on a certain online shopping site, you learn that it is “a good and 'book.'",
+                "plugs": [
+                    {
+                        "title": "Crashing",
+                        "URL": "https://www.amazon.com/Artie-Lange/dp/B0718WTKYJ",
+                        "media": "/static/assets/plugs/crashing.jpg"
+                    },
+                    {
+                        "title": "The Sarah Silverman Program",
+                        "URL": "https://www.amazon.com/gp/video/detail/B017355UIG",
+                        "media": "/static/assets/plugs/the-sarah-silverman-program.jpg"
+                    },
+                    {
+                        "title": "Bob's Burgers",
+                        "URL": "https://www.amazon.com/Human-Flesh/dp/B004I0CTRU",
+                        "media": "/static/assets/plugs/bobs-burgers.jpg"
+                    },
+                    {
+                        "title": "Wreck-It Ralph",
+                        "URL": "https://www.amazon.com/Wreck-Ralph-John-C-Reilly/dp/B00B2DSIAI",
+                        "media": "/static/assets/plugs/wreck-it-ralph.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Bored to Death",
+                        "URL": "https://www.amazon.com/dp/B002P3ODNU",
+                        "media": "/static/assets/plugs/bored-to-death.jpg"
+                    },
+                    {
+                        "title": "I Love You, America",
+                        "URL": "https://www.hulu.com/series/i-love-you-america-with-sarah-silverman-1501fdad-75d2-4748-80ae-e63d95ff44f6?dl",
+                        "media": "/static/assets/plugs/i-love-you-america.jpg"
+                    },
+                    {
+                        "title": "The Way of the Gun",
+                        "URL": "https://www.amazon.com/Way-Gun-Ryan-Phillippe/dp/B000JCP2W0",
+                        "media": "/static/assets/plugs/the-way-of-the-gun.jpg"
+                    },
+                    {
+                        "title": "Crank Yankers",
+                        "URL": "https://www.amazon.com/Tenacious-D-Wanda-Sykes/dp/B000GIPGQO",
+                        "media": "/static/assets/plugs/crank-yankers.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Taran Killam",
+                "photo": "/static/assets/guests/taran-killam.jpg",
+                "bio": "Taran Killam is one of the new young kids they got over there on the Saturday Night Live program. That isn’t all this young whippersnapper is up to! His past credits include The Amanda Show, MADtv, Scrubs, and something called Wild ‘N Out which is a grammatical nightmare. Is this old-man-biographer character working? Alright, no more of him. Especially since he doesn’t understand why Taran’s Les Jeunes de Paris sketch is so great.",
+                "plugs": [
+                    {
+                        "title": "SNL",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0190TMIZG",
+                        "media": "/static/assets/plugs/snl.jpg"
+                    },
+                    {
+                        "title": "Brother Nature",
+                        "URL": "https://www.amazon.com/Brother-Nature-Taran-Killam/dp/B07C3N3T6Q",
+                        "media": "/static/assets/plugs/brother-nature.jpg"
+                    },
+                    {
+                        "title": "Arrested Development",
+                        "URL": "https://www.amazon.com/dp/B006IWJAXM",
+                        "media": "/static/assets/plugs/arrested-development.jpg"
+                    },
+                    {
+                        "title": "Documentary Now!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B013B3JLE8",
+                        "media": "/static/assets/plugs/documentary-now.jpg"
+                    },
+                    {
+                        "title": "Killing Gunther",
+                        "URL": "https://www.amazon.com/Killing-Gunther-Arnold-Schwarzenegger/dp/B075RW8BTY",
+                        "media": "/static/assets/plugs/killing-gunther.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Sarah Silverman (I Love You, America) and Taran Killam (Killing Gunter, SNL) joins Paul and Jason to discuss the 1995 science fiction film Virtuosity starring Denzel Washington and Russell Crowe. Recorded live from Largo at the Coronet in Los Angeles, they talk about cocoons, sexy chess, Little Kaley Cuoco, and the inappropriate end credits.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/51803467",
+            "amazonURL": "https://www.amazon.com/dp/B00000ILBO",
+            "youtubeURL": "https://www.youtube.com/watch?v=mYgZ-nyPGEQ",
+            "itunesURL": "https://itunes.apple.com/de/movie/virtuosity/id313898681?l=en"
+        }       
+    }]
+}

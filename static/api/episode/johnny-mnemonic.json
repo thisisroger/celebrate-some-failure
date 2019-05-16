@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "Johnny Mnemonic",
+            "summary": "A data courier, literally carrying a data package inside his head, must deliver it before he dies from the burden or is killed by the Yakuza.",
+            "trailer": "https://www.youtube.com/watch?v=Uwl5MBzTCRQ",
+            "poster": "/static/assets/posters/johnny-mnemonic-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jessica St. Clair",
+                "photo": "/static/assets/guests/jessica-st-clair.jpg",
+                "bio": "The very talented and renowned American actress and improv comedian Jessica St. Clair is known best for her work in the NBC series, Best Friends Forever. Jessica St. Clair net worth is known best to have been sourced from her work in TV series and movies like It’s Complicated, Life As We Know It, Wanderlust, Labor Pains, Veep, and more. Jessica St. Clair IMDB profile has details of her awards, TV series, and movies.",
+                "plugs": [
+                    {
+                        "title": "Playing House",
+                        "URL": "https://www.amazon.com/Bird-Bones/dp/B00JS6O1BQ",
+                        "media": "/static/assets/plugs/playing-house.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "The House",
+                        "URL": "https://www.amazon.com/House-Will-Ferrell/dp/B072X6H3QP",
+                        "media": "/static/assets/plugs/the-house.jpg"
+                    },
+                    {
+                        "title": "Lady Dynamite",
+                        "URL": "https://www.netflix.com/title/80046193",
+                        "media": "/static/assets/plugs/lady-dynamite.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    },
+                    {
+                        "title": "Review",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00IGCLCHE",
+                        "media": "/static/assets/plugs/review.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Jessica St. Clair (Womp It Up!, Playing House) joins Paul and Jason to discuss the 1995 cyberpunk action thriller Johnny Mnemonic starring Keanu Reeves. Recorded live in Boston, they talk about the sentient dolphin, ghost in the machines, robotic street preachers, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/53729606",
+            "amazonURL": "https://www.amazon.com/gp/product/B00170K9JY",
+            "youtubeURL": "https://www.youtube.com/watch?v=tjgqCSQufAA",
+            "itunesURL": "https://itunes.apple.com/us/movie/id276820754"
+        }       
+    }]
+}

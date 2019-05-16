@@ -1,0 +1,54 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Phantom",
+            "summary": "The Phantom, descendent of a line of African superheroes, travels to New York City to thwart a wealthy criminal genius from obtaining three magic skulls which would give him the secret to ultimate power.",
+            "trailer": "https://www.youtube.com/watch?v=ylMVvzQrrII",
+            "poster": "/static/assets/posters/the-phantom-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Eliza Skinner",
+                "photo": "/static/assets/guests/eliza-skinner.jpg",
+                "bio": "Eliza Skinner is originally from Richmond, VA and started her performing career as an unnamed child revolutionary in a production of Evita. She is now a stand-up comedian and has appeared on The Pete Holmes Show, @Midnight, Chelsea Lately, Upload with Shaquille O’Neal,  MTV, Showtime, AMC and the BBC. In his Reddit AMA, Patton Oswalt called her one of his favorite up-and-coming comedians. Last fall, Eliza was a writer and correspondent on Totally Biased (produced by Chris Rock), and her Funny Or Die videos have been retweeted by President Obama (seriously.) She is a regular performer at the UCB in LA and NYC, and this year she was selected to be one of the “New Faces Of Comedy” at the Montreal Just For Laughs Festival.",
+                "plugs": [
+                    {
+                        "title": "Totally Biased With W. Kamau Bell",
+                        "URL": "https://www.amazon.com/Show-1/dp/B008XZRQRY",
+                        "media": "/static/assets/plugs/totally-biased.jpg"
+                    },
+                    {
+                        "title": "Drop the Mic",
+                        "URL": "https://www.amazon.com/dp/B07C6H8GM3",
+                        "media": "/static/assets/plugs/drop-the-mic.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Ed Brubaker",
+                "photo": "/static/assets/guests/ed-brubaker.jpg",
+                "bio": "Ed Brubaker is an American comic book writer and cartoonist. Brubaker’s first early comics work was primarily in the crime fiction genre with works such as Lowlife, The Fall, Sandman Presents: Dead Boy Detectives and Scene of the Crime. He later became known for writing superhero comics such as Batman, Daredevil, Captain America, Catwoman, Uncanny X-Men, and The Authority. He has won an Eisner Award on four separate occasions.",
+                "plugs": [
+                    {
+                        "title": "Captain America: The Winter Soldier",
+                        "URL": "https://www.amazon.com/Captain-America-Winter-Soldier-Theatrical/dp/B00NFQT7QY",
+                        "media": "/static/assets/plugs/captain-america-winter-soldier.jpg"
+                    },
+                    {
+                        "title": "Westworld",
+                        "URL": "https://www.amazon.com/The-Original/dp/B01N05UD06",
+                        "media": "/static/assets/plugs/westworld.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HDTGM All-stars Eliza Skinner and Ed Brubaker join Paul and Jason for a LIVE episode recorded at the world famous Largo at the Coronet in Los Angeles to discuss the 1996 superhero movie The Phantom starring Billy Zane. They will cover everything including Billy Zane's Fruit of the Loom grape costume, the most choreographed slow fighting, and the microscope with knives.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48130991",
+            "amazonURL": "https://www.amazon.com/Phantom-Billy-Zane/dp/B000I9W2G8",
+            "youtubeURL": "https://www.youtube.com/watch?v=Z-a0DuBcmuk",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-phantom/id209089891"
+        }
+        
+    }]
+}

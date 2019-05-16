@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Sharknado 2: The Second One",
+            "summary": "Fin and April are on their way to New York City, until a category seven hurricane spawns heavy rain, storm surges, and deadly Sharknadoes.",
+            "trailer": "https://www.youtube.com/watch?v=fWY4-u9Ewdc",
+            "poster": "/static/assets/posters/sharknado-2-the-second-one-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Scott Aukerman",
+                "photo": "/static/assets/guests/scott-aukerman.jpg",
+                "bio": "Scott Aukerman began his comedy career as a writer and performer on HBO’s Mr. Show with Bob and David. In 2009, he debuted a comedy radio show featuring real-life guests and improvised characters, which is now called Comedy Bang Bang: The Podcast! In 2010, he co-founded the Earwolf Podcast Network. In 2012, he started a television series based upon his podcast, Comedy Bang! Bang!, which completed five seasons on IFC. Scott co-created and directs the Funny or Die series Between Two Ferns with Zach Galifianakis, for which he has won two Emmy Awards. Scott’s other credits include executive producer of the reality spoof series Bajillion Dollar Propertie$, and the sitcom Take My Wife, both now streaming on Seeso. He also executive produced and co-directed Michael Bolton’s Big, Sexy Valentine’s Day Special streaming now on Netflix.",
+                "plugs": [
+                    {
+                        "title": "Comedy Bang! Bang!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B008578B0Q",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    },
+                    {
+                        "title": "Between Two Ferns",
+                        "URL": "https://www.amazon.com/Michael-Cera/dp/B01MXOLM23",
+                        "media": "/static/assets/plugs/between-two-ferns.jpg"
+                    },
+                    {
+                        "title": "Earwolf",
+                        "URL": "http://earwolf.com",
+                        "media": "/static/assets/plugs/earwolf.jpg"
+                    },
+                    {
+                        "title": "Run Ronnie Run!",
+                        "URL": "https://www.amazon.com/Run-Ronnie-Not-Specified/dp/B00ALUZQMQ",
+                        "media": "/static/assets/plugs/run-ronnie-run.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Last year the Syfy channel brought us Sharknado and this year it happened again. Special guest Scott Aukerman returns for a very special episode of How Did This Get Made? about Sharknado 2: The Second One. From the “homages” to other various movies, to whether a shark bit off Tara’s whole arm or just her hand, to Al Roker & Matt Lauer having huge roles in the movie, to the Statue of Liberty’s head becoming the boulder from Indiana Jones, to all the cameos which include Jared the Subway guy & Biz Markie, to “Frogger.” We cover it all! Plus, Paul & June’s baby makes his podcast debut! Chompa. Chompa. Chompa.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/34987051",
+            "amazonURL": "https://www.amazon.com/Sharknado-2-Second-Ian-Ziering/dp/B07L98GMXJ",
+            "youtubeURL": "https://www.youtube.com/watch?v=uRUFGzlfrcs",
+            "itunesURL": "https://itunes.apple.com/us/movie/id895942230"
+        }
+    }]
+}

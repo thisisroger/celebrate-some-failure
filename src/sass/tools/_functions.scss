@@ -1,0 +1,4 @@
+// cubic-bezier
+@function cb($fn: default) {
+  @return map-get($easings, $fn);
+}

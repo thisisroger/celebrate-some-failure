@@ -1,0 +1,31 @@
+{
+    "results": [{
+        "film": {
+            "title": "Nothing But Trouble",
+            "summary": "A businessman and his friends are captured by a sadistic judge and his equally odd family in the backwoods of a bizarre mansion.",
+            "trailer": "https://www.youtube.com/watch?v=5uOBF6r040U",
+            "poster": "/static/assets/posters/nothing-but-trouble-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Steve Rannazzisi",
+                "photo": "/static/assets/guests/steve-rannazzisi.jpg",
+                "bio": "Stephen Rannazzisi is an American actor and stand-up comedian who has appeared in Paul Blart: Mall Cop and is currently featured in the FXX television show The League as former fantasy football league commissioner Kevin MacArthur, the brother of Taco MacArthur (Jon Lajoie).",
+                "plugs": [
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "The League’s Steve Rannazzisi joined us on a journey into the weird mind of Dan Aykroyd as we watched the truly upsetting Nothing But Trouble. We discuss the baffling set up to the drastically different second half of the movie, if the 2 large greasy men in diapers are indeed humans, and why Digital Underground would choose to take the detour into the run-down village of Valkenvania. We also talk about how John Candy looked depressed to be in this movie, Dan Aykroyd’s obsession with gadgets, and the fact that there are no jokes in this movie.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131165",
+            "amazonURL": "https://www.amazon.com/dp/B000TDOZCW",
+            "youtubeURL": "https://www.youtube.com/watch?v=YJMrEGMBK4M",
+            "itunesURL": "https://itunes.apple.com/us/movie/nothing-but-trouble-1991/id272824100"
+        }
+    }]
+}

@@ -1,0 +1,93 @@
+{
+    "results": [{
+        "film": {
+            "title": "LOL",
+            "summary": "As a new year at school begins, Lola's heart is broken by her boyfriend, though soon she's surprised by her best friend, promising musician Kyle, who reveals his feelings for her.",
+            "trailer": "https://www.youtube.com/watch?v=d4XmycID4eE",
+            "poster": "/static/assets/posters/lol-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Rob Huebel",
+                "photo": "/static/assets/guests/rob-huebel.jpg",
+                "bio": "Rob Huebel is a former student of and frequent performer at the UCB Theatre. In fact, it was at the New York City UCB Theatre that Rob met Paul Scheer and Aziz Ansari, the guys with whom he would create Human Giant for MTV. Following the success of Human Giant, Rob has fleshed out his resume with roles on The Office, 30 Rock, Modern Family, and the wonderful Childrens Hospital. You can still find Rob at the UCB in Los Angeles performing in the shows Facebook and Crash Test. Listen to Rob in Season One of Mike Detective here on Earwolf.",
+                "plugs": [
+                    {
+                        "title": "Human Giant",
+                        "URL": "https://www.amazon.com/Mind-Explosion/dp/B000PAVSBU",
+                        "media": "/static/assets/plugs/human-giant.jpg"
+                    },
+                    {
+                        "title": "Do You Want to See a Dead Body?",
+                        "URL": "https://www.youtube.com/channel/UCFGGYi2aZoXzdeOeeNAD1sw",
+                        "media": "/static/assets/plugs/do-you-want-to-see-a-dead-body.jpg"
+                    },
+                    {
+                        "title": "Crash Test",
+                        "URL": "https://www.amazon.com/dp/B015IVODSU",
+                        "media": "/static/assets/plugs/crash-test.jpg"
+                    },
+                    {
+                        "title": "I Love You, Man",
+                        "URL": "https://www.amazon.com/dp/B002ICE0O0",
+                        "media": "/static/assets/plugs/i-love-you-man.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Chelsea Peretti",
+                "photo": "/static/assets/guests/chelsea-peretti.jpg",
+                "bio": "Chelsea Peretti is a stand-up comedian and writer who has worked on shows such as Parks and Recreation and The Sarah Silverman Program. In early 2011 Chelsea’s first Comedy Central Presents aired which was preceded by her inclusion in Comedy Central’s 2010 Hot List. Before moving to Los Angeles, Chelsea performed in the monthly show Variety Shac.",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Brooklyn Nine-Nine",
+                        "URL": "https://www.amazon.com/dp/B00ESB6EUC",
+                        "media": "/static/assets/plugs/brooklyn-nine-nine.jpg"
+                    },
+                    {
+                        "title": "One of The Greats",
+                        "URL": "https://www.netflix.com/title/80004534",
+                        "media": "/static/assets/plugs/one-of-the-greats.jpg"
+                    },
+                    {
+                        "title": "Game Night",
+                        "URL": "https://www.amazon.com/dp/B079XX3P4R",
+                        "media": "/static/assets/plugs/game-night.jpg"
+                    },
+                    {
+                        "title": "Popstar: Never Stop Never Stopping",
+                        "URL": "https://www.amazon.com/dp/B01GHBYIEY",
+                        "media": "/static/assets/plugs/popstar.jpg"
+                    }
+                ]
+            },
+            "guestThree": {
+                "name": "John Flynn",
+                "photo": "/static/assets/guests/john-flynn.jpg",
+                "bio": "John Flynn is an actor and writer currently living in New York City. He is one of the co-creators of the hit show “Showgirls: The Best Movie Ever Made. Ever!” He is also one of the writers of Logo’s NewNowNext Awards, airing in June. John also created, produced, and hosted the internet show “Project Improviser,” a competitive reality show that explored the world of long form improvisation. His one man shows, Themepark Superstar and Dances With Pitchforks: Confessions of a Farm Boy, have been performed in New York at Caroline’s Comedy Club, Joe’s Pub, and the Upright Citizen’s Brigade Theater, and in Los Angeles, Boston, and Key West, Florida. He’s a regular contributor to the monthly storytelling show at the Upright Citizen’s Brigade Theater, “Nights of Our Lives,” and has been published in The Daily News, Go Metric Magazine, and an upcoming book about Craigslist hook-ups."
+            }
+        },
+        "episodeDescription": "It's another special HDTGM All-Stars episode with guest co-hosts Rob Huebel & Chelsea Peretti as well as special guest John Flynn and they’re talking all about Miley Cyrus & Demi Moore in LOL. Recorded LIVE at Largo in Los Angeles, they get into the family bathtub scene, how Demi Moore got involved in the movie, the original French version of the movie, and the web-camera that goes inside a raw chicken. Plus, we hear from the camera assistant who put the camera inside the chicken and what was cut from the editor in the film during audience Q&As!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/36053593",
+            "amazonURL": "https://www.amazon.com/gp/product/B079ZJTZH1",
+            "youtubeURL": "https://www.youtube.com/watch?v=TUM69Eidp6k",
+            "itunesURL": "https://itunes.apple.com/us/movie/id538800598"
+        }
+    }]
+}

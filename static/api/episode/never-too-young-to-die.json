@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Never Too Young to Die",
+            "summary": "A top secret Agent is murdered, so his estranged son, a high school gymnast, teams up with his dad's attractive female partner to stop the psychopathic hermaphroditic gang leader who killed him, and now plans a major terrorist attack.",
+            "trailer": "https://www.youtube.com/watch?v=IEqPw_7IyiM",
+            "poster": "/static/assets/posters/never-too-young-to-die-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Matt McConkey",
+                "photo": "/static/assets/guests/matt-mcconkey.jpg",
+                "bio": "Matt McConkey is a Staff Writer on the Paramount Network’s TV reboot of HEATHERS and previously wrote on Seeso’s BAJILLION DOLLAR PROPERTIE$. Matt co-created the Comedy Central web series “Unsend” with Deanna Cheng and Paul Scheer, and co-hosts Earwolf’s LGBT comedy podcast “Homophilia” with Dave Holmes. Matt’s acting credits include HAPPY ENDINGS, MARRY ME and COMEDY BANG BANG.",
+                "plugs": [
+                    {
+                        "title": "Heathers",
+                        "URL": "https://www.amazon.com/Pilot/dp/B079VLJS5X",
+                        "media": "/static/assets/plugs/heathers.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    },
+                    {
+                        "title": "Marry Me",
+                        "URL": "https://www.amazon.com/dp/B00OBTFUPQ",
+                        "media": "/static/assets/plugs/marry-me.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Matt McConkey (Homophilia) joins Paul, June, and Jason to discuss the 1986 action adventure comedy Never Too Young to Die starring John Stamos. Recorded live at Largo at the Coronet in Los Angeles, they talk about Gene Simmons’ tongue being the most violent thing June has seen onscreen, skilled gymnast Stamos, the Stargrove song, and The Room level sex scene. Plus, stick around at the end of the episode for 2nd Opinions songs!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/55823075",
+            "amazonURL": "https://www.amazon.com/gp/product/B07BS698YN",
+            "youtubeURL": "https://www.youtube.com/watch?v=EdLA5pN1qvE",
+            "itunesURL": "https://itunes.apple.com/us/movie/id1198381600"
+        }       
+    }]
+}

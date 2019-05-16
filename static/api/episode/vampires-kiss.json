@@ -1,0 +1,35 @@
+{
+    "results": [{
+        "film": {
+            "title": "Vampire's Kiss",
+            "summary": "After an encounter with a neck-biter, a publishing executive thinks that he's turning into a vampire.",
+            "trailer": "https://www.youtube.com/watch?v=PnoSxO_2ghQ",
+            "poster": "/static/assets/posters/vampires-kiss-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Hayes Davenport",
+                "photo": "/static/assets/guests/hayes-davenport.jpg",
+                "bio": "Hayes Davenport struggles to even get out of bed in the morning. He doesn’t see the point in living another day when nothing anyone does really means anything. He’s written for Allen Gregory and Eastbound & Down, but who cares, right? It doesn’t matter. He hosts the reality SHOW show Tuesdays on Earwolf. He’ll see you around, or he won’t. Whatever.",
+                "plugs": [
+                    {
+                        "title": "East Bound and Down",
+                        "URL": "https://www.amazon.com/dp/B003OURXEO",
+                        "media": "/static/assets/plugs/east-bound-and-down.jpg"
+                    },
+                    {
+                        "title": "Vice Principals",
+                        "URL": "https://www.amazon.com/The-Principal/dp/B01M0YQCG0",
+                        "media": "/static/assets/plugs/vice-principals.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Hayes Davenport (Hollywood Handbook, HBOs Divorced, Vice Principals) joins Paul, June, and Jason live from the Now Hear This Festival in Anaheim, CA to do their best trying to comprehend what is happening in the 1988 Nicolas Cage film Vampires Kiss. Theyll cover everything from the legendary misfiling & ABCs scene to whether or not Cage becomes a vampire by the end of the movie.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/46351712",
+            "amazonURL": "https://www.amazon.com/Vampires-Kiss-Nicolas-Cage/dp/B07HXZ6X6X",
+            "itunesURL": "https://itunes.apple.com/us/movie/vampires-kiss/id1435934613"
+        }    
+    }]
+}

@@ -1,0 +1,51 @@
+{
+    "results": [{
+        "film": {
+            "title": "Face/Off",
+            "summary": "In order to foil an extortion plot, an FBI agent undergoes a facial transplant surgery and assumes the identity and physical appearance of a terrorist, but the plan turns from bad to worse when the same terrorist impersonates the FBI agent.",
+            "trailer": "https://www.youtube.com/watch?v=95VvTW1FvS8",
+            "poster": "/static/assets/posters/face-off-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Randall Park",
+                "photo": "/static/assets/guests/randall-park.jpg",
+                "bio": "Randall Park  is an American actor, comedian, writer, and director known for Veep, The Office, The Mindy Project, The Five-Year Engagement, and the upcoming Seth Rogen/James Franco film The Interview.",
+                "plugs": [
+                    {
+                        "title": "Office Christmas Party",
+                        "URL": "https://www.amazon.com/Office-Christmas-Party-Jason-Bateman/dp/B01MSW0HJ5",
+                        "media": "/static/assets/plugs/office-christmas-party.jpg"
+                    },
+                    {
+                        "title": "Fresh off the Boat",
+                        "URL": "https://www.amazon.com/Pilot/dp/B00T7AP27U",
+                        "media": "/static/assets/plugs/fresh-off-the-boat.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Scheer RL",
+                        "URL": "https://www.amazon.com/dp/B01G2T5CK0",
+                        "media": "/static/assets/plugs/scheer-rl.jpg"
+                    },
+                    {
+                        "title": "The Interview",
+                        "URL": "https://www.amazon.com/Interview-Seth-Rogen/dp/B00RNRD9IS",
+                        "media": "/static/assets/plugs/the-interview.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Recorded LIVE from Largo in Los Angeles, actor Randall Park joins Paul, Jason, and June to discuss the best movie about face switching ever made, Face Off! They cover everything from Nic Cage asking everyone to suck his tongue, the kabuki like performances from Travolta and Cage, the face waterfall, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131062",
+            "amazonURL": "https://www.amazon.com/Face-Off-John-Travolta/dp/B002PT1KH6",
+            "youtubeURL": "https://www.youtube.com/watch?v=F6gpZV_MoRg",
+            "itunesURL": "https://itunes.apple.com/us/movie/id326830643"
+        }
+    }]
+}

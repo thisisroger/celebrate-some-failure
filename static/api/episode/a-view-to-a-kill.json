@@ -1,0 +1,63 @@
+{
+    "results": [{
+        "film": {
+            "title": "A View to a Kill",
+            "summary": "An investigation of a horse-racing scam leads 007 to a mad industrialist who plans to create a worldwide microchip monopoly by destroying California's Silicon Valley.",
+            "trailer": "https://www.youtube.com/watch?v=buOK9kJIJA4",
+            "poster": "/static/assets/posters/a-view-to-a-kill-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Matt Gourley",
+                "photo": "/static/assets/guests/matt-gourley.jpg",
+                "bio": "Matt Gourley does some podcasts. I’ll say he does. For starters, he’s a creator of the Superego, I Was There Too, James Bonding, Pistol Shrimps Radio, and Complete Man podcasts. There are more but let’s stop talking about podcasts. He’s also been seen or heard on Community, Adventure Time, Blindspot, Comedy Bang! Bang!, Another Period, and has been featured on Comedy Central’s Drunk History, slurring his way through thoughtful retellings of Watergate, the Alamo, and the life of Wernher von Braun. He’s also the current spokesperson for Volkswagen. By day, Matt is a professor who teaches acting and improv at a couple of local colleges where he will most likely give you an easy A.",
+                "plugs": [
+                    {
+                        "title": "Community",
+                        "URL": "https://www.amazon.com/Spanish-101/dp/B002N7CTKM",
+                        "media": "/static/assets/plugs/community.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    },
+                    {
+                        "title": "Another Period",
+                        "URL": "https://www.amazon.com/dp/B00YYFSTRI",
+                        "media": "/static/assets/plugs/another-period.jpg"
+                    }   
+                ]
+            },
+            "guestTwo": {
+                "name": "Matt Mira",
+                "photo": "/static/assets/guests/matt-mira.jpg",
+                "bio": "Matt Mira is a writer, comedian and podcaster. Matt started podcasting way back in 2008 and has continued despite America’s wishes. He hosts podcasts with Matt Gourley, Kevin Smith, Scott Mosier, Chris Hardwick, Andy Secunda and even his own wife. Currently Matt is a writer on ABC’s The Goldberg’s and a lover of James Bond.",
+                "plugs": [
+                    {
+                        "title": "ID10T",
+                        "URL": "https://itunes.apple.com/us/podcast/id355187485?mt=2",
+                        "media": "/static/assets/plugs/id10t.jpg"
+                    },
+                    {
+                        "title": "James Bonding",
+                        "URL": "https://itunes.apple.com/us/podcast/james-bonding/id695880236",
+                        "media": "/static/assets/plugs/james-bonding.jpg"
+                    },
+                    {
+                        "title": "The Goldbergs",
+                        "URL": "https://www.amazon.com/The-Circle-of-Driving/dp/B00F2PH3F8",
+                        "media": "/static/assets/plugs/the-goldbergs.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "In a very special podcast cross-over event, Bond experts Matt Gourley and Matt Mira of James Bonding join Paul, June, and Jason to figure out if A View To a Kill is the worst Bond movie of all time. Recorded LIVE at Largo in Los Angeles, they cover how Bond invents snowboarding, the most French man in the world, Tanya Roberts’ stunt double being a grizzly old man, the multiple blimps, race horses, the robot dog, and of course, the butterflies. Plus, Gourley & June's wigdar shines during audience Q&A and we hear from the person who reviews A View To a Kill every year in another edition of 2nd Opinions!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/36340079",
+            "amazonURL": "https://www.amazon.com/gp/product/B009GIYGFW",
+            "youtubeURL": "https://www.youtube.com/watch?v=JsLiq-zYm4A",
+            "itunesURL": "https://itunes.apple.com/us/movie/id561630947"
+        }
+    }]
+}

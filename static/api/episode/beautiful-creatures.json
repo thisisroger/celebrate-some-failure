@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Beautiful Creatures",
+            "summary": "Ethan longs to escape his small Southern town. He meets a mysterious new girl, Lena. Together, they uncover dark secrets about their respective families, their history and their town.",
+            "trailer": "https://www.youtube.com/watch?v=eLDL5mxgYNY",
+            "poster": "/static/assets/posters/beautiful-creatures-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Kate Hagen",
+                "photo": "/static/assets/guests/kate-hagen.jpg",
+                "bio": "Kate Hagen is a writer and Director of Community at The Black List."
+            },
+            "guestTwo": {
+                "name": "Erin Whitehead",
+                "photo": "/static/assets/guests/erin-whitehead.jpg",
+                "bio": "Erin Whitehead is a improviser at the UCB. You can find her performing on Harold Night with her group: Kid Grift Steals Your Show.",
+                "plugs": [
+                    {
+                        "title": "Scrubs",
+                        "URL": "https://www.amazon.com/My-First-Day/dp/B003ZC9TXE",
+                        "media": "/static/assets/plugs/scrubs.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Erin Whitehead (Wild Horses) and Kate Hagen (The Black List) joins Paul and Jason to discuss the 2013 romantic gothic fantasy film Beautiful Creatures. Join them in the studio as they talk about all the southern fried accents, casters, the Beetlejuice house, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/54266511",
+            "amazonURL": "https://www.amazon.com/gp/product/B00CWVG1Z8",
+            "youtubeURL": "https://www.youtube.com/watch?v=dfMfksCBZow",
+            "itunesURL": "https://itunes.apple.com/us/movie/id620316173"
+        }       
+    }]
+}

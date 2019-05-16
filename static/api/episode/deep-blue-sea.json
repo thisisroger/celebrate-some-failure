@@ -1,0 +1,93 @@
+{
+    "results": [{
+        "film": {
+            "title": "Deep Blue Sea",
+            "summary": "Searching for a cure to Alzheimer's disease, a group of scientists on an isolated research facility become the prey, as a trio of intelligent sharks fight back.",
+            "trailer": "https://www.youtube.com/watch?v=oSz9MDN-iac",
+            "poster": "/static/assets/posters/deep-blue-sea-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Evan Goldberg",
+                "photo": "/static/assets/guests/evan-goldberg.jpg",
+                "bio": "Evan Goldberg is a Canadian screenwriter, film producer and director. Goldberg is known for his collaborations with his childhood friend, actor-writer-producer Seth Rogen.",
+                "plugs": [
+                    {
+                        "title": "The Green Hornet",
+                        "URL": "https://www.amazon.com/Green-Hornet-Seth-Rogen/dp/B004VL9Y5G",
+                        "media": "/static/assets/plugs/the-green-hornet.jpg"
+                    },
+                    {
+                        "title": "The Interview",
+                        "URL": "https://www.amazon.com/Interview-Seth-Rogen/dp/B00RNRD9IS",
+                        "media": "/static/assets/plugs/the-interview.jpg"
+                    },
+                    {
+                        "title": "Pineapple Express",
+                        "URL": "https://www.amazon.com/Pineapple-Express-Unrated-Seth-Rogen/dp/B00CPGF1M4",
+                        "media": "/static/assets/plugs/pineapple-express.jpg"
+                    },
+                    {
+                        "title": "Superbad",
+                        "URL": "https://www.amazon.com/Superbad-Jonah-Hill/dp/B0010R08PO",
+                        "media": "/static/assets/plugs/superbad.jpg"
+                    },
+                    {
+                        "title": "This Is The End",
+                        "URL": "https://www.amazon.com/This-End-Seth-Rogen/dp/B00EP0MVGW",
+                        "media": "/static/assets/plugs/this-is-the-end.jpg"
+                    },
+                    {
+                        "title": "50/50",
+                        "URL": "https://www.amazon.com/50-Joseph-Gordon-Levitt/dp/B006X6J8IA",
+                        "media": "/static/assets/plugs/fifty-fifty.jpg"
+                    },
+                    {
+                        "title": "The Night Before",
+                        "URL": "https://www.amazon.com/Night-Before-Joseph-Gordon-Levitt/dp/B018AEXT82",
+                        "media": "/static/assets/plugs/the-night-before.jpg"
+                    },
+                    {
+                        "title": "Sausage Party",
+                        "URL": "https://www.amazon.com/dp/B01JBARY4O",
+                        "media": "/static/assets/plugs/sausage-party.jpg"
+                    },
+                    {
+                        "title": "Knocked Up",
+                        "URL": "https://www.amazon.com/Knocked-Up-Unrated-Seth-Rogen/dp/B000XRK4VU",
+                        "media": "/static/assets/plugs/knocked-up.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Paul F. Tompkins",
+                "photo": "/static/assets/guests/paul-f-tompkins.jpg",
+                "bio": "Paul F. Tompkins is a comedian and actor. He plays the role of “Dean Rosedragon” on Seeso’s Bajillion Dollar Propertie$ and provides the voice of “Mr. Peanutbutter” for the Netflix animated series Bojack Horseman.",
+                "plugs": [
+                    {
+                        "title": "Pod F. Tomcast",
+                        "URL": "http://pft.libsyn.com",
+                        "media": "/static/assets/plugs/pod-f-tomcast.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    },
+                    {
+                        "title": "Tenacious D in The Pick of Destiny",
+                        "URL": "https://www.amazon.com/dp/B002OCA0AC",
+                        "media": "/static/assets/plugs/the-pick-of-destiny.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Director Evan Goldberg and HDTGM All-Star Paul F. Tompkins join Paul & Jason at Largo in Los Angeles to talk all about the insanity in the shark film Deep Blue Sea. They get into how Saffron Burrows is the villain of the movie, Stellan Skarsgard new name, LL Cool J’s relationship with his bird, and the infamous Samuel L. Jackson death scene. Plus, we hear LL Cool J’s Hip-Hop prayer and the best song ever recorded for a movie during audience Q&As!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/39841662",
+            "amazonURL": "https://www.amazon.com/Deep-Blue-Sea-Saffron-Burrows/dp/B000GOZ0ZK",
+            "youtubeURL": "https://www.youtube.com/watch?v=LNN_o229ba4",
+            "itunesURL": "https://itunes.apple.com/us/movie/deep-blue-sea/id293299190"
+        }
+    }]
+}

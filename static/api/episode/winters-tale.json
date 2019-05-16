@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "Winter's Tale",
+            "summary": "A burglar falls for an heiress as she dies in his arms. When he learns that he has the gift of reincarnation, he sets out to save her.",
+            "trailer": "https://www.youtube.com/watch?v=DBSj1MKwx6A",
+            "poster": "/static/assets/posters/winters-tale-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Andy Daly",
+                "photo": "/static/assets/guests/andy-daly.jpg",
+                "bio": "Andy Daly is one of the first performers to emerge from the Upright Citizens Brigade school, and has been showing off his comedic prowess ever since. From Mad TV to the critically lauded Eastbound & Down, Andy has had an impressive career in being hilarious. His album 9 Sweaters is available through AST Records, and you can put his name into just about any comedy website and find dozens of great videos.",
+                "plugs": [
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Review",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00IGCLCHE",
+                        "media": "/static/assets/plugs/review.jpg"
+                    },
+                    {
+                        "title": "Silicon Valley",
+                        "URL": "https://www.amazon.com/Minimum-Viable-Product/dp/B00M4ZPZPY",
+                        "media": "/static/assets/plugs/silicon-valley.jpg"
+                    },
+                    {
+                        "title": "Comedy Bang! Bang!: The Podcast",
+                        "URL": "https://itunes.apple.com/us/podcast/comedy-bang-bang-the-podcast/id316045799",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    },
+                    {
+                        "title": "Andy Daly Podcast Pilot Project",
+                        "URL": "https://itunes.apple.com/us/podcast/andy-daly-podcast-pilot-project/id774375605",
+                        "media": "/static/assets/plugs/podcast-pilot-project.jpg"
+                    },
+                    {
+                        "title": "Semi-Pro",
+                        "URL": "https://www.amazon.com/Semi-Pro-Will-Ferrell/dp/B003XC0IBS",
+                        "media": "/static/assets/plugs/semi-pro.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Fellow Earwolf podcaster Andy Daly (Comedy Central’s Review, The Andy Daly Podcast Pilot Project ) joins Paul & Jason to discuss Winter's Tale aka a movie that was deemed unfilmable. They'll cover everything from the flying horses, the totally bonkers library scene, and the surprise guest who plays Lucifer with a Jimi Hendrix shirt. Plus, Jason breaks down why this movie is Harry Potter and why he is obsessed with the trailer for 'Blended .'",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/39787113",
+            "amazonURL": "https://www.amazon.com/gp/product/B00K88VAWG",
+            "youtubeURL": "https://www.youtube.com/watch?v=ji29chfcklg",
+            "itunesURL": "https://itunes.apple.com/us/movie/id809141105"
+        }
+    }]
+}

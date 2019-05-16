@@ -1,0 +1,24 @@
+{
+    "results": [{
+        "film": {
+            "title": "Godzilla",
+            "summary": "A giant, reptilian monster surfaces, leaving destruction in its wake as it strides into New York City. To stop it, an earthworm scientist, his reporter ex-girlfriend, and other unlikely heroes team up to save their city.",
+            "trailer": "https://www.youtube.com/watch?v=pt6bMHUoE6I",
+            "poster": "/static/assets/posters/godzilla-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Chris Gore",
+                "photo": "/static/assets/guests/chris-gore.jpg",
+                "bio": "Chris Gore is a writer, filmmaker and a television personality who has built a solid reputation as a hilariously outspoken voice in the film world. As a teenager, Chris founded the legendary Film Threat, which began as a fanzine. He is the author of several books including The Ultimate Film Festival Survival Guide, The Complete DVD Book and The 50 Greatest Movies Never Made. In addition to being a noted speaker and author, he is the film expert on the G4TV’s Attack of the Show where his weekly movie review segment DVDuesday is among the most popular. Chris began his own independent filmmaking career with the cult short Red and co-wrote and produced the feature comedy My Big Fat Independent Movie. He was named one of the 25 Most Influential People in Independent Film byFilm Festival Today magazine. Chris considers himself a movie geek who is lucky to have forged a career working as a full-fledged “Nerdlebrity.” He lives in Los Angeles."
+            }
+        },
+        "episodeDescription": "Pop on your headphones, but be careful no giant dinosaurs sneak up on you!  Attack Of The Show’s Chris Gore bravely sat through Godzilla to discuss this summer movie disaster with the HDTGM crew, and it’s agreed that cute baby Godzillas eating popcorn aren’t enough to save this one.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/55884904",
+            "amazonURL": "https://www.amazon.com/Godzilla-Matthew-Broderick/dp/B000T4EDXC",
+            "youtubeURL": "https://www.youtube.com/watch?v=qAFzHkoJYRo",
+            "itunesURL": "https://itunes.apple.com/fj/movie/godzilla-1998/id263378122"
+        }
+    }]
+}

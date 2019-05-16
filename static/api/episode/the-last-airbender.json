@@ -1,0 +1,52 @@
+{
+    "results": [{
+        "id": "the-last-airbender",
+        "film": {
+            "title": "The Last Airbender",
+            "summary": "Follows the adventures of Aang, a young successor to a long line of Avatars, who must master all four elements and stop the Fire Nation from enslaving the Water Tribes and the Earth Kingdom.",
+            "trailer": "https://www.youtube.com/watch?v=-egQ79OrYCs",
+            "poster": "/static/assets/posters/the-last-airbender-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jon Daly",
+                "photo": "/static/assets/guests/jon-daly.jpg",
+                "bio": "Jon Daly is very funny. He’s acted for television (Human Giant, Happy Endings) and film (Bride Wars, Mystery Team). He’s starred in FunnyorDie videos (My Imaginary Friend is Fabio, Bieber 5021), and frequently performs at the UCB theatre in Los Angeles. He’s also a pretty fantastic rapper as the non-Brett Gelman half of Cracked Out.",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Abracadabralifornia",
+                        "URL": "https://www.youtube.com/watch?v=-zGk0k34tGs",
+                        "media": "/static/assets/plugs/abracadabralifornia.jpg"
+                    },
+                    {
+                        "title": "Zoolander No. 2",
+                        "URL": "https://www.amazon.com/dp/B01BLZI392",
+                        "media": "/static/assets/plugs/zoolander-no2.jpg"
+                    },
+                    {
+                        "title": "Another Period",
+                        "URL": "https://www.amazon.com/dp/B00YYFSTRI",
+                        "media": "/static/assets/plugs/another-period.jpg"
+                    },
+                    {
+                        "title": "I'm Dying Up Here",
+                        "URL": "https://www.amazon.com/dp/B0711R9JC8",
+                        "media": "/static/assets/plugs/im-dying-up-here.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Some movies are so bad they’re good, some are so bad they’re bad, and then there’s The Last Airbender. It’s the story of the lil’ Avatar that could, and is riddled with enough racism and weird dialogue to disorient you for days. Jon Daly somehow got roped into the torture of this movie, and joins Paul, June, and Jason to work through the pain.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/57834624",
+            "amazonURL": "https://www.amazon.com/gp/product/B004FHP7ES",
+            "youtubeURL": "https://www.youtube.com/watch?v=s7t1rLi88BI",
+            "itunesURL": "https://itunes.apple.com/us/movie/id384239910"
+        }       
+    }]
+}

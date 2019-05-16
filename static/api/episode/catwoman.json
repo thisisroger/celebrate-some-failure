@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Catwoman",
+            "summary": "A shy woman, endowed with the speed, reflexes, and senses of a cat, walks a thin line between criminal and hero, even as a detective doggedly pursues her, fascinated by both of her personas.",
+            "trailer": "https://www.youtube.com/watch?v=d6pJbjbRnAA",
+            "poster": "/static/assets/posters/catwoman-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jamie Denbo",
+                "photo": "/static/assets/guests/jamie-denbo.jpg",
+                "bio": "JAMIE DENBO is Beverly Ginsberg. She has also appeared as a frequent guest star on both shows you love and shows you either A. don’t know exist or B. can’t believe are still on TV. She thanks G-d for all of the blessings that G-d has given her and no one else. Google at will.",
+                "plugs": [
+                    {
+                        "title": "The Heat",
+                        "URL": "https://www.amazon.com/Heat-Sandra-Bullock/dp/B00F4ARI3I",
+                        "media": "/static/assets/plugs/the-heat.jpg"
+                    },
+                    {
+                        "title": "Spy",
+                        "URL": "https://www.amazon.com/Spy-Unrated-Melissa-McCarthy/dp/B013EZO6P2",
+                        "media": "/static/assets/plugs/spy.jpg"
+                    },
+                    {
+                        "title": "Terriers",
+                        "URL": "https://www.amazon.com/Pilot/dp/B0040IEJ82",
+                        "media": "/static/assets/plugs/terriers.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Halle Berry, the first (and only) black woman to win Best Actress at the Oscars, stars in the CATastrophic big budget blockbuster Catwoman! We discuss what went wrong, whether this tainted Halle's career and what this film did to the cause of leading women of color in movies.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/51097843",
+            "amazonURL": "https://www.amazon.com/gp/product/B001NAT07A",
+            "youtubeURL": "https://www.youtube.com/watch?v=84bqJtZCaY8",
+            "itunesURL": "https://itunes.apple.com/us/movie/id529446152"
+        }
+    }]
+}

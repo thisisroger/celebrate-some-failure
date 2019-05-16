@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Smurfs",
+            "summary": "When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, they tumble from their magical world into New York City.",
+            "trailer": "https://www.youtube.com/watch?v=yhBpgqXwrt8",
+            "poster": "/static/assets/posters/the-smurfs-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Paul F. Tompkins",
+                "photo": "/static/assets/guests/paul-f-tompkins.jpg",
+                "bio": "Paul F. Tompkins is a comedian and actor. He plays the role of “Dean Rosedragon” on Seeso’s Bajillion Dollar Propertie$ and provides the voice of “Mr. Peanutbutter” for the Netflix animated series Bojack Horseman.",
+                "plugs": [
+                    {
+                        "title": "Pod F. Tomcast",
+                        "URL": "http://pft.libsyn.com",
+                        "media": "/static/assets/plugs/pod-f-tomcast.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    },
+                    {
+                        "title": "Tenacious D in The Pick of Destiny",
+                        "URL": "https://www.amazon.com/dp/B002OCA0AC",
+                        "media": "/static/assets/plugs/the-pick-of-destiny.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "The Smurfs is a movie about an ad executive who is struggling with a pregnant girlfriend and a big assignment at work. Am I missing anything? Paul F. Tompkins joins the gang to discuss this kid's movie and its many flaws: The unnecessarily complicated language, the blatant animal abuse, the awkward casting of Tim Gunn, even the terrible trailers are up for judgment. We introduce the first ever Second Opinions segment, and as always close it up with You've Got Mail. If you've got a child's heart, or had to drag your children to see this movie, you'll enjoy this episode!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/52644753",
+            "amazonURL": "https://www.amazon.com/dp/B00637D114",
+            "youtubeURL": "https://www.youtube.com/watch?v=pfNlFKNvU_s",
+            "itunesURL": "https://itunes.apple.com/us/movie/id464226962"
+        }
+    }]
+}

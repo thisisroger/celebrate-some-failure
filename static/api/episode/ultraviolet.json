@@ -1,0 +1,68 @@
+{
+    "results": [{
+        "film": {
+            "title": "Ultraviolet",
+            "summary": "A beautiful hæmophage infected with a virus that gives her superhuman powers has to protect a boy in a futuristic world, who is thought to be carrying antigens that would destroy all hæmophages.",
+            "trailer": "https://www.youtube.com/watch?v=lzJfZqXsKMA",
+            "poster": "/static/assets/posters/ultraviolet-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Nick Wiger",
+                "photo": "/static/assets/guests/nick-wiger.jpg",
+                "bio": "Nick Wiger is a writer, actor, podcaster, and improviser and alumni of the Los Angeles UCB Theatre as part of Last Day of School and A Kiss From Daddy. He has written for IFC’s Comedy Bang! Bang!, FOX’s Party Over Here, and Funny or Die. He hosts the essential to listen podcast Doughboys alongside Mike Mitchell of The Birthday Boys.",
+                "plugs": [
+                    {
+                        "title": "Doughboys",
+                        "URL": "https://headgum.com/doughboys",
+                        "media": "/static/assets/plugs/doughboys.jpg"
+                    },
+                    {
+                        "title": "NTSF:SD:SUV",
+                        "URL": "https://www.amazon.com/dp/B009JW4LFK",
+                        "media": "/static/assets/plugs/ntsf.jpg"
+                    },
+                    {
+                        "title": "I Love You, America",
+                        "URL": "https://www.hulu.com/series/i-love-you-america-with-sarah-silverman-1501fdad-75d2-4748-80ae-e63d95ff44f6?dl",
+                        "media": "/static/assets/plugs/i-love-you-america.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Mike Mitchell",
+                "photo": "/static/assets/guests/mike-mitchell.jpg",
+                "bio": "Mike Mitchell is a writer, improviser and sketch comedian. Mike started performing at the UCB Theater in 2006 and has since become a member of the sketch group The Birthday Boys. You can see the two seasons of their television show IFC’s The Birthday Boys on Netflix. He hosts the essential to listen Doughboys podcast alongside fellow writer Nick Wiger.",
+                "plugs": [
+                    {
+                        "title": "Doughboys",
+                        "URL": "https://headgum.com/doughboys",
+                        "media": "/static/assets/plugs/doughboys.jpg"
+                    },
+                    {
+                        "title": "The Birthday Boys",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00R45FXZQ",
+                        "media": "/static/assets/plugs/the-birthday-boys.jpg"
+                    },
+                    {
+                        "title": "Love",
+                        "URL": "https://www.netflix.com/title/80026506",
+                        "media": "/static/assets/plugs/love.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "The Doughboys Nick Wiger and Mike Mitchell join Paul and Jason to discuss the 2006 science fiction action thriller Ultraviolet. Recorded live from Largo at the Coronet in Los Angeles, they talk about vampire diseases, dreads in a fight, changing hair and outfit color at will, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/49500057",
+            "amazonURL": "https://www.amazon.com/gp/product/B000GT4H0Y",
+            "youtubeURL": "https://www.youtube.com/watch?v=_PVE_jiGNY8",
+            "itunesURL": "https://itunes.apple.com/us/movie/id284259497"
+        }       
+    }]
+}

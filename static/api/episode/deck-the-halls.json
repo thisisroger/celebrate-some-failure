@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "Deck the Halls",
+            "summary": "Two neighbors have it out after one of them decorates his house for the holidays so brightly that it can be seen from space.",
+            "trailer": "https://www.youtube.com/watch?v=g1A2uWWF1ZU",
+            "poster": "/static/assets/posters/deck-the-halls-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Andrea Savage",
+                "photo": "/static/assets/guests/andrea-savage.jpg",
+                "bio": "Andrea Savage is an American comedic actress, writer and producer best known for her comedic roles in Step Brothers, Comedy Central’s mockumentary series Dog Bites Man, her Funny or Die short “Republicans Get in My Vagina!” and in the HBO sketch comedy program Funny or Die Presents.",
+                "plugs": [
+                    {
+                        "title": "I'm Sorry",
+                        "URL": "https://www.amazon.com/gp/video/detail/B072KGC6RT",
+                        "media": "/static/assets/plugs/im-sorry.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Step Brothers",
+                        "URL": "https://www.amazon.com/dp/B007OXHVSU",
+                        "media": "/static/assets/plugs/step-brothers.jpg"
+                    },
+                    {
+                        "title": "The Hotwives of Orlando",
+                        "URL": "https://www.amazon.com/dp/B00XJC325Q",
+                        "media": "/static/assets/plugs/the-hotwives-of-orlando.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Episodes",
+                        "URL": "https://www.amazon.com/Episode-1/dp/B005MHS90O",
+                        "media": "/static/assets/plugs/episodes.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Finally, a movie where you don’t know who to root for. Recorded LIVE at Largo in Los Angeles, Andrea Savage joins Paul, June, & Jason to discuss Matthew Broderick & Danny DeVito in Deck the Halls! They’ll get into whether Danny DeVito plays a con man, the character journey of Kristin Davis & her cook book, the cross dressing sheriff, and the super sexual dance number during the town’s Christmas show.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/31339313",
+            "amazonURL": "https://www.amazon.com/gp/product/B000WMAW2W",
+            "youtubeURL": "https://www.youtube.com/watch?v=yYnTaAWA3gA",
+            "itunesURL": "https://itunes.apple.com/us/movie/id299468567"
+        }
+    }]
+}

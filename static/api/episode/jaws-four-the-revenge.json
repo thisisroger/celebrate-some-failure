@@ -1,0 +1,36 @@
+{
+    "results": [{
+        "film": {
+            "title": "Jaws 4: The Revenge",
+            "summary": "Chief Brody's widow believes that her family is deliberately being targeted by another shark in search of revenge.",
+            "trailer": "https://www.youtube.com/watch?v=opiCMIN3PNg",
+            "poster": "/static/assets/posters/jaws-4-the-revenge-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jake Fogelnest",
+                "photo": "/static/assets/guests/jake-fogelnest.jpg",
+                "bio": "Jake Fogelnest is a writer/producer who has written for “Wet Hot American Summer: First Day Of Camp,” “Difficult People,” “Girlboss,” “Billy On The Street,” and “Corporate.” He is very successful (and handsome) so by the time you read this bio, there might be more on his IMDb page. He loves Earwolf and hosted “The Fogelnest Files” podcast until he got too busy. He will however return to Earwolf to do podcast, as his schedule and handsomeness allows.",
+                "plugs": [
+                    {
+                        "title": "Wet Hot American Summer",
+                        "URL": "https://www.amazon.com/dp/B005EYLFOW",
+                        "media": "/static/assets/plugs/wet-hot-american-summer.jpg"
+                    },
+                    {
+                        "title": "Difficult People",
+                        "URL": "https://www.amazon.com/Pilot/dp/B017I3L4UQ",
+                        "media": "/static/assets/plugs/difficult-people.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Bipolar moms. shark senses, and bad Jamaican accents are all covered in this week’s How Did This Get Made? We welcome Jake Fogelnest to chat about a movie sequel that promises to be personal, Jaws 4: The Revenge! So be sure to join us for an important discussion on Mario Van Peebles’s fully improvised role, the lost cocaine/voodoo subplot, and an ending that did not benefit from being re-shot",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/55884900",
+            "amazonURL": "https://www.amazon.com/gp/product/B008MMG2Z0",
+            "youtubeURL": "https://www.youtube.com/watch?v=lLY2wdb6dEo",
+            "itunesURL": "https://itunes.apple.com/us/movie/id549804025"
+        }
+    }]
+}

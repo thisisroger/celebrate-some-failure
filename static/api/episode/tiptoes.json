@@ -1,0 +1,36 @@
+{
+    "results": [{
+        "film": {
+            "title": "Tiptoes",
+            "summary": "The story of a peculiar love triangle involving two brothers.",
+            "trailer": "https://www.youtube.com/watch?v=O3qGGk5ymQ4",
+            "poster": "/static/assets/posters/tiptoes-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Dave Holmes",
+                "photo": "/static/assets/guests/dave-holmes.jpg",
+                "bio": "Dave Holmes knows more about music than your average comedian and he’s funnier than your average VJ. If all your knowledge of him comes from his numerous television hosting gigs, you are missing out. His live shows such as Mapping the Heavens and The Friday Forty have a reputation for being some of the best live entertainment in Los Angeles, and his performance in Reno 911 is simply divine.",
+                "plugs": [
+                    {
+                        "title": "Reno 911!",
+                        "URL": "https://www.amazon.com/s?k=reno+911&i=instant-video",
+                        "media": "/static/assets/plugs/reno-911.jpg"
+                    },
+                    {
+                        "title": "Hell Baby",
+                        "URL": "https://www.amazon.com/Hell-Baby-Rob-Corddry/dp/B0744P7HMP",
+                        "media": "/static/assets/plugs/hell-baby.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "There is no tiptoeing around it, this movie blows! Not even a French Peter Dinklage in cornrows can save this non-comedy about a full-sized dwarf dealing with his wife’s pregnancy. Not sold yet? Neither is Dave Holmes who joined us in watching this Sundance “Official Selection.”",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/57834618",
+            "amazonURL": "https://www.amazon.com/gp/product/B003ZUVHIG",
+            "youtubeURL": "https://www.youtube.com/watch?v=C5OE__YdpTw",
+            "itunesURL": "https://itunes.apple.com/us/movie/id732897383"
+        }
+    }]
+}

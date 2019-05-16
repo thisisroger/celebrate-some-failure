@@ -1,0 +1,85 @@
+{
+    "results": [{
+        "film": {
+            "title": "Perfect",
+            "summary": "A reporter (John Travolta) looks for the inside story on the fitness craze of the '80s only to find true love (Jamie Lee Curtis).",
+            "trailer": "https://www.youtube.com/watch?v=Sd7tVAIOWjI",
+            "poster": "/static/assets/posters/perfect-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Seth Morris",
+                "photo": "/static/assets/guests/seth-morris.jpg",
+                "bio": "Seth Morris is a close personal friend of Bob Ducca. Seth has been studying and performing at the UCB theatre since the late 90’s and has performed at the U.S. Comedy Arts Festival, SF Sketchfest, and The Toyota Comedy Festival just to name a few. Seth is one of the writers for FunnyorDie and has given us videos like Forehead Tittaes, Betwixt the Music, and Lindsay Lohan’s eHarmony Profile. Seth is Bob Ducca’s ride to the studio, so please listen to Affirmation Nation Monday through Friday on Earwolf.",
+                "plugs": [
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Kroll Show",
+                        "URL": "https://www.amazon.com/dp/B00AVXZ5O2",
+                        "media": "/static/assets/plugs/kroll-show.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/Pilot/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Crash Test",
+                        "URL": "https://www.amazon.com/dp/B015IVODSU",
+                        "media": "/static/assets/plugs/crash-test.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Love",
+                        "URL": "https://www.netflix.com/title/80026506",
+                        "media": "/static/assets/plugs/love.jpg"
+                    },
+                    {
+                        "title": "The Good Place",
+                        "URL": "https://www.amazon.com/Everything-Is-Fine/dp/B01L3GQG7K",
+                        "media": "/static/assets/plugs/the-good-place.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    },
+                    {
+                        "title": "Cedar Rapids",
+                        "URL": "https://www.amazon.com/Cedar-Rapids-Ed-Helms/dp/B0053IX4XE",
+                        "media": "/static/assets/plugs/cedar-rapids.jpg"
+                    },
+                    {
+                        "title": "The Dictator",
+                        "URL": "https://www.amazon.com/Dictator-Unrated-Sacha-Baron-Cohen/dp/B008OM0M4U",
+                        "media": "/static/assets/plugs/the-dictator.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "LIVE from Largo in Los Angeles, Seth Morris returns to join Paul, Jason, and June to discuss John Travolta and Jamie Lee Curtis in 1985's Perfect. Theyll talk about Travolta starting as an obituary writer, seeing a complete aerobics class, and Jamie Lee Curtis having a tender moment with a pool. Plus, everyone discusses the use of the phrase 'sphincter muscle' and Jamie Lee's first interaction with a computer during Audience Q&A!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131038",
+            "amazonURL": "https://www.amazon.com/gp/video/detail/B001EJGJ5G",
+            "youtubeURL": "https://www.youtube.com/watch?v=gwCOGeHrCeA"
+        }
+    }]
+}

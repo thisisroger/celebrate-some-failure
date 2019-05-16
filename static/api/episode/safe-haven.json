@@ -1,0 +1,63 @@
+{
+    "results": [{
+        "film": {
+            "title": "Safe Haven",
+            "summary": "A young woman with a mysterious past lands in Southport, North Carolina where her bond with a widower forces her to confront the dark secret that haunts her.",
+            "trailer": "https://www.youtube.com/watch?v=p4vhm3_-3VM",
+            "poster": "/static/assets/posters/safe-haven-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jordan Rubin",
+                "photo": "/static/assets/guests/jordan-rubin.jpg",
+                "bio": "Jordan Rubin is funnier in 140 characters than most people are in their whole lives. A stand-up comedian turned writer, Jordan has written for The Man Show and Crank Yankers in addition to every awards show you’ve ever seen. You can watch his web series The Download on the Comedy Central website.",
+                "plugs": [
+                    {
+                        "title": "Zombeavers",
+                        "URL": "https://www.amazon.com/Zombeavers-Rachael-Melvin/dp/B00UY5SOMM",
+                        "media": "/static/assets/plugs/zombeavers.jpg"
+                    },
+                    {
+                        "title": "Critters: A New Binge",
+                        "URL": "https://www.amazon.com/Beginnings/dp/B07PW47HR5",
+                        "media": "/static/assets/plugs/critters-a-new-binge.jpg"
+                    },
+                    {
+                        "title": "The Man Show",
+                        "URL": "https://www.amazon.com/Oprahization/dp/B008RKA6TK",
+                        "media": "/static/assets/plugs/the-man-show.jpg"
+                    },
+                    {
+                        "title": "Tubbing with Tash",
+                        "URL": "https://www.youtube.com/playlist?list=PLmLMM7D7XLUX8EIwf33eqGuH5aeDPdG3I",
+                        "media": "/static/assets/plugs/tubbin-with-tash.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Eliza Skinner",
+                "photo": "/static/assets/guests/eliza-skinner.jpg",
+                "bio": "Eliza Skinner is originally from Richmond, VA and started her performing career as an unnamed child revolutionary in a production of Evita. She is now a stand-up comedian and has appeared on The Pete Holmes Show, @Midnight, Chelsea Lately, Upload with Shaquille O’Neal,  MTV, Showtime, AMC and the BBC. In his Reddit AMA, Patton Oswalt called her one of his favorite up-and-coming comedians. Last fall, Eliza was a writer and correspondent on Totally Biased (produced by Chris Rock), and her Funny Or Die videos have been retweeted by President Obama (seriously.) She is a regular performer at the UCB in LA and NYC, and this year she was selected to be one of the “New Faces Of Comedy” at the Montreal Just For Laughs Festival.",
+                "plugs": [
+                    {
+                        "title": "Totally Biased With W. Kamau Bell",
+                        "URL": "https://www.amazon.com/Show-1/dp/B008XZRQRY",
+                        "media": "/static/assets/plugs/totally-biased.jpg"
+                    },
+                    {
+                        "title": "Drop the Mic",
+                        "URL": "https://www.amazon.com/dp/B07C6H8GM3",
+                        "media": "/static/assets/plugs/drop-the-mic.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "The very funny Eliza Skinner and Zombeavers director Jordan Rubin join Paul & Jason to talk about the most seemingly normal but insane film Safe Haven. They’ll discuss how the movie feels like it’s made up of scenes that you would want cut out, the heavy paint can scene, the multiple shocking reveals, and what made everyone except Jordan burst into tears.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/37208625",
+            "amazonURL": "https://www.amazon.com/gp/product/B00CDXOXB4",
+            "youtubeURL": "https://www.youtube.com/watch?v=WDEDtNoHLhM",
+            "itunesURL": "https://itunes.apple.com/us/movie/id639210560"
+        }
+    }]
+}

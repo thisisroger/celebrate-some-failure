@@ -1,0 +1,93 @@
+{
+    "results": [{
+        "film": {
+            "title": "Cobra",
+            "summary": "A tough-on-crime street cop must protect the only surviving witness to a strange murderous cult with far reaching plans.",
+            "trailer": "https://www.youtube.com/watch?v=czzIGc7v6aI",
+            "poster": "/static/assets/posters/cobra-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Brian Posehn",
+                "photo": "/static/assets/guests/brian-posehn.jpg",
+                "bio": "Brian Posehn is more metal than you are. He’s also funnier than you are. Sorry to be so blunt, but just look at the facts! Were you a writer and performer on Mr. Show? Did you tour the country in The Comedians of Comedy? Have you written your own comic book? Lent your voice to a popular video game? Performed with Scott Ian? Thought so.",
+                "plugs": [
+                    {
+                        "title": "Run Ronnie Run!",
+                        "URL": "https://www.amazon.com/Run-Ronnie-Not-Specified/dp/B00ALUZQMQ",
+                        "media": "/static/assets/plugs/run-ronnie-run.jpg"
+                    },
+                    {
+                        "title": "Human Giant",
+                        "URL": "https://www.amazon.com/Mind-Explosion/dp/B000PAVSBU",
+                        "media": "/static/assets/plugs/human-giant.jpg"
+                    },
+                    {
+                        "title": "Brian Posehn: 25x2",
+                        "URL": "https://www.amazon.com/Brian-Posehn-25x2/dp/B07L8PHGDY",
+                        "media": "/static/assets/plugs/twenty-five-by-two.jpg"
+                    },
+                    {
+                        "title": "Brian Posehn: The Fartist",
+                        "URL": "https://www.amazon.com/Brian-Posehn-Fartist/dp/B07ND49QF3",
+                        "media": "/static/assets/plugs/the-fartist.jpg"
+                    },
+                    {
+                        "title": "Brian Posehn: Criminally Posehn",
+                        "URL": "https://www.amazon.com/Brian-Posehn-Criminally/dp/B01IVSN1DU",
+                        "media": "/static/assets/plugs/criminally-posehn.jpg"
+                    },
+                    {
+                        "title": "Uncle Nick",
+                        "URL": "https://www.netflix.com/title/80090724",
+                        "media": "/static/assets/plugs/uncle-nick.jpg"
+                    },
+                    {
+                        "title": "Just Shoot Me",
+                        "URL": "https://www.amazon.com/Back-Issues/dp/B000QUK8PG",
+                        "media": "/static/assets/plugs/just-shoot-me.jpg"
+                    },
+                    {
+                        "title": "Knights of Badassdom",
+                        "URL": "https://www.amazon.com/Knights-Badassdom-Summer-Glau/dp/B075C5D82Q",
+                        "media": "/static/assets/plugs/knights-of-badassdom.jpg"
+                    },
+                    {
+                        "title": "The Sarah Silverman Program",
+                        "URL": "https://www.amazon.com/gp/video/detail/B017355UIG",
+                        "media": "/static/assets/plugs/the-sarah-silverman-program.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Rhett Miller",
+                "photo": "/static/assets/guests/rhett-miller.jpg",
+                "bio": "Rhett Miller is the lead singer of the Old 97’s as well as a solo artist. He’s been recording music since 1989 and has over a dozen records to show for it. As a solo artist he has four albums: Mythologies, The Instigator, The Believer, and Rhett Miller. The Old 97’s have countless albums with their latest, Grand Theatre Vol. 2, out this July.",
+                "plugs": [
+                    {
+                        "title": "Run Ronnie Run!",
+                        "URL": "https://www.amazon.com/Run-Ronnie-Not-Specified/dp/B00ALUZQMQ",
+                        "media": "/static/assets/plugs/run-ronnie-run.jpg"
+                    },
+                    {
+                        "title": "The Breakup",
+                        "URL": "https://www.amazon.com/Break-Up-Vince-Vaughn/dp/B000J2F9C8",
+                        "media": "/static/assets/plugs/the-breakup.jpg"
+                    },
+                    {
+                        "title": "Scrubs",
+                        "URL": "https://www.amazon.com/My-First-Day/dp/B003ZC9TXE",
+                        "media": "/static/assets/plugs/scrubs.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Imagine Dirty Harry but more violent and with robots. Our two special guests Brian Posehn and Rhett Miller joined us to talk about Cobra on this week’s How Did This Get Made? LIVE at Bumbershoot! We discuss everything from Stallone’s obsession with food, the modeling shoot music video, and the New Order’s decision to attack in bright daylight. That’s not all, we also open it up to questions and hear about Jason’s childhood fear of killer clowns. Feel the heat!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/55884899",
+            "amazonURL": "https://www.amazon.com/Cobra-Sylvester-Stallone/dp/B00D5VUIXA",
+            "youtubeURL": "https://www.youtube.com/watch?v=j_t3quFXGEg",
+            "itunesURL": "https://itunes.apple.com/us/movie/id291121936"
+        }
+    }]
+}

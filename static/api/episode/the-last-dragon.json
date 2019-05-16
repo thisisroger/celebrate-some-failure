@@ -1,0 +1,71 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Last Dragon",
+            "summary": "In New York City, a young man searches for a Master to obtain the final level of martial arts mastery known as the Glow.",
+            "trailer": "https://www.youtube.com/watch?v=Z7Crt4S1IZM",
+            "poster": "/static/assets/posters/the-last-dragon-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Hannibal Buress",
+                "photo": "/static/assets/guests/hannibal-buress.jpg",
+                "bio": "Hannibal Buress is a comedian, actor, writer, musician, magician, and poker dealer from Chicago. His third hour standup special Comedy Camisado is currently streaming on Netflix. He is also a cast member on Comedy Central’s hit series Broad City, as well as the co-host of Adult Swim’s The Eric Andre Show. Buress is a favorite on the latenight circuit and has written for NBC’s Saturday Night Live as well as 30 Rock. He is set to appear in the upcoming film version of Baywatch as well as the much-anticipated feature Spider-man: Homecoming, and he recently lent his voice to the animated films The Secret Life of Pets and Angry Birds. He tours regularly doing stand up comedy. There’s other stuff on Google that you can find. Have a nice day.",
+                "plugs": [
+                    {
+                        "title": "Broad City",
+                        "URL": "https://www.amazon.com/What-a-Wonderful-World/dp/B00HNEDIZ0",
+                        "media": "/static/assets/plugs/broad-city.jpg"
+                    },
+                    {
+                        "title": "The Eric Andre Show",
+                        "URL": "https://www.amazon.com/Dolph-Lundgren/dp/B0086B3RD2",
+                        "media": "/static/assets/plugs/the-eric-andre-show.jpg"
+                    },
+                    {
+                        "title": "Blockers",
+                        "URL": "https://www.amazon.com/Blockers-Leslie-Mann/dp/B07BW7954L",
+                        "media": "/static/assets/plugs/blockers.jpg"
+                    },
+                    {
+                        "title": "Slice",
+                        "URL": "https://www.amazon.com/Slice-Chance-Bennett/dp/B07GX6M9NL",
+                        "media": "/static/assets/plugs/slice.jpg"
+                    },
+                    {
+                        "title": "High Maintenance",
+                        "URL": "https://www.amazon.com/Meth-od/dp/B01MFHDHMH",
+                        "media": "/static/assets/plugs/high-maintenance.jpg"
+                    },
+                    {
+                        "title": "Nerdland",
+                        "URL": "https://www.amazon.com/dp/B01MSXSR9K",
+                        "media": "/static/assets/plugs/nerdland.jpg"
+                    },
+                    {
+                        "title": "Tag",
+                        "URL": "https://www.amazon.com/Tag-Ed-Helms/dp/B07G7Y9MHB",
+                        "media": "/static/assets/plugs/tag.jpg"
+                    },
+                    {
+                        "title": "Hannibal Buress: Animal Furnace",
+                        "URL": "https://www.amazon.com/Hannibal-Buress-Animal-Furnace/dp/B00J2G0BHA",
+                        "media": "/static/assets/plugs/animal-furnace.jpg"
+                    },
+                    {
+                        "title": "Hannibal Buress: Live From Chicago",
+                        "URL": "https://www.amazon.com/Hannibal-Buress-Live-Chicago/dp/B00J7XEQ7Y",
+                        "media": "/static/assets/plugs/hannibal-buress-live-from-chicago.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Hannibal Buress joins Paul, June, and Jason to discuss the 1985 martial arts film The Last Dragon. Recorded live from Colossal Clusterfest in San Francisco, they talk about everything including how insecure Shonuff is, the glow, and Eddie Arkadian.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/51641553",
+            "amazonURL": "https://www.amazon.com/gp/product/B000VHLS8A",
+            "youtubeURL": "https://www.youtube.com/watch?v=5yCp0Z8eVis",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-last-dragon/id299658334"
+        }       
+    }]
+}

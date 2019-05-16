@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Gymkata",
+            "summary": "An American gymnast travels to a foreign country to compete in a deadly game not won by anyone other than a native in more than 900 years.",
+            "trailer": "https://www.youtube.com/watch?v=HDzt-JVvYPg",
+            "poster": "/static/assets/posters/gymkata-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Michael Showalter",
+                "photo": "/static/assets/guests/michael-showalter.jpg",
+                "bio": "Michael Showalter is an American comedian, actor, writer, and director. He is a member of the sketch comedy trio Stella. Showalter first came to recognition as a cast member on MTV’s The State, which aired from 1993 to 1995. He co-wrote (with David Wain) and starred in Wet Hot American Summer and he wrote, directed, and starred in The Baxter, with Michelle Williams, Justin Theroux and Elizabeth Banks. Both of these movies featured many of his co-stars from The State, and so do several of his other projects.",
+                "plugs": [
+                    {
+                        "title": "Search Party",
+                        "URL": "https://www.amazon.com/Mysterious-Disappearance-Girl-One-Knew/dp/B01M3TYECH",
+                        "media": "/static/assets/plugs/search-party.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    },
+                    {
+                        "title": "Wet Hot American Summer",
+                        "URL": "https://www.amazon.com/dp/B005EYLFOW",
+                        "media": "/static/assets/plugs/wet-hot-american-summer.jpg"
+                    },
+                    {
+                        "title": "The Big Sick",
+                        "URL": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B07193L7RD",
+                        "media": "/static/assets/plugs/the-big-sick.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Recorded live at Largo in Los Angeles, Michael Showalter joins Paul, June, & Jason to discuss the next level bonkers movie that combines gymnastics & karate, Gymkata! They’ll get into the Kurt Thomas flipping as he talks to himself scene, the questionable effectiveness of arrows in the film, flag ninjas, the village of the crazies, and the infamous pommel horse scene. Plus, audience questions make us wonder how the director of Enter The Dragon went from working with Bruce Lee to Kurt Thomas.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/28333025",
+            "amazonURL": "https://www.amazon.com/dp/B007JTJ6OQ",
+            "youtubeURL": "https://www.youtube.com/watch?v=qlDh_GGl_cs",
+            "itunesURL": "https://itunes.apple.com/us/movie/gymkata/id316281342"
+        }
+    }]
+}

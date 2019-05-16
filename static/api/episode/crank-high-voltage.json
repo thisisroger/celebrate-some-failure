@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "Crank 2: High Voltage",
+            "summary": "Chelios faces a Chinese mobster who has stolen his nearly indestructible heart and replaced it with a battery-powered ticker that requires regular jolts of electricity to keep working.",
+            "trailer": "https://www.youtube.com/watch?v=t2koYVqwzT4&t=5s",
+            "poster": "/static/assets/posters/crank-high-voltage-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jensen Karp",
+                "photo": "/static/assets/guests/jensen-karp.jpg",
+                "bio": "Jensen Karp, formerly known as rapper Hot Karl, is an LA-based writer, comedian, and co-owner of Gallery 1988, the nation’s leading destination for pop-cultured themed artwork. He has written and produced for Funny or Die, the MTV VMAs, The Late Late Show with James Corden, Rolling Stone, WWE Raw, The Hundreds, and the ESPYs. His book, Kanye West Owes Me $300 (and other true stories from a white rapper who ALMOST made it big) is now in stores and he’s an executive producer on the upcoming “Drop The Mic” battle rap TV show on TBS.",
+                "plugs": [
+                    {
+                        "title": "Get Up On This",
+                        "URL": "https://www.earwolf.com/show/get-up-on-this",
+                        "media": "/static/assets/plugs/get-up-on-this.jpg"
+                    },
+                    {
+                        "title": "Gallery 1988",
+                        "URL": "http://nineteeneightyeight.com",
+                        "media": "/static/assets/plugs/gallery-1988.jpg"
+                    },
+                    {
+                        "title": "Kanye West Owes Me $300",
+                        "URL": "https://www.amazon.com/Kanye-West-Owes-Me-300/dp/0451498879",
+                        "media": "/static/assets/plugs/kanye-west-owes-me-300.jpg"
+                    },
+                    {
+                        "title": "Baby Talk",
+                        "URL": "https://www.amazon.com/dp/B01N1QA9TI",
+                        "media": "/static/assets/plugs/baby-talk.jpg"
+                    },
+                    {
+                        "title": "Scheer RL",
+                        "URL": "https://www.amazon.com/dp/B01G2T5CK0",
+                        "media": "/static/assets/plugs/scheer-rl.jpg"
+                    },
+                    {
+                        "title": "Drop the Mic",
+                        "URL": "https://www.amazon.com/dp/B07C6H8GM3",
+                        "media": "/static/assets/plugs/drop-the-mic.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Why can’t more movies be like Crank 2? Sure it’s racist, sexist, implausible and disgusting, but that’s what makes it so much fun! Jensen Karp is our lucky guest in the studio with Paul and June (Jason is still in New York, but is live via satellite or something), and together they figure how tar enemas and full-body Tourette’s can make Chev Chelios’ second adventure so much better than the first.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/57834620",
+            "amazonURL": "https://www.amazon.com/gp/product/B002KO9LEK",
+            "youtubeURL": "https://www.youtube.com/watch?v=YPNo9jtuh6E",
+            "itunesURL": "https://itunes.apple.com/us/movie/id321111335"
+        }
+    }]
+}

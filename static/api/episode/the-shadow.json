@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Shadow",
+            "summary": "In 1930s New York City, the Shadow battles his nemesis, Shiwan Khan, who is building an atomic bomb.",
+            "trailer": "https://www.youtube.com/watch?v=h0mk2cdU4ms",
+            "poster": "/static/assets/posters/the-shadow-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Pete Davidson",
+                "photo": "/static/assets/guests/pete-davidson.jpg",
+                "bio": "Pete Davidson is an American actor and comedian. He is a featured player on Saturday Night Live, the youngest member of the current cast.",
+                "plugs": [
+                    {
+                        "title": "SNL",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0190TMIZG",
+                        "media": "/static/assets/plugs/snl.jpg"
+                    },
+                    {
+                        "title": "Pete Davidson: SMD",
+                        "URL": "https://www.amazon.com/Pete-Davidson-SMD/dp/B01M32GP3B",
+                        "media": "/static/assets/plugs/pete-davidson-smd.jpg"
+                    },
+                    {
+                        "title": "Comedy Central Roast - Donald Trump",
+                        "URL": "https://www.amazon.com/Comedy-Central-Roast-Donald-Trump/dp/B00V326S6Y",
+                        "media": "/static/assets/plugs/cc-roast-donald-trump.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Pete Davidson (Saturday Night Live) joins Paul, June, and Jason for a LIVE episode recorded at the world famous Largo at the Coronet in Los Angeles to discuss the 1994 superhero movie The Shadow starring Alec Baldwin. They will cover everything including Llama cigarettes, Alec Baldwin's long cocaine nails, and whether or not that hotel in the movie was real. Plus, they find a possible connection to The Golden Child starring Eddie Murphy.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48130993",
+            "amazonURL": "https://www.amazon.com/Shadow-Alec-Baldwin/dp/B0791ZL2WY",
+            "youtubeURL": "https://www.youtube.com/watch?v=D7htjW9Gdvk",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-shadow/id318139856"
+        }
+    }]
+}

@@ -1,0 +1,52 @@
+{
+    "results": [{
+        "id": "sucker-punch",
+        "film": {
+            "title": "Sucker Punch",
+            "summary": "A young girl is institutionalized by her abusive stepfather, retreating to an alternative reality as a coping strategy, envisioning a plan to help her escape.",
+            "trailer": "https://www.youtube.com/watch?v=GVVYB8gaSqc",
+            "poster": "/static/assets/posters/sucker-punch-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Chelsea Peretti",
+                "photo": "/static/assets/guests/chelsea-peretti.jpg",
+                "bio": "Chelsea Peretti is a stand-up comedian and writer who has worked on shows such as Parks and Recreation and The Sarah Silverman Program. In early 2011 Chelsea’s first Comedy Central Presents aired which was preceded by her inclusion in Comedy Central’s 2010 Hot List. Before moving to Los Angeles, Chelsea performed in the monthly show Variety Shac.",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Brooklyn Nine-Nine",
+                        "URL": "https://www.amazon.com/dp/B00ESB6EUC",
+                        "media": "/static/assets/plugs/brooklyn-nine-nine.jpg"
+                    },
+                    {
+                        "title": "One of The Greats",
+                        "URL": "https://www.netflix.com/title/80004534",
+                        "media": "/static/assets/plugs/one-of-the-greats.jpg"
+                    },
+                    {
+                        "title": "Game Night",
+                        "URL": "https://www.amazon.com/dp/B079XX3P4R",
+                        "media": "/static/assets/plugs/game-night.jpg"
+                    },
+                    {
+                        "title": "Popstar: Never Stop Never Stopping",
+                        "URL": "https://www.amazon.com/dp/B01GHBYIEY",
+                        "media": "/static/assets/plugs/popstar.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Zack Snyder made a two hour music video called Sucker Punch and we're here to tell you why you shouldn't see it. Paul, Jason, June and Chelsea Peretti fought fate to watch this disaster and are attempting the impossible: Explaining what the hell it's about. Between the rape dancing, the comic book costumes, and the bizarre performance of Mr. Blue we can't guarantee you closure but we can guarantee you some laughs!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131257",
+            "amazonURL": "https://www.amazon.com/gp/product/B0051OZ28K",
+            "youtubeURL": "https://www.youtube.com/watch?v=ALwDAKmSQAA",
+            "itunesURL": "https://itunes.apple.com/us/movie/id432269939"
+        }
+    }]
+}

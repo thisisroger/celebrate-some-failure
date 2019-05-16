@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Runaway",
+            "summary": "In the near future, a police officer specializes in malfunctioning robots. When a robot turns out to have been programmed to kill, he begins to uncover a homicidal plot to create killer robots... and his son becomes a target.",
+            "trailer": "https://www.youtube.com/watch?v=zCZY9Z6WvSY",
+            "poster": "/static/assets/posters/runaway-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Rhea Butcher",
+                "photo": "/static/assets/guests/rhea-butcher.jpg",
+                "bio": "Rhea Butcher is a stand up comedian from Akron, Ohio. She has opened for the likes of Maria Bamford and Bobcat Goldthwait. After moving to LA in fall 2012, Rhea quickly got to work in her new city and recently produced and hosted the first of a series of sold out Qweirdo shows at UCB LA. Rhea has performed at all the LA “alt” rooms; The Meltdown, UCB, Comedy Palace, Holy F*ck and more!",
+                "plugs": [
+                    {
+                        "title": "2 Dope Queens",
+                        "URL": "https://www.amazon.com/gp/video/detail/B078HZQMW3",
+                        "media": "/static/assets/plugs/two-dope-queens.jpg"
+                    },
+                    {
+                        "title": "Take My Wife",
+                        "URL": "https://www.amazon.com/Set-up/dp/B01IU9LWN6",
+                        "media": "/static/assets/plugs/take-my-wife.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "The hilarious Rhea Butcher of Put Your Hands Together and Wham Bam Pow joins Paul, June, and Jason to discuss Runaway, a movie that is 1984 to the max! They’ll cover everything from the box robots with guns, Gene Simmons’ intense stare, and Tom Selleck’s kissing endurance. Plus, June shares how she had a real existential crisis possibly caused by robots.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/39665595",
+            "amazonURL": "https://www.amazon.com/gp/product/B07FZMQ6V7",
+            "youtubeURL": "https://www.youtube.com/watch?v=tO6d4aP40uk",
+            "itunesURL": "https://itunes.apple.com/us/movie/id306463874"
+        }
+    }]
+}

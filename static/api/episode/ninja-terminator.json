@@ -1,0 +1,62 @@
+{
+    "results": [{
+        "film": {
+            "title": "Ninja Terminator",
+            "summary": "Three martial-arts students search for the Golden Ninja Warrior, a statue reputed to have magic powers.",
+            "trailer": "https://www.youtube.com/watch?v=u0l7Fp5jTRQ",
+            "poster": "/static/assets/posters/ninja-terminator-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Abbi Jacobson",
+                "photo": "/static/assets/guests/abbi-jacobson.jpg",
+                "bio": "Abbi Jacobson is an actor, writer, and artist. She studied improv at UCBT-NY and went on to produce many successful shows such as CINNABONANZA!, Triple Play, and her solo show, “Welcome to Camp” which ran for 6 months in 2011. She is also known for her web-series Broad City with Ilana Glazer, and is currently in development with FX.",
+                "plugs": [
+                    {
+                        "title": "Broad City",
+                        "URL": "https://www.amazon.com/What-a-Wonderful-World/dp/B00HNEDIZ0",
+                        "media": "/static/assets/plugs/broad-city.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    },
+                    {
+                        "title": "Portlandia",
+                        "URL": "https://www.amazon.com/dp/B004KCOABO",
+                        "media": "/static/assets/plugs/portlandia.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Ilana Glazer",
+                "photo": "/static/assets/guests/ilana-glazer.jpg",
+                "bio": "Ilana Glazer is an actress, writer, and stand up based in Brooklyn. She is an improvisor at the UCB, where she put on the shows “High School Talent Show” for over three years, as well as “Baby Steps” and “New York Shitty.” She is also apart of the web-series Broad City, and is currently in development with FX.",
+                "plugs": [
+                    {
+                        "title": "Broad City",
+                        "URL": "https://www.amazon.com/What-a-Wonderful-World/dp/B00HNEDIZ0",
+                        "media": "/static/assets/plugs/broad-city.jpg"
+                    },
+                    {
+                        "title": "The Night Before",
+                        "URL": "https://www.amazon.com/Night-Before-Joseph-Gordon-Levitt/dp/B018AEXT82",
+                        "media": "/static/assets/plugs/the-night-before.jpg"
+                    },
+                    {
+                        "title": "Rough Night",
+                        "URL": "https://www.amazon.com/Rough-Night-Scarlett-Johansson/dp/B071G9G1LR",
+                        "media": "/static/assets/plugs/rough-night.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Abbi Jacobson and Ilana Glazer of Broad City join Paul, June, and Jason to discuss the 1985 martial arts film Ninja Terminator. Recored live from Colossal Clusterfest in San Francisco, they cover blonde wig guy, Garfield land line phone, the little robot, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/50562937",
+            "amazonURL": "https://www.amazon.com/Ninja-Terminator-Richard-Harrison/dp/B0044DNCBS",
+            "youtubeURL": "https://www.youtube.com/watch?v=9ZIv2_Tem14"
+        }       
+    }]
+}

@@ -1,0 +1,62 @@
+{
+    "results": [{
+        "film": {
+            "title": "Star Wars Holiday Special",
+            "summary": "Chewbacca and Han Solo try to get to the Wookiee homeworld of Kashyyyk to celebrate Life Day, but are impeded by an Imperial blockade. Chewie's family passes the time with various forms of entertainment.",
+            "trailer": "https://www.youtube.com/watch?v=F3-Df7ROAxA",
+            "poster": "/static/assets/posters/star-wars-holiday-special-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Eden Sher",
+                "photo": "/static/assets/guests/eden-sher.jpg",
+                "bio": "Eden Sher is an American actress. She is best known for her role as Sue Heck on the ABC sitcom The Middle for which she won the Critics’ Choice Television Award for Best Supporting Actress in a Comedy Series in 2013.",
+                "plugs": [
+                    {
+                        "title": "Veronica Mars",
+                        "URL": "https://www.amazon.com/Pilot/dp/B0031KC8OC",
+                        "media": "/static/assets/plugs/veronica-mars.jpg"
+                    },
+                    {
+                        "title": "Weeds",
+                        "URL": "https://www.amazon.com/You-Cant-Miss-The-Bear/dp/B000JOAKC0",
+                        "media": "/static/assets/plugs/weeds.jpg"
+                    },
+                    {
+                        "title": "The Middle",
+                        "URL": "https://www.amazon.com/Pilot/dp/B004FS1ZRA",
+                        "media": "/static/assets/plugs/the-middle.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Matt Gourley",
+                "photo": "/static/assets/guests/matt-gourley.jpg",
+                "bio": "Matt Gourley does some podcasts. I’ll say he does. For starters, he’s a creator of the Superego, I Was There Too, James Bonding, Pistol Shrimps Radio, and Complete Man podcasts. There are more but let’s stop talking about podcasts. He’s also been seen or heard on Community, Adventure Time, Blindspot, Comedy Bang! Bang!, Another Period, and has been featured on Comedy Central’s Drunk History, slurring his way through thoughtful retellings of Watergate, the Alamo, and the life of Wernher von Braun. He’s also the current spokesperson for Volkswagen. By day, Matt is a professor who teaches acting and improv at a couple of local colleges where he will most likely give you an easy A.",
+                "plugs": [
+                    {
+                        "title": "Community",
+                        "URL": "https://www.amazon.com/Spanish-101/dp/B002N7CTKM",
+                        "media": "/static/assets/plugs/community.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    },
+                    {
+                        "title": "Another Period",
+                        "URL": "https://www.amazon.com/dp/B00YYFSTRI",
+                        "media": "/static/assets/plugs/another-period.jpg"
+                    }   
+                ]
+            }
+        },
+        "episodeDescription": "Celebrate Life Day with Paul, Jason, and special guests Matt Gourley of I Was There Too and Eden Sher of The Middle as they discuss the infamous 1978 CBS TV film The Star Wars Holiday Special. They'll talk about Chewbacca being a bad father, the Diahann Carroll virtual reality porn, Harvey Korman being truly committed in all of his 'comedic bits,' and much more. Merry Christmas and Happy Life Day from HDTGM!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/41682985",
+            "amazonURL": "https://www.amazon.com/Star-Wars-Holiday-Special/dp/B00005JOIP",
+            "youtubeURL": "https://www.youtube.com/watch?v=ZX0x-I06Fpc"
+        }
+    }]
+}

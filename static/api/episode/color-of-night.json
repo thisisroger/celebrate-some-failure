@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "Color of Night",
+            "summary": "A color-blind psychiatrist Bill Capa is stalked by an unknown killer after taking over his murdered friend's therapy group, all of whom have a connection to a mysterious young woman that Capa begins having intense sexual encounters with.",
+            "trailer": "https://www.youtube.com/watch?v=09rrVrDZJYU",
+            "poster": "/static/assets/posters/color-of-night-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Amy Schumer",
+                "photo": "/static/assets/guests/amy-schumer.jpg",
+                "bio": "Amy Schumer is an American stand-up comedian. She has appeared in roles on 30 Rock, Live at Gotham, Delocated, and Curb Your Enthusiasm. Schumer has also appeared and crushed on The Comedy Central Roast of Charlie Sheen in September 2011, and The Comedy Central Roast of Roseanne Barr in August 2012.",
+                "plugs": [
+                    {
+                        "title": "I Feel Pretty",
+                        "URL": "https://www.amazon.com/I-Feel-Pretty-Amy-Schumer/dp/B07C7N5K8V",
+                        "media": "/static/assets/plugs/i-feel-pretty.jpg"
+                    },
+                    {
+                        "title": "Trainwreck",
+                        "URL": "https://www.amazon.com/Trainwreck-Unrated-Amy-Schumer/dp/B015QJ9UCS",
+                        "media": "/static/assets/plugs/trainwreck.jpg"
+                    },
+                    {
+                        "title": "Amy Schumer: Live at the Apollo",
+                        "URL": "https://www.amazon.com/Amy-Schumer-Live-at-Apollo/dp/B017RTMLO4",
+                        "media": "/static/assets/plugs/amy-schumer-live-at-the-apollo.jpg"
+                    },
+                    {
+                        "title": "Amy Schumer: Mostly Sex Stuff",
+                        "URL": "https://www.amazon.com/Amy-Schumer-Mostly-Sex-Stuff/dp/B00B330ELS",
+                        "media": "/static/assets/plugs/amy-schumer-mostly-sex-stuff.jpg"
+                    },
+                    {
+                        "title": "Inside Amy Schumer",
+                        "URL": "https://www.amazon.com/Bad-Decisions/dp/B00CDU8C6O",
+                        "media": "/static/assets/plugs/inside-amy-schumer.jpg"
+                    },
+                    {
+                        "title": "Crashing",
+                        "URL": "https://www.amazon.com/Artie-Lange/dp/B0718WTKYJ",
+                        "media": "/static/assets/plugs/crashing.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Sex is very cool but very dangerous! Special guest Amy Schumer joins Paul, June, and Jason to discuss Bruce Willis in the 1994 erotic mystery thriller Color of Night. They cover everything from the lipstick carousel, the baseball mitt chair, the sex in the pool scenes, Scott Bakula's dick outline, and the big twist ending.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131108",
+            "amazonURL": "https://www.amazon.com/Color-Night-Bruce-Willis/dp/B003V2QDSC",
+            "youtubeURL": "https://www.youtube.com/watch?v=I1YqoBMqZhw",
+            "itunesURL": "https://itunes.apple.com/us/movie/id435439757"
+        }
+    }]
+}

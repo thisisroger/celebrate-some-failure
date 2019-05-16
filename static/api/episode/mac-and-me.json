@@ -1,0 +1,66 @@
+{
+    "results": [{
+        "id": "mac-and-me",
+        "film": {
+            "title": "Mac and Me",
+            "summary": "An alien trying to escape from NASA is befriended by a wheelchair-bound boy.",
+            "trailer": "https://www.youtube.com/watch?v=2xGVQBJ2MmM",
+            "poster": "/static/assets/posters/mac-and-me-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Adam Pally",
+                "photo": "/static/assets/guests/adam-pally.jpg",
+                "bio": "Adam Pally has recently become a television star as part of the acclaimed series Happy Endings. Prior to his role as Max Bloom, Adam had created a reputation for himself in the New York UCB Theater as part of the sketch groups Death By Roo Roo and Hot Sauce. According to his IMDB page, he’s played “douchey guy/douchebag” in two different shows.",
+                "plugs": [
+                    {
+                        "title": "Happy Endings",
+                        "URL": "https://www.amazon.com/dp/B004V2E8SS",
+                        "media": "/static/assets/plugs/happy-endings.jpg"
+                    },
+                    {
+                        "title": "Iron Man 3",
+                        "URL": "https://www.amazon.com/dp/B00FEHXCIG",
+                        "media": "/static/assets/plugs/iron-man-3.jpg"
+                    },
+                    {
+                        "title": "Band Aid",
+                        "URL": "https://www.amazon.com/dp/B0753PH467",
+                        "media": "/static/assets/plugs/band-aid.jpg"
+                    },
+                    {
+                        "title": "Dirty Grandpa",
+                        "URL": "https://www.amazon.com/dp/B01ATYMNSI",
+                        "media": "/static/assets/plugs/dirty-grandpa.jpg"
+                    },
+                    {
+                        "title": "The To Do List",
+                        "URL": "https://www.amazon.com/dp/B00G3OKNMM",
+                        "media": "/static/assets/plugs/the-to-do-list.jpg"
+                    },
+                    {
+                        "title": "Champaign Ill",
+                        "URL": "https://www.youtube.com/watch?v=appKOCri_j8",
+                        "media": "/static/assets/plugs/champaign-ill.jpg"
+                    },
+                    {
+                        "title": "The Mindy Project",
+                        "URL": "https://www.amazon.com/dp/B008ZXSW2C",
+                        "media": "/static/assets/plugs/the-mindy-project.jpg"
+                    },
+                    {
+                        "title": "Slow Learners",
+                        "URL": "https://www.amazon.com/dp/B0144AZY16",
+                        "media": "/static/assets/plugs/slow-learners.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "How do you make a movie like Mac and Me? We'll give you the recipe: Take a bag of Skittles. Mix it with equal parts tired 80's archetypes and bad CGI. Let it simmer in Coca-Cola while you go have an impromptu yet totally choreographed dance party. Carefully remove any traces of plot and serve with a side of french fries. There you have it, a recipe for a movie so stomach-churning that even the talented How Did This Get Made chefs, including Adam Pally, cannot make palatable. Enjoy!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131253",
+            "amazonURL": "https://www.amazon.com/dp/B00950ZG1E",
+            "youtubeURL": "https://www.youtube.com/watch?v=uQOtLBCQCpI"
+        }
+    }]
+}

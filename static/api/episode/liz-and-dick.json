@@ -1,0 +1,36 @@
+{
+    "results": [{
+        "film": {
+            "title": "Liz & Dick",
+            "summary": "The torrid relationship between Elizabeth Taylor and Richard Burton.",
+            "trailer": "https://www.youtube.com/watch?v=bCIwVhPscrU",
+            "poster": "/static/assets/posters/liz-and-dick-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Drew Droege",
+                "photo": "/static/assets/guests/drew-droege.jpg",
+                "bio": "Drew Droege is a delightful comedy sprite who brings us a heaping spoonful of Glitter in the Garbage each week. He teaches improv at The Groundlings, rocks out in the band The Discount Cruise to Hell, and plays one of the world’s most beloved fantastical creatures in Planet Unicorn. If you google Chloe Sevigny, one of the first results is one of Drew’s videos gently teasing the fashion-designer-actress-model-weirdo. Listen to Glitter in the Garbage each Thursday on Earwolf!",
+                "plugs": [
+                    {
+                        "title": "Scouts Guide to the Zombie Apocalypse",
+                        "URL": "https://www.amazon.com/Scouts-Guide-Zombie-Apocalypse-Sheridan/dp/B018SUHVPK",
+                        "media": "/static/assets/plugs/scouts-guide-to-the-zombie-apocalypse.jpg"
+                    },
+                    {
+                        "title": "Heathers",
+                        "URL": "https://www.amazon.com/Pilot/dp/B079VLJS5X",
+                        "media": "/static/assets/plugs/heathers.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Join us as we discuss the crazy time jumps and smashed bottles that make up Lifetimes Liz & Dick. We discuss everything from the career of Lindsay Lohan to the inexpiable togas seen throughout the film.  Don't forget to grab your Vodka Vodka and 'Norbit it up' for this spectacularly bad made-for-TV movie that we saw with the incomparable Groundling, Drew Droege.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131175",
+            "amazonURL": "https://www.amazon.com/Liz-Dick-Networks/dp/B00ADHOMZ4",
+            "youtubeURL": "https://www.youtube.com/watch?v=fPlE4AzhzSg",
+            "itunesURL": "https://itunes.apple.com/us/tv-season/liz-dick/id576769373"
+        }
+    }]
+}

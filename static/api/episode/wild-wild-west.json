@@ -1,0 +1,76 @@
+{
+    "results": [{
+        "film": {
+            "title": "Wild Wild West",
+            "summary": "The two best hired guns in the West must save President Grant from the clutches of a nineteenth century inventor-villain.",
+            "trailer": "https://www.youtube.com/watch?v=It89i3W-v4s",
+            "poster": "/static/assets/posters/wild-wild-west-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Kevin Smith",
+                "photo": "/static/assets/guests/kevin-smith.jpg",
+                "bio": "Kevin Smith is an American screenwriter, actor, film producer, and director, as well as a popular comic book writer, author, comedian/raconteur, and internet radio personality best recognized by viewers as Silent Bob. Smith also co-hosts several weekly podcasts that are recorded at various locations around the world and released on SModcast Internet Radio. He basically does it all and more.",
+                "plugs": [
+                    {
+                        "title": "Clerks",
+                        "URL": "https://www.amazon.com/Clerks-Brian-OHalloran/dp/B006RXPSLK",
+                        "media": "/static/assets/plugs/clerks.jpg"
+                    },
+                    {
+                        "title": "Clerks 2",
+                        "URL": "https://www.amazon.com/Clerks-II-Jeff-Anderson/dp/B0026T05GM",
+                        "media": "/static/assets/plugs/clerks-two.jpg"
+                    },
+                    {
+                        "title": "An Evening with Kevin Smith 2: Evening Harder",
+                        "URL": "https://www.amazon.com/Evening-Kevin-Smith-Harder/dp/B009ITLWVU",
+                        "media": "/static/assets/plugs/an-evening-harder.jpg"
+                    },
+                    {
+                        "title": "An Evening with Kevin Smith",
+                        "URL": "https://www.amazon.com/Evening-Kevin-Smith-Scott-Mosier/dp/B009NY58J2",
+                        "media": "/static/assets/plugs/an-evening-with-kevin-smith.jpg"
+                    },
+                    {
+                        "title": "Jay and Silent Bob Strike Back",
+                        "URL": "https://www.amazon.com/Jay-Silent-Bob-Strike-Back/dp/B00DU6UJYS",
+                        "media": "/static/assets/plugs/jay-and-silent-bob-strike-back.jpg"
+                    },
+                    {
+                        "title": "Chasing Amy",
+                        "URL": "https://www.amazon.com/Chasing-Amy-Ben-Affleck/dp/B009W7CQHM",
+                        "media": "/static/assets/plugs/chasing-amy.jpg"
+                    },
+                    {
+                        "title": "Mallrats",
+                        "URL": "https://www.amazon.com/Mallrats-Shannen-Doherty/dp/B001O3LU38",
+                        "media": "/static/assets/plugs/mallrats.jpg"
+                    },
+                    {
+                        "title": "Fatman on Batman",
+                        "URL": "https://itunes.apple.com/us/podcast/fat-man-on-batman/id532661418",
+                        "media": "/static/assets/plugs/fatman-on-batman.jpg"
+                    },
+                    {
+                        "title": "Tusk",
+                        "URL": "https://www.amazon.com/Tusk-Justin-Long/dp/B00N8M8SWY",
+                        "media": "/static/assets/plugs/tusk.jpg"
+                    },
+                    {
+                        "title": "Zack and Miri Make a Porno",
+                        "URL": "https://www.amazon.com/Zack-Miri-Make-Porno-Rogen/dp/B009TGWW70",
+                        "media": "/static/assets/plugs/zack-and-miri.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Kevin Smith comes prepared with his Kenneth Branagh & Salma Hayek impressions on this week’s How Did This Get Made? Kevin joins Paul, Jason, and June to share his early involvement with a Superman movie that reveals the origin of the giant spider. We also get into Dr. Loveless’s spider fetish, the huge robot dildo, how racist the old west was, and Bai Ling.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/55884901",
+            "amazonURL": "https://www.amazon.com/gp/product/B003NS5L8W",
+            "youtubeURL": "https://www.youtube.com/watch?v=wk4QqIeZ9Xk",
+            "itunesURL": "https://itunes.apple.com/us/movie/id374184056"
+        }
+    }]
+}

@@ -1,0 +1,78 @@
+{
+    "results": [{
+        "film": {
+            "title": "Body Parts",
+            "summary": "After losing his arm in a car accident, a criminal psychologist has it replaced with a limb that belonged to a serial killer.",
+            "trailer": "https://www.youtube.com/watch?v=_IPEEe65AdU",
+            "poster": "/static/assets/posters/body-parts-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Claudia O'Doherty",
+                "photo": "/static/assets/guests/claudia-odoherty.jpg",
+                "bio": "Claudia O’Doherty is an Australian comedian who made some Comedy Blaps for Channel 4 in the United Kingdom. She has just recorded Ears on the Net, a sketch show for BBC’s Radio 4, which she also co-wrote.",
+                "plugs": [
+                    {
+                        "title": "Love",
+                        "URL": "https://www.netflix.com/title/80026506",
+                        "media": "/static/assets/plugs/love.jpg"
+                    },
+                    {
+                        "title": "Wreck-It Ralph",
+                        "URL": "https://www.amazon.com/Wreck-Ralph-John-C-Reilly/dp/B00B2DSIAI",
+                        "media": "/static/assets/plugs/wreck-it-ralph.jpg"
+                    },
+                    {
+                        "title": "Inside Amy Schumer",
+                        "URL": "https://www.amazon.com/Bad-Decisions/dp/B00CDU8C6O",
+                        "media": "/static/assets/plugs/inside-amy-schumer.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Gillian Jacobs",
+                "photo": "/static/assets/guests/gillian-jacobs.jpg",
+                "bio": "Gillian Jacobs delights and entertains the country every Thursday night on NBC’s Community. She delights and entertains a much smaller population in Los Angeles as a frequent performer in The Paul F. Tompkins Show and The Thrilling Adventure Hour. Before her life-changing move towards comedy, Gillian held dramatic roles on shows like The Good Wife, The Book of Daniel, and Fringe.",
+                "plugs": [
+                    {
+                        "title": "Love",
+                        "URL": "https://www.netflix.com/title/80026506",
+                        "media": "/static/assets/plugs/love.jpg"
+                    },
+                    {
+                        "title": "Community",
+                        "URL": "https://www.amazon.com/Spanish-101/dp/B002N7CTKM",
+                        "media": "/static/assets/plugs/community.jpg"
+                    },
+                    {
+                        "title": "Walk of Shame",
+                        "URL": "https://www.amazon.com/Walk-Shame-Elizabeth-Banks/dp/B00JBHQ138",
+                        "media": "/static/assets/plugs/walk-of-shame.jpg"
+                    },
+                    {
+                        "title": "Ibiza",
+                        "URL": "https://www.netflix.com/title/80195049",
+                        "media": "/static/assets/plugs/ibiza.jpg"
+                    },
+                    {
+                        "title": "At Home With Amy Sedaris",
+                        "URL": "https://www.amazon.com/gp/video/detail/B076FH5BDB",
+                        "media": "/static/assets/plugs/at-home-with-amy-sedaris.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HDTGM All-stars Gillian Jacobs and Claudia ODoherty of Netflixs Love join Paul and Jason to discuss the 1991 horror thriller film Body Parts. Recorded live from Largo at the Coronet in Los Angeles, they cover everything from the quiet to loud serious acting to the handcuff car chase to turtlenecks. Plus, everyone shares their thoughts on adults wearing pajamas.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/49467483",
+            "amazonURL": "https://www.amazon.com/gp/product/B001LMPEQQ",
+            "youtubeURL": "https://www.youtube.com/watch?v=gJKEF6AhE2M",
+            "itunesURL": "https://itunes.apple.com/us/movie/body-parts/id296383952"
+        }       
+    }]
+}

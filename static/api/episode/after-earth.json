@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "After Earth",
+            "summary": "A crash landing leaves Kitai Raige and his father Cypher stranded on Earth, a millennium after events forced humanity's escape. With Cypher injured, Kitai must embark on a perilous journey to signal for help.",
+            "trailer": "https://www.youtube.com/watch?v=CZIt20emgLY",
+            "poster": "/static/assets/posters/after-earth-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Paul F. Tompkins",
+                "photo": "/static/assets/guests/paul-f-tompkins.jpg",
+                "bio": "Paul F. Tompkins is a comedian and actor. He plays the role of “Dean Rosedragon” on Seeso’s Bajillion Dollar Propertie$ and provides the voice of “Mr. Peanutbutter” for the Netflix animated series Bojack Horseman.",
+                "plugs": [
+                    {
+                        "title": "Pod F. Tomcast",
+                        "URL": "http://pft.libsyn.com",
+                        "media": "/static/assets/plugs/pod-f-tomcast.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    },
+                    {
+                        "title": "Tenacious D in The Pick of Destiny",
+                        "URL": "https://www.amazon.com/dp/B002OCA0AC",
+                        "media": "/static/assets/plugs/the-pick-of-destiny.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Giant birds, weird wheelchairs, and ghosting are just some of the unbelievable things that are found in the Will & Jaden Smith vehicle After Earth. Paul, June, Jason, and Paul F. Tompkins discuss future British accents, an emotionless Will Smith, and animals that do nothing but kill. They also talk about the possible references to Scientology, a future with no doors & only a sword as a weapon, and June’s interpretation of what really happened in the birthday candles flashback scene.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/24974563",
+            "amazonURL": "https://www.amazon.com/gp/product/B00FPH6AXE",
+            "youtubeURL": "https://www.youtube.com/watch?v=PRln879ol50",
+            "itunesURL": "https://itunes.apple.com/us/movie/id682824463"
+        }
+    }]
+}

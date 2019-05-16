@@ -1,0 +1,42 @@
+{
+    "results": [{
+        "id": "all-about-steve",
+        "film": {
+            "title": "All About Steve",
+            "summary": "Convinced that a CCN cameraman is her true love, an eccentric crossword puzzler trails him as he travels all over the country, hoping to convince him that they belong together.",
+            "trailer": "https://www.youtube.com/watch?v=mtJfr-a_oHQ",
+            "poster": "/static/assets/posters/all-about-steve-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Brandon Johnson",
+                "photo": "/static/assets/guests/brandon-johnson.jpg",
+                "bio": "Brandon Johnson is a regular at the UCB Theatre who recently reached national audiences as DJ Ol Youngin in Funny People. His other film credits include Get Him to the Greek and the upcoming Matt Walsh film High Road. He has had guest roles on television shows such as Human Giant, The League, and Nick Swardson’s Pretend Time. Starting this summer you can find him on Adult Swim’s NTSF: SD: SUV.",
+                "plugs": [
+                    {
+                        "title": "NTSF:SD:SUV",
+                        "URL": "https://www.amazon.com/dp/B009JW4LFK",
+                        "media": "/static/assets/plugs/ntsf.jpg"
+                    },
+                    {
+                        "title": "Get Him to the Greek",
+                        "URL": "https://www.amazon.com/dp/B003YH92KU",
+                        "media": "/static/assets/plugs/get-him-to-the-greek.jpg"
+                    },
+                    {
+                        "title": "Ingrid Goes West",
+                        "URL": "https://www.amazon.com/dp/B074T4MBHB",
+                        "media": "/static/assets/plugs/ingrid-goes-west.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Sorry for the delay with this episode, but it takes a while to fully comprehend All About Steve. Paul, Jason, June, and special guest Brandon Johnson tried their hardest, but still couldn’t figure out how this mildly racist, poorly structured, bizarrely performed movie got made.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/57834623",
+            "amazonURL": "https://www.amazon.com/gp/product/B002UVH1E0",
+            "youtubeURL": "https://www.youtube.com/watch?v=dKTx33pVG2Q",
+            "itunesURL": "https://itunes.apple.com/us/movie/id329064135"
+        }
+    }]
+}

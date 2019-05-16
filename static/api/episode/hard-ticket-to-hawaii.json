@@ -1,0 +1,73 @@
+{
+    "results": [{
+        "film": {
+            "title": "Hard Ticket to Hawaii",
+            "summary": "In Molokai, two undercover drug enforcement agents are after a vicious drug kingpin, but on the way, they will also have to deal with a contaminated giant python.",
+            "trailer": "https://www.youtube.com/watch?v=PCM6HCTJeRU",
+            "poster": "/static/assets/posters/hard-ticket-to-hawaii-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Karen Kilgariff",
+                "photo": "/static/assets/guests/karen-kilgariff.jpg",
+                "bio": "Karen Kilgariff is an actress and writer best known for her work on the late 1990s sketch comedy television program Mr. Show and the Glasgow-set situation comedy The Book Group. She was the head writer for The Ellen DeGeneres Show and occasionally appears on screen in sketches and other segments. She was also part of a comic duo (with Mary Lynn Rajskub) called Girls Guitar Club.",
+                "plugs": [
+                    {
+                        "title": "Baskets",
+                        "URL": "https://www.amazon.com/Pilot-Renoir/dp/B01A4OABLO",
+                        "media": "/static/assets/plugs/baskets.jpg"
+                    },
+                    {
+                        "title": "Portlandia",
+                        "URL": "https://www.amazon.com/dp/B004KCOABO",
+                        "media": "/static/assets/plugs/portlandia.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Andrea Savage",
+                "photo": "/static/assets/guests/andrea-savage.jpg",
+                "bio": "Andrea Savage is an American comedic actress, writer and producer best known for her comedic roles in Step Brothers, Comedy Central’s mockumentary series Dog Bites Man, her Funny or Die short “Republicans Get in My Vagina!” and in the HBO sketch comedy program Funny or Die Presents.",
+                "plugs": [
+                    {
+                        "title": "I'm Sorry",
+                        "URL": "https://www.amazon.com/gp/video/detail/B072KGC6RT",
+                        "media": "/static/assets/plugs/im-sorry.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Step Brothers",
+                        "URL": "https://www.amazon.com/dp/B007OXHVSU",
+                        "media": "/static/assets/plugs/step-brothers.jpg"
+                    },
+                    {
+                        "title": "The Hotwives of Orlando",
+                        "URL": "https://www.amazon.com/dp/B00XJC325Q",
+                        "media": "/static/assets/plugs/the-hotwives-of-orlando.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Episodes",
+                        "URL": "https://www.amazon.com/Episode-1/dp/B005MHS90O",
+                        "media": "/static/assets/plugs/episodes.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HDTGM All-stars Andrea Savage (I’m Sorry) and Karen Kilgariff (My Favorite Murder) joins Paul and Jason to discuss the 1987 action thriller Hard Ticket to Hawaii. Recorded live from Largo at the Coronet in Los Angeles, they talk about serious conversations in hot tubs, blowing up skateboarders with bazookas, throwing nunchucks, and getting messages in sandwiches delivered by a sushi restaurant.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/51017829",
+            "amazonURL": "https://www.amazon.com/gp/product/B07KCPH6LL",
+            "youtubeURL": "https://www.youtube.com/watch?v=KQXEfV5FUsg",
+            "itunesURL": "https://itunes.apple.com/ca/movie/hard-ticket-to-hawaii/id474290030"
+        }       
+    }]
+}

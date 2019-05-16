@@ -1,0 +1,132 @@
+{
+    "results": [{
+        "film": {
+            "title": "Hello Mary Lou: Prom Night II",
+            "summary": "Thirty years after her accidental death at her 1957 senior prom, the tortured spirit of prom queen Mary Lou Maloney returns to seek revenge.",
+            "trailer": "https://www.youtube.com/watch?v=kOam3xTZ0w8",
+            "poster": "/static/assets/posters/prom-night-ii-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Charlize Theron",
+                "photo": "/static/assets/guests/charlize-theron.jpg",
+                "bio": "Charlize Theron is a South African and American actress and film producer. She is the recipient of several accolades, including an Academy Award, a Golden Globe Award, and the Silver Bear for Best Actress.",
+                "plugs": [
+                    {
+                        "title": "Between Two Ferns",
+                        "URL": "https://www.amazon.com/Michael-Cera/dp/B01MXOLM23",
+                        "media": "/static/assets/plugs/between-two-ferns.jpg"
+                    },
+                    {
+                        "title": "The Devil's Advocate",
+                        "URL": "https://www.amazon.com/Devils-Advocate-Keanu-Reeves/dp/B001EBYM9Y",
+                        "media": "/static/assets/plugs/the-devils-advocate.jpg"
+                    },
+                    {
+                        "title": "Tully",
+                        "URL": "https://www.amazon.com/Tully-Charlize-Theron/dp/B07CRN142G",
+                        "media": "/static/assets/plugs/tully.jpg"
+                    },
+                    {
+                        "title": "Young Adult",
+                        "URL": "https://www.amazon.com/Young-Adult-Charlize-Theron/dp/B00797MB0O",
+                        "media": "/static/assets/plugs/young-adult.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Seth Rogen",
+                "photo": "/static/assets/guests/seth-rogen.jpg",
+                "bio": "Seth Rogen is a talented actor, comedian and writer, well known for his work in the Apatow universe. He recently added “director” to his resume with his new feature film THIS IS THE END, which hits theaters June 12.",
+                "plugs": [
+                    {
+                        "title": "Knocked Up",
+                        "URL": "https://www.amazon.com/Knocked-Up-Unrated-Seth-Rogen/dp/B000XRK4VU",
+                        "media": "/static/assets/plugs/knocked-up.jpg"
+                    },
+                    {
+                        "title": "50/50",
+                        "URL": "https://www.amazon.com/50-Joseph-Gordon-Levitt/dp/B006X6J8IA",
+                        "media": "/static/assets/plugs/fifty-fifty.jpg"
+                    },
+                    {
+                        "title": "The Night Before",
+                        "URL": "https://www.amazon.com/Night-Before-Joseph-Gordon-Levitt/dp/B018AEXT82",
+                        "media": "/static/assets/plugs/the-night-before.jpg"
+                    },
+                    {
+                        "title": "Sausage Party",
+                        "URL": "https://www.amazon.com/dp/B01JBARY4O",
+                        "media": "/static/assets/plugs/sausage-party.jpg"
+                    },
+                    {
+                        "title": "Superbad",
+                        "URL": "https://www.amazon.com/Superbad-Jonah-Hill/dp/B0010R08PO",
+                        "media": "/static/assets/plugs/superbad.jpg"
+                    },
+                    {
+                        "title": "This Is The End",
+                        "URL": "https://www.amazon.com/This-End-Seth-Rogen/dp/B00EP0MVGW",
+                        "media": "/static/assets/plugs/this-is-the-end.jpg"
+                    },
+                    {
+                        "title": "The Green Hornet",
+                        "URL": "https://www.amazon.com/Green-Hornet-Seth-Rogen/dp/B004VL9Y5G",
+                        "media": "/static/assets/plugs/the-green-hornet.jpg"
+                    },
+                    {
+                        "title": "The Interview",
+                        "URL": "https://www.amazon.com/Interview-Seth-Rogen/dp/B00RNRD9IS",
+                        "media": "/static/assets/plugs/the-interview.jpg"
+                    },
+                    {
+                        "title": "Pineapple Express",
+                        "URL": "https://www.amazon.com/Pineapple-Express-Unrated-Seth-Rogen/dp/B00CPGF1M4",
+                        "media": "/static/assets/plugs/pineapple-express.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "The Disaster Artist",
+                        "URL": "https://www.amazon.com/Disaster-Artist-James-Franco/dp/B077THGZTS",
+                        "media": "/static/assets/plugs/the-disaster-artist.jpg"
+                    },
+                    {
+                        "title": "Zack and Miri Make a Porno",
+                        "URL": "https://www.amazon.com/Zack-Miri-Make-Porno-Rogen/dp/B009TGWW70",
+                        "media": "/static/assets/plugs/zack-and-miri.jpg"
+                    },
+                    {
+                        "title": "Neighbors",
+                        "URL": "https://www.amazon.com/Neighbors-Seth-Rogen/dp/B00K7WZGPA",
+                        "media": "/static/assets/plugs/neighbors.jpg"
+                    },
+                    {
+                        "title": "40 Year Old Virgin",
+                        "URL": "https://www.amazon.com/40-Year-Old-Virgin-Steve-Carell/dp/B000I3SPLK",
+                        "media": "/static/assets/plugs/the-40-year-old-virgin.jpg"
+                    },
+                    {
+                        "title": "Freaks and Geeks",
+                        "URL": "https://www.amazon.com/Freaks-Geeks-Complete/dp/B00MUF60E8",
+                        "media": "/static/assets/plugs/freaks-and-geeks.jpg"
+                    },
+                    {
+                        "title": "Paul",
+                        "URL": "https://www.amazon.com/Paul-Unrated-Simon-Pegg/dp/B0055J7F40",
+                        "media": "/static/assets/plugs/paul.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Charlize Theron and Seth Rogen of Long Shot join Paul, June, and Jason to discuss the 1987 Canadian supernatural slasher Hello Mary Lou: Prom Night II. Recorded live at Largo at the Coronet in Los Angeles, they talk about stink bombs, the naked terminator scene, the giant juggs of milk, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/60285866",
+            "amazonURL": "https://www.amazon.com/Prom-Night-Hello-Mary-Lou/dp/B073VW8KHC",
+            "youtubeURL": "https://www.youtube.com/watch?v=1xhHMUF3dwo"
+        }       
+    }]
+}

@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Reindeer Games",
+            "summary": "After assuming his dead cellmate's identity to get with the other man's girlfriend, an ex-con finds himself a reluctant participant in a casino heist.",
+            "trailer": "https://www.youtube.com/watch?v=0856Uv4QmtI",
+            "poster": "/static/assets/posters/reindeer-games-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Howard Kremer",
+                "photo": "/static/assets/guests/howard-kremer.jpg",
+                "bio": "Howard Kremer is a comedian. He’s performed stand-up on COMEDY CENTRAL and JIMMY KIMMEL LIVE. He’s appeared on many shows including AUSTIN STORIES, SCARE TACTICS, @MIDNIGHT, COMEDY BANG! BANG!, TAKE MY WIFE and BAJILLION DOLLAR PROPERTIE$. He has written for the shows HUMAN GIANT, PRETEND TIME, THE GOODE FAMILY, BEAVIS AND BUTTHEAD and LOPEZ. He is the founder of the HAVE A SUMMAH movement. He is rapper DRAGON BOY SUEDE. He has 9 albums on iTunes. You can find Howard Kremer with Kulap Vilaysack every Wednesday hosting WHO CHARTED right here on Earwolf!",
+                "plugs": [
+                    {
+                        "title": "Human Giant",
+                        "URL": "https://www.amazon.com/Mind-Explosion/dp/B000PAVSBU",
+                        "media": "/static/assets/plugs/human-giant.jpg"
+                    },
+                    {
+                        "title": "Who Charted",
+                        "URL": "https://itunes.apple.com/us/podcast/who-charted/id408711228",
+                        "media": "/static/assets/plugs/who-charted.jpg"
+                    },
+                    {
+                        "title": "Dragon Boy Suede",
+                        "URL": "https://howardkremer.bandcamp.com",
+                        "media": "/static/assets/plugs/dragon-boy-suede.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Join us this Christmas as we discuss one of the worst holiday-themed movies to come out two months after December, Reindeer Games. We talk about terrible open-mouthed kissing, how much Ben Affleck likes pecan pie, and a strange cameo by Ashton Kutcher. Also, we learn all about Paul’s intimate relationship history with his mom. Joining us this week is Who Charted’s Howard Kremer who helps us learn about symbolism and what the holidays really mean. There are no reindeer games here! Happy holidays from How Did This Get Made!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/22428713",
+            "amazonURL": "https://www.amazon.com/gp/product/B008RKL0M2",
+            "youtubeURL": "https://www.youtube.com/watch?v=nYdbHGqzG3E",
+            "itunesURL": "https://itunes.apple.com/us/movie/id549483726"
+        }
+    }]
+}

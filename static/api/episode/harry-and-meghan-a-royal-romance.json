@@ -1,0 +1,45 @@
+{
+    "results": [{
+        "film": {
+            "title": "Harry & Meghan: A Royal Romance",
+            "summary": "The meeting and courtship of Prince Harry and Meghan Markle.",
+            "trailer": "https://www.youtube.com/watch?v=1zr1o01jjz0",
+            "poster": "/static/assets/posters/harry-and-meghan-a-royal-romance-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Casey Wilson",
+                "photo": "/static/assets/guests/casey-wilson.jpg",
+                "bio": "Casey Wilson was a series regular on the sitcoms Marry Me and Happy Endings. She was twice nominated for a Critics’ Choice Award for her performance on the latter show, and Variety has called her one of the “Top 10 Comics to Watch.”",
+                "plugs": [
+                    {
+                        "title": "Happy Endings",
+                        "URL": "https://www.amazon.com/dp/B004V2E8SS",
+                        "media": "/static/assets/plugs/happy-endings.jpg"
+                    },
+                    {
+                        "title": "Ass Backwards",
+                        "URL": "https://www.amazon.com/dp/B00FJ01BN6",
+                        "media": "/static/assets/plugs/ass-backwards.jpg"
+                    },
+                    {
+                        "title": "Bored to Death",
+                        "URL": "https://www.amazon.com/dp/B002P3ODNU",
+                        "media": "/static/assets/plugs/bored-to-death.jpg"
+                    },
+                    {
+                        "title": "Marry Me",
+                        "URL": "https://www.amazon.com/dp/B00OBTFUPQ",
+                        "media": "/static/assets/plugs/marry-me.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Casey Wilson (Black Monday, Bitch Sesh) joins Paul, June, and Jason to discuss the 2018 Lifetime original movie Harry & Meghan: A Royal Romance. Recorded live from Largo at the Coronet in Los Angeles, they talk about the lion, Africa, the Queen watching Netflix, and the moments that made everyone cry.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/59104397",
+            "amazonURL": "https://www.amazon.com/dp/B07D67NJDF",
+            "itunesURL": "https://itunes.apple.com/us/tv-season/harry-meghan-a-royal-romance/id1372308033"
+        }       
+    }]
+}

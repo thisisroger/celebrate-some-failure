@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Gooby",
+            "summary": "Eleven year old Willy's childhood toy, Gooby, comes to life as a real, live, six-foot tall monster who helps Willy through rough times, with hair-raising and hilarious adventures.",
+            "trailer": "https://www.youtube.com/watch?v=-NNNshTYcFs",
+            "poster": "/static/assets/posters/gooby-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Nathan Fielder",
+                "photo": "/static/assets/guests/nathan-fielder.jpg",
+                "bio": "Nathan Fielder is a Canadian writer, comedian and filmmaker. He had a role in the television series Jon Benjamin Has a Van and currently stars in his own show for Comedy Central titled “Nathan For You” where Nathan visits struggling small businesses and implements humorous, unique marketing campaigns.",
+                "plugs": [
+                    {
+                        "title": "Nathan for You",
+                        "URL": "https://www.amazon.com/Gas-Station-Caricature-Artist/dp/B00BN6JOE8",
+                        "media": "/static/assets/plugs/nathan-for-you.jpg"
+                    },
+                    {
+                        "title": "Jon Benjamin Has a Van",
+                        "URL": "https://www.amazon.com/Border/dp/B00590UTB6",
+                        "media": "/static/assets/plugs/jon-benjamin-has-a-van.jpg"
+                    },
+                    {
+                        "title": "The Night Before",
+                        "URL": "https://www.amazon.com/Night-Before-Joseph-Gordon-Levitt/dp/B018AEXT82",
+                        "media": "/static/assets/plugs/the-night-before.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Finally a kids movie that proves the age old adage that a kid’s best friend is a 7 foot tall scary ass looking Scottish bear that makes other kids piss their pants. Star of the hit TV show Nathan For You & Canada expert Nathan Fielder joins Paul, June, and Jason to discuss a movie with no plot simply known as Gooby. Why do people see Gooby as a man in a costume and others see him as a monster? How was this released in 2009? What lead to Eugene Levy being in this movie? Tune in as they discuss the possibility of Gooby secretly being a child molester and much more!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131100",
+            "amazonURL": "https://www.amazon.com/dp/B00UDQUD12",
+            "youtubeURL": "https://www.youtube.com/watch?v=mPeZDMS9bTk",
+            "itunesURL": "https://itunes.apple.com/us/movie/gooby/id323243710"
+        }
+    }]
+}

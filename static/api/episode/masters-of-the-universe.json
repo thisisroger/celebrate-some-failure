@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Masters of the Universe",
+            "summary": "The heroic warrior He-Man battles against the evil lord Skeletor and his armies of darkness for control of Castle Grayskull.",
+            "trailer": "https://www.youtube.com/watch?v=CF20B8p4F08",
+            "poster": "/static/assets/posters/masters-of-the-universe-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Tatiana Maslany",
+                "photo": "/static/assets/guests/tatiana-maslany.jpg",
+                "bio": "Tatiana Maslany is a Canadian actress. She has starred in television series such as The Nativity, Being Erica, Heartland, and Orphan Black.",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Finally, the He-Man movie starring Dolph Lundgren on Earth with a bunch of teens. Orphan Black’s Tatiana Maslany joins Paul, June, and Jason to discuss the 1987 film Masters of the Universe. They’ll cover He-Man not being spectacular at anything, the big battle being mostly shot in the dark, Courteney Cox’s emotional journey, and everyone’s favorite character Karg. Plus, June explains how the movie made her realize she is afraid of mirages.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/40696606",
+            "amazonURL": "https://www.amazon.com/Masters-Universe-Gary-Goddard/dp/B001D6FXNO",
+            "youtubeURL": "https://www.youtube.com/watch?v=NTG2PESRurY",
+            "itunesURL": "https://itunes.apple.com/us/movie/masters-of-the-universe/id285693714"
+        }
+    }]
+}

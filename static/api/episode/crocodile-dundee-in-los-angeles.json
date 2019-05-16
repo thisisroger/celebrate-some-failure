@@ -1,0 +1,36 @@
+{
+    "results": [{
+        "film": {
+            "title": "Crocodile Dundee in Los Angeles",
+            "summary": "Australian Outback adventurer Mick \"Crocodile\" Dundee travels to Los Angeles with his young son while his longtime companion suspects foul play at a movie studio.",
+            "trailer": "https://www.youtube.com/watch?v=4hlqCTxr1mE",
+            "poster": "/static/assets/posters/crocodile-dundee-in-los-angeles-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Eddie Pepitone",
+                "photo": "/static/assets/guests/eddie-pepitone.jpg",
+                "bio": "Eddie Pepitone is like your angry uncle who you can’t wait to see each Thanksgiving. He traveled from Chicago through New York ultimately reaching Los Angeles, all the while racking up television credits such as Last Comic Standing, Jimmy Kimmel Live, and The Sarah Silverman Program (to name a few). You might recognize him from Old School or, if you’re lucky, from his one-man show End of Days.",
+                "plugs": [
+                    {
+                        "title": "Trunk'd",
+                        "URL": "https://www.amazon.com/Trunkd-Dan-Cummins/dp/B017JRKJ0W",
+                        "media": "/static/assets/plugs/trunkd.jpg"
+                    },
+                    {
+                        "title": "Old School",
+                        "URL": "https://www.amazon.com/dp/B009IF7SWG",
+                        "media": "/static/assets/plugs/old-school.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "That’s not a podcast, THIS is a podcast! The Bitter Buddha himself, Eddie Pepitone joins us this week to talk about Crocodile Dundee’s misadventures in Los Angeles! We discuss the confusion over the spider in the hat scene, the Beverly Hills Cop-esque plot that appears later in the movie, and the insanity of the skunk in the freeway. Then, ESPN fantasy sports analyst Matthew Berry explains how he become involved in writing the movie, how he & his writing partner got into a public dispute with Paul Hogan over writing credit, and the one thing he’s proud of & is embarrassed by in the movie. Crikey!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/27590760",
+            "amazonURL": "https://www.amazon.com/gp/product/B07FZQ8XD9",
+            "youtubeURL": "https://www.youtube.com/watch?v=rQiDIIudwVE",
+            "itunesURL": "https://itunes.apple.com/us/movie/id275152474"
+        }
+    }]
+}

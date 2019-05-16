@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Glimmer Man",
+            "summary": "Two cops, played by Seagal and Wayans, are forced to work together to solve a chain of mysterious killings by a killer nicknamed \"The Family Man\".",
+            "trailer": "https://www.youtube.com/watch?v=SwuIA5Emjm4",
+            "poster": "/static/assets/posters/the-glimmer-man-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jon Lajoie",
+                "photo": "/static/assets/guests/jon-lajoie.jpg",
+                "bio": "Jon Lajoie is a Canadian dark-humour comedian, actor, rapper, singer, musician and Internet sensation. He was born and raised in Montreal, Canada, is the third in a family of nine children. He graduated from Dawson College’s theatre/ninja assassin program in 2001, and immediately started booking assassination work, incidentally putting his acting career on the back burner. In June of 2007, he decided to start making videos and posting them on the Internet. The videos were so well received that he put “assassinating people in a ninja-like fashion” on hold, and began getting drunk all the time. A few months later he decided to only get drunk once in a while and to restart making videos. He currently has a role on FX’s The League and likes Penguins and feet.",
+                "plugs": [
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Let's Be Cops",
+                        "URL": "https://www.amazon.com/Lets-Cops-Jr-Damon-Wayans/dp/B00MO7Y44U",
+                        "media": "/static/assets/plugs/lets-be-cops.jpg"
+                    },
+                    {
+                        "title": "The Lego Movie 2: The Second Part Soundtrack",
+                        "URL": "https://www.amazon.com/LEGO-Movie-Original-Picture-Soundtrack/dp/B07PX3YY4L",
+                        "media": "/static/assets/plugs/the-lego-movie-two.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Get your deer penis out right now because The League’s Jon Lajoie joins Paul, June, and Jason to discuss Steven Seagal’s The Glimmer Man. Is this a buddy cop film? How is it that Seagal’s character is a man of peace yet he violently murders a ton of Russian terrorists with a credit card? Is there a separate storyline that involved Keenen Ivory Wayans’ character getting in touch with his emotions? They’ll get into all of this and more!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/29045282",
+            "amazonURL": "https://www.amazon.com/dp/B001AIY57K",
+            "youtubeURL": "https://www.youtube.com/watch?v=ZbjQWrG9MAM",
+            "itunesURL": "https://itunes.apple.com/us/movie/id279599149"
+        }
+    }]
+}

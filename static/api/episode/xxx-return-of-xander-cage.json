@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "xXx: Return of Xander Cage",
+            "summary": "Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.",
+            "trailer": "https://www.youtube.com/watch?v=MQEFmHsseaU",
+            "poster": "/static/assets/posters/xxx-return-of-xander-cage-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Adam Scott",
+                "photo": "/static/assets/guests/adam-scott.jpg",
+                "bio": "Adam Scott is perhaps best known for his roles in Knocked Up, Step Brothers, Party Down, Eastbound & Down, Parks and Recreation, and many Funny or Die videos. Additionally, he’s been a guest on shows such as The Sarah Silverman Program, Childrens Hospital, Veronica Mars and more. So, basically he’s great. Handsome, funny, good actor, the whole package.",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Party Down",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0040J4LH0",
+                        "media": "/static/assets/plugs/party-down.jpg"
+                    },
+                    {
+                        "title": "Step Brothers",
+                        "URL": "https://www.amazon.com/dp/B007OXHVSU",
+                        "media": "/static/assets/plugs/step-brothers.jpg"
+                    },
+                    {
+                        "title": "The Overnight",
+                        "URL": "https://www.amazon.com/dp/B07LGCQ3Q4",
+                        "media": "/static/assets/plugs/the-overnight.jpg"
+                    },
+                    {
+                        "title": "My Blind Brother",
+                        "URL": "https://www.amazon.com/dp/B01LXLQUKZ",
+                        "media": "/static/assets/plugs/my-blind-brother.jpg"
+                    },
+                    {
+                        "title": "A.C.O.D",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00GT8AV6U",
+                        "media": "/static/assets/plugs/acod.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Adam Scott joins Paul, June, and Jason for a family reunion to discuss Vin Diesels fan fiction to himself, xXx: Return of Xander Cage. Recorded live from Largo at the Coronet in Los Angeles, they cover everything from forest skiing to riding motorcycles underwater.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/49160340",
+            "amazonURL": "https://www.amazon.com/gp/product/B01MY6KAJP",
+            "youtubeURL": "https://www.youtube.com/watch?v=IQ-W-huyz20",
+            "itunesURL": "https://itunes.apple.com/us/movie/id1186551221&sid=ee55b40a-3002-4bfd-8812-18216f42a2f1&cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2ZpbHRlcl9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InNlYXJjaFN0cmluZyI6Inh4eDotcmV0dXJuLW9mLXhhbmRlci1jYWdlIiwiaXNQcm92aWRlckZpbHRlcmVkIjpmYWxzZSwicHJvdmlkZXJJZCI6IltcIm5meFwiLFwiYW1wXCIsXCJobHVcIixcInZ5aFwiLFwiYW16XCIsXCJoYm5cIixcInlvdFwiLFwieXRyXCIsXCJwbHlcIixcIml0dVwiLFwiY2JzXCIsXCJya2NcIixcImhvcFwiLFwidGN3XCIsXCJjd3NcIixcInN0elwiLFwiY3JjXCIsXCJmZGdcIixcInZkdVwiLFwic2hvXCIsXCJpZmRcIixcInBic1wiLFwicGZ4XCIsXCJmeG5cIixcInRidlwiLFwiZGN1XCIsXCJrbnBcIixcImNvbVwiLFwicGxzXCIsXCJtc2ZcIixcIm14Z1wiLFwiaGJnXCIsXCJhYmNcIixcImNya1wiLFwiYW10XCIsXCJhbWNcIixcImZuZFwiLFwiY3RzXCIsXCJuYmNcIixcImVweFwiLFwiZmZtXCIsXCJoaXNcIixcInNmeVwiLFwiYWFlXCIsXCJsZnRcIixcInNoZFwiLFwic2NiXCIsXCJhY3RcIixcInNkblwiLFwicGNmXCIsXCJiYm9cIixcImdkY1wiLFwicmx6XCIsXCJtYmlcIixcImZhZFwiLFwibmZrXCIsXCJ5ZnJcIixcInB0eVwiLFwiYm1nXCIsXCJ1ZmZcIixcInVtY1wiLFwiZHZjXCIsXCJ5dHZcIl0iLCJpc0dlbnJlRmlsdGVyZWQiOmZhbHNlLCJnZW5yZUlkIjoiW1wiYWN0XCIsXCJhbmlcIixcImNteVwiLFwiY3JtXCIsXCJkb2NcIixcImRybVwiLFwiZm50XCIsXCJoc3RcIixcImhyclwiLFwiZm1sXCIsXCJtc2NcIixcInRybFwiLFwicm1hXCIsXCJzY2ZcIixcInNwdFwiLFwid2FyXCIsXCJ3c25cIl0iLCJvYmplY3RUeXBlRmlsdGVyIjowLCJwYWdlSWQiOjc4ODI0LCJjb3VudHJ5Q29kZSI6InVzIiwibGFuZ3VhZ2VDb2RlIjoiZW4iLCJpc01vbmV0aXphdGlvblR5cGVGaWx0ZXJlZCI6ZmFsc2UsIm1vbmV0aXphdGlvblR5cGUiOiJbXCJmcmVlXCIsXCJhZHNcIixcImZsYXRyYXRlXCIsXCJyZW50XCIsXCJidXlcIixcImNpbmVtYVwiXSIsImlzU2NvcmluZ0ZpbHRlcmVkIjpmYWxzZSwic2NvcmluZyI6IntcImltZGI6c2NvcmVcIjp7XCJtaW5fc2NvcmluZ192YWx1ZVwiOjAsXCJtYXhfc2NvcmluZ192YWx1ZVwiOjEwfSxcInRvbWF0bzptZXRlclwiOntcIm1pbl9zY29yaW5nX3ZhbHVlXCI6MCxcIm1heF9zY29yaW5nX3ZhbHVlXCI6MTAwfX0ifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvY2xpY2tvdXRfY29udGV4dC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJwcm92aWRlciI6IkFwcGxlIGlUdW5lcyIsIm1vbmV0aXphdGlvblR5cGUiOiJyZW50IiwicHJlc2VudGF0aW9uVHlwZSI6IjRrIiwiY3VycmVuY3kiOiJVU0QiLCJwcmljZSI6My45OX19XX0&uct_country=us"
+        }       
+    }]
+}

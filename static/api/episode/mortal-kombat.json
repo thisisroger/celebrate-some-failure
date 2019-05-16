@@ -1,0 +1,36 @@
+{
+    "results": [{
+        "film": {
+            "title": "Mortal Kombat",
+            "summary": "Three unknowing martial artists are summoned to a mysterious island to compete in a tournament whose outcome will decide the fate of the world.",
+            "trailer": "https://www.youtube.com/watch?v=JHIfHL5UgFs",
+            "poster": "/static/assets/posters/mortal-kombat-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Cameron Esposito",
+                "photo": "/static/assets/guests/cameron-esposito.jpg",
+                "bio": "Cameron Esposito is a stand-up comedian. You can catch Cameron every Tuesday night at 8 PM at LA’s UCB Theatre where she hosts the stand-up show Put Your Hands Together which is also a podcast. Cameron also hosts Queery, an interview podcast with some of the brightest luminaries in the LGBTQ+ family.",
+                "plugs": [
+                    {
+                        "title": "Take My Wife",
+                        "URL": "https://www.amazon.com/Set-up/dp/B01IU9LWN6",
+                        "media": "/static/assets/plugs/take-my-wife.jpg"
+                    },
+                    {
+                        "title": "We Bare Bears",
+                        "URL": "https://www.amazon.com/Our-Stuff-Viral-Video/dp/B0111NFKPY",
+                        "media": "/static/assets/plugs/we-bare-bears.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "If you loved the game, you might hate this movie. Put Your Hands Together/Wham Bam Pow host Cameron Esposito joins Paul, June, and Jason to talk all about MORTAL KOMBAT. They discuss the mortals being unfazed by the supernatural, Christopher Lambert’s wig, and the anticlimactic fight with Goro aka four arms. Plus, we learn about June’s relationship with video games, find out Jason’s thoughts on the movie’s soundtrack, and hear one of the most amazing reviews during Second Opinions.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/32034204",
+            "amazonURL": "https://www.amazon.com/gp/product/B004AWQBQG",
+            "youtubeURL": "https://www.youtube.com/watch?v=O07FnB6Agoc",
+            "itunesURL": "https://itunes.apple.com/us/movie/id422064240"
+        }
+    }]
+}

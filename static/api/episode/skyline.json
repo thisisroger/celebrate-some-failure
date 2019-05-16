@@ -1,0 +1,31 @@
+{
+    "results": [{
+        "film": {
+            "title": "Skyline",
+            "summary": "Strange lights descend on the city of Los Angeles, drawing people outside like moths to a flame where an extraterrestrial force threatens to swallow the entire human population off the face of the Earth.",
+            "trailer": "https://www.youtube.com/watch?v=yRyRvjsIvKk",
+            "poster": "/static/assets/posters/skyline-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jordan Morris",
+                "photo": "/static/assets/guests/jordan-morris.jpg",
+                "bio": "Jordan Morris is a comedian, actor, and boy detective. You might know him from the Maximum Fun podcast Jordan, Jesse Go! where he and Jesse Thorn talk about Sega games and Bay Area rappers, respectively. You might also recognize him from The Daily Habit on Fuel TV where he goes to press junkets for movies naked (sometimes). You might also recognize him from the UCB where he sometimes does make-em-ups and joke-abouts.",
+                "plugs": [
+                    {
+                        "title": "Jordan, Jesse, Go!",
+                        "URL": "https://itunes.apple.com/us/podcast/id207698746",
+                        "media": "/static/assets/plugs/jordan-and-jesse-go.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Summer is winding down and you have time for one last big-budget action thriller! Sorry, we can't help you with that. Instead we have a meager-budget alien movie without a compelling story, relatable characters, or cool looking aliens. The Brothers Strause have done it again! Skyline is the movie and our guest is Jordan Morris from Jordan, Jesse Go! and All About Steve. The plot is unbelievable, the dialogue is atrocious, Jason is angry, Paul is confused, what more could you want? Jordan talking about his experience on All About Steve? Well you got it!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131242",
+            "amazonURL": "https://www.amazon.com/gp/product/B004UTA5BG",
+            "youtubeURL": "https://www.youtube.com/watch?v=iBWrqvjDmW8",
+            "itunesURL": "https://itunes.apple.com/us/movie/id425299436"
+        }
+    }]
+}

@@ -1,0 +1,106 @@
+{
+    "results": [{
+        "film": {
+            "title": "Action Jackson",
+            "summary": "Vengence drives a tough Detroit cop to stay on the trail of a power hungry auto magnate who's systematically eliminating his competition.",
+            "trailer": "https://www.youtube.com/watch?v=-AvMn2Vh0fQ",
+            "poster": "/static/assets/posters/action-jackson-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Seth Rogen",
+                "photo": "/static/assets/guests/seth-rogen.jpg",
+                "bio": "Seth Rogen is a talented actor, comedian and writer, well known for his work in the Apatow universe. He recently added “director” to his resume with his new feature film THIS IS THE END, which hits theaters June 12.",
+                "plugs": [
+                    {
+                        "title": "Knocked Up",
+                        "URL": "https://www.amazon.com/Knocked-Up-Unrated-Seth-Rogen/dp/B000XRK4VU",
+                        "media": "/static/assets/plugs/knocked-up.jpg"
+                    },
+                    {
+                        "title": "50/50",
+                        "URL": "https://www.amazon.com/50-Joseph-Gordon-Levitt/dp/B006X6J8IA",
+                        "media": "/static/assets/plugs/fifty-fifty.jpg"
+                    },
+                    {
+                        "title": "The Night Before",
+                        "URL": "https://www.amazon.com/Night-Before-Joseph-Gordon-Levitt/dp/B018AEXT82",
+                        "media": "/static/assets/plugs/the-night-before.jpg"
+                    },
+                    {
+                        "title": "Sausage Party",
+                        "URL": "https://www.amazon.com/dp/B01JBARY4O",
+                        "media": "/static/assets/plugs/sausage-party.jpg"
+                    },
+                    {
+                        "title": "Superbad",
+                        "URL": "https://www.amazon.com/Superbad-Jonah-Hill/dp/B0010R08PO",
+                        "media": "/static/assets/plugs/superbad.jpg"
+                    },
+                    {
+                        "title": "This Is The End",
+                        "URL": "https://www.amazon.com/This-End-Seth-Rogen/dp/B00EP0MVGW",
+                        "media": "/static/assets/plugs/this-is-the-end.jpg"
+                    },
+                    {
+                        "title": "The Green Hornet",
+                        "URL": "https://www.amazon.com/Green-Hornet-Seth-Rogen/dp/B004VL9Y5G",
+                        "media": "/static/assets/plugs/the-green-hornet.jpg"
+                    },
+                    {
+                        "title": "The Interview",
+                        "URL": "https://www.amazon.com/Interview-Seth-Rogen/dp/B00RNRD9IS",
+                        "media": "/static/assets/plugs/the-interview.jpg"
+                    },
+                    {
+                        "title": "Pineapple Express",
+                        "URL": "https://www.amazon.com/Pineapple-Express-Unrated-Seth-Rogen/dp/B00CPGF1M4",
+                        "media": "/static/assets/plugs/pineapple-express.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "The Disaster Artist",
+                        "URL": "https://www.amazon.com/Disaster-Artist-James-Franco/dp/B077THGZTS",
+                        "media": "/static/assets/plugs/the-disaster-artist.jpg"
+                    },
+                    {
+                        "title": "Zack and Miri Make a Porno",
+                        "URL": "https://www.amazon.com/Zack-Miri-Make-Porno-Rogen/dp/B009TGWW70",
+                        "media": "/static/assets/plugs/zack-and-miri.jpg"
+                    },
+                    {
+                        "title": "Neighbors",
+                        "URL": "https://www.amazon.com/Neighbors-Seth-Rogen/dp/B00K7WZGPA",
+                        "media": "/static/assets/plugs/neighbors.jpg"
+                    },
+                    {
+                        "title": "40 Year Old Virgin",
+                        "URL": "https://www.amazon.com/40-Year-Old-Virgin-Steve-Carell/dp/B000I3SPLK",
+                        "media": "/static/assets/plugs/the-40-year-old-virgin.jpg"
+                    },
+                    {
+                        "title": "Freaks and Geeks",
+                        "URL": "https://www.amazon.com/Freaks-Geeks-Complete/dp/B00MUF60E8",
+                        "media": "/static/assets/plugs/freaks-and-geeks.jpg"
+                    },
+                    {
+                        "title": "Paul",
+                        "URL": "https://www.amazon.com/Paul-Unrated-Simon-Pegg/dp/B0055J7F40",
+                        "media": "/static/assets/plugs/paul.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Seth Rogen joins Paul, June, and Jason to discuss the 1988 action film Action Jackson starring Carl Weathers on the 200th episode of How Did This Get Made! Recorded live from Largo at the Coronet in Los Angeles, they talk about Craig T. Nelson doing karate, Action Jackson driving a car inside a house, Dee at the barbershop, Vanity doing a solo performance for Craig T. Nelson, and much more. Plus, Paul breaks down the film term “Man and Woman Scene.”",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/56904832",
+            "amazonURL": "https://www.amazon.com/Action-Jackson-Carl-Weathers/dp/B000SW4DR6",
+            "youtubeURL": "https://www.youtube.com/watch?v=FUnWtDIPUuw",
+            "itunesURL": "https://itunes.apple.com/us/movie/id271781116"
+        }       
+    }]
+}

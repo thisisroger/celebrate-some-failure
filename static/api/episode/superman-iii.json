@@ -1,0 +1,68 @@
+{
+    "results": [{
+        "film": {
+        "title": "Superman III",
+        "summary": "Synthetic kryptonite laced with tar splits Superman in two: good Clark Kent and bad Man of Steel.",
+        "trailer": "https://www.youtube.com/watch?v=mgXYUlLwsjc",
+        "poster": "/static/assets/posters/superman-iii-poster.jpg"
+    },
+    "guests": {
+        "guestOne": {
+            "name": "Damon Lindelof",
+            "photo": "/static/assets/guests/damon-lindelof.jpg",
+            "bio": "Damon Lindelof is one of two creators of one of the most revolutionary, critically acclaimed, widely enjoyed shows of our time. No, not Full House or Antiques Roadshow (I wish), but Lost. What else needs to be said?",
+            "plugs": [
+                {
+                    "title": "Lost",
+                    "URL": "https://www.amazon.com/Pilot-Part-1/dp/B003U53GWG",
+                    "media": "/static/assets/plugs/lost.jpg"
+                },
+                {
+                    "title": "The Leftovers",
+                    "URL": "https://www.amazon.com/Pilot/dp/B00P64E6EQ",
+                    "media": "/static/assets/plugs/the-leftovers.jpg"
+                },
+                {
+                    "title": "Prometheus",
+                    "URL": "https://www.amazon.com/Prometheus-Noomi-Rapace/dp/B009AJD5E0",
+                    "media": "/static/assets/plugs/prometheus.jpg"
+                },
+                {
+                    "title": "Cowboys & Aliens",
+                    "URL": "https://www.amazon.com/Cowboys-Aliens-Daniel-Craig/dp/B006C452HO",
+                    "media": "/static/assets/plugs/cowboys-and-aliens.jpg"
+                }
+            ]
+        },
+        "guestTwo": {
+            "name": "Jack O'Halloran",
+            "photo": "/static/assets/guests/jack-ohalloran.jpg",
+            "bio": "Jack O’Halloran is a famed heavyweight boxer and actor. In the ring, he notched seventeen knockouts over the span of a winning career. He later turned to acting, notably appearing in Superman, Superman II, King Kong, and the 1976 adaptation of Raymond Chandler’s Farewell, My Lovely. He currently lives in Los Angeles, where he remains active in the film industry and is hard at work on his second novel.",
+            "plugs": [
+                {
+                    "title": "Dragnet",
+                    "URL": "https://www.amazon.com/Dragnet-Tom-Mankiewicz/dp/B008Q6U2IK",
+                    "media": "/static/assets/plugs/dragnet.jpg"
+                },
+                {
+                    "title": "Superman II",
+                    "URL": "https://www.amazon.com/Superman-II-Gene-Hackman/dp/B0012NIF56",
+                    "media": "/static/assets/plugs/superman-ii.jpg"
+                },
+                {
+                    "title": "The Flintstones",
+                    "URL": "https://www.amazon.com/Flintstones-Halle-Berry/dp/B00GHWWUWQ",
+                    "media": "/static/assets/plugs/the-flintstones.jpg"
+                }
+            ]
+        }
+    },
+    "episodeDescription": "This week we bring you How Did This Get Made? LIVE from Largo at the Coronet in Los Angeles! Special guest Damon Lindelof joined us for this amazing night of awkward credits, poor storytelling, and bad direction.",
+    "mediaLinks": {
+        "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131228",
+        "amazonURL": "https://www.amazon.com/gp/product/B001IA0BOG",
+        "youtubeURL": "https://www.youtube.com/watch?v=ru07XBNqnlo",
+        "itunesURL": "https://itunes.apple.com/us/movie/id543868668"
+    }
+    }]
+}

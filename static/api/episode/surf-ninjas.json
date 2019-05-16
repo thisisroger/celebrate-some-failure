@@ -1,0 +1,104 @@
+{
+    "results": [{
+        "film": {
+            "title": "Surf Ninjas",
+            "summary": "Two boys learn from a mysterious warrior that they are the heirs to the throne of Patusan and set out to overthrow the current monarchy.",
+            "trailer": "https://www.youtube.com/watch?v=UlLWmFpEouI",
+            "poster": "/static/assets/posters/surf-ninjas-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Gil Ozeri",
+                "photo": "/static/assets/guests/gil-ozeri.jpg",
+                "bio": "Gil Ozeri is an actor and comedian who you may recognize from his UCB improv groups Death by Roo Roo or Hot Sauce. He received attention for the Funny or Die sponsored web event Two and a Half Days of Two and a Half Men where he bravely sat through every episode of the sitcom and streamed it live. Gil also wrote on ABC’s Happy Endings and currently writes on Brooklyn Nine-Nine.",
+                "plugs": [
+                    {
+                        "title": "Hollywood Handbook",
+                        "URL": "https://itunes.apple.com/us/podcast/hollywood-handbook/id720832183?mt=2",
+                        "media": "/static/assets/plugs/hollywood-handbook.jpg"
+                    },
+                    {
+                        "title": "Happy Endings",
+                        "URL": "https://www.amazon.com/dp/B004V2E8SS",
+                        "media": "/static/assets/plugs/happy-endings.jpg"
+                    },
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Brooklyn Nine-Nine",
+                        "URL": "https://www.amazon.com/dp/B00ESB6EUC",
+                        "media": "/static/assets/plugs/brooklyn-nine-nine.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Rob Huebel",
+                "photo": "/static/assets/guests/rob-huebel.jpg",
+                "bio": "Rob Huebel is a former student of and frequent performer at the UCB Theatre. In fact, it was at the New York City UCB Theatre that Rob met Paul Scheer and Aziz Ansari, the guys with whom he would create Human Giant for MTV. Following the success of Human Giant, Rob has fleshed out his resume with roles on The Office, 30 Rock, Modern Family, and the wonderful Childrens Hospital. You can still find Rob at the UCB in Los Angeles performing in the shows Facebook and Crash Test. Listen to Rob in Season One of Mike Detective here on Earwolf.",
+                "plugs": [
+                    {
+                        "title": "Human Giant",
+                        "URL": "https://www.amazon.com/Mind-Explosion/dp/B000PAVSBU",
+                        "media": "/static/assets/plugs/human-giant.jpg"
+                    },
+                    {
+                        "title": "Do You Want to See a Dead Body?",
+                        "URL": "https://www.youtube.com/channel/UCFGGYi2aZoXzdeOeeNAD1sw",
+                        "media": "/static/assets/plugs/do-you-want-to-see-a-dead-body.jpg"
+                    },
+                    {
+                        "title": "Crash Test",
+                        "URL": "https://www.amazon.com/dp/B015IVODSU",
+                        "media": "/static/assets/plugs/crash-test.jpg"
+                    },
+                    {
+                        "title": "I Love You, Man",
+                        "URL": "https://www.amazon.com/dp/B002ICE0O0",
+                        "media": "/static/assets/plugs/i-love-you-man.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    }
+                ]
+            },
+            "guestThree": {
+                "name": "Nicole Byer",
+                "photo": "/static/assets/guests/nicole-byer.jpg",
+                "bio": "Nicole is an actress and comedian who moved from New York to Los Angeles for comedy and dreams. Nicole currently performs sketch on Maude Night with New Money. Past improv and sketch teams include Dweeb, Standard Oil, Fambly, Bucky, Dance Break, Johnny Romance and her favorite maybe of all time Cooper.  She’s also 1/3 of the smart award winning lady group Doppelganger who are currently on hiatus except when Nicole is in New York.",
+                "plugs": [
+                    {
+                        "title": "Nailed It",
+                        "URL": "https://www.netflix.com/title/80179138",
+                        "media": "/static/assets/plugs/nailed-it.jpg"
+                    },
+                    {
+                        "title": "Mike and Dave Need Wedding Dates",
+                        "URL": "https://www.amazon.com/Mike-Dave-Need-Wedding-Dates/dp/B01I2CNZ72",
+                        "media": "/static/assets/plugs/mike-and-dave-need-wedding-dates.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HDTGM All-stars Rob Huebel, Nicole Byer, and Gil Ozeri join Paul to discuss the 1993 film Surf Ninjas. Recorded live from Largo at the Coronet in Los Angeles, they cover everything from moto surfing to Leslie Nielsens bulge in the final fight scene.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/49320617",
+            "amazonURL": "https://www.amazon.com/Surf-Ninjas-Ernie-Reyes-Jr/dp/B00006D29V",
+            "youtubeURL": "https://www.youtube.com/watch?v=RKRCUc0wsAA"
+        }       
+    }]
+}

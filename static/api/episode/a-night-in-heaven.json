@@ -1,0 +1,66 @@
+{
+    "results": [{
+        "film": {
+            "title": "A Night in Heaven",
+            "summary": "A married college professor begins a torrid affair with her failing student, who secretly moonlights as a late-night strip-club dancer.",
+            "trailer": "https://www.youtube.com/watch?v=0HUfGAz8-IM",
+            "poster": "/static/assets/posters/a-night-in-heaven-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jen D'Angelo",
+                "photo": "/static/assets/guests/jen-dangelo.jpg",
+                "bio": "Jen is an actress and comedian in Los Angeles.",
+                "plugs": [
+                    {
+                        "title": "LA to Vegas",
+                        "URL": "https://www.amazon.com/Pilot/dp/B0789RTRKF",
+                        "media": "/static/assets/plugs/la-to-vegas.jpg"
+                    },
+                    {
+                        "title": "Game Over, Man!",
+                        "URL": "https://www.netflix.com/title/80169617",
+                        "media": "/static/assets/plugs/game-over-man.jpg"
+                    },
+                    {
+                        "title": "Workaholics",
+                        "URL": "https://www.amazon.com/Piss-S-t/dp/B004VJQ7F8",
+                        "media": "/static/assets/plugs/workaholics.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Tawny Newsome",
+                "photo": "/static/assets/guests/tawny-newsome.jpg",
+                "bio": "Tawny Newsome is an improviser and a musician who you might know from Bajillion Dollar Propertie$, or maybe from The Comedy Get Down on BET or perhaps TVLand’s Nobodies? Or maybe you know her from one zillion podcasts like Comedy Bang Bang, Spontaneanation or Hollywood Handbook, or as the co-host of Yo, is This Racist? The point is: I don’t know where you know her from, dawg. She’s also in a band called Four Lost Souls, and, this is exciting for you because now you can say you know at least one black person in the alt-country scene. They recorded their 2016 album in Muscle Shoals, AL and she once called Robert Plant “Dad” to his face on Fathers’ Day. He didn’t love it.",
+                "plugs": [
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    },
+                    {
+                        "title": "Do You Want to See a Dead Body?",
+                        "URL": "https://www.youtube.com/channel/UCFGGYi2aZoXzdeOeeNAD1sw",
+                        "media": "/static/assets/plugs/do-you-want-to-see-a-dead-body.jpg"
+                    },
+                    {
+                        "title": "Documentary Now!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B013B3JLE8",
+                        "media": "/static/assets/plugs/documentary-now.jpg"
+                    },
+                    {
+                        "title": "Brockmire",
+                        "URL": "https://www.amazon.com/gp/video/detail/B06XRMJVZF",
+                        "media": "/static/assets/plugs/brockmire.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Tawny Newsome (Yo, Is This Racist?, Bajillion Dollar Propertie$) and Jen D’Angelo (Loosely Exactly Nicole) joins Paul and Jason to discuss the 1983 romance film A Night in Heaven. Recorded live from Largo at the Coronet in Los Angeles, they cover not knowing who is the main character, seeing a dude’s dick during one of the sex scenes, and kid businessman.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/56683543",
+            "youtubeURL": "https://www.youtube.com/watch?v=0HUfGAz8-IM"
+        }       
+    }]
+}

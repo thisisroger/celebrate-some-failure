@@ -1,0 +1,98 @@
+{
+    "results": [{
+        "film": {
+            "title": "Punisher: War Zone",
+            "summary": "Frank Castle known as Punisher ruthlessly demolishes organized crime, but it starts an even bigger war.",
+            "trailer": "https://www.youtube.com/watch?v=liABMxEvPAc",
+            "poster": "/static/assets/posters/punisher-war-zone-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Lexi Alexander",
+                "photo": "/static/assets/guests/lexi-alexander.jpg",
+                "bio": "Lexi Alexander is a former martial artist and film director responsible for Green Street, Punisher: War Zone, and the upcoming Lifted. She is the first female director of an R-Rated comic book adaptation, which makes her indisputably the coolest human being ever to hold a camera.",
+                "plugs": [
+                    {
+                        "title": "Punisher: War Zone",
+                        "URL": "https://www.amazon.com/dp/B001RU0CFK",
+                        "media": "/static/assets/plugs/punisher-war-zone.jpg"
+                    },
+                    {
+                        "title": "Green Street Hooligans",
+                        "URL": "https://www.amazon.com/dp/B00DAFXGIA",
+                        "media": "/static/assets/plugs/green-street-hooligans.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Patton Oswalt",
+                "photo": "/static/assets/guests/patton-oswalt.jpg",
+                "bio": "Patton Oswalt is one of the most beloved members of the comedy community. His stand-up has been lauded both by fellow comedians and audiences all across America. He played a major role in creating The Comedians of Comedy tour and subsequent DVDs and television show. He has four albums, two of which reached the top of the Billboard Comedy chart. His television and film appearances are too numerous to list, but I’d be remiss not to credit him as the voice of Remy the rat from Ratatouille.",
+                "plugs": [
+                    {
+                        "title": "The Coup's 'The Magic Clap'",
+                        "URL": "https://www.youtube.com/watch?v=-YpNidqsBhI",
+                        "media": "/static/assets/plugs/the-magic-clap.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation Filibuster",
+                        "URL": "https://www.youtube.com/watch?v=5BBhNkywMJY",
+                        "media": "/static/assets/plugs/filibuster.jpg"
+                    },
+                    {
+                        "title": "Happy!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B077Z66WJ5",
+                        "media": "/static/assets/plugs/happy.jpg"
+                    },
+                    {
+                        "title": "Sorry to Bother You",
+                        "URL": "https://www.amazon.com/dp/B07FN8STFS",
+                        "media": "/static/assets/plugs/sorry-to-bother-you.jpg"
+                    },
+                    {
+                        "title": "Nerdland",
+                        "URL": "https://www.amazon.com/dp/B01MSXSR9K",
+                        "media": "/static/assets/plugs/nerdland.jpg"
+                    },
+                    {
+                        "title": "Portlandia",
+                        "URL": "https://www.amazon.com/dp/B004KCOABO",
+                        "media": "/static/assets/plugs/portlandia.jpg"
+                    },
+                    {
+                        "title": "The Heart, She Holler",
+                        "URL": "https://www.amazon.com/dp/B009WZR728",
+                        "media": "/static/assets/plugs/the-heart-she-holler.jpg"
+                    },
+                    {
+                        "title": "A Very Harold & Kumar Christmas",
+                        "URL": "https://www.amazon.com/dp/B0076HLI8S",
+                        "media": "/static/assets/plugs/a-very-harold-and-kumar-christmas.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    }
+                ]
+            }  
+        },
+        "episodeDescription": "This week's How Did This Get Made? is the first of its kind. Our guests are Lexi Alexander, director of Punisher: War Zone and Patton Oswalt, one of the movie's most vocal supporters. Together with Paul and June (unfortunately Jason had to miss this one) they honestly explain how this movie got made: From the very first pitch meetings to the week after it was released. Hear how unfortunate timing, poor marketing, and mixed expectations affected the success of one of the coolest, craziest, most fun comic book adaptations of the decade (at least).",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131236",
+            "amazonURL": "https://www.amazon.com/dp/B001RU0CFK",
+            "youtubeURL": "https://www.youtube.com/watch?v=q9BM5QsjsbY",
+            "itunesURL": "https://itunes.apple.com/us/movie/id302332351"
+        }
+    }]
+}

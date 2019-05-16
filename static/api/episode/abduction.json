@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Abduction",
+            "summary": "A thriller centered on a young man who sets out to uncover the truth about his life after finding his baby photo on a missing persons website.",
+            "trailer": "https://www.youtube.com/watch?v=CEVkp5Je7m0",
+            "poster": "/static/assets/posters/abduction-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jessica Chaffin",
+                "photo": "/static/assets/guests/jessica-chaffin.jpg",
+                "bio": "Jessica Chaffin is a regular performer at the Upright Citizens Brigade Theater in Los Angeles. She has also made appearances on television programs such as Curb Your Enthusiasm, Entourage and Weeds. Do you like the Ronna and Beverly podcast? Of course you do! And at the risk of destroying the fourth wall, she is Ronna!",
+                "plugs": [
+                    {
+                        "title": "The Heat",
+                        "URL": "https://www.amazon.com/Heat-Sandra-Bullock/dp/B00F4ARI3I",
+                        "media": "/static/assets/plugs/the-heat.jpg"
+                    },
+                    {
+                        "title": "Spy",
+                        "URL": "https://www.amazon.com/Spy-Unrated-Melissa-McCarthy/dp/B013EZO6P2",
+                        "media": "/static/assets/plugs/spy.jpg"
+                    },
+                    {
+                        "title": "New Girl",
+                        "URL": "https://www.amazon.com/Pilot/dp/B005JR4K28",
+                        "media": "/static/assets/plugs/new-girl.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Oh, Abduction. We laughed, we cried (at least Jason did), we got uncomfortable, we were confused. Jessica Chaffin is our guest this week to unwrap the layers of awfulness that awarded Abduction its 4% score on Rotten Tomatoes. From the Pittsburghian influence to the subtle racism, we're here to try to make sense of it all.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131209",
+            "amazonURL": "https://www.amazon.com/Abduction-Taylor-Lautner/dp/B07NCMQ2L1",
+            "youtubeURL": "https://www.youtube.com/watch?v=oduTESfSoPg",
+            "itunesURL": "https://itunes.apple.com/us/movie/abduction/id472705462"
+        }
+    }]
+}

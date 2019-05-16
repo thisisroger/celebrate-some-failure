@@ -1,0 +1,47 @@
+.logo {
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    text-align: center;
+    transition: all 225ms;
+
+    > span {
+        display: block;
+    }
+    
+
+    &.logo--mark {
+        color: $white;
+
+        > span {
+            font-size: 50px;
+        }
+    }
+
+    &.logo--info {
+        color: black;
+        font-size: 32px;
+        letter-spacing: -1px;
+
+        > span {
+            font-size: 70px;
+        }
+    }
+
+    // &.logo--intro {
+    //     color: $white;
+    //     display: inline-block;
+    //     font-size: 32px;
+    //     letter-spacing: -1px;
+
+    //     > span {
+    //         font-size: 70px;
+    //     }
+    // }
+
+    &.logo--fade-out {
+        opacity: 0;
+        transform: translate3d(0,-50%,0);
+    }
+}
+

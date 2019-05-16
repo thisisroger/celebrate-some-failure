@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Bad Ass",
+            "summary": "A Vietnam veteran who becomes a local hero after saving a man from attackers on a city bus decides to take action when his best friend is murdered and the police show little interest in solving the crime.",
+            "trailer": "https://www.youtube.com/watch?v=BrYx-1yoIGM",
+            "poster": "/static/assets/posters/bad-ass-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Danny Trejo",
+                "photo": "/static/assets/guests/danny-trejo.jpg",
+                "bio": "Danny Trejo is a fighter turned actor who has appeared in numerous Hollywood films, most notably in “tough guy” roles as a villain or an anti-hero. He’s starred in films like Bad Ass and Machete.",
+                "plugs": [
+                    {
+                        "title": "From Dusk till Dawn",
+                        "URL": "https://www.amazon.com/Dusk-Till-Dawn-Quentin-Tarantino/dp/B009JZUJIK",
+                        "media": "/static/assets/plugs/from-dusk-till-dawn.jpg"
+                    },
+                    {
+                        "title": "Machete",
+                        "URL": "https://www.amazon.com/Machete-Danny-Trejo/dp/B004EJ1GB0",
+                        "media": "/static/assets/plugs/machete.jpg"
+                    },
+                    {
+                        "title": "Bad Ass",
+                        "URL": "https://www.amazon.com/Bad-Ass-Danny-Trejo/dp/B01JN8FB8U",
+                        "media": "/static/assets/plugs/bad-ass.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Action star Danny Trejo is the only guy Bad Ass enough to kick butt while wearing a fanny pack, and this week we chat with him about his career, claw stunts, and which actors he thinks are dangerous.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131200",
+            "amazonURL": "https://www.amazon.com/gp/product/B01JN8E6PO",
+            "youtubeURL": "https://www.youtube.com/watch?v=HiKvJlZu-mM",
+            "itunesURL": "https://itunes.apple.com/us/movie/id512505156"
+        }
+    }]
+}

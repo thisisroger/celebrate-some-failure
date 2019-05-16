@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Road House",
+            "summary": "A tough bouncer is hired to tame a dirty bar.",
+            "trailer": "https://www.youtube.com/watch?v=oByMeAfwARs",
+            "poster": "/static/assets/posters/road-house-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Doug Benson",
+                "photo": "/static/assets/guests/doug-benson.jpg",
+                "bio": "Doug Benson loves movies. So much, in fact, that he made his own movie Super High Me about marijuana, another thing he loves. His love of movies has also brought about his very popular podcast Doug Loves Movies, which has had notable guests such as John Lithgow, Simon Pegg, Ellen Page, and Ethan Suplee. He has three comedy albums available on iTunes and Amazon along with the television and podcast versions of his live show The Benson Interruption.",
+                "plugs": [
+                    {
+                        "title": "Doug Loves Movies",
+                        "URL": "https://douglovesmovies.com",
+                        "media": "/static/assets/plugs/dlm.jpg"
+                    },
+                    {
+                        "title": "Getting Doug with High",
+                        "URL": "https://www.youtube.com/channel/UCGPq9AxIEXqjwjurJDdK2JQ",
+                        "media": "/static/assets/plugs/getting-doug.jpg"
+                    },
+                    {
+                        "title": "Super High Me",
+                        "URL": "https://www.amazon.com/Super-High-Me-Zach-Galifianakis/dp/B00VXWQ0NU",
+                        "media": "/static/assets/plugs/super-high-me.jpg"
+                    },
+                    {
+                        "title": "The LEGO Batman Movie",
+                        "URL": "https://www.amazon.com/LEGO-Batman-Movie-Will-Arnett/dp/B01MUI1NPD",
+                        "media": "/static/assets/plugs/the-lego-batman-movie.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "If you love movies with huge explosions, bar fights, and monster trucks, then you have to watch Road House immediately. Our first return guest, Doug Benson, joined us for this week’s How Did This Get Made? LIVE at Bumbershoot! We discuss everything from throat ripping to everybody going commando to the lack of any police involvement. That’s not all, we also open it up to questions to make sure we didn’t miss anything important in this amazing movie that even babies are sure to love.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131187",
+            "amazonURL": "https://www.amazon.com/gp/product/B07PWJTSCX",
+            "youtubeURL": "https://www.youtube.com/watch?v=uKBQ_XWgxiU",
+            "itunesURL": "https://itunes.apple.com/us/movie/id610767486"
+        }
+    }]
+}

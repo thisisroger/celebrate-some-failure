@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Jingle All the Way",
+            "summary": "A father vows to get his son a Turbo Man action figure for Christmas. However, every store is sold out of them, and he must travel all over town and compete with everybody else in order to find one.",
+            "trailer": "https://www.youtube.com/watch?v=jhJYMEzQA-Q",
+            "poster": "/static/assets/posters/jingle-all-the-way-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Joe Mande",
+                "photo": "/static/assets/guests/joe-mande.jpg",
+                "bio": "Joe Mande is so funny that his work speaks for itself. Is that a lazy excuse for a bio? Fine, I’ll make it better! Gimme a second! I’m really busy!",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Joe Mande's Award-Winning Comedy Special",
+                        "URL": "https://www.netflix.com/title/80185321",
+                        "media": "/static/assets/plugs/joe-mande-comedy-special.jpg"
+                    },
+                    {
+                        "title": "Master of None",
+                        "URL": "https://www.netflix.com/title/80049714",
+                        "media": "/static/assets/plugs/master-of-none.jpg"
+                    },
+                    {
+                        "title": "The Good Place",
+                        "URL": "https://www.amazon.com/Everything-Is-Fine/dp/B01L3GQG7K",
+                        "media": "/static/assets/plugs/the-good-place.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Paul, June, and Jason share what they remember about Jingle All The Way as they present this classic episode of How Did This Get Made? You’d think that the comedic prowess of Arnold Schwarzenegger, the acting talents of Sinbad, and the star power of a Jim Belushi cameo would make for the ultimate Christmas movie! Instead we have an illogical and unbelievable commercial masked as a movie. Join the How Did This Get Made? crew and Joe Mande for this bonus holiday episode.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/57918328",
+            "amazonURL": "https://www.amazon.com/Jingle-All-Way-Arnold-Schwarzenegger/dp/B000SW4DQM",
+            "youtubeURL": "https://www.youtube.com/watch?v=FueVFwKRGJw",
+            "itunesURL": "https://itunes.apple.com/us/movie/id270048567&sid=eb8b7211-23f4-4b5d-ab09-75504e719f5c&cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2ZpbHRlcl9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InNlYXJjaFN0cmluZyI6ImppbmdsZS1hbGwtdGhlLXdheSIsImlzUHJvdmlkZXJGaWx0ZXJlZCI6ZmFsc2UsInByb3ZpZGVySWQiOiJbXCJuZnhcIixcImFtcFwiLFwiaGx1XCIsXCJ2eWhcIixcImFtelwiLFwiaGJuXCIsXCJ5b3RcIixcInl0clwiLFwicGx5XCIsXCJpdHVcIixcImNic1wiLFwicmtjXCIsXCJob3BcIixcInRjd1wiLFwiY3dzXCIsXCJzdHpcIixcImZkZ1wiLFwidmR1XCIsXCJzaG9cIixcImlmZFwiLFwicGJzXCIsXCJwZnhcIixcImZ4blwiLFwidGJ2XCIsXCJkY3VcIixcImtucFwiLFwiY29tXCIsXCJwbHNcIixcImNyY1wiLFwibXNmXCIsXCJteGdcIixcImhiZ1wiLFwiYWJjXCIsXCJjcmtcIixcImFtdFwiLFwiYW1jXCIsXCJmbmRcIixcImN0c1wiLFwibmJjXCIsXCJlcHhcIixcImZmbVwiLFwiaGlzXCIsXCJzZnlcIixcImFhZVwiLFwibGZ0XCIsXCJzaGRcIixcInNjYlwiLFwiYWN0XCIsXCJzZG5cIixcInBjZlwiLFwiYmJvXCIsXCJnZGNcIixcInJselwiLFwibWJpXCIsXCJmYWRcIixcIm5ma1wiLFwieWZyXCIsXCJwdHlcIixcImJtZ1wiLFwidWZmXCIsXCJ1bWNcIixcImR2Y1wiLFwieXR2XCJdIiwiaXNHZW5yZUZpbHRlcmVkIjpmYWxzZSwiZ2VucmVJZCI6IltcImFjdFwiLFwiYW5pXCIsXCJjbXlcIixcImNybVwiLFwiZG9jXCIsXCJkcm1cIixcImZudFwiLFwiaHN0XCIsXCJocnJcIixcImZtbFwiLFwibXNjXCIsXCJ0cmxcIixcInJtYVwiLFwic2NmXCIsXCJzcHRcIixcIndhclwiLFwid3NuXCJdIiwib2JqZWN0VHlwZUZpbHRlciI6MCwicGFnZUlkIjo3ODgyNCwiY291bnRyeUNvZGUiOiJ1cyIsImxhbmd1YWdlQ29kZSI6ImVuIiwiaXNNb25ldGl6YXRpb25UeXBlRmlsdGVyZWQiOmZhbHNlLCJtb25ldGl6YXRpb25UeXBlIjoiW1wiZnJlZVwiLFwiYWRzXCIsXCJmbGF0cmF0ZVwiLFwicmVudFwiLFwiYnV5XCIsXCJjaW5lbWFcIl0iLCJpc1Njb3JpbmdGaWx0ZXJlZCI6ZmFsc2UsInNjb3JpbmciOiJ7XCJpbWRiOnNjb3JlXCI6e1wibWluX3Njb3JpbmdfdmFsdWVcIjowLFwibWF4X3Njb3JpbmdfdmFsdWVcIjoxMH0sXCJ0b21hdG86bWV0ZXJcIjp7XCJtaW5fc2NvcmluZ192YWx1ZVwiOjAsXCJtYXhfc2NvcmluZ192YWx1ZVwiOjEwMH19In19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsicHJvdmlkZXIiOiJBcHBsZSBpVHVuZXMiLCJtb25ldGl6YXRpb25UeXBlIjoicmVudCIsInByZXNlbnRhdGlvblR5cGUiOiI0ayIsImN1cnJlbmN5IjoiVVNEIiwicHJpY2UiOjMuOTl9fV19&uct_country=us"
+        }
+    }]
+}

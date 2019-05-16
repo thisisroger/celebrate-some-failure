@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Bloodsport",
+            "summary": "Follows Frank Dux, an American martial artist serving in the military, who decides to leave the army to compete in a martial arts tournament in Hong Kong where fights to the death can occur.",
+            "trailer": "https://www.youtube.com/watch?v=WaT9dYalyU0",
+            "poster": "/static/assets/posters/bloodsport-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Nicole Byer",
+                "photo": "/static/assets/guests/nicole-byer.jpg",
+                "bio": "Nicole is an actress and comedian who moved from New York to Los Angeles for comedy and dreams. Nicole currently performs sketch on Maude Night with New Money. Past improv and sketch teams include Dweeb, Standard Oil, Fambly, Bucky, Dance Break, Johnny Romance and her favorite maybe of all time Cooper.  She’s also 1/3 of the smart award winning lady group Doppelganger who are currently on hiatus except when Nicole is in New York.",
+                "plugs": [
+                    {
+                        "title": "Nailed It",
+                        "URL": "https://www.netflix.com/title/80179138",
+                        "media": "/static/assets/plugs/nailed-it.jpg"
+                    },
+                    {
+                        "title": "Mike and Dave Need Wedding Dates",
+                        "URL": "https://www.amazon.com/Mike-Dave-Need-Wedding-Dates/dp/B01I2CNZ72",
+                        "media": "/static/assets/plugs/mike-and-dave-need-wedding-dates.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "KUMITE! KUMITE! KUMITE! LIVE from Largo in Los Angeles, Nicole Byer of Party Over Here joins Paul and Jason to discuss the cult 1988 Jean-Claude Van Damme martial-arts film Bloodsport. They'll cover Frank Dux being a real man, Van Damme's soft baby buns, blindfolded tea training, the not so secret illegal Kumite martial-arts tournament, Ray Jackson, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131012",
+            "amazonURL": "https://www.amazon.com/gp/product/B07PXP2ZWK",
+            "youtubeURL": "https://www.youtube.com/watch?v=-NiiVA3Gh4E",
+            "itunesURL": "https://itunes.apple.com/us/movie/id376081721"
+        }       
+    }]
+}

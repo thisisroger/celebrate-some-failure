@@ -1,0 +1,61 @@
+{
+    "results": [{
+        "film": {
+            "title": "Cellular",
+            "summary": "A young man receives an emergency phone call on his cell phone from an older woman. The catch? The woman claims to have been kidnapped; and the kidnappers have targeted her husband and child next.",
+            "trailer": "https://www.youtube.com/watch?v=bbvgJVTEY3w",
+            "poster": "/static/assets/posters/cellular-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Ike Barinholtz",
+                "photo": "/static/assets/guests/ike-barinholtz.jpg",
+                "bio": "Ike Barinholtz is an actor, comedian and screenwriter. Barinholtz is most notable as cast member on the sketch comedy series MADtv from 2002-2007 and for his role as Ivan Dochenko on the HBO series Eastbound & Down.",
+                "plugs": [
+                    {
+                        "title": "The Oath",
+                        "URL": "https://www.amazon.com/Oath-Ike-Barinholtz/dp/B07KY38359",
+                        "media": "/static/assets/plugs/the-oath.jpg"
+                    },
+                    {
+                        "title": "Suicide Squad",
+                        "URL": "https://www.amazon.com/Suicide-Squad-Will-Smith/dp/B01J7YLPGM",
+                        "media": "/static/assets/plugs/suicide-squad.jpg"
+                    },
+                    {
+                        "title": "The Mindy Project",
+                        "URL": "https://www.amazon.com/Pilot/dp/B008ZXSW2C",
+                        "media": "/static/assets/plugs/the-mindy-project.jpg"
+                    },
+                    {
+                        "title": "Neighbors",
+                        "URL": "https://www.amazon.com/Neighbors-Seth-Rogen/dp/B00K7WZGPA",
+                        "media": "/static/assets/plugs/neighbors.jpg"
+                    },
+                    {
+                        "title": "Blockers",
+                        "URL": "https://www.amazon.com/Blockers-Leslie-Mann/dp/B07BW7954L",
+                        "media": "/static/assets/plugs/blockers.jpg"
+                    },
+                    {
+                        "title": "Mad TV",
+                        "URL": "https://www.amazon.com/gp/video/detail/B01730BE18",
+                        "media": "/static/assets/plugs/mad-tv.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Erin Gibson",
+                "photo": "/static/assets/guests/erin-gibson.jpg",
+                "bio": "Emmy-nominated Southern loudmouth Erin Gibson co-hosts​ ​& co-created​ 'Throwing Shade'​, ​​the award winning political absurdist comedy podcast​​, ​live ​show ​& TV show​ She developed her social commentary chops as the host of ​ 'Modern Lady'​ and sharpened them writing and directing political sketches for Funny or Die, where she also created the long running, Emmy-nominated 'Gay of Thrones' starring her real-life hair stylist​. You’ve seen her on Parks and Rec, Community, Key and Peele, The Kroll Show, and you’ve heard her on Comedy Central’s Jeff and Some Aliens, but she’s best known as 'the face of State Farm’s Rental Insurance tri-fold brochure.'"
+            }
+        },
+        "episodeDescription": "Ike Barinholtz (The Oath) and Erin Gibson (Throwing Shade) join Paul and Jason to discuss the 2004 thriller Cellular starring Kim Basinger, Chris Evans, and Jason Statham. They talk about William H. Macy’s amazing performance, Kim Basinger’s character naming her son Ricky Martin, and the makers of the movie not knowing how cellphones work.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/58255912",
+            "amazonURL": "https://www.amazon.com/dp/B003VCKYGE",
+            "youtubeURL": "https://www.youtube.com/watch?v=Vz-pF_94GPg",
+            "itunesURL": "https://itunes.apple.com/us/movie/cellular/id373721434"
+        }       
+    }]
+}

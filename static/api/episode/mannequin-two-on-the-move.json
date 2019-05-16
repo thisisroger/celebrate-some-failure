@@ -1,0 +1,40 @@
+{
+    "results": [{
+        "film": {
+            "title": "Mannequin Two: On the Move",
+            "summary": "A young department store intern falls in love with a female store mannequin who is really a peasant girl fallen under a thousand year spell. She comes to life whenever he removes the cursed necklace from her.",
+            "trailer": "https://www.youtube.com/watch?v=wBM9Aa_HG8g",
+            "poster": "/static/assets/posters/mannequin-two-on-the-move-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Steve Agee",
+                "photo": "/static/assets/guests/steve-agee.jpg",
+                "bio": "Steve Agee really likes making videos, tweeting, and being funny. While many recognize him as Steve Myron from The Sarah Silverman Program, he is probably most well known for live-streaming a reading of the names of all his twitter followers. He wrote for Jimmy Kimmel Live for three years and has acted in Jesus is Magic, Super, and Comedians of Comedy: Live at the Troubadour.",
+                "plugs": [
+                    {
+                        "title": "Guardians of the Galaxy Vol. 2",
+                        "URL": "https://www.amazon.com/Guardians-Galaxy-Vol-2-Theatrical/dp/B0716DT6G3",
+                        "media": "/static/assets/plugs/guardians-of-the-galaxy-vol-two.jpg"
+                    },
+                    {
+                        "title": "You're the Worst",
+                        "URL": "https://www.amazon.com/Pilot/dp/B00LT8CSHU",
+                        "media": "/static/assets/plugs/youre-the-worst.jpg"
+                    },
+                    {
+                        "title": "New Girl",
+                        "URL": "https://www.amazon.com/Pilot/dp/B005JR4K28",
+                        "media": "/static/assets/plugs/new-girl.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Steve Agee (New Girl, The Sarah Silverman Program) joins Paul, June, and Jason in-studio to get to the bottom of important questions that popped up while watching 1991's Mannequin Two: On the Move. What's the deal with department stores? Do mannequins have genitalia? And finally, where does the butt start?",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48130995",
+            "itunesURL": "https://itunes.apple.com/us/movie/id869700418"
+        }
+        
+    }]
+}

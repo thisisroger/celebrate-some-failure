@@ -1,0 +1,57 @@
+{
+    "results": [{
+        "id": "fast-five",
+        "film": {
+            "title": "Fast Five",
+            "summary": "Dominic Toretto and his crew of street racers plan a massive heist to buy their freedom while in the sights of a powerful Brazilian drug lord and a dangerous federal agent.",
+            "trailer": "https://www.youtube.com/watch?v=mw2AqdB5EVA",
+            "poster": "/static/assets/posters/fast-five-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Adam Scott",
+                "photo": "/static/assets/guests/adam-scott.jpg",
+                "bio": "Adam Scott is perhaps best known for his roles in Knocked Up, Step Brothers, Party Down, Eastbound & Down, Parks and Recreation, and many Funny or Die videos. Additionally, he’s been a guest on shows such as The Sarah Silverman Program, Childrens Hospital, Veronica Mars and more. So, basically he’s great. Handsome, funny, good actor, the whole package.",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Party Down",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0040J4LH0",
+                        "media": "/static/assets/plugs/party-down.jpg"
+                    },
+                    {
+                        "title": "Step Brothers",
+                        "URL": "https://www.amazon.com/dp/B007OXHVSU",
+                        "media": "/static/assets/plugs/step-brothers.jpg"
+                    },
+                    {
+                        "title": "The Overnight",
+                        "URL": "https://www.amazon.com/dp/B07LGCQ3Q4",
+                        "media": "/static/assets/plugs/the-overnight.jpg"
+                    },
+                    {
+                        "title": "My Blind Brother",
+                        "URL": "https://www.amazon.com/dp/B01LXLQUKZ",
+                        "media": "/static/assets/plugs/my-blind-brother.jpg"
+                    },
+                    {
+                        "title": "A.C.O.D",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00GT8AV6U",
+                        "media": "/static/assets/plugs/acod.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Fast Five might be a critical success, a million dollar blockbuster, and an 'event in cinema' (Vin's words, not ours) but that doesn't make it immune to criticism. Paul, June, Jason, and Adam Scott discuss the inexplicably magical jewelry, unnecessary characters, and chronological confusion that lay beneath an otherwise incredible action flick. If you haven't seen Fast Five yet, stay until the very end for a surprise celebrity cameo (no, not Perd Hapley).",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131255",
+            "amazonURL": "https://www.amazon.com/gp/product/B005OYKHSM",
+            "youtubeURL": "https://www.youtube.com/watch?v=kLUz-TXDpi0",
+            "itunesURL": "https://itunes.apple.com/us/movie/id447343981"
+        }
+    }]
+}

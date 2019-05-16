@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Ernest Goes to Jail",
+            "summary": "Bumbling Ernest P. Worrell is assigned to jury duty, where a crooked lawyer notices a resemblance with crime boss Mr. Nash, and arranges a switch. Nash assumes Ernest's job as a bank ... See full summary »",
+            "trailer": "https://www.youtube.com/watch?v=hT5_bXFQDdw",
+            "poster": "/static/assets/posters/ernest-goes-to-jail-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Lesley Arfin",
+                "photo": "/static/assets/guests/lesley-arfin.jpg",
+                "bio": "Lesley Arfin has been writing professionally since 2001. She graduated from Hampshire College and immediately started an internship at Vice magazine, where she then went on to write a number of articles, as well as her own column, “Dear Diary.” In 2007 her book, Dear Diary, based on the column, was published by Vice Books/MTV Press. The introduction to the book was written by Chloe Sevigny. Lesley is the former Editor-In-Chief of Missbehave magazine. She has freelanced for a number of publications: Jezebel.com, Jane, Nylon, iD, America, Purple, Paper, Jalouse, and she is currently the New York contributor to Australian magazine, Russh. Lesley has written columns for websites such as Street Carnage, Buzz Net, and Thought Catalog. She penned the introduction to the 2010 interior design/photo book The Selby: In Your Place. Lesley has done commercial work for clients such as XBox, Burton, Sophomore, Kanon Vodka, and Nike. She currently works as staff writer on the HBO series Girls, created by Lena Dunham (Tiny Furniture) and produced by Judd Apatow.",
+                "plugs": [
+                    {
+                        "title": "Love",
+                        "URL": "https://www.netflix.com/title/80026506",
+                        "media": "/static/assets/plugs/love.jpg"
+                    },
+                    {
+                        "title": "Brooklyn Nine-Nine",
+                        "URL": "https://www.amazon.com/dp/B00ESB6EUC",
+                        "media": "/static/assets/plugs/brooklyn-nine-nine.jpg"
+                    },
+                    {
+                        "title": "Girls",
+                        "URL": "https://www.amazon.com/Pilot/dp/B00ADSON02",
+                        "media": "/static/assets/plugs/girls.jpg"
+                    },
+                    {
+                        "title": "Awkward",
+                        "URL": "https://www.amazon.com/Pilot/dp/B005DJREJS",
+                        "media": "/static/assets/plugs/awkward.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Is the character of Ernest supposed to be special? Does Evil Ernest ooze sexuality? Is Ernest Goes To Jail a movie aimed at kids? Special guest Lesley Arfin (writer for Girls & Brooklyn Nine-Nine) joins Paul, June, and Jason to discuss Ernest P. Worrell’s antics in the film Ernest Goes To Jail which includes Ernest basically becoming Powder (or Electro), Evil Ernest’s rape attempt, and Ernest having the ability to fly.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131106",
+            "amazonURL": "https://www.amazon.com/gp/product/B003SI5ZOM",
+            "youtubeURL": "https://www.youtube.com/watch?v=PHDCLOetT9I",
+            "itunesURL": "https://itunes.apple.com/us/movie/id352852571"
+        }
+    }]
+}

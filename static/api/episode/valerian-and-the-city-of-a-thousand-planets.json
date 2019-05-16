@@ -1,0 +1,83 @@
+{
+    "results": [{
+        "film": {
+            "title": "Valerian and the City of a Thousand Planets",
+            "summary": "A dark force threatens Alpha, a vast metropolis and home to species from a thousand planets. Special operatives Valerian and Laureline must race to identify the marauding menace and safeguard not just Alpha, but the future of the universe.",
+            "trailer": "https://www.youtube.com/watch?v=NNrK7xVG3PM",
+            "poster": "/static/assets/posters/valerian-and-the-city-of-a-thousand-planets-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jessica St. Clair",
+                "photo": "/static/assets/guests/jessica-st-clair.jpg",
+                "bio": "The very talented and renowned American actress and improv comedian Jessica St. Clair is known best for her work in the NBC series, Best Friends Forever. Jessica St. Clair net worth is known best to have been sourced from her work in TV series and movies like It’s Complicated, Life As We Know It, Wanderlust, Labor Pains, Veep, and more. Jessica St. Clair IMDB profile has details of her awards, TV series, and movies.",
+                "plugs": [
+                    {
+                        "title": "Playing House",
+                        "URL": "https://www.amazon.com/Bird-Bones/dp/B00JS6O1BQ",
+                        "media": "/static/assets/plugs/playing-house.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "The House",
+                        "URL": "https://www.amazon.com/House-Will-Ferrell/dp/B072X6H3QP",
+                        "media": "/static/assets/plugs/the-house.jpg"
+                    },
+                    {
+                        "title": "Lady Dynamite",
+                        "URL": "https://www.netflix.com/title/80046193",
+                        "media": "/static/assets/plugs/lady-dynamite.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    },
+                    {
+                        "title": "Review",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00IGCLCHE",
+                        "media": "/static/assets/plugs/review.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Doug Benson",
+                "photo": "/static/assets/guests/doug-benson.jpg",
+                "bio": "Doug Benson loves movies. So much, in fact, that he made his own movie Super High Me about marijuana, another thing he loves. His love of movies has also brought about his very popular podcast Doug Loves Movies, which has had notable guests such as John Lithgow, Simon Pegg, Ellen Page, and Ethan Suplee. He has three comedy albums available on iTunes and Amazon along with the television and podcast versions of his live show The Benson Interruption.",
+                "plugs": [
+                    {
+                        "title": "Doug Loves Movies",
+                        "URL": "https://douglovesmovies.com",
+                        "media": "/static/assets/plugs/dlm.jpg"
+                    },
+                    {
+                        "title": "Getting Doug with High",
+                        "URL": "https://www.youtube.com/channel/UCGPq9AxIEXqjwjurJDdK2JQ",
+                        "media": "/static/assets/plugs/getting-doug.jpg"
+                    },
+                    {
+                        "title": "Super High Me",
+                        "URL": "https://www.amazon.com/Super-High-Me-Zach-Galifianakis/dp/B00VXWQ0NU",
+                        "media": "/static/assets/plugs/super-high-me.jpg"
+                    },
+                    {
+                        "title": "The LEGO Batman Movie",
+                        "URL": "https://www.amazon.com/LEGO-Batman-Movie-Will-Arnett/dp/B01MUI1NPD",
+                        "media": "/static/assets/plugs/the-lego-batman-movie.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Doug Benson of Doug Loves Movies joins Paul, Jason and guest co-host Jessica St. Clair to discuss the 2017 science fiction film Valerian and the City of a Thousand Planets. Recored live at the Theatre at Ace Hotel for Pee Cast Blast ’17, they cover everything from Rihanna as Bubble, a shapeshifting alien entertainer to the movie resetting itself every 15 minutes.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/52628984",
+            "amazonURL": "https://www.amazon.com/gp/product/B0748P5GPT",
+            "youtubeURL": "https://www.youtube.com/watch?v=Z-yyuqMszPc",
+            "itunesURL": "https://itunes.apple.com/us/movie/id1374904432"
+        }       
+    }]
+}

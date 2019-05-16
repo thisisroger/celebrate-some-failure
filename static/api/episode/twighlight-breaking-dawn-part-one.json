@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Twighlight Saga: Breaking Dawn - Part 1",
+            "summary": "The Quileutes close in on expecting parents Edward and Bella, whose unborn child poses a threat to the Wolf Pack and the towns people of Forks.",
+            "trailer": "https://www.youtube.com/watch?v=PQNLfo-SOR4",
+            "poster": "/static/assets/posters/twighlight-breaking-dawn-one-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Doug Benson",
+                "photo": "/static/assets/guests/doug-benson.jpg",
+                "bio": "Doug Benson loves movies. So much, in fact, that he made his own movie Super High Me about marijuana, another thing he loves. His love of movies has also brought about his very popular podcast Doug Loves Movies, which has had notable guests such as John Lithgow, Simon Pegg, Ellen Page, and Ethan Suplee. He has three comedy albums available on iTunes and Amazon along with the television and podcast versions of his live show The Benson Interruption.",
+                "plugs": [
+                    {
+                        "title": "Doug Loves Movies",
+                        "URL": "https://douglovesmovies.com",
+                        "media": "/static/assets/plugs/dlm.jpg"
+                    },
+                    {
+                        "title": "Getting Doug with High",
+                        "URL": "https://www.youtube.com/channel/UCGPq9AxIEXqjwjurJDdK2JQ",
+                        "media": "/static/assets/plugs/getting-doug.jpg"
+                    },
+                    {
+                        "title": "Super High Me",
+                        "URL": "https://www.amazon.com/Super-High-Me-Zach-Galifianakis/dp/B00VXWQ0NU",
+                        "media": "/static/assets/plugs/super-high-me.jpg"
+                    },
+                    {
+                        "title": "The LEGO Batman Movie",
+                        "URL": "https://www.amazon.com/LEGO-Batman-Movie-Will-Arnett/dp/B01MUI1NPD",
+                        "media": "/static/assets/plugs/the-lego-batman-movie.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "If you've had the misfortune of being imprinted with Twilight: Breaking Dawn - Part 1, than please join us as we journey through the boring yet endlessly confusing relationship of Bella and Edward. Doug Benson is our guest of honor and together we try out hardest to understand this love story that has captivated the tweens of the nation. Does Doug love this movie? You'll have to listen to find out!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131221",
+            "amazonURL": "https://www.amazon.com/gp/product/B006TLFPKO",
+            "youtubeURL": "https://www.youtube.com/watch?v=4PIFjc9Y15o",
+            "itunesURL": "https://itunes.apple.com/us/movie/id1437294439&sid=b0077c60-d0fe-4518-999f-84a612533699&cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2ZpbHRlcl9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InNlYXJjaFN0cmluZyI6InRoZS10d2lnaGxpZ2h0LXNhZ2E6LWJyZWFraW5nLWRhd24tLS1wYXJ0LTEiLCJpc1Byb3ZpZGVyRmlsdGVyZWQiOmZhbHNlLCJwcm92aWRlcklkIjoiW1wibmZ4XCIsXCJhbXBcIixcImhsdVwiLFwidnloXCIsXCJhbXpcIixcImhiblwiLFwieW90XCIsXCJ5dHJcIixcInBseVwiLFwiaXR1XCIsXCJjYnNcIixcInJrY1wiLFwiaG9wXCIsXCJ0Y3dcIixcImN3c1wiLFwic3R6XCIsXCJmZGdcIixcInZkdVwiLFwic2hvXCIsXCJpZmRcIixcInBic1wiLFwicGZ4XCIsXCJmeG5cIixcInRidlwiLFwiZGN1XCIsXCJrbnBcIixcImNvbVwiLFwicGxzXCIsXCJjcmNcIixcIm1zZlwiLFwibXhnXCIsXCJoYmdcIixcImFiY1wiLFwiY3JrXCIsXCJhbXRcIixcImFtY1wiLFwiZm5kXCIsXCJjdHNcIixcIm5iY1wiLFwiZXB4XCIsXCJmZm1cIixcImhpc1wiLFwic2Z5XCIsXCJhYWVcIixcImxmdFwiLFwic2hkXCIsXCJzY2JcIixcImFjdFwiLFwic2RuXCIsXCJwY2ZcIixcImJib1wiLFwiZ2RjXCIsXCJybHpcIixcIm1iaVwiLFwiZmFkXCIsXCJuZmtcIixcInlmclwiLFwicHR5XCIsXCJibWdcIixcInVmZlwiLFwidW1jXCIsXCJkdmNcIixcInl0dlwiXSIsImlzR2VucmVGaWx0ZXJlZCI6ZmFsc2UsImdlbnJlSWQiOiJbXCJhY3RcIixcImFuaVwiLFwiY215XCIsXCJjcm1cIixcImRvY1wiLFwiZHJtXCIsXCJmbnRcIixcImhzdFwiLFwiaHJyXCIsXCJmbWxcIixcIm1zY1wiLFwidHJsXCIsXCJybWFcIixcInNjZlwiLFwic3B0XCIsXCJ3YXJcIixcIndzblwiXSIsIm9iamVjdFR5cGVGaWx0ZXIiOjAsInBhZ2VJZCI6Nzg4MjQsImNvdW50cnlDb2RlIjoidXMiLCJsYW5ndWFnZUNvZGUiOiJlbiIsImlzTW9uZXRpemF0aW9uVHlwZUZpbHRlcmVkIjpmYWxzZSwibW9uZXRpemF0aW9uVHlwZSI6IltcImZyZWVcIixcImFkc1wiLFwiZmxhdHJhdGVcIixcInJlbnRcIixcImJ1eVwiLFwiY2luZW1hXCJdIiwiaXNTY29yaW5nRmlsdGVyZWQiOmZhbHNlLCJzY29yaW5nIjoie1wiaW1kYjpzY29yZVwiOntcIm1pbl9zY29yaW5nX3ZhbHVlXCI6MCxcIm1heF9zY29yaW5nX3ZhbHVlXCI6MTB9LFwidG9tYXRvOm1ldGVyXCI6e1wibWluX3Njb3JpbmdfdmFsdWVcIjowLFwibWF4X3Njb3JpbmdfdmFsdWVcIjoxMDB9fSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC9jbGlja291dF9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InByb3ZpZGVyIjoiQXBwbGUgaVR1bmVzIiwibW9uZXRpemF0aW9uVHlwZSI6InJlbnQiLCJwcmVzZW50YXRpb25UeXBlIjoiNGsiLCJjdXJyZW5jeSI6IlVTRCIsInByaWNlIjozLjk5LCJvcmlnaW5hbFByaWNlIjo1Ljk5fX1dfQ&uct_country=us"
+        }
+    }]
+}

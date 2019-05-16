@@ -1,0 +1,36 @@
+{
+    "results": [{
+        "film": {
+            "title": "Crank",
+            "summary": "Professional assassin Chev Chelios learns his rival has injected him with a poison that will kill him if his heart rate drops.",
+            "trailer": "https://www.youtube.com/watch?v=uEXsOqdzYhE",
+            "poster": "/static/assets/posters/crank-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Brian Taylor",
+                "photo": "/static/assets/guests/brian-taylor.jpg",
+                "bio": "Brian Taylor is a writer and director. He is known for creating cult action movies such as Jonah Hex, Gamer, and Crank. He stopped by the Earwolf studios to discuss Crank on How Did This Get Made?",
+                "plugs": [
+                    {
+                        "title": "Crank",
+                        "URL": "https://www.amazon.com/Crank-Jason-Statham/dp/B000MULMWI",
+                        "media": "/static/assets/plugs/crank.jpg"
+                    },
+                    {
+                        "title": "Ghost Rider",
+                        "URL": "https://www.amazon.com/Ghost-Rider-Nicolas-Cage/dp/B00AHB92JM",
+                        "media": "/static/assets/plugs/ghost-rider.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "We can never talk enough about Crank and Crank 2. Fortunately we found someone just as excited about the movies to chat with us: Brian Taylor, the co-writer/director of the franchise. He joins Paul and Jason to tell us about Bai Ling's improvising, Jason Statham's secret comedic prowess, and what that mysterious underwear stain really was. As if that wasn't enough, he brings us the inside scoop from working with Nic Cage. We are proud to welcome Brian this week for latest HDTGM Director's Edition!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/22428864",
+            "amazonURL": "https://www.amazon.com/Crank-Jason-Statham/dp/B000MULMWI",
+            "youtubeURL": "https://www.youtube.com/watch?v=SkTjmkX9whI",
+            "itunesURL": "https://itunes.apple.com/us/movie/id284827606"
+        }
+    }]
+}

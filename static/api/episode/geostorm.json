@@ -1,0 +1,78 @@
+{
+    "results": [{
+        "film": {
+            "title": "Geostorm",
+            "summary": "When the network of satellites designed to control the global climate starts to attack Earth, it's a race against the clock for its creator to uncover the real threat before a worldwide Geostorm wipes out everything and everyone.",
+            "trailer": "https://www.youtube.com/watch?v=FStnSqKi9KI",
+            "poster": "/static/assets/posters/geostorm-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Colton Dunn",
+                "photo": "/static/assets/guests/colton-dunn.jpg",
+                "bio": "Colton Dunn is an actor, improviser, and writer known for his great work on Key & Peele and NBC’s Superstore. You can catch him performing alongside improviser Phil Jackson as part of “Rock Well.”",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Superstore",
+                        "URL": "https://www.amazon.com/dp/B018SA9IIS",
+                        "media": "/static/assets/plugs/superstore.jpg"
+                    },
+                    {
+                        "title": "Lazer Team 2",
+                        "URL": "https://www.amazon.com/Lazer-Team-2-Colton-Dunn/dp/B07CSQQBJP",
+                        "media": "/static/assets/plugs/lazer-team-2.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Jessica St. Clair",
+                "photo": "/static/assets/guests/jessica-st-clair.jpg",
+                "bio": "The very talented and renowned American actress and improv comedian Jessica St. Clair is known best for her work in the NBC series, Best Friends Forever. Jessica St. Clair net worth is known best to have been sourced from her work in TV series and movies like It’s Complicated, Life As We Know It, Wanderlust, Labor Pains, Veep, and more. Jessica St. Clair IMDB profile has details of her awards, TV series, and movies.",
+                "plugs": [
+                    {
+                        "title": "Playing House",
+                        "URL": "https://www.amazon.com/Bird-Bones/dp/B00JS6O1BQ",
+                        "media": "/static/assets/plugs/playing-house.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "The House",
+                        "URL": "https://www.amazon.com/House-Will-Ferrell/dp/B072X6H3QP",
+                        "media": "/static/assets/plugs/the-house.jpg"
+                    },
+                    {
+                        "title": "Lady Dynamite",
+                        "URL": "https://www.netflix.com/title/80046193",
+                        "media": "/static/assets/plugs/lady-dynamite.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    },
+                    {
+                        "title": "Review",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00IGCLCHE",
+                        "media": "/static/assets/plugs/review.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "GEOSTORM! Colton Dunn (Superstore, Blockers) joins Paul, Jason, and guest co-host Jessica St. Clair to discuss the 2017 disaster film Geostorm starring Gerard Butler. Recorded live from Los Angeles at Largo at the Coronet, they talk about Gerard’s accent, Andy Garcia’s pen acting, the real life car Geo Storm, and Mr. Bean in space.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/54082906",
+            "amazonURL": "https://www.amazon.com/Geostorm-Gerard-Butler/dp/B0765LJB3X",
+            "youtubeURL": "https://www.youtube.com/watch?v=sNq_lXd96Mc",
+            "itunesURL": "https://itunes.apple.com/us/movie/id1296029279"
+        }       
+    }]
+}

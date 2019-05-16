@@ -1,0 +1,81 @@
+{
+    "results": [{
+        "film": {
+            "title": "Ladybugs",
+            "summary": "To climb the corporate ladder to success, a guy agrees to coach the company's all girl soccer team with the help of his secret weapon: his fiancee's son.",
+            "trailer": "https://www.youtube.com/watch?v=rPdVQc4hsIc",
+            "poster": "/static/assets/posters/ladybugs-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Patton Oswalt",
+                "photo": "/static/assets/guests/patton-oswalt.jpg",
+                "bio": "Patton Oswalt is one of the most beloved members of the comedy community. His stand-up has been lauded both by fellow comedians and audiences all across America. He played a major role in creating The Comedians of Comedy tour and subsequent DVDs and television show. He has four albums, two of which reached the top of the Billboard Comedy chart. His television and film appearances are too numerous to list, but I’d be remiss not to credit him as the voice of Remy the rat from Ratatouille.",
+                "plugs": [
+                    {
+                        "title": "The Coup's 'The Magic Clap'",
+                        "URL": "https://www.youtube.com/watch?v=-YpNidqsBhI",
+                        "media": "/static/assets/plugs/the-magic-clap.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation Filibuster",
+                        "URL": "https://www.youtube.com/watch?v=5BBhNkywMJY",
+                        "media": "/static/assets/plugs/filibuster.jpg"
+                    },
+                    {
+                        "title": "Happy!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B077Z66WJ5",
+                        "media": "/static/assets/plugs/happy.jpg"
+                    },
+                    {
+                        "title": "Sorry to Bother You",
+                        "URL": "https://www.amazon.com/dp/B07FN8STFS",
+                        "media": "/static/assets/plugs/sorry-to-bother-you.jpg"
+                    },
+                    {
+                        "title": "Nerdland",
+                        "URL": "https://www.amazon.com/dp/B01MSXSR9K",
+                        "media": "/static/assets/plugs/nerdland.jpg"
+                    },
+                    {
+                        "title": "Portlandia",
+                        "URL": "https://www.amazon.com/dp/B004KCOABO",
+                        "media": "/static/assets/plugs/portlandia.jpg"
+                    },
+                    {
+                        "title": "The Heart, She Holler",
+                        "URL": "https://www.amazon.com/dp/B009WZR728",
+                        "media": "/static/assets/plugs/the-heart-she-holler.jpg"
+                    },
+                    {
+                        "title": "A Very Harold & Kumar Christmas",
+                        "URL": "https://www.amazon.com/dp/B0076HLI8S",
+                        "media": "/static/assets/plugs/a-very-harold-and-kumar-christmas.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Comedian Patton Oswalt (A.P. Bio) joins Paul, June, and Jason to discuss the 1992 sports-comedy Ladybugs starring Rodney Dangerfield. They’ll talk about the lady who faints in the dressing room scene, Jackee’s sub eating technique, and Rodney breaking into song for no reason.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/53540168",
+            "amazonURL": "https://www.amazon.com/gp/product/B0045VZJU6",
+            "youtubeURL": "https://www.youtube.com/watch?v=R-oQQGZ24wk",
+            "itunesURL": "https://itunes.apple.com/us/movie/id332864183"
+        }       
+    }]
+}

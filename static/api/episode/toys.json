@@ -1,0 +1,30 @@
+{
+    "results": [{
+        "film": {
+            "title": "Toys",
+            "summary": "When a military general inherits a toy making company and begins making war toys, his employees band together to stop him before he ruins the name of Zevo Toys forever.",
+            "trailer": "https://www.youtube.com/watch?v=d_vxkIm9z8k",
+            "poster": "/static/assets/posters/toys-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Drew McWeeny",
+                "photo": "/static/assets/guests/drew-mcweeny.jpg",
+                "bio": "Drew McWeeny also known by his pseudonym Moriarty, is a film critic, screenwriter, and the former west coast editor of the Ain’t It Cool News website.",
+                "plugs": [
+                    {
+                        "title": "Run Ronnie Run!",
+                        "URL": "https://www.amazon.com/Run-Ronnie-Not-Specified/dp/B00ALUZQMQ",
+                        "media": "/static/assets/plugs/run-ronnie-run.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HitFix’s Drew McWeeny joins Paul & Jason to discuss the less charming and more preachy Willy Wonka aka Robin Williams in Toys. It takes a special kind of movie with a strange choice of casting, tone, and plot for us to truly ask “how did this get made?” And this movie delivers. We get into everything from LL Cool J’s interrogation scene to the big reveal of Joan Cusack’s character. Oh yeah, we didn’t forget about the sea monster.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/29339160",
+            "amazonURL": "https://www.amazon.com/dp/B006RZZKE8",
+            "itunesURL": "https://itunes.apple.com/mx/movie/id931181018?l=en"
+        }
+    }]
+}

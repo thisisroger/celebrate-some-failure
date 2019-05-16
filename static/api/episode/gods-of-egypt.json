@@ -1,0 +1,29 @@
+{
+    "results": [{
+        "film": {
+            "title": "Gods of Egypt",
+            "summary": "Mortal hero Bek teams with the god Horus in an alliance against Set, the merciless god of darkness, who has usurped Egypt's throne, plunging the once peaceful and prosperous empire into chaos and conflict.",
+            "trailer": "https://www.youtube.com/watch?v=IJBnK2wNQSo",
+            "poster": "/static/assets/posters/gods-of-egypt-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Erin Gibson",
+                "photo": "/static/assets/guests/erin-gibson.jpg",
+                "bio": "Emmy-nominated Southern loudmouth Erin Gibson co-hosts​ ​& co-created​ 'Throwing Shade'​, ​​the award winning political absurdist comedy podcast​​, ​live ​show ​& TV show​ She developed her social commentary chops as the host of ​ 'Modern Lady'​ and sharpened them writing and directing political sketches for Funny or Die, where she also created the long running, Emmy-nominated 'Gay of Thrones' starring her real-life hair stylist​. You’ve seen her on Parks and Rec, Community, Key and Peele, The Kroll Show, and you’ve heard her on Comedy Central’s Jeff and Some Aliens, but she’s best known as 'the face of State Farm’s Rental Insurance tri-fold brochure.'"
+            },
+            "guestTwo": {
+                "name": "Bryan Safi",
+                "photo": "/static/assets/guests/bryan-safi.jpg",
+                "bio": "Bryan is a comedian, actor and writer living in Los Angeles. He is the co-host and co-creator of the THROWING SHADE podcast, live show and TV show. He currently plays Alan Lowenstein on Freeform's long-running series YOUNG & HUNGRY.  As an actor, you've seen him on shows like MODERN FAMILY, THE BIG BANG THEORY, SUPERSTORE and as Charlie in the Will Ferrell/Kristen Wiig Lifetime original movie opus A DEADLY ADOPTION."
+            }
+        },
+        "episodeDescription": "Erin Gibson and Bryan Safi of Throwing Shade podcast joins Paul and Jason in-studio to discuss the 2016 Fantasy film Gods of Egypt. Is it a good sign when the opening narration isn't confident in remembering the plot of the movie? What was the sphinx saying? Why doesn't Gerard Butler's accent stay consistent throughout the movie? All of this and more is covered as they get deep into this green screen adventure.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48911300",
+            "amazonURL": "https://www.amazon.com/gp/product/B01BZHA6WI",
+            "youtubeURL": "https://www.youtube.com/watch?v=WLME5YcPbVo",
+            "itunesURL": "https://itunes.apple.com/us/movie/id1082840783"
+        }
+    }]
+}

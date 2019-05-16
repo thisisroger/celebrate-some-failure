@@ -1,0 +1,87 @@
+{
+    "results": [{
+        "film": {
+            "title": "Hell Comes To Frogtown",
+            "summary": "After a nuclear war, the survivors are divided between horribly mutated beings who live on desolate reservations and fertile women who are searching for scarce virile men in order to multiply and start a new human society.",
+            "trailer": "https://www.youtube.com/watch?v=G7ouC--Yr2E",
+            "poster": "/static/assets/posters/hell-comes-to-frogtown-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Moshe Kasher",
+                "photo": "/static/assets/guests/moshe-kasher.jpg",
+                "bio": "Moshe Kasher is a stand-up comedian who has been featured on Late Night with Jimmy Fallon, Comedy Central’s Live at Gotham, and Chelsea Lately. In 2009 Moshe had the honor of being named iTunes Best New Comic. His album Everyone You Know is Going to Die and Then You Are is available on iTunes and Amazon, and you will soon be able to read his memoir Kasher in the Rye.",
+                "plugs": [
+                    {
+                        "title": "The Honeymoon Stand Up Special",
+                        "URL": "https://www.netflix.com/title/80213655",
+                        "media": "/static/assets/plugs/the-honeymoon-stand-up-special.jpg"
+                    },
+                    {
+                        "title": "Another Period",
+                        "URL": "https://www.amazon.com/dp/B00YYFSTRI",
+                        "media": "/static/assets/plugs/another-period.jpg"
+                    },
+                    {
+                        "title": "Transparent",
+                        "URL": "https://www.amazon.com/Pilot/dp/B00I3MQ9VG",
+                        "media": "/static/assets/plugs/transparent.jpg"
+                    },
+                    {
+                        "title": "Zoolander No. 2",
+                        "URL": "https://www.amazon.com/dp/B01BLZI392",
+                        "media": "/static/assets/plugs/zoolander-no2.jpg"
+                    },
+                    {
+                        "title": "Problematic with Moshe Kasher",
+                        "URL": "https://www.amazon.com/Cultural-Appropriation/dp/B06ZYHMDNQ",
+                        "media": "/static/assets/plugs/problematic.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Natasha Leggero",
+                "photo": "/static/assets/guests/natasha-leggero.jpg",
+                "bio": "Natasha Leggero traffics in elegance and excels in opulence. Faced with the sad necessity to participate in the workforce, Natasha made lemonade and a fabulous career in stand-up comedy and acting. She was appropriately selected for Comedy Central’s Hot List, and recently starred in her very own Comedy Central Presents. Her album Coke Money is available from Amazon and iTunes, but if any of you gentlemen would like to present her with a dowry she will give up this silly job in an instant.",
+                "plugs": [
+                    {
+                        "title": "Reno 911!",
+                        "URL": "https://www.amazon.com/s?k=reno+911&i=instant-video",
+                        "media": "/static/assets/plugs/reno-911.jpg"
+                    },
+                    {
+                        "title": "Another Period",
+                        "URL": "https://www.amazon.com/dp/B00YYFSTRI",
+                        "media": "/static/assets/plugs/another-period.jpg"
+                    },
+                    {
+                        "title": "Tubbing with Tash",
+                        "URL": "https://www.youtube.com/playlist?list=PLmLMM7D7XLUX8EIwf33eqGuH5aeDPdG3I",
+                        "media": "/static/assets/plugs/tubbin-with-tash.jpg"
+                    },
+                    {
+                        "title": "The Honeymoon Stand Up Special",
+                        "URL": "https://www.netflix.com/title/80213655",
+                        "media": "/static/assets/plugs/the-honeymoon-stand-up-special.jpg"
+                    },
+                    {
+                        "title": "Garfunkel and Oates",
+                        "URL": "https://www.amazon.com/dp/B00M4FA40K",
+                        "media": "/static/assets/plugs/garfunkel-and-oates.jpg"
+                    },
+                    {
+                        "title": "Burning Love",
+                        "URL": "https://www.amazon.com/dp/B00E3P3SPC",
+                        "media": "/static/assets/plugs/burning-love.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HDTGM All-Stars Natasha Leggero and Moshe Kasher join Paul and Jason to discuss the 1988 cult film Hell Comes to Frogtown starring professional wrestler 'Rowdy' Roddy  Piper. Recorded LIVE from the world famous Largo at the Coronet in Los Angeles, they'll discuss the similarities to Mad Max: Fury Road, the camouflaged bikini scene, frog strippers, and the Dance of the Three Snakes.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131004",
+            "amazonURL": "https://www.amazon.com/Hell-Comes-Frogtown-Roddy-Piper/dp/B006LAMESY",
+            "itunesURL": "https://itunes.apple.com/us/movie/id483320562"
+        }   
+    }]
+}

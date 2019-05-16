@@ -1,0 +1,59 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Boy Next Door",
+            "summary": "A woman, separated from her unfaithful husband, falls for a younger man who has moved in next door, but their torrid affair soon takes a dangerous turn.",
+            "trailer": "https://www.youtube.com/watch?v=Z_qN59GYZsc",
+            "poster": "/static/assets/posters/the-boy-next-door-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Heather Anne Campbell",
+                "photo": "/static/assets/guests/heather-anne-campbell.jpg",
+                "bio": "Heather Anne Campbell is an American Emmy nominated writer, sketch comedian, and improv comedy performer known for Whose Line Is It Anyway?, Saturday Night Live, and Mad TV.",
+                "plugs": [
+                    {
+                        "title": "Corporate",
+                        "URL": "https://www.amazon.com/The-Void/dp/B0789SH6VN",
+                        "media": "/static/assets/plugs/corporate.jpg"
+                    },
+                    {
+                        "title": "Miracle Workers",
+                        "URL": "https://www.amazon.com/2-Weeks/dp/B07NK7CR6H",
+                        "media": "/static/assets/plugs/miracle-workers.jpg"
+                    },
+                    {
+                        "title": "The Eric Andre Show",
+                        "URL": "https://www.amazon.com/Dolph-Lundgren/dp/B0086B3RD2",
+                        "media": "/static/assets/plugs/the-eric-andre-show.jpg"
+                    },
+                    {
+                        "title": "Rob Riggle's Ski Master Academy",
+                        "URL": "https://www.sonycrackle.com/watch/3659/25059",
+                        "media": "/static/assets/plugs/ski-master-academy.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Ben Siemon",
+                "photo": "/static/assets/guests/ben-siemon.jpg",
+                "bio": "Ben is an improviser/writer/actor pleased to be a writer for UCB Maude Team “Bonafide.” Ben’s UCBTLA credits also include Freak Dance: The Forbidden Dirty Boogaloo, The Midnight Show, and the UCBTLA Harold teams “Elroy” and “Hey, Uncle Gary!” Ben frequently performs at UCB with his two man improv team, “Small Town Sheriff” (with Mike Leffingwell), with which he won the 2010 March Madness competition against 47 other improv teams.",
+                "plugs": [
+                    {
+                        "title": "Crazy Ex-Girlfriend",
+                        "URL": "https://www.amazon.com/Josh-Just-Happens-Live-Here/dp/B016JCJKL2",
+                        "media": "/static/assets/plugs/crazy-ex-girlfriend.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Heather Anne Campbell of Whose Line Is It Anyway? and Ben Siemon of Crazy Ex-Girlfriend join Paul and Jason in-studio to talk about the Jennifer Lopez erotic thriller The Boy Next Door. The wet cookie scene, the first edition of 'Iliad,' vacant Chinatown and much more is discussed as well as another debate about man buns.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48130999",
+            "amazonURL": "https://www.amazon.com/gp/product/B00USRETPM",
+            "youtubeURL": "https://www.youtube.com/watch?v=k4399ckx6LQ",
+            "itunesURL": "https://itunes.apple.com/us/movie/id956626017"
+        }
+        
+    }]
+}

@@ -1,0 +1,63 @@
+{
+    "results": [{
+        "film": {
+            "title": "Gamer",
+            "summary": "In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment. Convict Kable, controlled by Simon, a skilled teenage gamer, must survive thirty sessions in order to be set free. Or won't he?",
+            "trailer": "https://www.youtube.com/watch?v=P2g94xQmtHw",
+            "poster": "/static/assets/posters/gamer-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Robert Kirkman",
+                "photo": "/static/assets/guests/robert-kirkman.jpg",
+                "bio": "Robert Kirkman is an American comic book writer best known for creating The Walking Dead and Invincible for Image Comics, in addition to writing Ultimate X-Men and Marvel Zombies for Marvel Comics.",
+                "plugs": [
+                    {
+                        "title": "The Walking Dead",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0049VVE7Y",
+                        "media": "/static/assets/plugs/the-walking-dead.jpg"
+                    },
+                    {
+                        "title": "Outcast",
+                        "URL": "https://www.amazon.com/Pilot-a-Darkness-Surrounds-Him/dp/B01M6TN1AL",
+                        "media": "/static/assets/plugs/outcast.jpg"
+                    },
+                    {
+                        "title": "In Conversation w/ Jason Mantzoukas at Live Talks",
+                        "URL": "https://www.youtube.com/watch?v=V5bpHoJh_T4&t=552s",
+                        "media": "/static/assets/plugs/in-conversation-with-robert-kirkman.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Emily V. Gordon",
+                "photo": "/static/assets/guests/emily-v-gordon.jpg",
+                "bio": "Emily Gordon is a gamer, writer, relationship counselor, and co-host of the Nerdist podcast The Indoor Kids. She has written for Bust Magazine, Jane Magazine, Dame Magazine, and probably other four-letter-word-about-women magazines.",
+                "plugs": [
+                    {
+                        "title": "Who Charted: Glory Hole Jack-O-Lantern",
+                        "URL": "https://itunes.apple.com/us/podcast/who-charted/id408711228",
+                        "media": "/static/assets/plugs/who-charted.jpg"
+                    },
+                    {
+                        "title": "The Indoor Kids",
+                        "URL": "https://itunes.apple.com/us/podcast/id450637314",
+                        "media": "/static/assets/plugs/the-indoor-kids.jpg"
+                    },
+                    {
+                        "title": "The Big Sick",
+                        "URL": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B07193L7RD",
+                        "media": "/static/assets/plugs/the-big-sick.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Recorded live from the world famous Largo at the Coronet in Los Angeles, Robert Kirkman of The Walking Dead and Emily V. Gordon of The Meltdown with Jonah & Kumail join Paul and Jason to discuss the 2009 Neveldine/Taylor film Gamer. Theyll cover everything including Gerard Butlers way to get a car starting, the Michael C. Hall dance sequence, Terry Crews baring all, and the potential Ludacris cross-over with Fast & Furious.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48130981",
+            "amazonURL": "https://www.amazon.com/gp/product/B07BFM5P4L",
+            "youtubeURL": "https://www.youtube.com/watch?v=pB8AwvSAltk",
+            "itunesURL": "https://itunes.apple.com/us/movie/id331678309"
+        }
+    }]
+}

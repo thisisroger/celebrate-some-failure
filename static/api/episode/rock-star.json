@@ -1,0 +1,31 @@
+{
+    "results": [{
+        "film": {
+            "title": "Rock Star",
+            "summary": "Lead singer of a tribute band becomes lead singer of the real band he idolizes.",
+            "trailer": "https://www.youtube.com/watch?v=-NIXXXzzyiY",
+            "poster": "/static/assets/posters/rock-star-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jake Weisman",
+                "photo": "/static/assets/guests/jake-weisman.jpg",
+                "bio": "Jake Weisman is a comedian in Los Angeles, CA. He has two podcasts, one called Cats and Pussy and another one called The Morning After…Podcast. He also has a sketch group called WOMEN. He loves cats and he thinks people are attractive.",
+                "plugs": [
+                    {
+                        "title": "Corporate",
+                        "URL": "https://www.amazon.com/The-Void/dp/B0789SH6VN",
+                        "media": "/static/assets/plugs/corporate.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Comedian Jake Weisman (Corporate) joins Paul, June, and Jason to discuss the 2001 musical comedy-drama Rock Star starring Mark Wahlberg and Jennifer Aniston. Recorded live from Largo at the Coronet in Los Angeles, they cover the use of wigs, the orgy scene, and nipple piercing.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/53345447",
+            "amazonURL": "https://www.amazon.com/Rock-Star-Mark-Wahlberg/dp/B003KM2ADU",
+            "youtubeURL": "https://www.youtube.com/watch?v=l7LzkyQvMpA",
+            "itunesURL": "https://itunes.apple.com/us/movie/id370367233"
+        }       
+    }]
+}

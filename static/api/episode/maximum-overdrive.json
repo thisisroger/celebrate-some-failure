@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "Maximum Overdrive",
+            "summary": "A group of people try to survive when machines start to come alive and become homicidal.",
+            "trailer": "https://www.youtube.com/watch?v=ggWS4tTzs60",
+            "poster": "/static/assets/posters/maximum-overdrive-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Andy Daly",
+                "photo": "/static/assets/guests/andy-daly.jpg",
+                "bio": "Andy Daly is one of the first performers to emerge from the Upright Citizens Brigade school, and has been showing off his comedic prowess ever since. From Mad TV to the critically lauded Eastbound & Down, Andy has had an impressive career in being hilarious. His album 9 Sweaters is available through AST Records, and you can put his name into just about any comedy website and find dozens of great videos.",
+                "plugs": [
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Review",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00IGCLCHE",
+                        "media": "/static/assets/plugs/review.jpg"
+                    },
+                    {
+                        "title": "Silicon Valley",
+                        "URL": "https://www.amazon.com/Minimum-Viable-Product/dp/B00M4ZPZPY",
+                        "media": "/static/assets/plugs/silicon-valley.jpg"
+                    },
+                    {
+                        "title": "Comedy Bang! Bang!: The Podcast",
+                        "URL": "https://itunes.apple.com/us/podcast/comedy-bang-bang-the-podcast/id316045799",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    },
+                    {
+                        "title": "Andy Daly Podcast Pilot Project",
+                        "URL": "https://itunes.apple.com/us/podcast/andy-daly-podcast-pilot-project/id774375605",
+                        "media": "/static/assets/plugs/podcast-pilot-project.jpg"
+                    },
+                    {
+                        "title": "Semi-Pro",
+                        "URL": "https://www.amazon.com/Semi-Pro-Will-Ferrell/dp/B003XC0IBS",
+                        "media": "/static/assets/plugs/semi-pro.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "LIVE from Largo in Los Angeles, TV’s Andy Daly of Review joins Paul, Jason, and June to discuss Stephen King’s only directorial effort: Maximum Overdrive. They’ll talk about the AC/DC soundtrack, what kind of machines can become sentient, the newlywed couple, Emilio Estevez licking a forehead, what exactly a “road twitch” could be, and cocaine. Plus, everyone discusses one of the most disgusting scenes in film history after some ridiculous 2nd Opinions!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/40520642",
+            "amazonURL": "https://www.amazon.com/Maximum-Overdrive-Emilio-Estevez/dp/B00K1WHK6E",
+            "youtubeURL": "https://www.youtube.com/watch?v=iYRb3FAgpSs",
+            "itunesURL": "https://itunes.apple.com/us/movie/id697535063"
+        }
+    }]
+}

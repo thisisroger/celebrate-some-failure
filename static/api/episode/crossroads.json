@@ -1,0 +1,29 @@
+{
+    "results": [{
+        "film": {
+            "title": "Crossroads",
+            "summary": "Three childhood best friends, and a guy they just met, take a road trip across the country, finding themselves and their friendship in the process.",
+            "trailer": "https://www.youtube.com/watch?v=vb398BOlv0Q",
+            "poster": "/static/assets/posters/crossroads-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jeff Rubin",
+                "photo": "/static/assets/guests/jeff-rubin.jpg",
+                "bio": "Jeff Rubin is the heart and soul of Collegehumor. Not to say that the others aren’t important, but I mean, he WAS the first employee ever! Plus he’s got a rad podcast called The Jeff Rubin Jeff Rubin Show where he discusses cool nerd stuff like Legends of the Hidden Temple (awesome) and porno parodies of popular TV shows (even awesomer). So yeah, file him under “Great” (why do you have a file cabinet of Earwolf guests?).",
+                "plugs": [
+                    {
+                        "title": "Cool Apocalypse",
+                        "URL": "https://www.imdb.com/title/tt4272826/",
+                        "media": "/static/assets/plugs/cool-apocalypse.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "It’s not a music video and not yet a movie. Jeff Rubin of The Jeff Rubin Jeff Rubin Show joins Paul, June, and Jason to discuss Britney Spears in 2002’s Crossroads. They talk about why you shouldn’t judge the movie from the poster, the many similarities to Adventures in Babysitting, the heavy secrets montage, and the very dark ending.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/31064126",
+            "amazonURL": "https://www.amazon.com/Crossroads-Britney-Spears/dp/B0015L7BMI"
+        }
+    }]
+}

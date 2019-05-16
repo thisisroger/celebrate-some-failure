@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "Tango and Cash",
+            "summary": "Framed by their ruthless arch-nemesis, a mismatched LAPD crime-fighting duo has to put its differences aside to even the score with the evil kingpin who put them behind bars once and for all.",
+            "trailer": "https://www.youtube.com/watch?v=qwzkxI6b9Go",
+            "poster": "/static/assets/posters/tango-and-cash-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Nick Kroll",
+                "photo": "/static/assets/guests/nick-kroll.jpg",
+                "bio": "Nick Kroll is dearly beloved here at Earwolf, in case you can’t tell from the El Chupcabra tag on the Earwolf theme. He’s a quick improviser and hilarious stand-up, and you can watch his special Thank You Very Cool or the semi-improvised The League for verification on that. His credits are unending, and incredibly impressive.",
+                "plugs": [
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Kroll Show",
+                        "URL": "https://www.amazon.com/dp/B00AVXZ5O2",
+                        "media": "/static/assets/plugs/kroll-show.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Adult Beginners",
+                        "URL": "https://www.amazon.com/dp/B00WKZ2YWK",
+                        "media": "/static/assets/plugs/adult-beginners.jpg"
+                    },
+                    {
+                        "title": "Sausage Party",
+                        "URL": "https://www.amazon.com/dp/B01JBARY4O",
+                        "media": "/static/assets/plugs/sausage-party.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/Pilot/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Nick Kroll breaks the return guest record as he joins Paul, June, and Jason to discuss Stallone & Russell as mismatched cops in Tango & Cash. They'll cover everything from cross dressing Kurt Russell, Jack Palance's master plan, 80s boobs, the newspaper headlines, and the will they, won’t they high-five relationship Sly & Kurt share onscreen. Plus, we find out if the ladies out there really do enjoy Stallone & Russell’s shower scene during 2nd Opinions!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/49282273",
+            "amazonURL": "https://www.amazon.com/Tango-Cash-Sylvester-Stallone/dp/B0091WFDBE",
+            "youtubeURL": "https://www.youtube.com/watch?v=AVzvB_98lMQ",
+            "itunesURL": "https://itunes.apple.com/us/movie/tango-cash/id279599148"
+        }
+    }]
+}

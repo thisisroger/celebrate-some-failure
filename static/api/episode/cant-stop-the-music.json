@@ -1,0 +1,72 @@
+{
+    "results": [{
+        "film": {
+            "title": "Can't Stop the Music",
+            "summary": "A pseudo autobiography of disco's The Village People.",
+            "trailer": "https://www.youtube.com/watch?v=fU21LKlfrmA",
+            "poster": "/static/assets/posters/cant-stop-the-music-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Cameron Esposito",
+                "photo": "/static/assets/guests/cameron-esposito.jpg",
+                "bio": "Cameron Esposito is a stand-up comedian. You can catch Cameron every Tuesday night at 8 PM at LA’s UCB Theatre where she hosts the stand-up show Put Your Hands Together which is also a podcast. Cameron also hosts Queery, an interview podcast with some of the brightest luminaries in the LGBTQ+ family.",
+                "plugs": [
+                    {
+                        "title": "Take My Wife",
+                        "URL": "https://www.amazon.com/Set-up/dp/B01IU9LWN6",
+                        "media": "/static/assets/plugs/take-my-wife.jpg"
+                    },
+                    {
+                        "title": "We Bare Bears",
+                        "URL": "https://www.amazon.com/Our-Stuff-Viral-Video/dp/B0111NFKPY",
+                        "media": "/static/assets/plugs/we-bare-bears.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Pete Holmes",
+                "photo": "/static/assets/guests/pete-holmes.jpg",
+                "bio": "Pete Holmes is a stand-up comedian who you might recognize from John Oliver’s New York Stand-Up Show, Late Night with Jimmy Fallon or Conan. You might have even seen him on Comedy Central’s Hot List or his very own Comedy Central Presents. You could have seen his web videos with Front Page Films. You’ve probably listed to his Nerdist podcast, You Made it Weird. I think, and I could be wrong, that when you look up “funny” in the dictionary you’ll see his picture. Oh wait, I just checked, and I was wrong. Don’t let that deter you though, he’s hilarious.",
+                "plugs": [
+                    {
+                        "title": "Crashing",
+                        "URL": "https://www.amazon.com/Artie-Lange/dp/B0718WTKYJ",
+                        "media": "/static/assets/plugs/crashing.jpg"
+                    },
+                    {
+                        "title": "You Made it Weird",
+                        "URL": "https://itunes.apple.com/us/podcast/you-made-it-weird-with-pete-holmes/id475878118",
+                        "media": "/static/assets/plugs/you-made-it-weird.jpg"
+                    },
+                    {
+                        "title": "Pete Holmes: Faces and Sounds",
+                        "URL": "https://www.amazon.com/Pete-Holmes-Faces-Sounds/dp/B01MXTZP9G",
+                        "media": "/static/assets/plugs/faces-sounds.jpg"
+                    },
+                    {
+                        "title": "Don't Think Twice",
+                        "URL": "https://www.amazon.com/Dont-Think-Twice-Keegan-Michael-Key/dp/B01M31UP72",
+                        "media": "/static/assets/plugs/dont-think-twice.jpg"
+                    },
+                    {
+                        "title": "Pete Holmes: Nice Try, The Devil",
+                        "URL": "https://www.amazon.com/Pete-Holmes-Nice-Try-Devil/dp/B00CRWOYCO",
+                        "media": "/static/assets/plugs/nice-try-the-devil.jpg"
+                    },
+                    {
+                        "title": "Pete Holmes: Dirty Clean",
+                        "URL": "https://www.amazon.com/Pete-Holmes-Dirty-Not-Specified/dp/B07LB4YJ6Q",
+                        "media": "/static/assets/plugs/dirty-not-specified.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HDTGM All-Stars Pete Holmes and Cameron Esposito join Paul and Jason LIVE from the world famous Largo at the Coronet in Los Angeles to discuss the 1980 Village People biopic Can't Stop the Music. The film won the very first Razzie award for Worst Picture. They will cover everything including the fact that movie is PG but has dicks in it, the Baskin-Robbins product placement, and the milkshake song.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131008",
+            "amazonURL": "https://www.amazon.com/Cant-Stop-Music-Alex-Briley/dp/B003UODPIW",
+            "itunesURL": "https://itunes.apple.com/us/movie/id381248259"
+        }
+    }]
+}

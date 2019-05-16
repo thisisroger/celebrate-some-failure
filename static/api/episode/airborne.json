@@ -1,0 +1,109 @@
+{
+    "results": [{
+        "film": {
+            "title": "Airborne",
+            "summary": "Mitchell Goosen is sixteen/seventeen year old kid from California who loves to surf and roller blade. Yet, his parents, who are two zoologists were given a grant to work in Australia. The ... See full summary »",
+            "trailer": "https://www.youtube.com/watch?v=Mz2CMDCD3WQ",
+            "poster": "/static/assets/posters/airborne-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Danielle Schneider",
+                "photo": "/static/assets/guests/danielle-schneider.jpg",
+                "bio": "Danielle Schneider, an actor, writer and comedienne, is a graduate of NYU’s Tisch School of the Arts. She (along with her writing partner Dannah Phirman) created and stars in the HULU series Hotwives of Orlando, with a second season coming out in August. As an actress Danielle recurred on NBC’s Marry Me. She has also appeared on Community, Happy Endings, Adult Swim’s NTSF:SD:SUV and E!’s Burning Love. Danielle was also a long time panelist on VH1’s critically praised and highly rated Best Week Ever.",
+                "plugs": [
+                    {
+                        "title": "The Hotwives of Orlando",
+                        "URL": "https://www.amazon.com/dp/B00XJC325Q",
+                        "media": "/static/assets/plugs/the-hotwives-of-orlando.jpg"
+                    },
+                    {
+                        "title": "Step Brothers",
+                        "URL": "https://www.amazon.com/dp/B007OXHVSU",
+                        "media": "/static/assets/plugs/step-brothers.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Scott Aukerman",
+                "photo": "/static/assets/guests/scott-aukerman.jpg",
+                "bio": "Scott Aukerman began his comedy career as a writer and performer on HBO’s Mr. Show with Bob and David. In 2009, he debuted a comedy radio show featuring real-life guests and improvised characters, which is now called Comedy Bang Bang: The Podcast! In 2010, he co-founded the Earwolf Podcast Network. In 2012, he started a television series based upon his podcast, Comedy Bang! Bang!, which completed five seasons on IFC. Scott co-created and directs the Funny or Die series Between Two Ferns with Zach Galifianakis, for which he has won two Emmy Awards. Scott’s other credits include executive producer of the reality spoof series Bajillion Dollar Propertie$, and the sitcom Take My Wife, both now streaming on Seeso. He also executive produced and co-directed Michael Bolton’s Big, Sexy Valentine’s Day Special streaming now on Netflix.",
+                "plugs": [
+                    {
+                        "title": "Comedy Bang! Bang!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B008578B0Q",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    },
+                    {
+                        "title": "Between Two Ferns",
+                        "URL": "https://www.amazon.com/Michael-Cera/dp/B01MXOLM23",
+                        "media": "/static/assets/plugs/between-two-ferns.jpg"
+                    },
+                    {
+                        "title": "Earwolf",
+                        "URL": "http://earwolf.com",
+                        "media": "/static/assets/plugs/earwolf.jpg"
+                    },
+                    {
+                        "title": "Run Ronnie Run!",
+                        "URL": "https://www.amazon.com/Run-Ronnie-Not-Specified/dp/B00ALUZQMQ",
+                        "media": "/static/assets/plugs/run-ronnie-run.jpg"
+                    }
+                ]
+            },
+            "guestThree": {
+                "name": "Kumail Nanjiani",
+                "photo": "/static/assets/guests/kumail-nanjiani.jpg",
+                "bio": "Kumail Nanjiani is a stand-up comedian, video game aficionado, and an American citizen! In 2009 Kumail joined Michael and Michael Have Issues as a writer and actor and has since gone on to act in Traffic Light and IFC’s Portlandia. He has performed stand-up on John Oliver’s New York Stand-Up Show and Conan (among others), and was put on Comedy Central’s 2009 Hot List.",
+                "plugs": [
+                    {
+                        "title": "Portlandia",
+                        "URL": "https://www.amazon.com/dp/B004KCOABO",
+                        "media": "/static/assets/plugs/portlandia.jpg"
+                    },
+                    {
+                        "title": "The Meltdown with Jonah and Kumail",
+                        "URL": "https://www.amazon.com/dp/B00LH4HS26",
+                        "media": "/static/assets/plugs/the-meltdown.jpg"
+                    },
+                    {
+                        "title": "Silicon Valley",
+                        "URL": "https://www.amazon.com/Minimum-Viable-Product/dp/B00M4ZPZPY",
+                        "media": "/static/assets/plugs/silicon-valley.jpg"
+                    },
+                    {
+                        "title": "The Indoor Kids",
+                        "URL": "https://itunes.apple.com/us/podcast/id450637314",
+                        "media": "/static/assets/plugs/the-indoor-kids.jpg"
+                    },
+                    {
+                        "title": "Beta Male",
+                        "URL": "https://www.amazon.com/Kumail-Nanjiani-Beta-Male/dp/B00DM0WZQ2",
+                        "media": "/static/assets/plugs/beta-male.jpg"
+                    },
+                    {
+                        "title": "The Big Sick",
+                        "URL": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B07193L7RD",
+                        "media": "/static/assets/plugs/the-big-sick.jpg"
+                    },
+                    {
+                        "title": "Mike and Dave Need Wedding Dates",
+                        "URL": "https://www.amazon.com/Mike-Dave-Need-Wedding-Dates/dp/B01I2CNZ72",
+                        "media": "/static/assets/plugs/mike-and-dave-need-wedding-dates.jpg"
+                    },
+                    {
+                        "title": "Write Now! with Jimmy Pardo",
+                        "URL": "https://www.youtube.com/watch?v=wjBZPjKQGb8",
+                        "media": "/static/assets/plugs/write-now.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Scott Aukerman (Comedy Bang! Bang!), Kumail Nanjiani (Silicon Valley, Fist Fight), and Danielle Schneider (Bitch Sesh) join Paul for a HDTGM All-Stars episode to discuss the 1993 rollerblading movie Airborne. Recorded live from Largo at the Coronet in Los Angeles, they cover everything from Seth Greens clothing montage to impressing bullies by showing them a butt.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/54218892",
+            "amazonURL": "https://www.amazon.com/Airborne-Shane-Mc-Dermott/dp/B0091W0OCM",
+            "youtubeURL": "https://www.youtube.com/watch?v=4rz9bwg7Ykc"
+        }       
+    }]
+}

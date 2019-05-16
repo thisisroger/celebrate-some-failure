@@ -1,0 +1,84 @@
+{
+    "results": [{
+        "id": "the-tourist",
+        "film": {
+            "title": "The Tourist",
+            "summary": "Revolves around Frank, an American tourist visiting Italy to mend a broken heart. Elise is an extraordinary woman who deliberately crosses his path.",
+            "trailer": "https://www.youtube.com/watch?v=5XtbLezJtMg",
+            "poster": "/static/assets/posters/the-tourist-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Natasha Leggero",
+                "photo": "/static/assets/guests/natasha-leggero.jpg",
+                "bio": "Natasha Leggero traffics in elegance and excels in opulence. Faced with the sad necessity to participate in the workforce, Natasha made lemonade and a fabulous career in stand-up comedy and acting. She was appropriately selected for Comedy Central’s Hot List, and recently starred in her very own Comedy Central Presents. Her album Coke Money is available from Amazon and iTunes, but if any of you gentlemen would like to present her with a dowry she will give up this silly job in an instant.",
+                "plugs": [
+                    {
+                        "title": "Reno 911!",
+                        "URL": "https://www.amazon.com/s?k=reno+911&i=instant-video",
+                        "media": "/static/assets/plugs/reno-911.jpg"
+                    },
+                    {
+                        "title": "Another Period",
+                        "URL": "https://www.amazon.com/dp/B00YYFSTRI",
+                        "media": "/static/assets/plugs/another-period.jpg"
+                    },
+                    {
+                        "title": "Tubbing with Tash",
+                        "URL": "https://www.youtube.com/playlist?list=PLmLMM7D7XLUX8EIwf33eqGuH5aeDPdG3I",
+                        "media": "/static/assets/plugs/tubbin-with-tash.jpg"
+                    },
+                    {
+                        "title": "The Honeymoon Stand Up Special",
+                        "URL": "https://www.netflix.com/title/80213655",
+                        "media": "/static/assets/plugs/the-honeymoon-stand-up-special.jpg"
+                    },
+                    {
+                        "title": "Garfunkel and Oates",
+                        "URL": "https://www.amazon.com/dp/B00M4FA40K",
+                        "media": "/static/assets/plugs/garfunkel-and-oates.jpg"
+                    },
+                    {
+                        "title": "Burning Love",
+                        "URL": "https://www.amazon.com/dp/B00E3P3SPC",
+                        "media": "/static/assets/plugs/burning-love.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Gil Ozeri",
+                "photo": "/static/assets/guests/gil-ozeri.jpg",
+                "bio": "Gil Ozeri is an actor and comedian who you may recognize from his UCB improv groups Death by Roo Roo or Hot Sauce. He received attention for the Funny or Die sponsored web event Two and a Half Days of Two and a Half Men where he bravely sat through every episode of the sitcom and streamed it live. Gil also wrote on ABC’s Happy Endings and currently writes on Brooklyn Nine-Nine.",
+                "plugs": [
+                    {
+                        "title": "Hollywood Handbook",
+                        "URL": "https://itunes.apple.com/us/podcast/hollywood-handbook/id720832183?mt=2",
+                        "media": "/static/assets/plugs/hollywood-handbook.jpg"
+                    },
+                    {
+                        "title": "Happy Endings",
+                        "URL": "https://www.amazon.com/dp/B004V2E8SS",
+                        "media": "/static/assets/plugs/happy-endings.jpg"
+                    },
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Brooklyn Nine-Nine",
+                        "URL": "https://www.amazon.com/dp/B00ESB6EUC",
+                        "media": "/static/assets/plugs/brooklyn-nine-nine.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "When you pair two superstars like Angelina Jolie and Johnny Depp, what’s the worst that can happen? Apparently it’s The Tourist. Jason lucked out and missed this movie, but Paul, June, and special guests Natasha Leggero and Gil Ozeri are here to discuss the bad accents and lack of chemistry that fill this Golden Globe nominated film.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/57834622",
+            "amazonURL": "https://www.amazon.com/dp/B004QYTRRS",
+            "youtubeURL": "https://www.youtube.com/watch?v=liWSnWxTLqE",
+            "itunesURL": "https://itunes.apple.com/us/movie/id416703161"
+        }
+    }]
+}

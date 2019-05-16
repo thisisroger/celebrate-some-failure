@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Back-up Plan",
+            "summary": "A woman conceives twins through artificial insemination, only to meet the man of her dreams on the very same day.",
+            "trailer": "https://www.youtube.com/watch?v=cut4IW0oz1w",
+            "poster": "/static/assets/posters/the-back-up-plan-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jackie Clarke",
+                "photo": "/static/assets/guests/jackie-clarke.jpg",
+                "bio": "Jackie Clarke, like many of our guests, is a frequent UCB performer and member of the improv team Death by Roo Roo. Unlike many of our guests Jackie has hosted several radio shows, appeared on Hannity & Colmes, and been sued by Eve Ensler. You can currently find her performing in Jackie & Judy: Looking for a Good Dick with Judy Greer.",
+                "plugs": [
+                    {
+                        "title": "Human Giant",
+                        "URL": "https://www.amazon.com/Mind-Explosion/dp/B000PAVSBU",
+                        "media": "/static/assets/plugs/human-giant.jpg"
+                    },
+                    {
+                        "title": "Superstore",
+                        "URL": "https://www.amazon.com/dp/B018SA9IIS",
+                        "media": "/static/assets/plugs/superstore.jpg"
+                    },
+                    {
+                        "title": "Undateable",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00KJED4ZA",
+                        "media": "/static/assets/plugs/undateable.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "When the most striking attributes of a film are its too-loud eating sounds and hot dog centric bloopers, you know it’s a prime candidate for How Did This Get Made?! This week Jackie Clarke joins Paul, June, and Jason to travel through the cheese caves and baby pools that populate this JLo flick. If you were concerned by the drinking, put off by the pratfalls, or curious about bush sightings, you are not alone!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/57834619",
+            "amazonURL": "https://www.amazon.com/dp/B003XDXVXO",
+            "youtubeURL": "https://www.youtube.com/watch?v=cYLkp5bAl9o",
+            "itunesURL": "https://itunes.apple.com/us/movie/id384609842"
+        }
+    }]
+}

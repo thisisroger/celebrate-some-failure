@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Hercules in New York",
+            "summary": "Hercules (Schwarzenegger) is sent to Earth where he finds true love and starts a promising career in the bodybuilder business.",
+            "trailer": "https://www.youtube.com/watch?v=X9qAR-Jnbug",
+            "poster": "/static/assets/posters/hercules-in-new-york-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Abbi Jacobson",
+                "photo": "/static/assets/guests/abbi-jacobson.jpg",
+                "bio": "Abbi Jacobson is an actor, writer, and artist. She studied improv at UCBT-NY and went on to produce many successful shows such as CINNABONANZA!, Triple Play, and her solo show, “Welcome to Camp” which ran for 6 months in 2011. She is also known for her web-series Broad City with Ilana Glazer, and is currently in development with FX.",
+                "plugs": [
+                    {
+                        "title": "Broad City",
+                        "URL": "https://www.amazon.com/What-a-Wonderful-World/dp/B00HNEDIZ0",
+                        "media": "/static/assets/plugs/broad-city.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    },
+                    {
+                        "title": "Portlandia",
+                        "URL": "https://www.amazon.com/dp/B004KCOABO",
+                        "media": "/static/assets/plugs/portlandia.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Recorded LIVE from Irving Plaza in New York, Abbi Jacobson of Broad City joins Paul, June, and Jason to discuss the story of Pretzie and Arnold Strong aka Schwarzenegger in Hercules in New York! Theyll cover everything from Arnolds awkward flirting, Hercules vs. the bear in sneakers in Central Park, the moment of clear genius during the chariot race scene, and Pretzies ending monologue.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131058",
+            "amazonURL": "https://www.amazon.com/gp/product/B000K28QEA",
+            "youtubeURL": "https://www.youtube.com/watch?v=RFvXooRVZR4",
+            "itunesURL": "https://itunes.apple.com/us/movie/id251109955"
+        }
+    }]
+}

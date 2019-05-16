@@ -1,0 +1,78 @@
+{
+    "results": [{
+        "film": {
+            "title": "Superman IV: The Quest for Peace",
+            "summary": "The Man of Steel crusades for nuclear disarmament and meets Lex Luthor's latest creation, Nuclear Man.",
+            "trailer": "https://www.youtube.com/watch?v=jwuB2ub5aek",
+            "poster": "/static/assets/posters/superman-iv-the-quest-for-peace-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Natasha Lyonne",
+                "photo": "/static/assets/guests/natasha-lyonne.jpg",
+                "bio": "Natasha Lyonne is an American stage, film, and television actress, known for her roles in the American Pie series, as well as the films Everyone Says I Love You, Slums of Beverly Hills, But I’m a Cheerleader, and Blade: Trinity.",
+                "plugs": [
+                    {
+                        "title": "Portlandia",
+                        "URL": "https://www.amazon.com/dp/B004KCOABO",
+                        "media": "/static/assets/plugs/portlandia.jpg"
+                    },
+                    {
+                        "title": "American Pie",
+                        "URL": "https://www.amazon.com/American-Pie-Unrated-Jason-Biggs/dp/B0039NGAZY",
+                        "media": "/static/assets/plugs/american-pie.jpg"
+                    },
+                    {
+                        "title": "Slums Of Beverly Hills",
+                        "URL": "https://www.amazon.com/Slums-Beverly-Hills-Natasha-Lyonne/dp/B001KWTBTS",
+                        "media": "/static/assets/plugs/slums-of-beverly-hills.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Jessica St. Clair",
+                "photo": "/static/assets/guests/jessica-st-clair.jpg",
+                "bio": "The very talented and renowned American actress and improv comedian Jessica St. Clair is known best for her work in the NBC series, Best Friends Forever. Jessica St. Clair net worth is known best to have been sourced from her work in TV series and movies like It’s Complicated, Life As We Know It, Wanderlust, Labor Pains, Veep, and more. Jessica St. Clair IMDB profile has details of her awards, TV series, and movies.",
+                "plugs": [
+                    {
+                        "title": "Playing House",
+                        "URL": "https://www.amazon.com/Bird-Bones/dp/B00JS6O1BQ",
+                        "media": "/static/assets/plugs/playing-house.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "The House",
+                        "URL": "https://www.amazon.com/House-Will-Ferrell/dp/B072X6H3QP",
+                        "media": "/static/assets/plugs/the-house.jpg"
+                    },
+                    {
+                        "title": "Lady Dynamite",
+                        "URL": "https://www.netflix.com/title/80046193",
+                        "media": "/static/assets/plugs/lady-dynamite.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    },
+                    {
+                        "title": "Review",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00IGCLCHE",
+                        "media": "/static/assets/plugs/review.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Natasha Lyonne (Orange Is The New Black) joins Paul, Jason, and guest co-host Jessica St. Clair to discuss the 1987 superhero film Superman IV: The Quest for Peace. Recorded live in New York, they talk about Nuclear Mans nails, amnesia kisses, and whats up with Margot Kidder.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/52659893",
+            "amazonURL": "https://www.amazon.com/gp/product/B001EBV0M6",
+            "youtubeURL": "https://www.youtube.com/watch?v=g_OY7IHeQIA",
+            "itunesURL": "https://itunes.apple.com/us/movie/id560076141"
+        }       
+    }]
+}

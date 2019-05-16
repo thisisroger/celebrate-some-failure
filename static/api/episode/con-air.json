@@ -1,0 +1,36 @@
+{
+    "results": [{
+        "film": {
+            "title": "Con Air",
+            "summary": "Newly paroled ex-con and former U.S. Ranger Cameron Poe finds himself trapped in a prisoner transport plane when the passengers seize control.",
+            "trailer": "https://www.youtube.com/watch?v=WXgcE6_xfR0",
+            "poster": "/static/assets/posters/con-air-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Seth Grahame-Smith",
+                "photo": "/static/assets/guests/seth-grahame-smith.jpg",
+                "bio": "Seth Grahame-Smith is an American best-selling author, screenwriter, and producer of film and television. He is best known as the author of The New York Times best-selling novels Pride and Prejudice and Zombies and Abraham Lincoln, Vampire Hunter; the latter of which has been adapted as a feature film. Grahame-Smith is also the co-creator, head writer and executive producer of The Hard Times of RJ Berger, a scripted television comedy appearing on MTV. In collaboration with David Katzenberg, his partner in Katzsmith Productions, Grahame-Smith is currently developing a number of projects for television and film.",
+                "plugs": [
+                    {
+                        "title": "Abraham Lincoln: Vampire Hunter",
+                        "URL": "https://www.amazon.com/Abraham-Lincoln-Vampire-Benjamin-Walker/dp/B009HV2JT8",
+                        "media": "/static/assets/plugs/abraham-lincoln-vampire-hunter.jpg"
+                    },
+                    {
+                        "title": "The LEGO Batman Movie",
+                        "URL": "https://www.amazon.com/LEGO-Batman-Movie-Will-Arnett/dp/B01MUI1NPD",
+                        "media": "/static/assets/plugs/the-lego-batman-movie.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Recorded LIVE from Largo in Los Angeles, filmmaker and author Seth Grahame-Smith joins Paul, Jason, and June to discuss Con Air, one of the most requested movies in a night of Nicolas Cage films. They cover everything from Nic Cage’s southern accent, Jason’s unconditional love for the movie, June’s love of plane movies, and much more. Plus, everyone talks about John Malkovich having the greatest villain death of all time during audience Q&As!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/37660648",
+            "amazonURL": "https://www.amazon.com/gp/product/B0060CSYLY",
+            "youtubeURL": "https://www.youtube.com/watch?v=dEDmDnNB4rs",
+            "itunesURL": "https://itunes.apple.com/us/movie/con-air/id252789518"
+        }
+    }]
+}

@@ -1,0 +1,51 @@
+{
+    "results": [{
+        "film": {
+            "title": "No Holds Barred",
+            "summary": "Rip is the World Wrestling Federation champion who is faithful to his fans and the network he wrestles for. Brell, the new head of the World Television Network, wants Rip to wrestle for his... See full summary »",
+            "trailer": "https://www.youtube.com/watch?v=RLtgLGBWCC0",
+            "poster": "/static/assets/posters/no-holds-barred-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Thomas Lennon",
+                "photo": "/static/assets/guests/thomas-lennon.jpg",
+                "bio": "Thomas Lennon is a stand-up comic and sketch performer who you might recognize from The State, Viva Variety, and Reno 911. Together with Robert Ben Garant he has written many popular studio films and the subsequent book Writing Movies for Fun and Profit. He has performed stand-up on The Benson Interruption television show and frequently contributed to The Late Late Show with Craig Ferguson as his Reno 911 character Lt. Dangle.",
+                "plugs": [
+                    {
+                        "title": "The Dark Knight Rises",
+                        "URL": "https://www.amazon.com/Dark-Knight-Rises-Christian-Bale/dp/B009LRE040",
+                        "media": "/static/assets/plugs/the-dark-knight-rises.jpg"
+                    },
+                    {
+                        "title": "Reno 911!",
+                        "URL": "https://www.amazon.com/s?k=reno+911&i=instant-video",
+                        "media": "/static/assets/plugs/reno-911.jpg"
+                    },
+                    {
+                        "title": "Reno 911! Miami",
+                        "URL": "https://www.amazon.com/Reno-911-Miami-Unrated-Version/dp/B000S6BKNC",
+                        "media": "/static/assets/plugs/reno-911-miami.jpg"
+                    },
+                    {
+                        "title": "I Love You, Man",
+                        "URL": "https://www.amazon.com/dp/B002ICE0O0",
+                        "media": "/static/assets/plugs/i-love-you-man.jpg"
+                    },
+                    {
+                        "title": "Another Period",
+                        "URL": "https://www.amazon.com/dp/B00YYFSTRI",
+                        "media": "/static/assets/plugs/another-period.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "It's A BONUS SHOW!!! What happened when Vince McMahon got into the movie business and reverse engineered Hulk Hogan's next monster? It's NO HOLDS BARRED!!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/49139927",
+            "amazonURL": "https://www.amazon.com/WWE-Holds-Barred-Hulk-Hogan/dp/B00H87BFP2",
+            "youtubeURL": "https://www.youtube.com/watch?v=ZltuA6vqXwc",
+            "itunesURL": "https://itunes.apple.com/us/movie/id744773610"
+        }
+    }]
+}

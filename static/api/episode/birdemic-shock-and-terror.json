@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Birdemic: Shock and Terror",
+            "summary": "A horde of mutated birds descends upon the quiet town of Half Moon Bay, California. With the death toll rising, Two citizens manage to fight back, but will they survive Birdemic?",
+            "trailer": "https://www.youtube.com/watch?v=P-y53CRSF9Q",
+            "poster": "/static/assets/posters/birdemic-shock-and-terror-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "'Weird Al' Yankovic",
+                "photo": "/static/assets/guests/weird-al.jpg",
+                "bio": "“Weird Al” Yankovic has been America’s foremost musical parodist for over three decades. His work transcends the “novelty music” genre and has been named by other artists the benchmark of musical comedy. Throughout the years he’s had many media ventures, including his eponymous television show and popular film UHF. With thirteen studio albums, eleven Grammy nominations, and countless film and music video cameos, Al is a part of culture that won’t be going away anytime soon.",
+                "plugs": [
+                    {
+                        "title": "UHF",
+                        "URL": "https://www.amazon.com/UHF-Weird-Al-Yankovic/dp/B07JH7QLMQ",
+                        "media": "/static/assets/plugs/uhf.jpg"
+                    },
+                    {
+                        "title": "Weird Al: The Weird Al Show",
+                        "URL": "https://www.amazon.com/Bad-Influence/dp/B002ZAVZES",
+                        "media": "/static/assets/plugs/the-weird-al-show.jpg"
+                    },
+                    {
+                        "title": "Comedy Bang! Bang!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B008578B0Q",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Did you guys know that there is a crisis with our environment? If not, you must not have seen Birdemic: Shock and Terror, this week's victim for a very special How Did This Get Made? LIVE! Our friend 'Weird Al' Yankovic is on the panel to enjoy the CGI dancing, obvious typos, and complete lack of editing that made this thriller a cult classic. Also on hand is Whitney Moore, star of Birdemic, who tells us the truth about her robotic costar, shares insight into the audition process, and divulges information about the sequel.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131213",
+            "amazonURL": "https://www.amazon.com/gp/product/B00DXY6Y7S",
+            "youtubeURL": "https://www.youtube.com/watch?v=wh9CpqLo-bM",
+            "itunesURL": "https://itunes.apple.com/us/movie/id1136957451"
+        }
+    }]
+}

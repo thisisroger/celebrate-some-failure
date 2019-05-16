@@ -1,0 +1,61 @@
+{
+    "results": [{
+        "film": {
+            "title": "Mr. Nanny",
+            "summary": "A former professional wrestler is hired to be the bodyguard/nanny for a couple of bratty kids whose inventor father is being stalked by a rival.",
+            "trailer": "https://www.youtube.com/watch?v=GGwe0XCo4Sw",
+            "poster": "/static/assets/posters/mr-nanny-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Rob Corddry",
+                "photo": "/static/assets/guests/rob-corddry.jpg",
+                "bio": "Rob Corddry is the mind behind Childrens Hospital, a show that is required viewing for comedy fans. His television career started as a correspondent for The Daily Show which was around the same time he began performing with the Upright Citizens Brigade and with his sketch and improv group The Naked Babies. Since The Daily Show, Rob has gone on to star in Old School, What Happens in Vegas, Hot Tub Time Machine and more. Also, he created Childrens Hospital which deserves another mention.",
+                "plugs": [
+                    {
+                        "title": "Old School",
+                        "URL": "https://www.amazon.com/dp/B009IF7SWG",
+                        "media": "/static/assets/plugs/old-school.jpg"
+                    },
+                    {
+                        "title": "The Daily Show",
+                        "URL": "https://www.amazon.com/Daily-Show-12-2014/dp/B00HQQOQ74",
+                        "media": "/static/assets/plugs/the-daily-show.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    },
+                    {
+                        "title": "Semi-Pro",
+                        "URL": "https://www.amazon.com/Semi-Pro-Will-Ferrell/dp/B003XC0IBS",
+                        "media": "/static/assets/plugs/semi-pro.jpg"
+                    },
+                    {
+                        "title": "Hell Baby",
+                        "URL": "https://www.amazon.com/Hell-Baby-Rob-Corddry/dp/B0744P7HMP",
+                        "media": "/static/assets/plugs/hell-baby.jpg"
+                    },
+                    {
+                        "title": "Harold and Kumar: Escape from Guantanamo Bay",
+                        "URL": "https://www.amazon.com/Harold-Kumar-Escape-Guantanamo-Rated/dp/B001B8LFS6",
+                        "media": "/static/assets/plugs/harold-and-kumar-escape.jpg"
+                    },
+                    {
+                        "title": "Hot Tub Time Machine",
+                        "URL": "https://www.amazon.com/Hot-Time-Machine-John-Cusack/dp/B003OEKOFK",
+                        "media": "/static/assets/plugs/hot-tub-time-machine.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HULKAMNIA is back brother! Recorded LIVE at Largo in Los Angeles, Rob Corddry joins Paul, June, & Jason to talk about how Mr. Nanny has changed his mind on enjoying movies all together. They'll discuss the casual dog throw into the ocean at the very beginning, Terry “Hulk” Hogan fingering a pie, Buster Poindexter as the villain, and the pit of blood.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131102",
+            "amazonURL": "https://www.amazon.com/Mr-Nanny-Hulk-Hogan/dp/B009MRONAA",
+            "youtubeURL": "https://www.youtube.com/watch?v=rYyBWafjIgc",
+            "itunesURL": "https://itunes.apple.com/us/movie/id309664975"
+        }
+    }]
+}

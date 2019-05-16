@@ -1,0 +1,83 @@
+{
+    "results": [{
+        "film": {
+            "title": "Adore",
+            "summary": "A pair of childhood friends and neighbors fall for each other's sons.",
+            "trailer": "https://www.youtube.com/watch?v=wouIHp5kY78",
+            "poster": "/static/assets/posters/adore-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jordan Firstman",
+                "photo": "/static/assets/guests/jordan-firstman.jpg",
+                "bio": "Jordan Firstman is a writer and filmmaker."
+            },
+            "guestTwo": {
+                "name": "Charles Rogers",
+                "photo": "/static/assets/guests/charles-rogers.jpg",
+                "bio": "Charles Rogers is an American film director, screenwriter, and actor best known for his movie Fort Tilden and the TV series Search Party.",
+                "plugs": [
+                    {
+                        "title": "Wet Hot American Summer",
+                        "URL": "https://www.amazon.com/dp/B005EYLFOW",
+                        "media": "/static/assets/plugs/wet-hot-american-summer.jpg"
+                    },
+                    {
+                        "title": "Search Party",
+                        "URL": "https://www.amazon.com/Mysterious-Disappearance-Girl-One-Knew/dp/B01M3TYECH",
+                        "media": "/static/assets/plugs/search-party.jpg"
+                    },
+                    {
+                        "title": "Fort Tilden",
+                        "URL": "https://www.amazon.com/Fort-Tilden-Clare-McNulty/dp/B07MSHSDC6",
+                        "media": "/static/assets/plugs/fort-tilden.jpg"
+                    }
+                ]
+            },
+            "guestThree": {
+                "name": "Kulap Vilaysack",
+                "photo": "/static/assets/guests/kulap-vilaysack.jpg",
+                "bio": "Kulap Vilaysack is the creator, showrunner, executive producer and sometimes director of the SeeSo Original shows BAJILLION DOLLAR PROPERTIE$ and BAJILLION DOLLAR PROPERTIE$: POCKET LISTINGS. She is also directing an upcoming autobiographical documentary, ORIGIN STORY. You’ve probably seen her on television in shows like LOVE, PARKS & RECREATION, COMEDY BANG! BANG!, THE OFFICE, and CHILDRENS HOSPITAL. Or maybe you recognize her from movies like WELCOME TO ME or I LOVE YOU MAN. You can find Kulap with Howard Kremer every Wednesday hosting WHO CHARTED right here on Earwolf!",
+                "plugs": [
+                    {
+                        "title": "Reno 911!",
+                        "URL": "https://www.amazon.com/s?k=reno+911&i=instant-video",
+                        "media": "/static/assets/plugs/reno-911.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Garfunkel and Oates",
+                        "URL": "https://www.amazon.com/dp/B00M4FA40K",
+                        "media": "/static/assets/plugs/garfunkel-and-oates.jpg"
+                    },
+                    {
+                        "title": "Who Charted",
+                        "URL": "https://itunes.apple.com/us/podcast/who-charted/id408711228",
+                        "media": "/static/assets/plugs/who-charted.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    },
+                    {
+                        "title": "The Office",
+                        "URL": "https://www.amazon.com/The-Office-An-American-Workplace/dp/B000U7O8LA",
+                        "media": "/static/assets/plugs/the-office.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Charles Rogers and Jordan Firstman (Search Party) along with HDTGM All-star Kulap Vilaysack join Paul and Jason to discuss the 2013 drama Adore starring Naomi Watts and Robin Wright. They talk about the yacht-building business, aggrosurfing, flirting with moms, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/53913037",
+            "amazonURL": "https://www.amazon.com/gp/product/B07C8YSWTH",
+            "youtubeURL": "https://www.youtube.com/watch?v=d3yWRFHc0Nc",
+            "itunesURL": "https://itunes.apple.com/us/movie/id683732144"
+        }       
+    }]
+}

@@ -1,0 +1,36 @@
+{
+    "results": [{
+        "film": {
+            "title": "Gigli",
+            "summary": "Larry Gigli is assigned by a crime boss to kidnap the brother of a prominent district attorney. A beautiful woman known only as Ricki is sent to stay with him to make sure he doesn't mess up the job.",
+            "trailer": "https://www.youtube.com/watch?v=8UhCCHFZugE",
+            "poster": "/static/assets/posters/gigli-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Danielle Schneider",
+                "photo": "/static/assets/guests/danielle-schneider.jpg",
+                "bio": "Danielle Schneider, an actor, writer and comedienne, is a graduate of NYU’s Tisch School of the Arts. She (along with her writing partner Dannah Phirman) created and stars in the HULU series Hotwives of Orlando, with a second season coming out in August. As an actress Danielle recurred on NBC’s Marry Me. She has also appeared on Community, Happy Endings, Adult Swim’s NTSF:SD:SUV and E!’s Burning Love. Danielle was also a long time panelist on VH1’s critically praised and highly rated Best Week Ever.",
+                "plugs": [
+                    {
+                        "title": "The Hotwives of Orlando",
+                        "URL": "https://www.amazon.com/dp/B00XJC325Q",
+                        "media": "/static/assets/plugs/the-hotwives-of-orlando.jpg"
+                    },
+                    {
+                        "title": "Step Brothers",
+                        "URL": "https://www.amazon.com/dp/B007OXHVSU",
+                        "media": "/static/assets/plugs/step-brothers.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "For nearly a decade, Gigli has been a go-to punchline for hack comedians. Does it hold up to it's bad movie reputation? Danielle Schneider joins us this week to deconstruct one of the most monumentally bad movies of the millennium. This movie is garbage on every level, from the painfully awkward acting to the politically incorrect plot.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131240",
+            "amazonURL": "https://www.amazon.com/gp/product/B000JPDJR2",
+            "youtubeURL": "https://www.youtube.com/watch?v=Hm03vEPgcgU",
+            "itunesURL": "https://itunes.apple.com/us/movie/id277334996"
+        }
+    }]
+}

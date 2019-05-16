@@ -1,0 +1,77 @@
+{
+    "results": [{
+        "film": {
+            "title": "Freejack",
+            "summary": "Bounty hunters from the future transport a doomed race car driver to New York City in 2009, where his mind will be replaced with that of a dead billionaire.",
+            "trailer": "https://www.youtube.com/watch?v=7Zxr-Y-5YyA",
+            "poster": "/static/assets/posters/freejack-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Phoebe Robinson",
+                "photo": "/static/assets/guests/phoebe-robinson.jpg",
+                "bio": "Phoebe Robinson is a stand-up comedian, writer and actress. Phoebe is a writer for White Guy Talk Show on Fusetv and is the creator of blaria.com",
+                "plugs": [
+                    {
+                        "title": "Portlandia",
+                        "URL": "https://www.amazon.com/dp/B004KCOABO",
+                        "media": "/static/assets/plugs/portlandia.jpg"
+                    },
+                    {
+                        "title": "Ibiza",
+                        "URL": "https://www.netflix.com/title/80195049",
+                        "media": "/static/assets/plugs/ibiza.jpg"
+                    },
+                    {
+                        "title": "I Love Dick",
+                        "URL": "https://www.amazon.com/Pilot/dp/B01J77GOGA",
+                        "media": "/static/assets/plugs/i-love-dick.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Jessica St. Clair",
+                "photo": "/static/assets/guests/jessica-st-clair.jpg",
+                "bio": "The very talented and renowned American actress and improv comedian Jessica St. Clair is known best for her work in the NBC series, Best Friends Forever. Jessica St. Clair net worth is known best to have been sourced from her work in TV series and movies like It’s Complicated, Life As We Know It, Wanderlust, Labor Pains, Veep, and more. Jessica St. Clair IMDB profile has details of her awards, TV series, and movies.",
+                "plugs": [
+                    {
+                        "title": "Playing House",
+                        "URL": "https://www.amazon.com/Bird-Bones/dp/B00JS6O1BQ",
+                        "media": "/static/assets/plugs/playing-house.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "The House",
+                        "URL": "https://www.amazon.com/House-Will-Ferrell/dp/B072X6H3QP",
+                        "media": "/static/assets/plugs/the-house.jpg"
+                    },
+                    {
+                        "title": "Lady Dynamite",
+                        "URL": "https://www.netflix.com/title/80046193",
+                        "media": "/static/assets/plugs/lady-dynamite.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    },
+                    {
+                        "title": "Review",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00IGCLCHE",
+                        "media": "/static/assets/plugs/review.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Comedian/writer/actress Phoebe Robinson (2 Dope Queens) joins Paul, Jason, and guest co-host Jessica St. Clair to discuss the 1992 science fiction action film Freejack. Recorded live in New York, they talk about the spiritual switch board, faberge eggs, and the true meaning of Freejack.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/53125987",
+            "amazonURL": "https://www.amazon.com/dp/0790750201",
+            "itunesURL": "https://itunes.apple.com/nz/movie/freejack/id450723392"
+        }       
+    }]
+}

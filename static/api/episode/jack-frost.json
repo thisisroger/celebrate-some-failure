@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Jack Frost",
+            "summary": "A father who can't keep his promises, dies in a car accident. One year later, he returns as a snowman, who has the final chance to put things right with his son, before he is gone forever.",
+            "trailer": "https://www.youtube.com/watch?v=orPZ0BMUI7k",
+            "poster": "/static/assets/posters/jack-frost-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Dan Harmon",
+                "photo": "/static/assets/guests/dan-harmon.jpg",
+                "bio": "Dan Harmon is a writer and performer. He is the creator and former executive producer for the NBC television comedy series Community, and, along with Rob Schrab, a founder of the alternative television network/website Channel 101. He also co-created Comedy Central’s The Sarah Silverman Program and co-wrote the screenplay for the Academy Award nominated film Monster House.",
+                "plugs": [
+                    {
+                        "title": "Harmontown",
+                        "URL": "https://www.amazon.com/Harmontown-Dan-Harmon/dp/B07FMCK821",
+                        "media": "/static/assets/plugs/harmontown.jpg"
+                    },
+                    {
+                        "title": "Rick and Morty",
+                        "URL": "https://www.amazon.com/Pilot/dp/B00GPZZOT6",
+                        "media": "/static/assets/plugs/rick-and-morty.jpg"
+                    },
+                    {
+                        "title": "Community",
+                        "URL": "https://www.amazon.com/Spanish-101/dp/B002N7CTKM",
+                        "media": "/static/assets/plugs/community.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Paul, June, and Jason share what they remember about Jack Frost and their New Year Resolutions as they present this classic episode of How Did This Get Made? Dan Harmon joins Paul, June, and Jason to discuss the Michael Keaton classic Jack Frost in another LIVE episode recorded at Largo in Los Angeles! They talk about George Clooney’s connection to the movie, the snowman’s journey from bad dad to bad husband, the premise being identical to that of a horror movie, and the emotional roller coaster June was on while watching the movie. May you all have snow dads!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/58008182",
+            "amazonURL": "https://www.amazon.com/Jack-Frost-Michael-Keaton/dp/B003Y6RAAU",
+            "youtubeURL": "https://www.youtube.com/watch?v=VkgrgQA80Cc",
+            "itunesURL": "https://itunes.apple.com/us/movie/id403298341"
+        }
+    }]
+}

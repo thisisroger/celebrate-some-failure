@@ -1,0 +1,68 @@
+{
+    "results": [{
+        "film": {
+            "title": "Lake Placid",
+            "summary": "Three people attempt to stop a gigantic crocodile, who is terrorizing residents in Black Lake, Maine.",
+            "trailer": "https://www.youtube.com/watch?v=xNP_FyUjysk",
+            "poster": "/static/assets/posters/lake-placid-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Nate Corddry",
+                "photo": "/static/assets/guests/nate-corddry.jpg",
+                "bio": "Nate Corddry is an actor known for his role as Tom Jeter on Studio 60 on the Sunset Strip and enjoyed a brief stint as a Daily Show correspondent. Nate’s film resume includes The Nanny Diaries, The Ugly Truth, Yogi Bear, and The Heat.",
+                "plugs": [
+                    {
+                        "title": "St. Vincent",
+                        "URL": "https://www.amazon.com/St-Vincent-Bill-Murray/dp/B00QUEE4GQ",
+                        "media": "/static/assets/plugs/st-vincent.jpg"
+                    },
+                    {
+                        "title": "The Heat",
+                        "URL": "https://www.amazon.com/Heat-Sandra-Bullock/dp/B00F4ARI3I",
+                        "media": "/static/assets/plugs/the-heat.jpg"
+                    },
+                    {
+                        "title": "Ghostbusters",
+                        "URL": "https://www.amazon.com/Ghostbusters-Melissa-McCarthy/dp/B01I03B1BU",
+                        "media": "/static/assets/plugs/ghostbusters.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Paul F. Tompkins",
+                "photo": "/static/assets/guests/paul-f-tompkins.jpg",
+                "bio": "Paul F. Tompkins is a comedian and actor. He plays the role of “Dean Rosedragon” on Seeso’s Bajillion Dollar Propertie$ and provides the voice of “Mr. Peanutbutter” for the Netflix animated series Bojack Horseman.",
+                "plugs": [
+                    {
+                        "title": "Pod F. Tomcast",
+                        "URL": "http://pft.libsyn.com",
+                        "media": "/static/assets/plugs/pod-f-tomcast.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    },
+                    {
+                        "title": "Tenacious D in The Pick of Destiny",
+                        "URL": "https://www.amazon.com/dp/B002OCA0AC",
+                        "media": "/static/assets/plugs/the-pick-of-destiny.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Reading Aloud’s Nate Corddry and HDTGM All-Star Paul F. Tompkins join Paul & Jason at Largo in Los Angeles to talk all about how Lake Placid shows that nature and man cannot co-exist. They’ll cover everything from the movie not reaching 90 minutes yet feeling long, the amazing performances by the cows, Brendan Gleeson reading the stage directions, underwater bears, and more. Plus, we finally get down to the bottom of what the proper way to say Reese’s Pieces is before getting into audience Q&As!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/37512649",
+            "amazonURL": "https://www.amazon.com/Lake-Placid-Bill-Pullman/dp/B004G49I9U",
+            "youtubeURL": "https://www.youtube.com/watch?v=LMU3aeO07jI",
+            "itunesURL": "https://itunes.apple.com/us/movie/id%2Fid1423484469"
+        }
+    }]
+}

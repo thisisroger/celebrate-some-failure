@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Lake House",
+            "summary": "A lonely doctor, who once occupied an unusual lakeside house, begins exchanging love letters with its former resident, a frustrated architect. They must try to unravel the mystery behind their extraordinary romance before it's too late.",
+            "trailer": "https://www.youtube.com/watch?v=fQ5lPbssHS8",
+            "poster": "/static/assets/posters/the-lake-house-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Starlee Kine",
+                "photo": "/static/assets/guests/starlee-kine.jpg",
+                "bio": "Starlee Kine is an American public radio producer and writer. She is the creator and host of the podcast Mystery Show, which was done in production with Gimlet Media. Her other work has been featured on This American Life.",
+                "plugs": [
+                    {
+                        "title": "Search Party",
+                        "URL": "https://www.amazon.com/Mysterious-Disappearance-Girl-One-Knew/dp/B01M3TYECH",
+                        "media": "/static/assets/plugs/search-party.jpg"
+                    },
+                    {
+                        "title": "You're the Worst",
+                        "URL": "https://www.amazon.com/Pilot/dp/B00LT8CSHU",
+                        "media": "/static/assets/plugs/youre-the-worst.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Aisling Bea",
+                "photo": "/static/assets/guests/aisling-bea.jpg",
+                "bio": "Aisling Bea is an Irish actress, comedian and writer. She won The Gilded Balloon’s So You Think You’re Funny award at the Edinburgh Festival Fringe in 2012."
+            }
+        },
+        "episodeDescription": "Starlee Kine (Mystery Show) and Aisling Bea (The Fall) join Paul and Jason to discuss the 2006 romantic drama The Lake House. Recorded live from Largo at the Coronet in Los Angeles, they cover everything from the magic mailbox to the magic tree to whether or not the dog is responsible for everything.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/49839434",
+            "amazonURL": "https://www.amazon.com/gp/product/B002V0GZ9M",
+            "youtubeURL": "https://www.youtube.com/watch?v=1eY2MODUTx0",
+            "itunesURL": "https://itunes.apple.com/us/movie/id459644267"
+        }       
+    }]
+}

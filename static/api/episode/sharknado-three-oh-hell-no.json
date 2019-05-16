@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Sharknado 3: Oh Hell No!",
+            "summary": "A monstrous tornado unleashes ravenous sharks from Washington, D.C., all the way down to Orlando, Florida.",
+            "trailer": "https://www.youtube.com/watch?v=mAmYUt1-5Rg",
+            "poster": "/static/assets/posters/sharknado-3-oh-hell-no-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Scott Aukerman",
+                "photo": "/static/assets/guests/scott-aukerman.jpg",
+                "bio": "Scott Aukerman began his comedy career as a writer and performer on HBO’s Mr. Show with Bob and David. In 2009, he debuted a comedy radio show featuring real-life guests and improvised characters, which is now called Comedy Bang Bang: The Podcast! In 2010, he co-founded the Earwolf Podcast Network. In 2012, he started a television series based upon his podcast, Comedy Bang! Bang!, which completed five seasons on IFC. Scott co-created and directs the Funny or Die series Between Two Ferns with Zach Galifianakis, for which he has won two Emmy Awards. Scott’s other credits include executive producer of the reality spoof series Bajillion Dollar Propertie$, and the sitcom Take My Wife, both now streaming on Seeso. He also executive produced and co-directed Michael Bolton’s Big, Sexy Valentine’s Day Special streaming now on Netflix.",
+                "plugs": [
+                    {
+                        "title": "Comedy Bang! Bang!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B008578B0Q",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    },
+                    {
+                        "title": "Between Two Ferns",
+                        "URL": "https://www.amazon.com/Michael-Cera/dp/B01MXOLM23",
+                        "media": "/static/assets/plugs/between-two-ferns.jpg"
+                    },
+                    {
+                        "title": "Earwolf",
+                        "URL": "http://earwolf.com",
+                        "media": "/static/assets/plugs/earwolf.jpg"
+                    },
+                    {
+                        "title": "Run Ronnie Run!",
+                        "URL": "https://www.amazon.com/Run-Ronnie-Not-Specified/dp/B00ALUZQMQ",
+                        "media": "/static/assets/plugs/run-ronnie-run.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "From Los Angeles to New York to Washington D.C. to space! Scott Aukerman returns to join Paul and Jason to discuss the extensive list of celebrity cameos in Sharknado 3: Oh Hell No! Theyll talk about Fins running style, President Mark Cuban, the Universal Studios VIP front of the line pass, the return of Nova, and David Hasselhoff in space. Plus, Nova is back baby!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131050",
+            "amazonURL": "https://www.amazon.com/dp/B07MGJ9634",
+            "youtubeURL": "https://www.youtube.com/watch?v=8uxZzAMdrKk",
+            "itunesURL": "https://itunes.apple.com/gb/movie/sharknado-3-oh-hell-no/id1020427573"
+        }
+    }]
+}

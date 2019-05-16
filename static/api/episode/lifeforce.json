@@ -1,0 +1,40 @@
+{
+    "results": [{
+        "film": {
+            "title": "Lifeforce",
+            "summary": "A race of space vampires arrives in London and infects the populace, beginning an apocalyptic descent into chaos.",
+            "trailer": "https://www.youtube.com/watch?v=MOF0Ov8isvI",
+            "poster": "/static/assets/posters/lifeforce-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Lennon Parham",
+                "photo": "/static/assets/guests/lennon-parham.jpg",
+                "bio": "Lennon co-created and starred in her own half hour USA series, Playing House, which just concluded after 3 critically acclaimed seasons. She also recurred as Julia Louis-Dreyfus' hilarious Senior Advisor, 'Karen Collins,' whose specialized field was 'common sense' on HBO's VEEP. Additionally, Lennon has made a number of memorable appearances on television including Fox's Ghosted, Netflix's Lady Dynamite, AMC's Mad Men and NBC's Parks and Recreation.",
+                "plugs": [
+                    {
+                        "title": "Playing House",
+                        "URL": "https://www.amazon.com/Bird-Bones/dp/B00JS6O1BQ",
+                        "media": "/static/assets/plugs/playing-house.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Hello people of space! Beware of space vampires that will french kiss the blood out of you. Lennon Parham of Playing House and WOMP IT UP! joins Paul and Jason this week to talk all about sexy vampires in the 1985 film Lifeforce. They cover everything from Patrick Stewart being hypnotized, the news reporter of an 'evil star,' and the best & worst boobs in HDTGM history.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131034",
+            "amazonURL": "https://www.amazon.com/Lifeforce-Blu-ray-Mathilda-Railsback-Patrick/dp/B07CTBQ7JG",
+            "itunesURL": "https://itunes.apple.com/us/movie/lifeforce/id854258922"
+        }
+    }]
+}

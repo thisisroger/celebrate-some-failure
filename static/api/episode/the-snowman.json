@@ -1,0 +1,29 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Snowman",
+            "summary": "Detective Harry Hole investigates the disappearance of a woman whose scarf is found wrapped around an ominous-looking snowman.",
+            "trailer": "https://www.youtube.com/watch?v=BF2Ksrxu_QY",
+            "poster": "/static/assets/posters/the-snowman-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Erin Gibson",
+                "photo": "/static/assets/guests/erin-gibson.jpg",
+                "bio": "Emmy-nominated Southern loudmouth Erin Gibson co-hosts​ ​& co-created​ 'Throwing Shade'​, ​​the award winning political absurdist comedy podcast​​, ​live ​show ​& TV show​ She developed her social commentary chops as the host of ​ 'Modern Lady'​ and sharpened them writing and directing political sketches for Funny or Die, where she also created the long running, Emmy-nominated 'Gay of Thrones' starring her real-life hair stylist​. You’ve seen her on Parks and Rec, Community, Key and Peele, The Kroll Show, and you’ve heard her on Comedy Central’s Jeff and Some Aliens, but she’s best known as 'the face of State Farm’s Rental Insurance tri-fold brochure.'"
+            },
+            "guestTwo": {
+                "name": "Bryan Safi",
+                "photo": "/static/assets/guests/bryan-safi.jpg",
+                "bio": "Bryan is a comedian, actor and writer living in Los Angeles. He is the co-host and co-creator of the THROWING SHADE podcast, live show and TV show. He currently plays Alan Lowenstein on Freeform's long-running series YOUNG & HUNGRY.  As an actor, you've seen him on shows like MODERN FAMILY, THE BIG BANG THEORY, SUPERSTORE and as Charlie in the Will Ferrell/Kristen Wiig Lifetime original movie opus A DEADLY ADOPTION."
+            }
+        },
+        "episodeDescription": "Erin Gibson and Bryan Safi of Throwing Shade join Paul and Jason to discuss the 2017 psychological crime horror thriller The Snowman. Recorded live from Largo at the Coronet in Los Angeles, they talk about detective Harry Hole never bringing up the snowman, ADR Val Kilmer, coffee bean torture scene, and more. Plus, we hear some exclusive behind the scenes info from someone very close to the film.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/59429265",
+            "amazonURL": "https://www.amazon.com/Snowman-Michael-Fassbender/dp/B076HBCJ58",
+            "youtubeURL": "https://www.youtube.com/watch?v=EbwrJ3XSNnw",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-snowman-2017/id1291118913"
+        }       
+    }]
+}

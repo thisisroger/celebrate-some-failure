@@ -1,0 +1,37 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Avengers",
+            "summary": "Two British Agents team up to stop Sir August de Wynter from destroying the world with a weather-changing machine.",
+            "trailer": "https://www.youtube.com/watch?v=I9qmqxBlFzI",
+            "poster": "/static/assets/posters/the-avengers-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Tom Scharpling",
+                "photo": "/static/assets/guests/tom-scharpling.jpg",
+                "bio": "Tom Scharpling hosts The Best Show on WFMU which is, pardon the hyperbole, the BEST show on WFMU. He and Jon Wurster make up the creatively named Scharpling & Wurster whose numerous albums have been devoured by comedy fans and musicians alike. Tom recently directed music videos for Ted Leo & The Pharmacists and The New Pornographers, both of which are chock full of Earwolf favorites. And one last thing: MONK!",
+                "plugs": [
+                    {
+                        "title": "Upright Citizens Brigade",
+                        "URL": "https://www.amazon.com/Power-Marketing/dp/B001S2EJBU",
+                        "media": "/static/assets/plugs/ucb.jpg"
+                    },
+                    {
+                        "title": "Nathan for You",
+                        "URL": "https://www.amazon.com/Gas-Station-Caricature-Artist/dp/B00BN6JOE8",
+                        "media": "/static/assets/plugs/nathan-for-you.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Tom Scharpling of The Best Show joins Paul, June, and Jason to discuss the 1998 action spy film The Avengers. Recorded LIVE from the 2016 Vulture Festival in New York City, they discuss Sean Connery's 'evil' plan, Uma Thurman's clone '2ma Thurman', and the bear costumes.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131001",
+            "amazonURL": "https://www.amazon.com/Avengers-Ralph-Fiennes/dp/B001UA8092",
+            "youtubeURL": "https://www.youtube.com/watch?v=Ssv0lfyhfXM",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-avengers-1998/id353421214"
+        }
+        
+    }]
+}

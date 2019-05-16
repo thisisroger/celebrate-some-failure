@@ -1,0 +1,28 @@
+.episode__meta {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: $mobileHeroHeight;
+    // TODO: Spacing
+    padding: 2vw;
+    position: relative;
+    text-align: center;
+
+    @media (min-width: $episodeMetaBreak--Desktop) {
+      min-height: $desktopHeroHeight;
+      padding: 5vw;
+    }
+}
+
+.episode__guest {
+    color: $white;
+    // TODO: Spacing
+    margin-top: 20px;
+}
+
+.episode__link {
+    text-decoration: none;
+    display: block;
+    height: 100%;
+}

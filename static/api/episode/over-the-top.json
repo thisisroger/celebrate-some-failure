@@ -1,0 +1,66 @@
+{
+    "results": [{
+        "film": {
+            "title": "Over The Top",
+            "summary": "Tough trucker Lincoln Hawk is determined to win back his son and triumph at the world arm wrestling championships.",
+            "trailer": "https://www.youtube.com/watch?v=l_qa_mLrQmY",
+            "poster": "/static/assets/posters/over-the-top-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Bobby Moynihan",
+                "photo": "/static/assets/guests/bobby-moynihan.jpg",
+                "bio": "Bobby Moynihan is a current Saturday Night Live cast member who trained at a little theater you may have heard of called the Upright Citizens Brigade. You might have seen in as the scene-stealing Jordy in Mystery Team or in any number of Derrick and UCBComedy internet videos. His time at Saturday Night Live has brought us such joyful performances as the character Anthony Crispino and the best Snooki impression the world has ever seen.",
+                "plugs": [
+                    {
+                        "title": "Slow Learners",
+                        "URL": "https://www.amazon.com/dp/B0144AZY16",
+                        "media": "/static/assets/plugs/slow-learners.jpg"
+                    },
+                    {
+                        "title": "Staten Island Summer",
+                        "URL": "https://www.amazon.com/Staten-Island-Summer-Graham-Phillips/dp/B010NCZ0N6",
+                        "media": "/static/assets/plugs/staten-island-summer.jpg"
+                    },
+                    {
+                        "title": "Comedy Bang! Bang!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B008578B0Q",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    },
+                    {
+                        "title": "Adult Beginners",
+                        "URL": "https://www.amazon.com/dp/B00WKZ2YWK",
+                        "media": "/static/assets/plugs/adult-beginners.jpg"
+                    },
+                    {
+                        "title": "SNL",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0190TMIZG",
+                        "media": "/static/assets/plugs/snl.jpg"
+                    },
+                    {
+                        "title": "Unbreakable Kimmy Schmidt",
+                        "URL": "https://www.netflix.com/title/80025384",
+                        "media": "/static/assets/plugs/unbreakable-kimmy-schmidt.jpg"
+                    },
+                    {
+                        "title": "Documentary Now!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B013B3JLE8",
+                        "media": "/static/assets/plugs/documentary-now.jpg"
+                    },
+                    {
+                        "title": "Brother Nature",
+                        "URL": "https://www.amazon.com/Brother-Nature-Taran-Killam/dp/B07C3N3T6Q",
+                        "media": "/static/assets/plugs/brother-nature.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Put your hat backwards in preparation for your second dose of Stallone as Bobby Moynihan joins us to discuss the arm wrestling obsessed world of Over The Top! We discuss everything from the weird father/son relationship to the movie basically becoming a high stakes arm wrestling documentary. We also talk about the possibility of  Stallone’s wife being insane, product placement in the form of Alka-Seltzer, and why being able to drive a truck makes you smart.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131142",
+            "amazonURL": "https://www.amazon.com/dp/B00C4QMHK4",
+            "youtubeURL": "https://www.youtube.com/watch?v=LZH6wBNJLsk",
+            "itunesURL": "https://itunes.apple.com/us/movie/id586103303"
+        }
+    }]
+}

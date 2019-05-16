@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Demolition Man",
+            "summary": "A police officer is brought out of suspended animation in prison to pursue an old ultra-violent nemesis who is loose in a non-violent future society.",
+            "trailer": "https://www.youtube.com/watch?v=0B5v6QZ5R3g",
+            "poster": "/static/assets/posters/demolition-man-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Wyatt Cenac",
+                "photo": "/static/assets/guests/wyatt-cenac.jpg",
+                "bio": "Wyatt Cenac is an American stand-up comedian, actor and writer. He is currently working as a correspondent and writer on The Daily Show with Jon Stewart.",
+                "plugs": [
+                    {
+                        "title": "Night Train with Wyatt Cenac",
+                        "URL": "https://www.amazon.com/Ep-105-Fitting-Fighting/dp/B07CGHD1DV",
+                        "media": "/static/assets/plugs/night-train.jpg"
+                    },
+                    {
+                        "title": "People of Earth",
+                        "URL": "https://www.amazon.com/Acceptance/dp/B01N19ARDW",
+                        "media": "/static/assets/plugs/people-of-earth.jpg"
+                    },
+                    {
+                        "title": "The Daily Show",
+                        "URL": "https://www.amazon.com/Daily-Show-12-2014/dp/B00HQQOQ74",
+                        "media": "/static/assets/plugs/the-daily-show.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Recorded LIVE at SubCulture in New York, Wyatt Cenac joins us as we dive into the futuristic world of Demolition Man! We discuss the frozen Sylvester Stallone cube, the slang of the future, the possibility that Wesley Snipes improvised every one of his lines, Denis Leary’s rant, and seashell wiping. Get ready for some spot on Stallone/Snipes impressions!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/25904176",
+            "amazonURL": "https://www.amazon.com/gp/product/B001OKCT2M",
+            "youtubeURL": "https://www.youtube.com/watch?v=JrfqyPDs82U",
+            "itunesURL": "https://itunes.apple.com/us/movie/id279386406"
+        }
+    }]
+}

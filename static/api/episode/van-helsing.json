@@ -1,0 +1,153 @@
+{
+    "results": [{
+        "film": {
+            "title": "Van Helsing",
+            "summary": "The notorious monster hunter is sent to Transylvania to stop Count Dracula who is using Dr. Frankenstein's research and a werewolf for some sinister purpose.",
+            "trailer": "https://www.youtube.com/watch?v=3fdRKme00uI",
+            "poster": "/static/assets/posters/van-helsing-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Seth Rogen",
+                "photo": "/static/assets/guests/seth-rogen.jpg",
+                "bio": "Seth Rogen is a talented actor, comedian and writer, well known for his work in the Apatow universe. He recently added “director” to his resume with his new feature film THIS IS THE END, which hits theaters June 12.",
+                "plugs": [
+                    {
+                        "title": "Knocked Up",
+                        "URL": "https://www.amazon.com/Knocked-Up-Unrated-Seth-Rogen/dp/B000XRK4VU",
+                        "media": "/static/assets/plugs/knocked-up.jpg"
+                    },
+                    {
+                        "title": "50/50",
+                        "URL": "https://www.amazon.com/50-Joseph-Gordon-Levitt/dp/B006X6J8IA",
+                        "media": "/static/assets/plugs/fifty-fifty.jpg"
+                    },
+                    {
+                        "title": "The Night Before",
+                        "URL": "https://www.amazon.com/Night-Before-Joseph-Gordon-Levitt/dp/B018AEXT82",
+                        "media": "/static/assets/plugs/the-night-before.jpg"
+                    },
+                    {
+                        "title": "Sausage Party",
+                        "URL": "https://www.amazon.com/dp/B01JBARY4O",
+                        "media": "/static/assets/plugs/sausage-party.jpg"
+                    },
+                    {
+                        "title": "Superbad",
+                        "URL": "https://www.amazon.com/Superbad-Jonah-Hill/dp/B0010R08PO",
+                        "media": "/static/assets/plugs/superbad.jpg"
+                    },
+                    {
+                        "title": "This Is The End",
+                        "URL": "https://www.amazon.com/This-End-Seth-Rogen/dp/B00EP0MVGW",
+                        "media": "/static/assets/plugs/this-is-the-end.jpg"
+                    },
+                    {
+                        "title": "The Green Hornet",
+                        "URL": "https://www.amazon.com/Green-Hornet-Seth-Rogen/dp/B004VL9Y5G",
+                        "media": "/static/assets/plugs/the-green-hornet.jpg"
+                    },
+                    {
+                        "title": "The Interview",
+                        "URL": "https://www.amazon.com/Interview-Seth-Rogen/dp/B00RNRD9IS",
+                        "media": "/static/assets/plugs/the-interview.jpg"
+                    },
+                    {
+                        "title": "Pineapple Express",
+                        "URL": "https://www.amazon.com/Pineapple-Express-Unrated-Seth-Rogen/dp/B00CPGF1M4",
+                        "media": "/static/assets/plugs/pineapple-express.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "The Disaster Artist",
+                        "URL": "https://www.amazon.com/Disaster-Artist-James-Franco/dp/B077THGZTS",
+                        "media": "/static/assets/plugs/the-disaster-artist.jpg"
+                    },
+                    {
+                        "title": "Zack and Miri Make a Porno",
+                        "URL": "https://www.amazon.com/Zack-Miri-Make-Porno-Rogen/dp/B009TGWW70",
+                        "media": "/static/assets/plugs/zack-and-miri.jpg"
+                    },
+                    {
+                        "title": "Neighbors",
+                        "URL": "https://www.amazon.com/Neighbors-Seth-Rogen/dp/B00K7WZGPA",
+                        "media": "/static/assets/plugs/neighbors.jpg"
+                    },
+                    {
+                        "title": "40 Year Old Virgin",
+                        "URL": "https://www.amazon.com/40-Year-Old-Virgin-Steve-Carell/dp/B000I3SPLK",
+                        "media": "/static/assets/plugs/the-40-year-old-virgin.jpg"
+                    },
+                    {
+                        "title": "Freaks and Geeks",
+                        "URL": "https://www.amazon.com/Freaks-Geeks-Complete/dp/B00MUF60E8",
+                        "media": "/static/assets/plugs/freaks-and-geeks.jpg"
+                    },
+                    {
+                        "title": "Paul",
+                        "URL": "https://www.amazon.com/Paul-Unrated-Simon-Pegg/dp/B0055J7F40",
+                        "media": "/static/assets/plugs/paul.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Riki Lindhome",
+                "photo": "/static/assets/guests/riki-lindhome.jpg",
+                "bio": "Riki Lindhome is an American actress and musician. She has acted in television shows like Gilmore Girls, House, The Big Bang Theory and United States of Tara but still finds time to make awesome music with Kate Micucci as Garfunkel & Oates. She currently hosts the podcast Making It on the Nerdist network.",
+                "plugs": [
+                    {
+                        "title": "Garfunkel & Oates: Secretions",
+                        "URL": "https://itunes.apple.com/us/album/secretions/1035489881",
+                        "media": "/static/assets/plugs/secretions.jpg"
+                    },
+                    {
+                        "title": "Garfunkel & Oates: Slippery When Moist",
+                        "URL": "https://itunes.apple.com/us/album/slippery-when-moist/502688614",
+                        "media": "/static/assets/plugs/slippery-when-moist.jpg"
+                    },
+                    {
+                        "title": "Garfunkel & Oates: All Over Your Face",
+                        "URL": "https://itunes.apple.com/us/album/all-over-your-face/417283664",
+                        "media": "/static/assets/plugs/all-over-your-face.jpg"
+                    },
+                    {
+                        "title": "Garfunkel & Oates: Music Songs",
+                        "URL": "https://itunes.apple.com/us/album/music-songs/328319664",
+                        "media": "/static/assets/plugs/music-songs.jpg"
+                    },
+                    {
+                        "title": "Another Period",
+                        "URL": "https://www.amazon.com/dp/B00YYFSTRI",
+                        "media": "/static/assets/plugs/another-period.jpg"
+                    },
+                    {
+                        "title": "Garfunkel and Oates",
+                        "URL": "https://www.amazon.com/dp/B00M4FA40K",
+                        "media": "/static/assets/plugs/garfunkel-and-oates.jpg"
+                    },
+                    {
+                        "title": "Hell Baby",
+                        "URL": "https://www.amazon.com/Hell-Baby-Rob-Corddry/dp/B0744P7HMP",
+                        "media": "/static/assets/plugs/hell-baby.jpg"
+                    },
+                    {
+                        "title": "The LEGO Batman Movie",
+                        "URL": "https://www.amazon.com/LEGO-Batman-Movie-Will-Arnett/dp/B01MUI1NPD",
+                        "media": "/static/assets/plugs/the-lego-batman-movie.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Seth Rogen (Long Shot), Riki Lindhome (Another Period, Garfunkel and Oates), and Ben Blacker (Thrilling Adventure Hour, Hex Wives) join Paul and Jason to discuss the 2004 period horror film Van Helsing. Recorded live from Largo at the Coronet in Los Angeles, they talk about Hugh Jackman’s wet pilgrim hat, Frankenstein’s tech, everyone being upside down, Carl the friar, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/59723148",
+            "amazonURL": "https://www.amazon.com/Van-Helsing-Hugh-Jackman/dp/B001JIAK66",
+            "youtubeURL": "https://www.youtube.com/watch?v=B9A98AeKJTo",
+            "itunesURL": "https://itunes.apple.com/us/movie/van-helsing/id292731622"
+        }       
+    }]
+}

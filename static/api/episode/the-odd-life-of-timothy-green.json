@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Odd Life of Timothy Green",
+            "summary": "A childless couple bury a box in their backyard, containing all of their wishes for an infant. Soon, a child is born, though Timothy Green is not all that he appears.",
+            "trailer": "https://www.youtube.com/watch?v=QhaPxj1EIhg",
+            "poster": "/static/assets/posters/the-odd-life-of-timothy-green-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Tim Heidecker",
+                "photo": "/static/assets/guests/tim-heidecker.jpg",
+                "bio": "Tim Heidecker is one half of the avant-garde comedy duo Tim & Eric. Together they’ve created inspirational works such as Tom Goes to the Mayor and Tim & Eric Awesome Show, Great Job! He made audiences weep with his performance in Bridesmaids and brought the world the war-ending series Check It Out! with Dr. Steve Brule. I think he might be the president of the world.",
+                "plugs": [
+                    {
+                        "title": "Tim Heidecker Bandcamp",
+                        "URL": "https://timheidecker.bandcamp.com",
+                        "media": "/static/assets/plugs/tim-heidecker-bandcamp.jpg"
+                    },
+                    {
+                        "title": "Tim and Eric's Billion Dollar Movie",
+                        "URL": "https://www.amazon.com/Tim-Erics-Billion-Dollar-Movie/dp/B008Q08TJA",
+                        "media": "/static/assets/plugs/tim-and-erics-billion-dollar-movie.jpg"
+                    },
+                    {
+                        "title": "Tim and Eric's Bedtime Stories",
+                        "URL": "https://www.amazon.com/Hole/dp/B00NXAC03Y",
+                        "media": "/static/assets/plugs/tim-and-erics-bedtime-stories.jpg"
+                    },
+                    {
+                        "title": "Us",
+                        "URL": "https://www.amazon.com/Us-Lupita-Nyongo/dp/B07PH318RQ",
+                        "media": "/static/assets/plugs/us.jpg"
+                    },
+                    {
+                        "title": "The Comedy",
+                        "URL": "https://www.amazon.com/Comedy-Tim-Heidecker/dp/B009VS12L8",
+                        "media": "/static/assets/plugs/the-comedy.jpg"
+                    },
+                    {
+                        "title": "Tim Heidecker: Work from Home",
+                        "URL": "https://www.youtube.com/watch?v=MGs1-bfiYFQ",
+                        "media": "/static/assets/plugs/work-from-home.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Tim Heidecker joins us for what turns out to be a serious discussion about The Odd Life of Timothy Green. We talk about Timothy’s relationship with Baby Mila Kunis, the Titanic portrait drawing scene, and Common sizing up kids to be on a soccer team. Jason teared up once again, Tim genuinely likes the movie for what it is, and Paul & June didn't enjoy it.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/55884280",
+            "amazonURL": "https://www.amazon.com/Odd-Life-Timothy-Green/dp/B00A6GIF14",
+            "youtubeURL": "https://www.youtube.com/watch?v=sRR6uyorl8Y",
+            "itunesURL": "https://itunes.apple.com/us/movie/id569218260"
+        }
+    }]
+}

@@ -1,0 +1,51 @@
+{
+    "results": [{
+        "film": {
+            "title": "Easy Rider: The Ride Back",
+            "summary": "In this revisionist drama, the film delves into the family lineage of Wyatt Williams, the character made famous by Peter Fonda in the original Easy Rider Movie. Centering around the ... See full summary »",
+            "trailer": "https://www.youtube.com/watch?v=XkWJ43MxzJM",
+            "poster": "/static/assets/posters/easy-rider-the-ride-back-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Nick Thune",
+                "photo": "/static/assets/guests/nick-thune.jpg",
+                "bio": "Nick Thune is a stand-up comic and actor who has appeared in films like Knocked-Up and Extract. In 2010 he released his debut album Thick Noon through Comedy Central Records. His television appearances vary from Mike Birbiglia’s Secret Public Journal to Conan, and he has his own Comedy Central Presents.",
+                "plugs": [
+                    {
+                        "title": "Burning Love",
+                        "URL": "https://www.amazon.com/dp/B00E3P3SPC",
+                        "media": "/static/assets/plugs/burning-love.jpg"
+                    },
+                    {
+                        "title": "Extract",
+                        "URL": "https://www.amazon.com/Extract-Jason-Bateman/dp/B01DUSN6KE",
+                        "media": "/static/assets/plugs/extract.jpg"
+                    },
+                    {
+                        "title": "Knocked Up",
+                        "URL": "https://www.amazon.com/Knocked-Up-Unrated-Seth-Rogen/dp/B000XRK4VU",
+                        "media": "/static/assets/plugs/knocked-up.jpg"
+                    },
+                    {
+                        "title": "Dave Made a Maze",
+                        "URL": "https://www.amazon.com/Dave-Made-Maze-Nick-Thune/dp/B071KNL4W8",
+                        "media": "/static/assets/plugs/dave-made-a-maze.jpg"
+                    },
+                    {
+                        "title": "Bad Johnson",
+                        "URL": "https://www.amazon.com/Bad-Johnson-Cam-Gigandet/dp/B00J5LHY72",
+                        "media": "/static/assets/plugs/bad-johnson.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "You know a sequel is good when none of the original actors from the first film are involved and the lead in the movie is not an actor but instead a lawyer. The hilarious Nick Thune joins Paul, June, and Jason to discuss Easy Rider 2: The Ride Back. They’ll cover everything from the real time driving scenes to all the confusing flashbacks to the terrible sound design.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/34403772",
+            "amazonURL": "https://www.amazon.com/Easy-Rider-Ride-Chris-Engen/dp/B00GQQTDA0",
+            "youtubeURL": "https://www.youtube.com/watch?v=b3GBI4Evn_I",
+            "itunesURL": "https://itunes.apple.com/us/movie/ider-the-ride-back%2Fid734027373"
+        }
+    }]
+}

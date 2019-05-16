@@ -1,0 +1,67 @@
+.episode__content {
+    background-color: #efefef;
+    padding: 25px;
+
+    @media (min-width: 600px) {
+        padding: 50px;
+    }
+}
+
+.episode__content__film {
+    color: #444444;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    position: relative;
+    width: 100%;
+
+    &:first-letter {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 30px;
+        line-height: 1;
+        padding-right: 4px;
+
+        @media (min-width: 600px) {
+            font-size: 55px;
+            padding-right: 8px;
+        }
+    }
+
+    @media (min-width: 600px) {
+        font-size: 32px;
+    }
+}
+
+.episode__content__trailer .plyr {
+    box-shadow: 0 20px 60px 10px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    margin: 25px auto;
+    max-width: 800px;
+    width: 100%;
+
+    @media (min-width: 600px) {
+        margin: 50px auto;
+    }
+}
+
+.episode__content__episode {
+    color: #444444;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    position: relative;
+    width: 100%;
+
+    @media (min-width: 600px) {
+        font-size: 20px;
+    }
+}

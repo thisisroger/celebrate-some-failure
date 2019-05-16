@@ -1,0 +1,61 @@
+{
+    "results": [{
+        "film": {
+            "title": "Grease 2",
+            "summary": "An English student at a 1960s American high school has to prove himself to the leader of a girls' gang whose members can only date greasers.",
+            "trailer": "https://www.youtube.com/watch?v=cTUVeV9t-sg",
+            "poster": "/static/assets/posters/grease-2-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Anna Faris",
+                "photo": "/static/assets/guests/anna-faris.jpg",
+                "bio": "Anna Faris is an American actress and singer. She is known for her comedic roles in the Scary Movie film series, Lost in Translation, The House Bunny, My Super Ex-Girlfriend, Cloudy with a Chance of Meatballs, Yogi Bear, What’s Your Number?, The Dictator, and I Give It a Year.",
+                "plugs": [
+                    {
+                        "title": "Anna Faris Is Unqualified",
+                        "URL": "https://itunes.apple.com/us/podcast/anna-faris-is-unqualified/id1059045374?mt=2",
+                        "media": "/static/assets/plugs/anna-faris-is-unqualified.jpg"
+                    },
+                    {
+                        "title": "House Bunny",
+                        "URL": "https://www.amazon.com/House-Bunny-Anna-Faris/dp/B001NZHJGO",
+                        "media": "/static/assets/plugs/house-bunny.jpg"
+                    },
+                    {
+                        "title": "Scary Movie",
+                        "URL": "https://www.amazon.com/Scary-Movie-Shawn-Wayans/dp/B00AYB0YFQ",
+                        "media": "/static/assets/plugs/scary-movie.jpg"
+                    },
+                    {
+                        "title": "Just Friends",
+                        "URL": "https://www.amazon.com/Just-Friends-Ryan-Reynolds/dp/B002R20DGK",
+                        "media": "/static/assets/plugs/just-friends.jpg"
+                    },
+                    {
+                        "title": "Keanu",
+                        "URL": "https://www.amazon.com/Keanu-Jordan-Peele/dp/B01EXR5LAE",
+                        "media": "/static/assets/plugs/keanu.jpg"
+                    },
+                    {
+                        "title": "Friends",
+                        "URL": "https://www.amazon.com/Where-Monica-Gets-Roommate-Began/dp/B000N8GL34",
+                        "media": "/static/assets/plugs/friends.jpg"
+                    },
+                    {
+                        "title": "The Hot Chick",
+                        "URL": "https://www.amazon.com/Hot-Chick-Rob-Schneider/dp/B003SI7SRE",
+                        "media": "/static/assets/plugs/the-hot-chick.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Actress Anna Faris (Anna Faris Is Unqualified podcast) welcomes Paul, June, and Jason into her home/recording studio to discuss the 1982 musical romantic comedy Grease 2. Theyll talk about the return of Frenchy, the sex in the bunker scene, and the T-Birds being casual about murder.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48488888",
+            "amazonURL": "https://www.amazon.com/Grease-2-Maxwell-Caulfield/dp/B001K38LYI",
+            "youtubeURL": "https://www.youtube.com/watch?v=bPisQnD9bQA",
+            "itunesURL": "https://itunes.apple.com/us/movie/id298911695"
+        }       
+    }]
+}

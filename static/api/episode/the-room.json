@@ -1,0 +1,26 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Room",
+            "summary": "Johnny is a successful banker who lives happily in a San Francisco townhouse with his fiancée, Lisa. One day, inexplicably, she gets bored with him and decides to seduce his best friend, Mark. From there, nothing will be the same again.",
+            "trailer": "https://www.youtube.com/watch?v=9-dIdFXeFhs",
+            "poster": "/static/assets/posters/the-room-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Greg Sestero",
+                "photo": "/static/assets/guests/greg-sestero.jpg",
+                "bio": "Greg Sestero is the handsome devil we all know as Mark from The Room. More impressive than that (how can it be?) is the documentary he created called Homeless in America or his roles in television and films like Fashion House, The Pit and the Pendulum, and Alien Presence. He frequently participates in 5 Second Films and has a successful career as a print model. Also, he’s TEARING ME APART!"
+            },
+            "guestTwo": {
+                "name": "Steve Heisler",
+                "photo": "/static/assets/guests/steve-heisler.jpg",
+                "bio": "Steve Heisler is a Brooklyn-based arts and entertainment journalist who writes for The AV Club, Variety, and New York Magazine. He’s also a comedy producer with Just For Laughs, a performer/teacher with the Story Pirates, and a recent transplant from Chicago. He’s a baller, shot caller, brawler"
+            }   
+        },
+        "episodeDescription": "We're very fortunate to have two experts this week joining us to discuss The Room. First off we have Steve Heisler from The AV Club who has made it his journalistic duty to learn everything he can about this disaster. Also joining us is Mark (Oh, hi Mark!), aka Greg Sestero who also worked behind-the-scenes as a producer. Tuxedo football, outdoor green screens, unnecessary double casting, Mark knows how it all came to be and he's here to share it all with us. Enjoy!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/22428875"
+        }
+    }]
+}

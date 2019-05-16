@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Xanadu",
+            "summary": "A struggling artist living in Los Angeles meets a girl who may hold the key to his happiness.",
+            "trailer": "https://www.youtube.com/watch?v=WNcUv1q2JAs",
+            "poster": "/static/assets/posters/xanadu-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Michaela Watkins",
+                "photo": "/static/assets/guests/michaela-watkins.jpg",
+                "bio": "Michaela Watkins is currently a main company member of The Groundlings Theater and is an alumnus of Saturday Night Live. You might recognize Michaela from her reoccurring role on The New Adventures of Old Christine, or from one of her many popular FunnyorDie videos. You can see her later this year in David Wain’s upcoming film Wanderlust.",
+                "plugs": [
+                    {
+                        "title": "In A World",
+                        "URL": "https://www.amazon.com/World-Lake-Bell/dp/B00H86UD4M",
+                        "media": "/static/assets/plugs/in-a-world.jpg"
+                    },
+                    {
+                        "title": "Wanderlust",
+                        "URL": "https://www.amazon.com/Wanderlust-Paul-Rudd/dp/B008CP92ZO",
+                        "media": "/static/assets/plugs/wanderlust.jpg"
+                    },
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "If you've ever roller-skated, then this movie is for you! Recorded LIVE at Largo in Los Angeles, special guest Michaela Watkins joins Paul, June, and Jason to talk all about the Olivia Newton-John & Gene Kelly musical Xanadu. They’ll cover everything from the opening dance montage where the muses come out of a mural portal, the animation sequence that was basically the sex scene, and Gene Kelly’s memory boner.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131077",
+            "amazonURL": "https://www.amazon.com/Xanadu-Olivia-Newton-John/dp/B002KE8WTA",
+            "youtubeURL": "https://www.youtube.com/watch?v=4nMhgO0bbOc",
+            "itunesURL": "https://itunes.apple.com/us/movie/id282480162"
+        }
+    }]
+}

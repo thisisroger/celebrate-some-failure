@@ -1,0 +1,225 @@
+{
+    "results": [{
+        "film": {
+            "title": "Hackers",
+            "summary": "Hackers are blamed for making a virus that will capsize five oil tankers.",
+            "trailer": "https://www.youtube.com/watch?v=Rn2cf_wJ4f4",
+            "poster": "/static/assets/posters/hackers-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Paul Scheer",
+                "photo": "/static/assets/guests/paul-scheer.jpg",
+                "bio": "Paul Scheer is most known as a star of the FX series The League and as the co-creator and one of the stars of the cult MTV sketch series Human Giant alongside Rob Huebel, Aziz Ansari, as well as the Adult Swim comedy-action-parody series NTSF:SD:SUV::. He has been the films Daddy’s Home, Pop Star and upcoming Disaster Artist. He’s also the creator of the award winning Arscheerio Paul show on YouTube which recreated classic moments from the Arsenio Hall show. In addition to co-hosting the popular film discussion podcast How Did This Get Made? alongside Jason Mantzoukas and June Diane Raphael you can also listen to his podcast mini series “The Sylvester Stallone Show” and he currently appears on the ABC comedy Fresh Off the Boat.",
+                "plugs": [
+                    {
+                        "title": "Human Giant",
+                        "URL": "https://www.amazon.com/Mind-Explosion/dp/B000PAVSBU",
+                        "media": "/static/assets/plugs/human-giant.jpg"
+                    },
+                    {
+                        "title": "Crash Test",
+                        "URL": "https://www.amazon.com/dp/B015IVODSU",
+                        "media": "/static/assets/plugs/crash-test.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Scheer RL",
+                        "URL": "https://www.amazon.com/dp/B01G2T5CK0",
+                        "media": "/static/assets/plugs/scheer-rl.jpg"
+                    },
+                    {
+                        "title": "Burning Love",
+                        "URL": "https://www.amazon.com/dp/B00E3P3SPC",
+                        "media": "/static/assets/plugs/burning-love.jpg"
+                    },
+                    {
+                        "title": "NTSF:SD:SUV",
+                        "URL": "https://www.amazon.com/dp/B009JW4LFK",
+                        "media": "/static/assets/plugs/ntsf.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Fresh off the Boat",
+                        "URL": "https://www.amazon.com/Pilot/dp/B00T7AP27U",
+                        "media": "/static/assets/plugs/fresh-off-the-boat.jpg"
+                    },
+                    {
+                        "title": "Popstar: Never Stop Never Stopping",
+                        "URL": "https://www.amazon.com/dp/B01GHBYIEY",
+                        "media": "/static/assets/plugs/popstar.jpg"
+                    },
+                    {
+                        "title": "Summer '03",
+                        "URL": "https://www.amazon.com/Summer-03-Joey-King/dp/B07PGC9JC2",
+                        "media": "/static/assets/plugs/summer-03.jpg"
+                    },
+                    {
+                        "title": "Slice",
+                        "URL": "https://www.amazon.com/Slice-Chance-Bennett/dp/B07GX6M9NL",
+                        "media": "/static/assets/plugs/slice.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "June Diane Raphael",
+                "photo": "/static/assets/guests/june-diane-raphael.jpg",
+                "bio": "June Diane Raphael is a writer, actress, and comedian co-responsible for the award winning sketch show Rode Hard and Put Away Wet. She co-wrote it with Casey Wilson who she has subsequently worked with in films like Bride Wars and the upcoming Ass Backwards. You might recognize June from her roles in Flight of the Conchords, Human Giant, and Forgetting Sarah Marshall. Find June every-other-Tuesday on Earwolf as one of the co-hosts on How Did This Get Made.",
+                "plugs": [
+                    {
+                        "title": "Ass Backwards",
+                        "URL": "https://www.amazon.com/dp/B00FJ01BN6",
+                        "media": "/static/assets/plugs/ass-backwards.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "New Girl",
+                        "URL": "https://www.amazon.com/Pilot/dp/B005JR4K28",
+                        "media": "/static/assets/plugs/new-girl.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Forgetting Sarah Marshall",
+                        "URL": "https://www.amazon.com/Forgetting-Sarah-Marshall-Unrated-Jason/dp/B001F90JBK",
+                        "media": "/static/assets/plugs/forgetting-sarah-marshall.jpg"
+                    },
+                    {
+                        "title": "Grace and Frankie",
+                        "URL": "https://www.netflix.com/title/80017537",
+                        "media": "/static/assets/plugs/grace-and-frankie.jpg"
+                    },
+                    {
+                        "title": "I'm Sorry",
+                        "URL": "https://www.amazon.com/gp/video/detail/B072KGC6RT",
+                        "media": "/static/assets/plugs/im-sorry.jpg"
+                    }
+                ]
+            },
+            "guestThree": {
+                "name": "Jason Mantzoukas",
+                "photo": "/static/assets/guests/jason-mantzoukas.jpg",
+                "bio": "Heynongman",
+                "plugs": [
+                    {
+                        "title": "The Dictator",
+                        "URL": "https://www.amazon.com/Dictator-Unrated-Sacha-Baron-Cohen/dp/B008OM0M4U",
+                        "media": "/static/assets/plugs/the-dictator.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Brooklyn Nine-Nine",
+                        "URL": "https://www.amazon.com/dp/B00ESB6EUC",
+                        "media": "/static/assets/plugs/brooklyn-nine-nine.jpg"
+                    },
+                    {
+                        "title": "The House",
+                        "URL": "https://www.amazon.com/House-Will-Ferrell/dp/B072X6H3QP",
+                        "media": "/static/assets/plugs/the-house.jpg"
+                    },
+                    {
+                        "title": "The LEGO Batman Movie",
+                        "URL": "https://www.amazon.com/LEGO-Batman-Movie-Will-Arnett/dp/B01MUI1NPD",
+                        "media": "/static/assets/plugs/the-lego-batman-movie.jpg"
+                    },
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "The Good Place",
+                        "URL": "https://www.amazon.com/Everything-Is-Fine/dp/B01L3GQG7K",
+                        "media": "/static/assets/plugs/the-good-place.jpg"
+                    },
+                    {
+                        "title": "I'm Sorry",
+                        "URL": "https://www.amazon.com/gp/video/detail/B072KGC6RT",
+                        "media": "/static/assets/plugs/im-sorry.jpg"
+                    },
+                    {
+                        "title": "Dirty Grandpa",
+                        "URL": "https://www.amazon.com/dp/B01ATYMNSI",
+                        "media": "/static/assets/plugs/dirty-grandpa.jpg"
+                    },
+                    {
+                        "title": "Kroll Show",
+                        "URL": "https://www.amazon.com/dp/B00AVXZ5O2",
+                        "media": "/static/assets/plugs/kroll-show.jpg"
+                    },
+                    {
+                        "title": "The Long Dumb Road",
+                        "URL": "https://www.amazon.com/Long-Dumb-Road-Tony-Revolori/dp/B07JZJCJH8",
+                        "media": "/static/assets/plugs/the-long-dumb-road.jpg"
+                    },
+                    {
+                        "title": "The Night Before",
+                        "URL": "https://www.amazon.com/Night-Before-Joseph-Gordon-Levitt/dp/B018AEXT82",
+                        "media": "/static/assets/plugs/the-night-before.jpg"
+                    },
+                    {
+                        "title": "They Came Together",
+                        "URL": "https://www.amazon.com/They-Came-Together-Amy-Poehler/dp/B00LBVQW3Q",
+                        "media": "/static/assets/plugs/they-came-together.jpg"
+                    },
+                    {
+                        "title": "Transparent",
+                        "URL": "https://www.amazon.com/Pilot/dp/B00I3MQ9VG",
+                        "media": "/static/assets/plugs/transparent.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Dive into 1995's vision of what the internet looks like as Paul, June, and Jason discuss the heavily requested film Hackers. They talk about Fisher Stevens' amazing performance as the villain 'The Plague,' the big computer room with Penn Jillette, the elite hackers' fashion, and the most common passwords.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131031",
+            "amazonURL": "https://www.amazon.com/gp/product/B009950GAQ",
+            "youtubeURL": "https://www.youtube.com/watch?v=2bGvWEfLUsc",
+            "itunesURL": "https://itunes.apple.com/us/movie/id333441649"
+        }
+    }]
+}

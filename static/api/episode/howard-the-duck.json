@@ -1,0 +1,66 @@
+{
+    "results": [{
+        "film": {
+            "title": "Howard the Duck",
+            "summary": "A sarcastic humanoid duck is pulled from his homeworld to Earth where he must stop a hellish alien invasion with the help of a nerdy scientist and a cute struggling female rock singer who fancies him.",
+            "trailer": "https://www.youtube.com/watch?v=yeU4UlDWfKI",
+            "poster": "/static/assets/posters/howard-the-duck-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Kristen Schaal",
+                "photo": "/static/assets/guests/kristen-schaal.jpg",
+                "bio": "Kristen Schaal is an American actress, writer and comedian, best known for her roles as Mel in the HBO series Flight of the Conchords, as Louise in Bob’s Burgers, as Hazel Wassername in 30 Rock, and as a contributor on The Daily Show. She now stars in Disney Channel’s Gravity Falls, in which she voices Mabel.",
+                "plugs": [
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    },
+                    {
+                        "title": "The Heart, She Holler",
+                        "URL": "https://www.amazon.com/dp/B009WZR728",
+                        "media": "/static/assets/plugs/the-heart-she-holler.jpg"
+                    },
+                    {
+                        "title": "Bob's Burgers",
+                        "URL": "https://www.amazon.com/Human-Flesh/dp/B004I0CTRU",
+                        "media": "/static/assets/plugs/bobs-burgers.jpg"
+                    },
+                    {
+                        "title": "NTSF:SD:SUV",
+                        "URL": "https://www.amazon.com/dp/B009JW4LFK",
+                        "media": "/static/assets/plugs/ntsf.jpg"
+                    },
+                    {
+                        "title": "30 Rock",
+                        "URL": "https://www.amazon.com/Pilot/dp/B000U5OHI6",
+                        "media": "/static/assets/plugs/thirty-rock.jpg"
+                    },
+                    {
+                        "title": "The Last Man On Earth",
+                        "URL": "https://www.amazon.com/Alive-Tucson-Elephant-Room/dp/B00TDJKT3M",
+                        "media": "/static/assets/plugs/the-last-man-on-earth.jpg"
+                    },
+                    {
+                        "title": "The Boss",
+                        "URL": "https://www.amazon.com/Boss-Unrated-Melissa-McCarthy/dp/B01I0QNVZG",
+                        "media": "/static/assets/plugs/the-boss.jpg"
+                    },
+                    {
+                        "title": "Wilfred",
+                        "URL": "https://www.amazon.com/Happiness/dp/B0057UGJLW",
+                        "media": "/static/assets/plugs/wilfred.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Recorded live at Largo in Los Angeles, Kristen Schaal joins Paul, June, & Jason to ask burning questions regarding duck boobies, how a duck’s penis works, and duck evolution in the world of Howard the Duck. Everything from Lea Thompson’s strange sexual relationship with Howard the Duck to the disturbing Jeffrey Jones electricity scene will be discussed. Oh yeah, there will be duck puns!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/52642406",
+            "amazonURL": "https://www.amazon.com/dp/B005EW44U6",
+            "youtubeURL": "https://www.youtube.com/watch?v=om7zYHb6XXQ",
+            "itunesURL": "https://itunes.apple.com/us/movie/id307416039"
+        }
+    }]
+}

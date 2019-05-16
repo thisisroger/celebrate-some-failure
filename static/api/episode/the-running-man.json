@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Running Man",
+            "summary": "A wrongly convicted man must try to survive a public execution gauntlet staged as a game show.",
+            "trailer": "https://www.youtube.com/watch?v=i2FMhBg0h_8",
+            "poster": "/static/assets/posters/the-running-man-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Kulap Vilaysack",
+                "photo": "/static/assets/guests/kulap-vilaysack.jpg",
+                "bio": "Kulap Vilaysack is the creator, showrunner, executive producer and sometimes director of the SeeSo Original shows BAJILLION DOLLAR PROPERTIE$ and BAJILLION DOLLAR PROPERTIE$: POCKET LISTINGS. She is also directing an upcoming autobiographical documentary, ORIGIN STORY. You’ve probably seen her on television in shows like LOVE, PARKS & RECREATION, COMEDY BANG! BANG!, THE OFFICE, and CHILDRENS HOSPITAL. Or maybe you recognize her from movies like WELCOME TO ME or I LOVE YOU MAN. You can find Kulap with Howard Kremer every Wednesday hosting WHO CHARTED right here on Earwolf!",
+                "plugs": [
+                    {
+                        "title": "Reno 911!",
+                        "URL": "https://www.amazon.com/s?k=reno+911&i=instant-video",
+                        "media": "/static/assets/plugs/reno-911.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Garfunkel and Oates",
+                        "URL": "https://www.amazon.com/dp/B00M4FA40K",
+                        "media": "/static/assets/plugs/garfunkel-and-oates.jpg"
+                    },
+                    {
+                        "title": "Who Charted",
+                        "URL": "https://itunes.apple.com/us/podcast/who-charted/id408711228",
+                        "media": "/static/assets/plugs/who-charted.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    },
+                    {
+                        "title": "The Office",
+                        "URL": "https://www.amazon.com/The-Office-An-American-Workplace/dp/B000U7O8LA",
+                        "media": "/static/assets/plugs/the-office.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Kulap Vilaysack (Who Charted?, Bajillion Dollar Propertie$) joins Paul, June, and Jason to discuss the 1987 science fiction film The Running Man. Theyll talk about the modern dance tribute to the fallen combatants, Captain Freedoms workout commercial, the worst pun ever uttered by Arnold Schwarzenegger, and how were living in The Running Man today. Plus, everyone has a very important discussion about Lactaid.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/50284111",
+            "amazonURL": "https://www.amazon.com/gp/product/B0027V6AL8",
+            "youtubeURL": "https://www.youtube.com/watch?v=lsCPts-2-SI",
+            "itunesURL": "https://itunes.apple.com/us/movie/id291745447"
+        }       
+    }]
+}

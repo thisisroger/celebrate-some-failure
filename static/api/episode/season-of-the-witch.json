@@ -1,0 +1,37 @@
+{
+    "results": [{
+        "id": "season-of-the-witch",
+        "film": {
+            "title": "Season of the Witch",
+            "summary": "Fourteenth century knights transport a suspected witch to a monastery, where monks deduce her powers could be the source of the Black Plague.",
+            "trailer": "https://www.youtube.com/watch?v=67wCc-mei1Q",
+            "poster": "/static/assets/posters/season-of-the-witch-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Chris Hardwick",
+                "photo": "/static/assets/guests/chris-hardwick.jpg",
+                "bio": "Chris Hardwick is a big ol’ nerd. Yet somehow instead of getting his glasses broken and playing D&D silently in his basement, he’s used his nerditude to create a hyper successful podcast, a very popular blog, and a highly anticipated upcoming book. He also hosts G4’s Web Soup, frequently contributes to Wired magazine, and performs with Mike Phirman in the musical comedy duo Hard ‘n Phirm. What a geek!",
+                "plugs": [
+                    {
+                        "title": "ID10T",
+                        "URL": "https://itunes.apple.com/us/podcast/id355187485?mt=2",
+                        "media": "/static/assets/plugs/id10t.jpg"
+                    },
+                    {
+                        "title": "Funcomfortable",
+                        "URL": "https://www.amazon.com/dp/B01EZEZGTG",
+                        "media": "/static/assets/plugs/funcomfortable.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Nic Cage makes his first (but almost definitely not last) appearance on How Did This Get Made with Season of the Witch, a psuedo-religious buddy movie set during the black plague. Chris Hardwick joins the HDTGM crew to experience the inconsistent accents and sub-par CGI that famed director Dominic Sena cultivated in this cinematic gem. They pitch some alternate endings, delve into the subtle differences between witches and demons, and ask the all important question: How many women were killed during the crusades?",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131269",
+            "amazonURL": "https://www.amazon.com/gp/product/B0057UIV9K",
+            "youtubeURL": "https://www.youtube.com/watch?v=MqKtaGnudRE",
+            "itunesURL": "https://itunes.apple.com/us/movie/id435028300"
+        }
+    }]
+}

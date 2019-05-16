@@ -1,0 +1,60 @@
+{
+    "results": [{
+        "film": {
+            "title": "Solarbabies",
+            "summary": "In a post-apocalyptic future ruled by the military, a group of renegade teenage orphans find a legendary orb, Bohdai, that can supposedly bring the rain back to dried up Earth.",
+            "trailer": "https://www.youtube.com/watch?v=Rw4GR_byjEE",
+            "poster": "/static/assets/posters/solarbabies-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "John Mulaney",
+                "photo": "/static/assets/guests/john-mulaney.jpg",
+                "bio": "John Mulaney is a comedian and writer who spends his free time watching Law & Order (both the original AND Special Victims Unit). His debut album The Top Part received great accolades and was featured on many best-of-the-decade lists. After a brief stint as a writer on Important Things with Demetri Martin, John was hired at Saturday Night Live where he writes the beloved Stefon character with Bill Hader. You should hear his bit about The Salt & Pepper Diner.",
+                "plugs": [
+                    {
+                        "title": "John Mulaney: New in Town",
+                        "URL": "https://www.amazon.com/John-Mulaney-New-Town/dp/B00J5AB5QO",
+                        "media": "/static/assets/plugs/new-in-town.jpg"
+                    },
+                    {
+                        "title": "Spider-Man: Into the Spider-Verse",
+                        "URL": "https://www.amazon.com/Spider-Man-Into-Spider-Verse-Liev-Schreiber/dp/B07L9YXWSW",
+                        "media": "/static/assets/plugs/into-the-spiderverse.jpg"
+                    },
+                    {
+                        "title": "Oh, Hello on Broadway",
+                        "URL": "https://www.netflix.com/title/80168221",
+                        "media": "/static/assets/plugs/oh-hello-on-broadway.jpg"
+                    },
+                    {
+                        "title": "Crashing",
+                        "URL": "https://www.amazon.com/Artie-Lange/dp/B0718WTKYJ",
+                        "media": "/static/assets/plugs/crashing.jpg"
+                    },
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "SNL",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0190TMIZG",
+                        "media": "/static/assets/plugs/snl.jpg"
+                    },
+                    {
+                        "title": "Documentary Now!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B013B3JLE8",
+                        "media": "/static/assets/plugs/documentary-now.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "John Mulaney (Oh, Hello) joins Paul, June, and Jason to discuss the insane 1986 science fiction film Solarbabies. Recorded LIVE from the world famous Largo at the Coronet in Los Angeles, they'll cover everything important including rollerskating in the future, Jami Gertz' bangs, and robots programmed to enjoy.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131006",
+            "amazonURL": "https://www.amazon.com/Solarbabies-Richard-Jordan/dp/B00950VNBG",
+            "youtubeURL": "https://www.youtube.com/watch?v=MJ71gYWp-1U"
+        }
+    }]
+}

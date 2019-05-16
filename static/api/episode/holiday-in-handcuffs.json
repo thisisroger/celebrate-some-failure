@@ -1,0 +1,54 @@
+{
+    "results": [{
+        "film": {
+            "title": "Holiday in Handcuffs",
+            "summary": "A struggling artist working as waitress kidnaps one of her customers to bring home and meet her parents at Christmas.",
+            "trailer": "https://www.youtube.com/watch?v=I24mL7Ax1aw",
+            "poster": "/static/assets/posters/holiday-in-handcuffs-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jessica St. Clair",
+                "photo": "/static/assets/guests/jessica-st-clair.jpg",
+                "bio": "The very talented and renowned American actress and improv comedian Jessica St. Clair is known best for her work in the NBC series, Best Friends Forever. Jessica St. Clair net worth is known best to have been sourced from her work in TV series and movies like It’s Complicated, Life As We Know It, Wanderlust, Labor Pains, Veep, and more. Jessica St. Clair IMDB profile has details of her awards, TV series, and movies.",
+                "plugs": [
+                    {
+                        "title": "Playing House",
+                        "URL": "https://www.amazon.com/Bird-Bones/dp/B00JS6O1BQ",
+                        "media": "/static/assets/plugs/playing-house.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "The House",
+                        "URL": "https://www.amazon.com/House-Will-Ferrell/dp/B072X6H3QP",
+                        "media": "/static/assets/plugs/the-house.jpg"
+                    },
+                    {
+                        "title": "Lady Dynamite",
+                        "URL": "https://www.netflix.com/title/80046193",
+                        "media": "/static/assets/plugs/lady-dynamite.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    },
+                    {
+                        "title": "Review",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00IGCLCHE",
+                        "media": "/static/assets/plugs/review.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Jessica St. Clair (WOMP IT UP!) joins Paul and Jason to discuss the 2007 ABC family holiday film Holiday in Handcuffs starring Melissa Joan Hart and Mario Lopez. They talk about the rough lighting, party perms, Jessica’s Mario Lopez story, and Paul’s personal relationship with three of the cast members of the movie. Plus, everyone is determined to find out the truth behind Mario Lopez’s chest hair.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/57834616",
+            "youtubeURL": "https://www.youtube.com/watch?v=RVGI2QsgbCs"
+        }       
+    }]
+}

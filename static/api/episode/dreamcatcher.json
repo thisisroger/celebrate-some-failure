@@ -1,0 +1,53 @@
+{
+    "results": [{
+        "film": {
+            "title": "Dreamcatcher",
+            "summary": "Friends on a camping trip discover that the town they're vacationing in is being plagued in an unusual fashion by parasitic aliens from outer space.",
+            "trailer": "https://www.youtube.com/watch?v=FaAtvjev_So",
+            "poster": "/static/assets/posters/dreamcatcher-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Curtis Gwinn",
+                "photo": "/static/assets/guests/curtis-gwinn.jpg",
+                "bio": "Curtis Gwinn is yet another UCB alum and member of Death by Roo Roo to have graced Earwolf. He has written for television shows as diverse as The Man Show and The Onion News Network, and executive produced shows like The Grid, Fat Guy Stuck in the Internet, and the upcoming NTSF:SD:SUV.",
+                "plugs": [
+                    {
+                        "title": "NTSF:SD:SUV",
+                        "URL": "https://www.amazon.com/dp/B009JW4LFK",
+                        "media": "/static/assets/plugs/ntsf.jpg"
+                    },
+                    {
+                        "title": "Stranger Things",
+                        "URL": "https://www.netflix.com/title/80057281",
+                        "media": "/static/assets/plugs/stranger-things.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Jessica McKenna",
+                "photo": "/static/assets/guests/jessica-mckenna.jpg",
+                "bio": "Jessica McKenna is an actress and writer. She stars in the FOX sketch comedy show Party Over Here alongside Nicole Byer and Alison Rich. You can see Jessica perform every week in Hollywood at UCB-Franklin with Tuesday Club and at UCB-Sunset with Magic To Do: Musical Improv.",
+                "plugs": [
+                    {
+                        "title": "Comedy Bang! Bang!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B008578B0Q",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    },
+                    {
+                        "title": "The Hotwives of Las Vegas",
+                        "URL": "https://www.imdb.com/title/tt4633166/",
+                        "media": "/static/assets/plugs/the-hotwives-of-las-vegas.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Curtis Gwinn (Narcos, The Walking Dead) and Jessica McKenna (Serious Music) join Paul and Jason to discuss the 2003 science fiction horror film adaptation of Stephen Kings novel Dreamcatcher. Theyll talk about butt aliens, the importance of the toothpick, comically bad farts, and of course, Morgan Freemans amazing eyebrows.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/39788840",
+            "amazonURL": "https://www.amazon.com/gp/product/B000GOVFTA",
+            "youtubeURL": "https://www.youtube.com/watch?v=nXvvsP7GYH8",
+            "itunesURL": "https://itunes.apple.com/us/movie/id289165073"
+        }
+    }]
+}

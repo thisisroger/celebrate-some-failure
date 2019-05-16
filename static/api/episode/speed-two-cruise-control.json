@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Speed 2: Cruise Control",
+            "summary": "A computer hacker breaks into the computer system of the Seabourn Legend cruise liner and sets it speeding on a collision course into a gigantic oil tanker.",
+            "trailer": "https://www.youtube.com/watch?v=3279Ry6bN4k",
+            "poster": "/static/assets/posters/speed-2-cruise-control-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Scott Aukerman",
+                "photo": "/static/assets/guests/scott-aukerman.jpg",
+                "bio": "Scott Aukerman began his comedy career as a writer and performer on HBO’s Mr. Show with Bob and David. In 2009, he debuted a comedy radio show featuring real-life guests and improvised characters, which is now called Comedy Bang Bang: The Podcast! In 2010, he co-founded the Earwolf Podcast Network. In 2012, he started a television series based upon his podcast, Comedy Bang! Bang!, which completed five seasons on IFC. Scott co-created and directs the Funny or Die series Between Two Ferns with Zach Galifianakis, for which he has won two Emmy Awards. Scott’s other credits include executive producer of the reality spoof series Bajillion Dollar Propertie$, and the sitcom Take My Wife, both now streaming on Seeso. He also executive produced and co-directed Michael Bolton’s Big, Sexy Valentine’s Day Special streaming now on Netflix.",
+                "plugs": [
+                    {
+                        "title": "Comedy Bang! Bang!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B008578B0Q",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    },
+                    {
+                        "title": "Between Two Ferns",
+                        "URL": "https://www.amazon.com/Michael-Cera/dp/B01MXOLM23",
+                        "media": "/static/assets/plugs/between-two-ferns.jpg"
+                    },
+                    {
+                        "title": "Earwolf",
+                        "URL": "http://earwolf.com",
+                        "media": "/static/assets/plugs/earwolf.jpg"
+                    },
+                    {
+                        "title": "Run Ronnie Run!",
+                        "URL": "https://www.amazon.com/Run-Ronnie-Not-Specified/dp/B00ALUZQMQ",
+                        "media": "/static/assets/plugs/run-ronnie-run.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Are you listening to this podcast on a computer? If so, you could be a villain in Speed 2! In this epic summer sequel we lament the absence of Keanu, marvel at the lack of deaths when a cruise ship levels a community, and wonder why computer genius Willem Dafoe has a gun if he never uses it.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/55885540",
+            "amazonURL": "https://www.amazon.com/gp/product/B000I9W0RO",
+            "youtubeURL": "https://www.youtube.com/watch?v=Y7pojP02QZw",
+            "itunesURL": "https://itunes.apple.com/us/movie/speed-2-cruise-control/id271869885"
+        }
+    }]
+}

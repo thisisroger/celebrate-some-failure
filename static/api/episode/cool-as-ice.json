@@ -1,0 +1,50 @@
+{
+    "results": [{
+                "film": {
+            "title": "Cool as Ice",
+            "summary": "A rap-oriented remake of The Wild One (1953), with heavy emphasis on the fact that Vanilla Ice has assumed the Marlon Brando role.",
+            "trailer": "https://www.youtube.com/watch?v=IX_Ufs0oX5E",
+            "poster": "/static/assets/posters/cool-as-ice-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Brian Huskey",
+                "photo": "/static/assets/guests/brian-huskey.jpg",
+                "bio": "Brian Huskey is a comedian and improviser who you might recognize from his work with The Onion News Network, his roles in movies like Superbad, Semi-Pro, and Step Brothers, or as Chet from Childrens Hospital. He’s a longstanding performer at the Upright Citizens Brigade Theatre where he performs weekly in the show Soundtrack and occasionally with Rob Corddry, Seth Morris, and John Ross Bowie as Naked Babies.",
+                "plugs": [
+                    {
+                        "title": "Another Period",
+                        "URL": "https://www.amazon.com/dp/B00YYFSTRI",
+                        "media": "/static/assets/plugs/another-period.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Workaholics",
+                        "URL": "https://www.amazon.com/Piss-S-t/dp/B004VJQ7F8",
+                        "media": "/static/assets/plugs/workaholics.jpg"
+                    },
+                    {
+                        "title": "Bob's Burgers",
+                        "URL": "https://www.amazon.com/Human-Flesh/dp/B004I0CTRU",
+                        "media": "/static/assets/plugs/bobs-burgers.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Even if you're still stuck in the credits of  Cool as Ice , you probably know you're in for something crazy! We watched it and invited Brian Huskey to join us in reveling in this relic of the early 90s. Weird biker gangs, inexplicable love stories, and the Witness Protection Program flesh out what is essentially a feature-length hip hop music video starring Vanilla Ice. What does Vanilla think of the movie? Learn as Rob Van Winkle joins the crew for the final few minutes to give insight into the stunts, the sets, and the jargon that has stood the test of time.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131215",
+            "amazonURL": "https://www.amazon.com/Cool-As-Ice-David-Kellogg/dp/B002MSC808",
+            "itunesURL": "https://itunes.apple.com/us/movie/cool-as-ice/id325500431"
+        }
+    }]
+}

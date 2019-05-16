@@ -1,0 +1,50 @@
+{
+    "results": [{
+        "film": {
+            "title": "Rhinestone",
+            "summary": "A country music star must turn an obnoxious New York cabbie into a singer in order to win a bet.",
+            "trailer": "https://www.youtube.com/watch?v=eASRE6YBU0M",
+            "poster": "/static/assets/posters/rhinestone-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Matt L. Jones",
+                "photo": "/static/assets/guests/matt-jones.jpg",
+                "bio": "Matt Jones is an American actor, voice actor, and comedian. He is best known for portraying Brandon 'Badger' Mayhew on the AMC crime drama series Breaking Bad.",
+                "plugs": [
+                    {
+                        "title": "Breaking Bad",
+                        "URL": "https://www.amazon.com/Pilot/dp/B003CH9PTU",
+                        "media": "/static/assets/plugs/breaking-bad.jpg"
+                    },
+                    {
+                        "title": "F Is for Family",
+                        "URL": "https://www.netflix.com/title/80028732",
+                        "media": "/static/assets/plugs/f-is-for-family.jpg"
+                    },
+                    {
+                        "title": "A Bad Idea Gone Wrong",
+                        "URL": "https://www.amazon.com/Bad-Idea-Gone-Wrong/dp/B074FD2515",
+                        "media": "/static/assets/plugs/a-bad-idea-gone-wrong.jpg"
+                    },
+                    {
+                        "title": "Broad City",
+                        "URL": "https://www.amazon.com/What-a-Wonderful-World/dp/B00HNEDIZ0",
+                        "media": "/static/assets/plugs/broad-city.jpg"
+                    },
+                    {
+                        "title": "The Office",
+                        "URL": "https://www.amazon.com/The-Office-An-American-Workplace/dp/B000U7O8LA",
+                        "media": "/static/assets/plugs/the-office.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Sylvester Stallone and Dolly Parton star in the musical comedy that no one wanted. Recorded LIVE at Largo in Los Angeles, special guest Matt Jones joins Paul, June, & Jason to talk about an 80’s classic by the name of Rhinestone. They’ll cover everything from Stallone’s funny t-shirts, the art of slams, and the Stallone & Dolly duet.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131085",
+            "amazonURL": "https://www.amazon.com/dp/B00076ONTG",
+            "youtubeURL": "https://www.youtube.com/watch?v=KGNALU9WM1g"
+        }
+    }]
+}

@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "88 Minutes",
+            "summary": "On the day that a serial killer that he helped put away is supposed to be executed, a noted forensic psychologist and college professor receives a call informing him that he has 88 minutes left to live.",
+            "trailer": "https://www.youtube.com/watch?v=zUCd805JDJk",
+            "poster": "/static/assets/posters/88-minutes-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Pete Holmes",
+                "photo": "/static/assets/guests/pete-holmes.jpg",
+                "bio": "Pete Holmes is a stand-up comedian who you might recognize from John Oliver’s New York Stand-Up Show, Late Night with Jimmy Fallon or Conan. You might have even seen him on Comedy Central’s Hot List or his very own Comedy Central Presents. You could have seen his web videos with Front Page Films. You’ve probably listed to his Nerdist podcast, You Made it Weird. I think, and I could be wrong, that when you look up “funny” in the dictionary you’ll see his picture. Oh wait, I just checked, and I was wrong. Don’t let that deter you though, he’s hilarious.",
+                "plugs": [
+                    {
+                        "title": "Crashing",
+                        "URL": "https://www.amazon.com/Artie-Lange/dp/B0718WTKYJ",
+                        "media": "/static/assets/plugs/crashing.jpg"
+                    },
+                    {
+                        "title": "You Made it Weird",
+                        "URL": "https://itunes.apple.com/us/podcast/you-made-it-weird-with-pete-holmes/id475878118",
+                        "media": "/static/assets/plugs/you-made-it-weird.jpg"
+                    },
+                    {
+                        "title": "Pete Holmes: Faces and Sounds",
+                        "URL": "https://www.amazon.com/Pete-Holmes-Faces-Sounds/dp/B01MXTZP9G",
+                        "media": "/static/assets/plugs/faces-sounds.jpg"
+                    },
+                    {
+                        "title": "Don't Think Twice",
+                        "URL": "https://www.amazon.com/Dont-Think-Twice-Keegan-Michael-Key/dp/B01M31UP72",
+                        "media": "/static/assets/plugs/dont-think-twice.jpg"
+                    },
+                    {
+                        "title": "Pete Holmes: Nice Try, The Devil",
+                        "URL": "https://www.amazon.com/Pete-Holmes-Nice-Try-Devil/dp/B00CRWOYCO",
+                        "media": "/static/assets/plugs/nice-try-the-devil.jpg"
+                    },
+                    {
+                        "title": "Pete Holmes: Dirty Clean",
+                        "URL": "https://www.amazon.com/Pete-Holmes-Dirty-Not-Specified/dp/B07LB4YJ6Q",
+                        "media": "/static/assets/plugs/dirty-not-specified.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Al Pacino is one of America's finest film actors. Of course, you wouldn't know that if you've only seen 88 Minutes. This week we invite Pete Holmes into the fold to suffer through this real-time adventure and the accompanying misogyny, unnecessary character names, and first draft dialogue. We're more than happy to invite Pete into our 'most secure' files area. Hooah!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131211",
+            "amazonURL": "https://www.amazon.com/88-Minutes-Al-Pacino/dp/B001G6DXLK",
+            "youtubeURL": "https://www.youtube.com/watch?v=oZAd_4HwjCA",
+            "itunesURL": "https://itunes.apple.com/us/movie/id290793959"
+        }
+    }]
+}

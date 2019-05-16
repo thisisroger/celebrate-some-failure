@@ -1,0 +1,36 @@
+{
+    "results": [{
+        "film": {
+            "title": "Congo",
+            "summary": "When an expedition to the African Congo ends in disaster, a new team is assembled to find out what went wrong.",
+            "trailer": "https://www.youtube.com/watch?v=6nj5G4GffWo",
+            "poster": "/static/assets/posters/congo-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Nick Wiger",
+                "photo": "/static/assets/guests/nick-wiger.jpg",
+                "bio": "Nick Wiger is a writer, actor, podcaster, and improviser and alumni of the Los Angeles UCB Theatre as part of Last Day of School and A Kiss From Daddy. He has written for IFC’s Comedy Bang! Bang!, FOX’s Party Over Here, and Funny or Die. He hosts the essential to listen podcast Doughboys alongside Mike Mitchell of The Birthday Boys.",
+                "plugs": [
+                    {
+                        "title": "NTSF:SD:SUV",
+                        "URL": "https://www.amazon.com/dp/B009JW4LFK",
+                        "media": "/static/assets/plugs/ntsf.jpg"
+                    },
+                    {
+                        "title": "I Love You, America",
+                        "URL": "https://www.hulu.com/series/i-love-you-america-with-sarah-silverman-1501fdad-75d2-4748-80ae-e63d95ff44f6?dl",
+                        "media": "/static/assets/plugs/i-love-you-america.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Giant talking gorillas, lasers and volcanoes are all a part of the insanity that is Congo. Nick Wiger joins Paul, June, and Jason (via computer magic) to ask important questions such as: what are communication lasers, what's the deal with Dr. Peter's strangely erotic relationship with Amy the gorilla, and why is Tim Curry's character even there?",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131132",
+            "amazonURL": "https://www.amazon.com/gp/product/B07QBD44PG",
+            "youtubeURL": "https://www.youtube.com/watch?v=T7QY2nwLJ5s",
+            "itunesURL": "https://itunes.apple.com/us/movie/id212039760"
+        }
+    }]
+}

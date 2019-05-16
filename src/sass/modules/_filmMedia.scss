@@ -1,0 +1,61 @@
+.film {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 300px;
+    // TODO: Spacing
+    padding: 0 25px 50px;
+    position: relative;
+    // TODO: Stacking
+    z-index: 10;
+}
+
+.film__poster {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    > img {
+        // TODO: Box Shadow
+        box-shadow: 0 20px 40px 10px rgba(0,0,0,0.2);
+        // TODO: Border Radius
+        border-radius: 5px;
+        width: 150px;
+        max-width: 100%;
+        //TODO: Figure out animation
+        transform: scale(1) rotate(-5deg);
+        transition: all 200ms 1000ms;
+
+        @media (min-width: 600px) {
+            width: 200px;
+        }
+    }
+}
+
+.film__links {
+    display: inline-block;
+    // TODO: Spacing
+    margin-top: 50px;
+    text-align: center;
+
+    li {
+        display: inline-block;
+        vertical-align: middle;
+    
+        + li {
+            // TODO: Spacing
+            margin-left: 20px;
+        }
+    }
+}
+
+.film__link {
+    display: block;
+    transition: transform 125ms ease-in-out;
+
+    &:hover {
+        color: $white;
+        transform: translate3d(0,-15%,0) rotate(-5deg);
+    }
+}

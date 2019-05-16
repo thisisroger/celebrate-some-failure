@@ -1,0 +1,53 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Wraith",
+            "summary": "After a young man is murdered by a road-racing gang of motor-heads, a mysterious fast-driving spirit descends from the sky to take revenge.",
+            "trailer": "https://www.youtube.com/watch?v=TvJMbGcdLMI",
+            "poster": "/static/assets/posters/the-wraith-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Tim Baltz",
+                "photo": "/static/assets/guests/tim-baltz.jpg",
+                "bio": "Tim Baltz is an actor and writer known for The Second City Project and Drunk History.",
+                "plugs": [
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Eliza Skinner",
+                "photo": "/static/assets/guests/eliza-skinner.jpg",
+                "bio": "Eliza Skinner is originally from Richmond, VA and started her performing career as an unnamed child revolutionary in a production of Evita. She is now a stand-up comedian and has appeared on The Pete Holmes Show, @Midnight, Chelsea Lately, Upload with Shaquille O’Neal,  MTV, Showtime, AMC and the BBC. In his Reddit AMA, Patton Oswalt called her one of his favorite up-and-coming comedians. Last fall, Eliza was a writer and correspondent on Totally Biased (produced by Chris Rock), and her Funny Or Die videos have been retweeted by President Obama (seriously.) She is a regular performer at the UCB in LA and NYC, and this year she was selected to be one of the “New Faces Of Comedy” at the Montreal Just For Laughs Festival.",
+                "plugs": [
+                    {
+                        "title": "Totally Biased With W. Kamau Bell",
+                        "URL": "https://www.amazon.com/Show-1/dp/B008XZRQRY",
+                        "media": "/static/assets/plugs/totally-biased.jpg"
+                    },
+                    {
+                        "title": "Drop the Mic",
+                        "URL": "https://www.amazon.com/dp/B07C6H8GM3",
+                        "media": "/static/assets/plugs/drop-the-mic.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Tim Baltz (Shrink, Bajillion Dollar Propertie$) and Eliza Skinner (The Late Late Show with James Corden, Angry Little Goats) join Paul and Jason to discuss the 1986 action-horror film The Wraith. Recorded live from Largo at the Coronet in Los Angeles, theyll talk about Charlie Sheen barely being in the movie, Gutter Boy and Skank, lights becoming a Dodge, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/50424294",
+            "amazonURL": "https://www.amazon.com/gp/product/B003AXU7UM",
+            "youtubeURL": "https://www.youtube.com/watch?v=J4oqlkzWd4I",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-wraith/id359017022"
+        }       
+    }]
+}

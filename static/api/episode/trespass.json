@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Trespass",
+            "summary": "As they're held for ransom, a husband and wife's predicament grows more dire amid the discovery of betrayal and deception.",
+            "trailer": "https://www.youtube.com/watch?v=1rolBdc_mjs",
+            "poster": "/static/assets/posters/trespass-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Rachel Harris",
+                "photo": "/static/assets/guests/rachel-harris.jpg",
+                "bio": "Rachael Harris is an American actress and comedian. Harris hosted Smoking Gun TV in 2004, and has made multiple appearances on such VH1 documentaries as I Love the ’80s, I Love the ’90s, and Best Week Ever. She has also appeared in many films including Best in Show and The Hangover.",
+                "plugs": [
+                    {
+                        "title": "The Hangover",
+                        "URL": "https://www.amazon.com/dp/B002RRXGKA",
+                        "media": "/static/assets/plugs/the-hangover.jpg"
+                    },
+                    {
+                        "title": "Bad Words",
+                        "URL": "https://www.amazon.com/Bad-Words-Jason-Bateman/dp/B00LM4VT1C",
+                        "media": "/static/assets/plugs/bad-words.jpg"
+                    },
+                    {
+                        "title": "Wreck-It Ralph",
+                        "URL": "https://www.amazon.com/Wreck-Ralph-John-C-Reilly/dp/B00B2DSIAI",
+                        "media": "/static/assets/plugs/wreck-it-ralph.jpg"
+                    },
+                    {
+                        "title": "Best in Show",
+                        "URL": "https://www.amazon.com/dp/B008Q0C5I6",
+                        "media": "/static/assets/plugs/best-in-show.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "2011 was a great year for Nic Cage. He made Season of the Witch, Drive Angry, and this week's selection, Trespass. It broke the record for shortest time between theatrical premiere and DVD release, and if you watched it I think you know why. We invited Rachael Harris to join us for a discussion of this widely despised Schumacher thriller.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131217",
+            "amazonURL": "https://www.amazon.com/Trespass-Nicholas-Cage/dp/B005T5MX6K",
+            "youtubeURL": "https://www.youtube.com/watch?v=54zXcTPLsoE",
+            "itunesURL": "https://itunes.apple.com/nz/movie/trespass-2011/id497137697"
+        }
+    }]
+}

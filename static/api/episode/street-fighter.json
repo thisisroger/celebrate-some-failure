@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Street Fighter",
+            "summary": "Col. Guile and various other martial arts heroes fight against the tyranny of Dictator M. Bison and his cohorts.",
+            "trailer": "https://www.youtube.com/watch?v=HsTKoGcFS78",
+            "poster": "/static/assets/posters/street-fighter-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "John Gemberling",
+                "photo": "/static/assets/guests/john-gemberling.jpg",
+                "bio": "John Gemberling is an American actor and comedian best known for co-starring as Bevers on the Comedy Central series Broad City and as Gil on the NBC sitcom Marry Me. He is also a member of the legendary improv group Death By Roo Roo. During one of Roo Roo’s shows he committed to slipping on menstrual blood which resulted in the audience laughing uncontrollably for 3 minutes.",
+                "plugs": [
+                    {
+                        "title": "Broad City",
+                        "URL": "https://www.amazon.com/What-a-Wonderful-World/dp/B00HNEDIZ0",
+                        "media": "/static/assets/plugs/broad-city.jpg"
+                    },
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Human Giant",
+                        "URL": "https://www.amazon.com/Mind-Explosion/dp/B000PAVSBU",
+                        "media": "/static/assets/plugs/human-giant.jpg"
+                    },
+                    {
+                        "title": "Do You Want to See a Dead Body?",
+                        "URL": "https://www.youtube.com/channel/UCFGGYi2aZoXzdeOeeNAD1sw",
+                        "media": "/static/assets/plugs/do-you-want-to-see-a-dead-body.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Finally a movie stayed true to its video game adaptation by having no plot. John Gemberling joins Paul, June, and Jason to figure out who is a native of Shadaloo, why Jean-Claude Van Damme pretends to be dead for a really long time, and what the hell was the reason for Van Damme to play a home video tape while driving a boat. They’ll also share their favorite lines, explore all the shoehorned elements of the video game, and explain to June what “street fighting” really means.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/23018148",
+            "amazonURL": "https://www.amazon.com/Street-Fighter-Jean-Claude-Van-Damme/dp/B00AI3TA2S",
+            "youtubeURL": "https://www.youtube.com/watch?v=ksFCYUnfmw8",
+            "itunesURL": "https://itunes.apple.com/us/movie/id303562866"
+        }
+    }]
+}

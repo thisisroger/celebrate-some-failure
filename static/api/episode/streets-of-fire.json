@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Streets of Fire",
+            "summary": "A mercenary is hired to rescue his ex-girlfriend, a singer who has been kidnapped by a motorcycle gang.",
+            "trailer": "https://www.youtube.com/watch?v=lEOvn2IaLMM",
+            "poster": "/static/assets/posters/streets-of-fire-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Rachel Bloom",
+                "photo": "/static/assets/guests/rachel-bloom.jpg",
+                "bio": "Rachel Bloom is a stand-up comedian and improviser with a lovely voice. You might have heard her lovely voice in the video Fuck Me, Ray Bradbury which has garnered over a million hits on Youtube and was featured on sites like Wired and Huffington Post. I’ve linked it down below if you haven’t yet had the pleasure. Other credits include the UCB shows Tiny Town and The Monoscene, and she is a writer on the upcoming Fox animated show Allen Gregory.",
+                "plugs": [
+                    {
+                        "title": "Crazy Ex-Girlfriend",
+                        "URL": "https://www.amazon.com/Josh-Just-Happens-Live-Here/dp/B016JCJKL2",
+                        "media": "/static/assets/plugs/crazy-ex-girlfriend.jpg"
+                    },
+                    {
+                        "title": "Robot Chicken",
+                        "URL": "https://www.amazon.com/Junk-in-the-Trunk/dp/B00AEVHFTO",
+                        "media": "/static/assets/plugs/robot-chicken.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "LIVE from Largo in Los Angeles, Golden Globe Award winner Rachel Bloom of Crazy Ex-Girlfriend and HDTGM All-star Jessica St. Clair of Playing House join Paul and Jason to discuss the 1984 rock & roll fable Streets of Fire. They'll cover everything from Rick Moranis being a bad ass to the Michael Pare slap fight.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131020",
+            "amazonURL": "https://www.amazon.com/Streets-Fire-Michael-Pare/dp/B008RXNNHE",
+            "youtubeURL": "https://www.youtube.com/watch?v=n0KahaFSRyg",
+            "itunesURL": "https://itunes.apple.com/us/movie/id550748301"
+        }
+    }]
+}

@@ -1,0 +1,54 @@
+{
+    "results": [{
+        "film": {
+            "title": "On the Line",
+            "summary": "A shy advertising employee meets his dream girl on the El train, but doesn't remember to get her phone number, resulting in an all-out search for the mystery girl",
+            "trailer": "https://www.youtube.com/watch?v=AWwo1ldSzBU",
+            "poster": "/static/assets/posters/on-the-line-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Ike Barinholtz",
+                "photo": "/static/assets/guests/ike-barinholtz.jpg",
+                "bio": "Ike Barinholtz is an actor, comedian and screenwriter. Barinholtz is most notable as cast member on the sketch comedy series MADtv from 2002-2007 and for his role as Ivan Dochenko on the HBO series Eastbound & Down.",
+                "plugs": [
+                    {
+                        "title": "The Oath",
+                        "URL": "https://www.amazon.com/Oath-Ike-Barinholtz/dp/B07KY38359",
+                        "media": "/static/assets/plugs/the-oath.jpg"
+                    },
+                    {
+                        "title": "Suicide Squad",
+                        "URL": "https://www.amazon.com/Suicide-Squad-Will-Smith/dp/B01J7YLPGM",
+                        "media": "/static/assets/plugs/suicide-squad.jpg"
+                    },
+                    {
+                        "title": "The Mindy Project",
+                        "URL": "https://www.amazon.com/Pilot/dp/B008ZXSW2C",
+                        "media": "/static/assets/plugs/the-mindy-project.jpg"
+                    },
+                    {
+                        "title": "Neighbors",
+                        "URL": "https://www.amazon.com/Neighbors-Seth-Rogen/dp/B00K7WZGPA",
+                        "media": "/static/assets/plugs/neighbors.jpg"
+                    },
+                    {
+                        "title": "Blockers",
+                        "URL": "https://www.amazon.com/Blockers-Leslie-Mann/dp/B07BW7954L",
+                        "media": "/static/assets/plugs/blockers.jpg"
+                    },
+                    {
+                        "title": "Mad TV",
+                        "URL": "https://www.amazon.com/gp/video/detail/B01730BE18",
+                        "media": "/static/assets/plugs/mad-tv.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "On the Line is a tale as old as time, the love story of Turkey Sub and Hubcap. What happens when boy banders try their hand at acting? Bizarre sound effects, terrible musical performances, and lots and lots of chewing noises. Ike Barinholtz joins us to discuss a movie so shamefully bad that even its most ardent supporters hide themselves with nom de plumes. So tune into one of the 90,000 screens playing it.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/22428819",
+            "amazonURL": "https://www.amazon.com/Line-Lance-Bass/dp/B00005V1Y3"
+        }
+    }]
+}

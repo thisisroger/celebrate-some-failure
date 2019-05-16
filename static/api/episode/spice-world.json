@@ -1,0 +1,40 @@
+{
+    "results": [{
+        "film": {
+            "title": "Spice World",
+            "summary": "World famous pop group the Spice Girls zip around London in their luxurious double decker tour bus having various adventures and performing for their fans.",
+            "trailer": "https://www.youtube.com/watch?v=BmSBtOHzGPM",
+            "poster": "/static/assets/posters/spice-world-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Retta",
+                "photo": "/static/assets/guests/retta.jpg",
+                "bio": "Retta is an American stand-up comedian and actress, who is currently appearing as Donna Meagle on the NBC comedy series Parks and Recreation. She has appeared in several films and television shows, and has performed stand-up on Comedy Central’s Premium Blend.",
+                "plugs": [
+                    {
+                        "title": "Good Girls",
+                        "URL": "https://www.netflix.com/title/80177342",
+                        "media": "/static/assets/plugs/good-girls.jpg"
+                    },
+                    {
+                        "title": "It's Always Sunny in Philadelphia",
+                        "URL": "https://www.amazon.com/gp/video/detail/B017344RXQ",
+                        "media": "/static/assets/plugs/its-always-sunny.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/Pilot/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Can anyone explain the plot of Spice World? Parks and Rec’s Retta joins us to try to make sense of the movie’s nonsense such as; the gigantic interior of the bus, the pregnant Asian friend, and why Ginger Spice kisses an alien on the mouth. We’ll also get into the Italian men asses scene, why Retta had a dream about George Wendt, and the possibility of a character contemplating suicide. That’s not all, tune in to find who Paul, June, Jason, and Retta would be if they were Spice Girls. Girl Power, bro!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/22665011",
+            "amazonURL": "https://www.amazon.com/Spice-World-Richard-Grant/dp/B003YZJ5P4",
+            "itunesURL": "https://itunes.apple.com/gb/movie/id881666933"
+        }
+    }]
+}

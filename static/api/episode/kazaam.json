@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Kazaam",
+            "summary": "A troubled kid inadvertently releases a genie, who must grant him any three wishes he requests.",
+            "trailer": "https://www.youtube.com/watch?v=ZA9AtHjJxWM",
+            "poster": "/static/assets/posters/kazaam-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Kay Cannon",
+                "photo": "/static/assets/guests/kay-cannon.jpg",
+                "bio": "Kay Cannon is an American film and television writer and actress who is best known for her work as an Emmy-nominated writer and producer for the NBC series 30 Rock. Cannon has spent the last several years performing sketch and improv for theatres like Boom Chicago in Amsterdam, The Second City in Chicago and Las Vegas, IO (West and Chicago) and at The Upright Citizens Brigade Theatre in LA and New York. She wrote the screenplay for the 2012 film Pitch Perfect, and she is a co-executive producer and writer on New Girl.",
+                "plugs": [
+                    {
+                        "title": "30 Rock",
+                        "URL": "https://www.amazon.com/Pilot/dp/B000U5OHI6",
+                        "media": "/static/assets/plugs/thirty-rock.jpg"
+                    },
+                    {
+                        "title": "Blockers",
+                        "URL": "https://www.amazon.com/Blockers-Leslie-Mann/dp/B07BW7954L",
+                        "media": "/static/assets/plugs/blockers.jpg"
+                    },
+                    {
+                        "title": "New Girl",
+                        "URL": "https://www.amazon.com/Pilot/dp/B005JR4K28",
+                        "media": "/static/assets/plugs/new-girl.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "LIVE from Largo in Los Angeles, Kay Cannon of Pitch Perfect and 30 Rock joins Paul, Jason, and June to discuss Shaquille ONeal as the one and only rapping genie in the 1996 film Kazaam. Theyll cover everything from what Max's dad really does, whether a genie can ask another genie for a wish, and the tale of how Kazaam was born. Plus, everyone talks about the movie calling Jesus a genie during Audience Q&A!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/51097814",
+            "amazonURL": "https://www.amazon.com/gp/product/B00LFE1S5G",
+            "youtubeURL": "https://www.youtube.com/watch?v=17QToffZjEo",
+            "itunesURL": "https://itunes.apple.com/us/movie/id898347451"
+        }
+    }]
+}

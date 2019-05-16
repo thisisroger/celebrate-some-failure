@@ -1,0 +1,54 @@
+{
+    "results": [{
+        "film": {
+            "title": "Super Mario Bros.",
+            "summary": "Two Brooklyn plumbers, Mario and Luigi, must travel to another dimension to rescue a princess from the evil dictator King Koopa and stop him from taking over the world.",
+            "trailer": "https://www.youtube.com/watch?v=wtMZKYnLg5c",
+            "poster": "/static/assets/posters/super-mario-bros-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jenny Slate",
+                "photo": "/static/assets/guests/jenny-slate.jpg",
+                "bio": "Jenny Slate is a delightful sprite of comedy with some amazing credits. Like her season on SNL. Or her hugely popular web series Bestie X Bestie. Or her even more hugely popular video Marcel the Shell with Shoes On which has recently been turned into a book (whatever that is).",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Bored to Death",
+                        "URL": "https://www.amazon.com/dp/B002P3ODNU",
+                        "media": "/static/assets/plugs/bored-to-death.jpg"
+                    },
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Bob's Burgers",
+                        "URL": "https://www.amazon.com/Human-Flesh/dp/B004I0CTRU",
+                        "media": "/static/assets/plugs/bobs-burgers.jpg"
+                    },
+                    {
+                        "title": "Big Terrific",
+                        "URL": "https://www.youtube.com/watch?v=x_VZGcWi51c",
+                        "media": "/static/assets/plugs/big-terrific.jpg"
+                    },
+                    {
+                        "title": "Obvious Child",
+                        "URL": "https://www.amazon.com/Obvious-Child-Jenny-Slate/dp/B00KT1B31A",
+                        "media": "/static/assets/plugs/obvious-child.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "The gang tackles the oft-requested, yet never recorded, Super Mario Bros.! Why do we need all this life-of-a-plumber back story before we get to Koopaland? Did the cast really get drunk on the set to cope with making such an obviously terrible movie? And we finally discuss the cockiest, most awkward sequel set-up in film history. PLUS: Our depressing, \"Dark Knight Returns\" inspired ending to an aging Mario Mario.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/39787220",
+            "itunesURL": "https://itunes.apple.com/gb/movie/super-mario-bros/id1228393101"
+        }
+    }]
+}

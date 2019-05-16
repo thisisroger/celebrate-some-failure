@@ -1,0 +1,61 @@
+{
+    "results": [{
+        "film": {
+            "title": "Stealth",
+            "summary": "Deeply ensconced in a top-secret military program, three pilots struggle to bring an artificial intelligence program under control before it initiates the next world war.",
+            "trailer": "https://www.youtube.com/watch?v=a2PW7a9ViDc",
+            "poster": "/static/assets/posters/stealth-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Charlie Sanders",
+                "photo": "/static/assets/guests/charlie-sanders.jpg",
+                "bio": "Charlie Sanders is blowing up right now! Everyone who grew to love him as a UCB sketch performer and improviser now has the chance to see him on television in MTV’s Death Valley. Not enough? Well, he’s writing on the new Comedy Central show Key and Peele. But wait, you still want to see him live? Well head to the UCB in Los Angeles on a Sunday night and you can see him in Shitty Jobs, the handsomest improv show I’ve ever seen!",
+                "plugs": [
+                    {
+                        "title": "Key and Peele",
+                        "URL": "https://www.amazon.com/Episode-1/dp/B007429BV6",
+                        "media": "/static/assets/plugs/key-and-peele.jpg"
+                    },
+                    {
+                        "title": "Death Valley",
+                        "URL": "https://www.amazon.com/Pilot/dp/B005K90DCG",
+                        "media": "/static/assets/plugs/death-valley.jpg"
+                    },
+                    {
+                        "title": "Do You Want to See a Dead Body?",
+                        "URL": "https://www.youtube.com/channel/UCFGGYi2aZoXzdeOeeNAD1sw",
+                        "media": "/static/assets/plugs/do-you-want-to-see-a-dead-body.jpg"
+                    },
+                    {
+                        "title": "Human Giant",
+                        "URL": "https://www.amazon.com/Mind-Explosion/dp/B000PAVSBU",
+                        "media": "/static/assets/plugs/human-giant.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Cedar Rapids",
+                        "URL": "https://www.amazon.com/Cedar-Rapids-Ed-Helms/dp/B0053IX4XE",
+                        "media": "/static/assets/plugs/cedar-rapids.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "The very hilarious actor/writer Charlie Sanders (Key & Peele, Facebook at UCB-Franklin) joins Paul and Jason for a boys club episode of How Did This Get Made? in which they discuss the 2005 action film Stealth. They'll cover everything from Jamie Foxx's untimely demise to the sentient robot plane's emo music playlist.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48130987",
+            "amazonURL": "https://www.amazon.com/gp/product/B00RNV4R6C",
+            "youtubeURL": "https://www.youtube.com/watch?v=DeETB8RtCFw",
+            "itunesURL": "https://itunes.apple.com/us/movie/id270666273"
+        }
+    }]
+}

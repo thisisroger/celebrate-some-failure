@@ -1,0 +1,66 @@
+{
+    "results": [{
+        "film": {
+            "title": "Leprechaun: In the Hood",
+            "summary": "When three rappers want to get even with a pimp, they accidentally unleash a leprechaun who goes on a killing rampage in the 'hood.",
+            "trailer": "https://www.youtube.com/watch?v=40P3TYKEdKA",
+            "poster": "/static/assets/posters/leprechaun-in-the-hood-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Kumail Nanjiani",
+                "photo": "/static/assets/guests/kumail-nanjiani.jpg",
+                "bio": "Kumail Nanjiani is a stand-up comedian, video game aficionado, and an American citizen! In 2009 Kumail joined Michael and Michael Have Issues as a writer and actor and has since gone on to act in Traffic Light and IFC’s Portlandia. He has performed stand-up on John Oliver’s New York Stand-Up Show and Conan (among others), and was put on Comedy Central’s 2009 Hot List.",
+                "plugs": [
+                    {
+                        "title": "Portlandia",
+                        "URL": "https://www.amazon.com/dp/B004KCOABO",
+                        "media": "/static/assets/plugs/portlandia.jpg"
+                    },
+                    {
+                        "title": "The Meltdown with Jonah and Kumail",
+                        "URL": "https://www.amazon.com/dp/B00LH4HS26",
+                        "media": "/static/assets/plugs/the-meltdown.jpg"
+                    },
+                    {
+                        "title": "Silicon Valley",
+                        "URL": "https://www.amazon.com/Minimum-Viable-Product/dp/B00M4ZPZPY",
+                        "media": "/static/assets/plugs/silicon-valley.jpg"
+                    },
+                    {
+                        "title": "The Indoor Kids",
+                        "URL": "https://itunes.apple.com/us/podcast/id450637314",
+                        "media": "/static/assets/plugs/the-indoor-kids.jpg"
+                    },
+                    {
+                        "title": "Beta Male",
+                        "URL": "https://www.amazon.com/Kumail-Nanjiani-Beta-Male/dp/B00DM0WZQ2",
+                        "media": "/static/assets/plugs/beta-male.jpg"
+                    },
+                    {
+                        "title": "The Big Sick",
+                        "URL": "https://www.amazon.com/Big-Sick-Kumail-Nanjiani/dp/B07193L7RD",
+                        "media": "/static/assets/plugs/the-big-sick.jpg"
+                    },
+                    {
+                        "title": "Mike and Dave Need Wedding Dates",
+                        "URL": "https://www.amazon.com/Mike-Dave-Need-Wedding-Dates/dp/B01I2CNZ72",
+                        "media": "/static/assets/plugs/mike-and-dave-need-wedding-dates.jpg"
+                    },
+                    {
+                        "title": "Write Now! with Jimmy Pardo",
+                        "URL": "https://www.youtube.com/watch?v=wjBZPjKQGb8",
+                        "media": "/static/assets/plugs/write-now.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "We watched Leprechaun in the Hood, as you probably expected we would. Kumail Nanjiani is our guest, and he put this bad movie to the test. I realize these rhymes aren't great, but this movie isn't exactly first rate.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131232",
+            "amazonURL": "https://www.amazon.com/gp/product/B000JNOUMC",
+            "youtubeURL": "https://www.youtube.com/watch?v=tY1D90ng0kE",
+            "itunesURL": "https://itunes.apple.com/us/movie/id279534830"
+        }
+    }]
+}

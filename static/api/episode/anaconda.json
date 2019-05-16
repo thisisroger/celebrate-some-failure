@@ -1,0 +1,71 @@
+{
+    "results": [{
+        "film": {
+            "title": "Anaconda",
+            "summary": "A 'National Geographic' film crew is taken hostage by an insane hunter, who forces them along on his quest to capture the world's largest - and deadliest - snake.",
+            "trailer": "https://www.youtube.com/watch?v=zkX5t5ZJLEk",
+            "poster": "/static/assets/posters/anaconda-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Michael Ian Black",
+                "photo": "/static/assets/guests/michael-ian-black.jpg",
+                "bio": "Michael Ian Black was one of eleven members of The State, one of three members of Stella, and one of two cast members of Michael & Michael Have Issues. If you’re not into collaborative comedy, you should check out I Am a Wonderful Man, his stand-up album. If you are a small child, you should probably find a more appropriate website, but first get his book Chicken Cheeks. If you’re a podcast fan check out his podcast Mike and Tom Eat Snacks, or MATES.",
+                "plugs": [
+                    {
+                        "title": "Wet Hot American Summer",
+                        "URL": "https://www.amazon.com/dp/B005EYLFOW",
+                        "media": "/static/assets/plugs/wet-hot-american-summer.jpg"
+                    },
+                    {
+                        "title": "Reaper",
+                        "URL": "https://www.amazon.com/Pilot/dp/B003YDWQUW",
+                        "media": "/static/assets/plugs/reaper.jpg"
+                    },
+                    {
+                        "title": "Reno 911!",
+                        "URL": "https://www.amazon.com/s?k=reno+911&i=instant-video",
+                        "media": "/static/assets/plugs/reno-911.jpg"
+                    },
+                    {
+                        "title": "Another Period",
+                        "URL": "https://www.amazon.com/dp/B00YYFSTRI",
+                        "media": "/static/assets/plugs/another-period.jpg"
+                    },
+                    {
+                        "title": "Burning Love",
+                        "URL": "https://www.amazon.com/dp/B00E3P3SPC",
+                        "media": "/static/assets/plugs/burning-love.jpg"
+                    },
+                    {
+                        "title": "Run Fatboy Run",
+                        "URL": "https://www.amazon.com/Run-Fat-Boy-Simon-Pegg/dp/B001GJ9I3O",
+                        "media": "/static/assets/plugs/run-fatboy-run.jpg"
+                    },
+                    {
+                        "title": "This is 40",
+                        "URL": "https://www.amazon.com/This-40-Unrated-Paul-Rudd/dp/B00BGIBVP8",
+                        "media": "/static/assets/plugs/this-is-forty.jpg"
+                    },
+                    {
+                        "title": "Take Me Home Tonight",
+                        "URL": "https://www.amazon.com/Take-Home-Tonight-Topher-Grace/dp/B005DD7CKU",
+                        "media": "/static/assets/plugs/take-me-home-tonight.jpg"
+                    },
+                    {
+                        "title": "Reno 911! Miami",
+                        "URL": "https://www.amazon.com/Reno-911-Miami-Unrated-Version/dp/B000S6BKNC",
+                        "media": "/static/assets/plugs/reno-911-miami.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Recorded live at the Bell House with Michael Ian Black join us as we unfurl the catastrophe that is Anaconda! We discuss the cast including Jon Voight who plays his character as a French Robert De Niro from South America, Jennifer Lopez as a documentarian, and a guy named Mateo. We also talk about whether they should have let the snake talk, translation mistakes, and Jon Voight’s surprising athleticism. You mean there are snakes out there this big? Listen to find out.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/22428708",
+            "amazonURL": "https://www.amazon.com/Anaconda-Frank-Welker/dp/B000I8ERYY",
+            "youtubeURL": "https://www.youtube.com/watch?v=ySli0RTXV4s",
+            "itunesURL": "https://itunes.apple.com/us/movie/id531579903"
+        }
+    }]
+}

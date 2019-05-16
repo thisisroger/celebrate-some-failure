@@ -1,0 +1,93 @@
+{
+    "results": [{
+        "film": {
+            "title": "Jason X",
+            "summary": "Jason Voorhees returns with a new look, a new machete, and his same murderous attitude as he is awakened on a spaceship in the 25th century.",
+            "trailer": "https://www.youtube.com/watch?v=Ka8QJjfpw1w",
+            "poster": "/static/assets/posters/jason-x-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jenny Slate",
+                "photo": "/static/assets/guests/jenny-slate.jpg",
+                "bio": "Jenny Slate is a delightful sprite of comedy with some amazing credits. Like her season on SNL. Or her hugely popular web series Bestie X Bestie. Or her even more hugely popular video Marcel the Shell with Shoes On which has recently been turned into a book (whatever that is).",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Bored to Death",
+                        "URL": "https://www.amazon.com/dp/B002P3ODNU",
+                        "media": "/static/assets/plugs/bored-to-death.jpg"
+                    },
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Bob's Burgers",
+                        "URL": "https://www.amazon.com/Human-Flesh/dp/B004I0CTRU",
+                        "media": "/static/assets/plugs/bobs-burgers.jpg"
+                    },
+                    {
+                        "title": "Big Terrific",
+                        "URL": "https://www.youtube.com/watch?v=x_VZGcWi51c",
+                        "media": "/static/assets/plugs/big-terrific.jpg"
+                    },
+                    {
+                        "title": "Obvious Child",
+                        "URL": "https://www.amazon.com/Obvious-Child-Jenny-Slate/dp/B00KT1B31A",
+                        "media": "/static/assets/plugs/obvious-child.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Rob Huebel",
+                "photo": "/static/assets/guests/rob-huebel.jpg",
+                "bio": "Rob Huebel is a former student of and frequent performer at the UCB Theatre. In fact, it was at the New York City UCB Theatre that Rob met Paul Scheer and Aziz Ansari, the guys with whom he would create Human Giant for MTV. Following the success of Human Giant, Rob has fleshed out his resume with roles on The Office, 30 Rock, Modern Family, and the wonderful Childrens Hospital. You can still find Rob at the UCB in Los Angeles performing in the shows Facebook and Crash Test. Listen to Rob in Season One of Mike Detective here on Earwolf.",
+                "plugs": [
+                    {
+                        "title": "Human Giant",
+                        "URL": "https://www.amazon.com/Mind-Explosion/dp/B000PAVSBU",
+                        "media": "/static/assets/plugs/human-giant.jpg"
+                    },
+                    {
+                        "title": "Do You Want to See a Dead Body?",
+                        "URL": "https://www.youtube.com/channel/UCFGGYi2aZoXzdeOeeNAD1sw",
+                        "media": "/static/assets/plugs/do-you-want-to-see-a-dead-body.jpg"
+                    },
+                    {
+                        "title": "Crash Test",
+                        "URL": "https://www.amazon.com/dp/B015IVODSU",
+                        "media": "/static/assets/plugs/crash-test.jpg"
+                    },
+                    {
+                        "title": "I Love You, Man",
+                        "URL": "https://www.amazon.com/dp/B002ICE0O0",
+                        "media": "/static/assets/plugs/i-love-you-man.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HDTGM All-stars Rob Huebel and Jenny Slate join Paul and Jason to discuss the 2001 science fiction slasher film Jason X. Recorded live from Largo at the Coronet in Los Angeles, they talk about the nipple clamps, abusive VR, and what is Jason?. Plus, Rob is reminded of a horror prank gone wrong from his past.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/52016058",
+            "amazonURL": "https://www.amazon.com/Jason-X-Kane-Hodder/dp/B07CNMPCD2",
+            "youtubeURL": "https://www.youtube.com/watch?v=ArOe4VybyX4",
+            "itunesURL": "https://itunes.apple.com/us/movie/id608276414"
+        }       
+    }]
+}

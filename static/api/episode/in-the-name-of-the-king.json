@@ -1,0 +1,85 @@
+{
+    "results": [{
+        "film": {
+            "title": "In the Name of the King",
+            "summary": "A man named Farmer sets out to rescue his kidnapped wife and avenge the death of his son, two acts committed by the Krugs, a race of animal-warriors who are controlled by the evil Gallian.",
+            "trailer": "https://www.youtube.com/watch?v=A7Um98FZei8",
+            "poster": "/static/assets/posters/in-the-name-of-the-king-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Seth Morris",
+                "photo": "/static/assets/guests/seth-morris.jpg",
+                "bio": "Seth Morris is a close personal friend of Bob Ducca. Seth has been studying and performing at the UCB theatre since the late 90’s and has performed at the U.S. Comedy Arts Festival, SF Sketchfest, and The Toyota Comedy Festival just to name a few. Seth is one of the writers for FunnyorDie and has given us videos like Forehead Tittaes, Betwixt the Music, and Lindsay Lohan’s eHarmony Profile. Seth is Bob Ducca’s ride to the studio, so please listen to Affirmation Nation Monday through Friday on Earwolf.",
+                "plugs": [
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Kroll Show",
+                        "URL": "https://www.amazon.com/dp/B00AVXZ5O2",
+                        "media": "/static/assets/plugs/kroll-show.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/Pilot/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Crash Test",
+                        "URL": "https://www.amazon.com/dp/B015IVODSU",
+                        "media": "/static/assets/plugs/crash-test.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Love",
+                        "URL": "https://www.netflix.com/title/80026506",
+                        "media": "/static/assets/plugs/love.jpg"
+                    },
+                    {
+                        "title": "The Good Place",
+                        "URL": "https://www.amazon.com/Everything-Is-Fine/dp/B01L3GQG7K",
+                        "media": "/static/assets/plugs/the-good-place.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    },
+                    {
+                        "title": "Cedar Rapids",
+                        "URL": "https://www.amazon.com/Cedar-Rapids-Ed-Helms/dp/B0053IX4XE",
+                        "media": "/static/assets/plugs/cedar-rapids.jpg"
+                    },
+                    {
+                        "title": "The Dictator",
+                        "URL": "https://www.amazon.com/Dictator-Unrated-Sacha-Baron-Cohen/dp/B008OM0M4U",
+                        "media": "/static/assets/plugs/the-dictator.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Seth Morris aka Bob Ducca joins us as we try to figure out what the hell happened in Uwe Boll’s In The Name of The King: A Dungeon Siege Tale. We talk about how Jason Statham’s character could care less about the death of his son, Matthew Lillard’s use of his ren fair experience, and plastic Burt Reynolds. Jason & June recreate one of the romantic scenes, Seth explains how Ray Liotta has cocaine eyes, and Paul had a tough time finding 5 star Amazon reviews. Jump out of that tree and take a listen!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/55884279",
+            "amazonURL": "https://www.amazon.com/Name-King-Dungeon-Siege-Tale/dp/B00142ARR4",
+            "itunesURL": "https://itunes.apple.com/gb/movie/id1239610630"
+        }
+    }]
+}

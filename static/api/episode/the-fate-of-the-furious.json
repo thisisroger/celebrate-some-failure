@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Fate of the Furious",
+            "summary": "When a mysterious woman seduces Dom into the world of terrorism and a betrayal of those closest to him, the crew face trials that will test them as never before.",
+            "trailer": "https://www.youtube.com/watch?v=9GvX2uexGkA",
+            "poster": "/static/assets/posters/the-fate-of-the-furious-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Adam Scott",
+                "photo": "/static/assets/guests/adam-scott.jpg",
+                "bio": "Adam Scott is perhaps best known for his roles in Knocked Up, Step Brothers, Party Down, Eastbound & Down, Parks and Recreation, and many Funny or Die videos. Additionally, he’s been a guest on shows such as The Sarah Silverman Program, Childrens Hospital, Veronica Mars and more. So, basically he’s great. Handsome, funny, good actor, the whole package.",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Party Down",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0040J4LH0",
+                        "media": "/static/assets/plugs/party-down.jpg"
+                    },
+                    {
+                        "title": "Step Brothers",
+                        "URL": "https://www.amazon.com/dp/B007OXHVSU",
+                        "media": "/static/assets/plugs/step-brothers.jpg"
+                    },
+                    {
+                        "title": "The Overnight",
+                        "URL": "https://www.amazon.com/dp/B07LGCQ3Q4",
+                        "media": "/static/assets/plugs/the-overnight.jpg"
+                    },
+                    {
+                        "title": "My Blind Brother",
+                        "URL": "https://www.amazon.com/dp/B01LXLQUKZ",
+                        "media": "/static/assets/plugs/my-blind-brother.jpg"
+                    },
+                    {
+                        "title": "A.C.O.D",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00GT8AV6U",
+                        "media": "/static/assets/plugs/acod.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Our resident Fast & Furious expert Adam Scott joins Paul, June, and Jason in-studio to discuss the latest in the Fast film franchise, The Fate of the Furious. Theyll cover everything from Jason Statham and The Rocks team up to the John Wick influence to Vin Diesel getting emotional.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/49987686",
+            "amazonURL": "https://www.amazon.com/gp/product/B06ZXRG946",
+            "youtubeURL": "https://www.youtube.com/watch?v=YOu6PdMIrkE",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-fate-of-the-furious/id1220995579"
+        }       
+    }]
+}

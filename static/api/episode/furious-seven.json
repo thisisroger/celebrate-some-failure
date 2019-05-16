@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "Furious 7",
+            "summary": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+            "trailer": "https://www.youtube.com/watch?v=Skpu5HaVkOc",
+            "poster": "/static/assets/posters/furious-7-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Adam Scott",
+                "photo": "/static/assets/guests/adam-scott.jpg",
+                "bio": "Adam Scott is perhaps best known for his roles in Knocked Up, Step Brothers, Party Down, Eastbound & Down, Parks and Recreation, and many Funny or Die videos. Additionally, he’s been a guest on shows such as The Sarah Silverman Program, Childrens Hospital, Veronica Mars and more. So, basically he’s great. Handsome, funny, good actor, the whole package.",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Party Down",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0040J4LH0",
+                        "media": "/static/assets/plugs/party-down.jpg"
+                    },
+                    {
+                        "title": "Step Brothers",
+                        "URL": "https://www.amazon.com/dp/B007OXHVSU",
+                        "media": "/static/assets/plugs/step-brothers.jpg"
+                    },
+                    {
+                        "title": "The Overnight",
+                        "URL": "https://www.amazon.com/dp/B07LGCQ3Q4",
+                        "media": "/static/assets/plugs/the-overnight.jpg"
+                    },
+                    {
+                        "title": "My Blind Brother",
+                        "URL": "https://www.amazon.com/dp/B01LXLQUKZ",
+                        "media": "/static/assets/plugs/my-blind-brother.jpg"
+                    },
+                    {
+                        "title": "A.C.O.D",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00GT8AV6U",
+                        "media": "/static/assets/plugs/acod.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Standing ovations were made and tears were shed as Paul, June, Jason, and Adam Scott strapped themselves in for another Fast & Furious adventure complete with fast cars, amnesia, and family. They discuss why the incredible feats these drag racers accomplish must make them superheroes, Tyrese & Ludacris absolutely killing it as the comic-relief, Han’s long emotional journey, the larger than life body of The Rock, and the jaw-dropping post-credits scene that made Adam Scott declare that director Justin Lin must be a fan of How Did This Get Made. Plus, everyone names their favorite character and explain why.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/24489336",
+            "amazonURL": "https://www.amazon.com/gp/product/B00VLV8BNA",
+            "youtubeURL": "https://www.youtube.com/watch?v=hT5__aceDeA",
+            "itunesURL": "https://itunes.apple.com/us/movie/furious-7/id972784695"
+        }
+    }]
+}

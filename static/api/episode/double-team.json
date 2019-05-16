@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Double Team",
+            "summary": "An international spy teams up with an arms dealer to escape from a penal colony and rescue his family from a terrorist.",
+            "trailer": "https://www.youtube.com/watch?v=tgNCeGU8Bx8",
+            "poster": "/static/assets/posters/double-team-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Owen Burke",
+                "photo": "/static/assets/guests/owen-burke.jpg",
+                "bio": "Owen Burke started on his improvisational and sketch path under the direction of the UCB in New York City. Since studying with them, Owen has written, directed and performed in many shows at the UCB Theatre and served as the theater’s Artistic Director. Owen now resides in Los Angeles where he works at Gary Sanchez Productions as a TV/Film writer/producer as well as a consulting producer for Funnyordie.com. Sometimes Owen acts, too. If you’re in Los Angeles check out Owen’s long running Improv show, Facebook.",
+                "plugs": [
+                    {
+                        "title": "Joe's Apartment",
+                        "URL": "https://www.amazon.com/Joes-Apartment-Jerry-OConnell/dp/B000GOTSCQ",
+                        "media": "/static/assets/plugs/joes-apartment.jpg"
+                    },
+                    {
+                        "title": "LA to Vegas",
+                        "URL": "https://www.amazon.com/Pilot/dp/B0789RTRKF",
+                        "media": "/static/assets/plugs/la-to-vegas.jpg"
+                    },
+                    {
+                        "title": "NTSF:SD:SUV",
+                        "URL": "https://www.amazon.com/dp/B009JW4LFK",
+                        "media": "/static/assets/plugs/ntsf.jpg"
+                    },
+                    {
+                        "title": "Do You Want to See a Dead Body?",
+                        "URL": "https://www.youtube.com/channel/UCFGGYi2aZoXzdeOeeNAD1sw",
+                        "media": "/static/assets/plugs/do-you-want-to-see-a-dead-body.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Owen Burke of Owen & TJ Read the News joins Paul, June, and Jason to discuss Van Damme & Rodman in 1997’s Double Team. They cover everything from the tiger tipping off Mickey Rourke at the amusement park, to Rodman’s basketball zingers, to the cyber monks, to being saved from a colosseum explosion with the help of a Coke machine.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/32342586",
+            "amazonURL": "https://www.amazon.com/gp/product/B007FECHEG",
+            "youtubeURL": "https://www.youtube.com/watch?v=iEmoflwhIHM",
+            "itunesURL": "https://itunes.apple.com/us/movie/id563037523"
+        }
+    }]
+}

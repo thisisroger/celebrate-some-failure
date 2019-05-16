@@ -1,0 +1,68 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Lawnmower Man",
+            "summary": "A simple man is turned into a genius through the application of computer science.",
+            "trailer": "https://www.youtube.com/watch?v=zzwPuJklv4w",
+            "poster": "/static/assets/posters/the-lawnmower-man-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Emily Heller",
+                "photo": "/static/assets/guests/emily-heller.jpg",
+                "bio": "Emily Heller is a comedian and writer who likes you very much. You may have seen her on Conan, on the third season of John Oliver’s New York Stand Up Show on Comedy Central, or as one of the New Faces at the 2012 Montreal Just For Laughs Festival. She is the creator and star of the Above Average series The Future. In 2011, She was included in Comedy Central’s Comics to Watch, won Rooftop Comedy’s Silver Nail Award, and was named one of the “Funniest People in Town” by 7×7 Magazine in San Francisco.",
+                "plugs": [
+                    {
+                        "title": "Barry",
+                        "URL": "https://www.amazon.com/Chapter-One-Make-Your-Mark/dp/B079KLHX5V",
+                        "media": "/static/assets/plugs/barry.jpg"
+                    },
+                    {
+                        "title": "People of Earth",
+                        "URL": "https://www.amazon.com/Acceptance/dp/B01N19ARDW",
+                        "media": "/static/assets/plugs/people-of-earth.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Neil Casey",
+                "photo": "/static/assets/guests/neil-casey.jpg",
+                "bio": "Neil Casey is a Delaware-born actor, comedian, and writer that is currently starring in Paul Feig’s comedy series for Yahoo!, OTHER SPACE. He has recently been seen in the USA comedy PLAYING HOUSE, Comedy Central’s BROAD CITY as well as the feature FORT TILDEN, which premiered at SXSW 2014 and took home the Grand Jury Award for Best Narrative Feature. Neil has been performing and writing comedy at the Upright Citizens Brigade in New York for over ten years and appears regularly with ASSSSCAT 3000, The Two-Man Movie, Death By Roo Roo. Neil was also a writer on the second season of INSIDE AMY SCHUMER and on THE KROLL SHOW. Prior to that, Neil served as a writer on SATURDAY NIGHT LIVE. In 2012 Neil also contributed as a writer on Katie Dippold and Paul Feig’s film THE HEAT starring Sandra Bullock and Melissa McCarthy.",
+                "plugs": [
+                    {
+                        "title": "Ghostbusters",
+                        "URL": "https://www.amazon.com/Ghostbusters-Melissa-McCarthy/dp/B01I03B1BU",
+                        "media": "/static/assets/plugs/ghostbusters.jpg"
+                    },
+                    {
+                        "title": "Veep",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00BS4L6YG",
+                        "media": "/static/assets/plugs/veep.jpg"
+                    },
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    },
+                    {
+                        "title": "Champaign Ill",
+                        "URL": "https://www.youtube.com/watch?v=appKOCri_j8",
+                        "media": "/static/assets/plugs/champaign-ill.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Recorded live from Largo at the Coronet in Los Angeles, Neil Casey (Ghostbusters) and Emily Heller (Baby Geniuses) join Paul and Jason to discuss the 1992 science fiction action horror film The Lawnmower Man. Theyll talk about the Stephen King short story that the movie is based on, virtual reality sex, smart chimps, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48352604",
+            "amazonURL": "https://www.amazon.com/gp/product/B071GZYRDW",
+            "youtubeURL": "https://www.youtube.com/watch?v=Q2LSOhIXgwc",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-lawnmower-man-collectors-edition/id1233946326"
+        }       
+    }]
+}

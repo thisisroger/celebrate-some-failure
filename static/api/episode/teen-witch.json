@@ -1,0 +1,45 @@
+{
+    "results": [{
+        "film": {
+            "title": "Teen Witch",
+            "summary": "High school misfit Louise, at a loss for romance, discovers magical abilities, but the teenage witch finds that she cannot conjure herself true love, so what?",
+            "trailer": "https://www.youtube.com/watch?v=u33P5zDhsC8",
+            "poster": "/static/assets/posters/teen-witch-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Deanna Cheng",
+                "photo": "/static/assets/guests/deanna-cheng.jpg",
+                "bio": "Deanna Cheng has written, directed and/or starred in several viral videos for FunnyorDie, including: The Real Housewives of NJ with Jaime-Lynn Sigler, The Kevin Bacon Movie Club, It Happens at the Coffee Bean , An Adele Listening Party & Havin’ a Summah with Zooey Deschanel & Earwolf’s own Howard Kremer. Deanna can be found on the television shows: Marry Me, Hotwives of Las Vegas & Filthy Preppy Teen$ and performs at storytelling shows around town.",
+                "plugs": [
+                    {
+                        "title": "Heathers",
+                        "URL": "https://www.amazon.com/Pilot/dp/B079VLJS5X",
+                        "media": "/static/assets/plugs/heathers.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    },
+                    {
+                        "title": "Ass Backwards",
+                        "URL": "https://www.amazon.com/dp/B00FJ01BN6",
+                        "media": "/static/assets/plugs/ass-backwards.jpg"
+                    },
+                    {
+                        "title": "NTSF:SD:SUV",
+                        "URL": "https://www.amazon.com/dp/B009JW4LFK",
+                        "media": "/static/assets/plugs/ntsf.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Paul, June, and Jason are back in the studio and welcome Deanna Cheng of OMFG! to discuss the 1989 film Teen Witch starring Robyn Lively and Zelda Rubinstein. They'll cover everything including bedroom chairs, condom chanting, the murder house that is not an appropriate place to be making out, and 'Top That,' the first ever rap battle on film.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131016",
+            "amazonURL": "https://www.amazon.com/gp/product/B07P7KNHW9",
+            "itunesURL": "https://itunes.apple.com/us/movie/id1039641195"
+        }       
+    }]
+}

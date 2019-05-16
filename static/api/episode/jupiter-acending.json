@@ -1,0 +1,29 @@
+{
+    "results": [{
+        "film": {
+            "title": "Jupiter Acending",
+            "summary": "A young woman discovers her destiny as an heiress of intergalactic nobility and must fight to protect the inhabitants of Earth from an ancient and destructive industry.",
+            "trailer": "https://www.youtube.com/watch?v=t4ZzMkDLjWI",
+            "poster": "/static/assets/posters/jupiter-acending-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Franklin Leonard",
+                "photo": "/static/assets/guests/franklin-leonard.jpg",
+                "bio": "Franklin Leonard is the host of the Black List Table Reads podcast (an iTunes Best of 2015 pick) and founder of the Black List, the yearly publication highlighting Hollywood’s most popular unproduced screenplays and the company birthed to continue its mission. Over 250 Black List scripts have been produced as feature films earning 243 Academy Award nominations and 45 wins including three of the last seven Best Pictures and eight of the last sixteen screenwriting Oscars."
+            },
+            "guestTwo": {
+                "name": "Razzle Dangerously",
+                "photo": "/static/assets/guests/razzle-dangerously.jpg",
+                "bio": "Razzle is a stand-up comedian and co-host of Picking Favorites on Wolfpop!"
+            }
+        },
+        "episodeDescription": "This week Paul & Jason are joined by two special guests, from “Blacklist Table Reads”, Franklin Leonard, and from the equally popular “Picking Favorites, Razzle Dangerously. They try, and almost succeed, to understand the plot of the Wachowskis’ ‘Jupiter Ascending’. All the hard hitting questions are asked, including; why do no two aliens look the same? At what point did Channing Tatum realize what he was in for? Does being part dog help you in space?",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/55882657",
+            "amazonURL": "https://www.amazon.com/Jupiter-Ascending-Channing-Tatum/dp/B00T9DLEZY",
+            "youtubeURL": "https://www.youtube.com/watch?v=mJBTOkncF0A",
+            "itunesURL": "https://itunes.apple.com/us/movie/id960831851"
+        }
+    }]
+}

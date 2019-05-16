@@ -1,0 +1,39 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Garbage Pail Kids Movie",
+            "summary": "Dodger must confront the struggles of life as he is visited by the Garbage Pail Kids and intimidated by some older bullies.",
+            "trailer": "https://www.youtube.com/watch?v=2CqoHch6QzQ",
+            "poster": "/static/assets/posters/the-garbage-pail-kids-movie-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jon Lovett",
+                "photo": "/static/assets/guests/jon-lovett.jpg",
+                "bio": "Jon Lovett is an American screenwriter, speechwriter, and television producer. After working as a speechwriter for President Barack Obama and Hillary Clinton, Lovett produced The Newsroom and co-created 1600 Penn.",
+                "plugs": [
+                    {
+                        "title": "Pod Save America",
+                        "URL": "https://www.amazon.com/Pod-Save-America-01/dp/B07HK7L4K4",
+                        "media": "/static/assets/plugs/pod-save-america.jpg"
+                    },
+                    {
+                        "title": "The Newsroom",
+                        "URL": "https://www.amazon.com/We-Just-Decided-To/dp/B00CW8DRU8",
+                        "media": "/static/assets/plugs/the-newsroom.jpg"
+                    },
+                    {
+                        "title": "The Oath",
+                        "URL": "https://www.amazon.com/Oath-Ike-Barinholtz/dp/B07KY38359",
+                        "media": "/static/assets/plugs/the-oath.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Jon Lovett of Pod Save America joins Paul, June, and Jason to discuss the 1987 live action film adaptation of the childrens trading card series The Garbage Pail Kids Movie. Recorded live from Largo at the Coronet in Los Angeles, they talk about whether or not some of the Garbage Pail Kids are adults, prisoners in the State Home for the Ugly, whats the deal with Juice and his gang, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/51164836",
+            "amazonURL": "https://www.amazon.com/Garbage-Pail-Movie-Katie-Barberi/dp/B00950XXM8"
+        }       
+    }]
+}

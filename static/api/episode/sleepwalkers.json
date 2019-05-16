@@ -1,0 +1,61 @@
+{
+    "results": [{
+        "film": {
+            "title": "Sleepwalkers",
+            "summary": "A mother-and-son team of strange supernatural creatures move to a small town to seek out a young virgin to feed on.",
+            "trailer": "https://www.youtube.com/watch?v=X_DD7WWr4Sw",
+            "poster": "/static/assets/posters/sleepwalkers-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Lauren Lapkus",
+                "photo": "/static/assets/guests/lauren-lapkus.jpg",
+                "bio": "Lauren Lapkus is an Emmy-nominated actress, improviser, and writer. She’s best known for her role as prison guard Susan Fischer on Netflix’s Orange is the New Black, which won her a SAG award. She’s upcoming in the feature Holmes and Watson, with Will Ferrell and John C. Reilly.",
+                "plugs": [
+                    {
+                        "title": "Raised By TV",
+                        "URL": "https://itunes.apple.com/us/podcast/raised-by-tv/id1301535199",
+                        "media": "/static/assets/plugs/raised-by-tv.jpg"
+                    },
+                    {
+                        "title": "Comedy Bang! Bang!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B008578B0Q",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    },
+                    {
+                        "title": "Crashing",
+                        "URL": "https://www.amazon.com/Artie-Lange/dp/B0718WTKYJ",
+                        "media": "/static/assets/plugs/crashing.jpg"
+                    },
+                    {
+                        "title": "Another Period",
+                        "URL": "https://www.amazon.com/dp/B00YYFSTRI",
+                        "media": "/static/assets/plugs/another-period.jpg"
+                    },
+                    {
+                        "title": "Jurassic World",
+                        "URL": "https://www.amazon.com/Jurassic-World-Chris-Pratt/dp/B00ZHWD78I",
+                        "media": "/static/assets/plugs/jurassic-world.jpg"
+                    },
+                    {
+                        "title": "Netflix Presents: The Characters",
+                        "URL": "https://www.netflix.com/title/80073289",
+                        "media": "/static/assets/plugs/the-characters.jpg"
+                    },
+                    {
+                        "title": "Holmes and Watson",
+                        "URL": "https://www.amazon.com/Holmes-Watson-Bonus-Features-Ferrell/dp/B07MGKJ66Y",
+                        "media": "/static/assets/plugs/holmes-and-watson.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Lauren Lapkus (With Special Guest Lauren Lapkus, Wild Horses, Crashing) joins Paul, June, and Jason to discuss the 1992 Stephen King horror film Sleepwalkers. Theyll talk about whether Charles Brady and Mary are really mother and son or just creatures, adult people acting terrified of tiny cats, Stephen Kings cameo, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/49611748",
+            "amazonURL": "https://www.amazon.com/gp/product/B001J67B4M",
+            "youtubeURL": "https://www.youtube.com/watch?v=ne960am5jTA",
+            "itunesURL": "https://itunes.apple.com/us/movie/id304214076"
+        }       
+    }]
+}

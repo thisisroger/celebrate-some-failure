@@ -1,0 +1,51 @@
+{
+    "results": [{
+        "film": {
+            "title": "Joyful Noise",
+            "summary": "G.G. Sparrow faces off with her choir's newly appointed director, Vi Rose Hill, over the group's direction as they head into a national competition.",
+            "trailer": "https://www.youtube.com/watch?v=e1Cj-_o2FGQ",
+            "poster": "/static/assets/posters/joyful-noise-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Fred Stoller",
+                "photo": "/static/assets/guests/fred-stoller.jpg",
+                "bio": "Fred Stoller is an American stand-up comedian, actor, writer, voice artist, and comedian. He broke into comedy during the boom period of the 1980s and was on every television show that would feature stand-ups. He is best known for his frequent guest starring as Gerard on the CBS sitcom Everybody Loves Raymond. He has also made guest appearances on several additional TV series as well as having written two episodes of Seinfeld. He also wrote about his time as a writer on Seinfeld in his Amazon Kindle single, My Seinfeld Year.",
+                "plugs": [
+                    {
+                        "title": "My Seinfeld Year",
+                        "URL": "http://www.amazon.com/Seinfeld-Year-Kindle-Single-ebook/dp/B006Z499M0",
+                        "media": "/static/assets/plugs/my-seinfeld-year.jpg"
+                    },
+                    {
+                        "title": "Everybody Loves Raymond",
+                        "URL": "https://www.amazon.com/Pilot/dp/B00AWM9NIQ",
+                        "media": "/static/assets/plugs/everybody-loves-raymond.jpg"
+                    },
+                    {
+                        "title": "Dumb and Dumber",
+                        "URL": "https://www.amazon.com/Dumb-Dumber-Jim-Carrey/dp/B008ROFI4Y",
+                        "media": "/static/assets/plugs/dumb-and-dumber.jpg"
+                    },
+                    {
+                        "title": "Seinfeld",
+                        "URL": "https://www.amazon.com/Seinfeld/dp/B0777TWP22",
+                        "media": "/static/assets/plugs/seinfeld.jpg"
+                    },
+                    {
+                        "title": "Bob's Burgers",
+                        "URL": "https://www.amazon.com/Human-Flesh/dp/B004I0CTRU",
+                        "media": "/static/assets/plugs/bobs-burgers.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Queen Latifah & Dolly Parton were in a gospel filled musical with so many plots that it will make your head spin! Fred Stoller joins us to talk about the strange heart attacks that kill of two characters in the movie, the bum wiping vs turd in tissue issue that Queen’s son with Asperger’s syndrome faces with, and who is shooting the footage of Queen & her husband hugging at a park. We also cover the diner food fight scene, Dolly’s partial duet with her dead husband/ghost self, and the big medley at the end with Catholic-fied versions of pop songs.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/40701854",
+            "amazonURL": "https://www.amazon.com/Joyful-Noise-Queen-Latifah/dp/B007HNPOSQ",
+            "youtubeURL": "https://www.youtube.com/watch?v=OqtL3cu72NU",
+            "itunesURL": "https://itunes.apple.com/us/movie/id501255259"
+        }
+    }]
+}

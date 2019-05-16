@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Look Who's Talking Now",
+            "summary": "In this, the third film, it's the pets who do the talking. The Ubriacco's find themselves the owners of two dogs, Rocks, a street wise cross breed, and Daphne, a spoiled pedigree poodle. ... See full summary »",
+            "trailer": "https://www.youtube.com/watch?v=S-oJ1D5aZcM",
+            "poster": "/static/assets/posters/look-whos-talking-now-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Conan O'Brien",
+                "photo": "/static/assets/guests/conan-obrien.jpg",
+                "bio": "Conan Christopher O’Brien was born in Brookline, Massachusetts, and he started his path in comedy when he served twice as the president of The Harvard Lampoon.  Conan went on to become a writer and producer on several television shows, including “Saturday Night Live” and “The Simpsons,” until 1993, when NBC tapped him to take over as host of “Late Night.”   Since then, Conan has hosted two Emmy Awards, the MTV Movie Awards, performed a 32-city live comedy tour, been the subject of a documentary titled “Conan O’Brien Can’t Stop,” and performed at the White House Correspondent’s Dinner for two presidents.  He’s won 3 Emmy Awards and six Writer’s Guild Awards for comedy writing, the People’s Choice Award for “Favorite Television Host,” and is currently helming the show “Conan,” now in its 8th season on TBS. With the retirement of David Letterman in 2015, Conan became the longest-working current late-night talk show host in the U. S., celebrating 25 years in 2018.",
+                "plugs": [
+                    {
+                        "title": "Conan O'Brien Needs A Friend",
+                        "URL": "https://itunes.apple.com/us/podcast/conan-obrien-needs-a-friend/id1438054347",
+                        "media": "/static/assets/plugs/conan-obrien-needs-a-friend.jpg"
+                    },
+                    {
+                        "title": "Conan O'Brien Can't Stop",
+                        "URL": "https://www.amazon.com/Conan-OBrien-Cant-Rodman-Flender/dp/B005BW1MMM",
+                        "media": "/static/assets/plugs/conan-obrien-cant-stop.jpg"
+                    },
+                    {
+                        "title": "The Simpsons (1993)",
+                        "URL": "https://www.amazon.com/Simpsons-Roasting-Open-Fire/dp/B004GWUR7Y",
+                        "media": "/static/assets/plugs/the-simpsons.jpg"
+                    },
+                    {
+                        "title": "The LEGO Batman Movie",
+                        "URL": "https://www.amazon.com/LEGO-Batman-Movie-Will-Arnett/dp/B01MUI1NPD",
+                        "media": "/static/assets/plugs/the-lego-batman-movie.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Conan O’Brien (Conan O’Brien Needs A Friend) joins Paul, June, and Jason to discuss the 1993 romantic comedy and the final installment in the series, Look Who’s Talking Now starring John Travolta and Kirstie Alley. They talk about the sentient Danny DeVito sperm, the talking dogs not moving the movie’s plot, the daughter’s home made Charles Barkley doll, and wolves.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/57372833",
+            "amazonURL": "https://www.amazon.com/gp/product/B003F1FBSC",
+            "youtubeURL": "https://www.youtube.com/watch?v=eXxQGwM4I5U",
+            "itunesURL": "https://itunes.apple.com/us/movie/id283496499"
+        }       
+    }]
+}

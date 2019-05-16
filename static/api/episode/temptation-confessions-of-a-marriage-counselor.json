@@ -1,0 +1,35 @@
+{
+    "results": [{
+        "film": {
+            "title": "Temptation: Confessions of a Marriage Counselor",
+            "summary": "An ambitious married woman's temptation by a handsome billionaire leads to betrayal, recklessness, and forever alters the course of her life.",
+            "trailer": "https://www.youtube.com/watch?v=SDfTwu2CgDY",
+            "poster": "/static/assets/posters/temptation-confessions-of-a-marriage-counselor-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Katie Aselton",
+                "photo": "/static/assets/guests/katie-aselton.jpg",
+                "bio": "Katie Aselton is an American film director, producer, and actress. She directed and co-starred in The Freebie, which was shown in the non-competition “Next” category at the Sundance Film Festival in 2010. She and her husband Mark Duplass are co-stars on the FXX show The League.",
+                "plugs": [
+                    {
+                        "title": "The Office",
+                        "URL": "https://www.amazon.com/The-Office-An-American-Workplace/dp/B000U7O8LA",
+                        "media": "/static/assets/plugs/the-office.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Unlike Brice, this week's episode is phenomenal as special guest Katie Aselton joins Paul, June, and Jason to discuss Tyler Perry's Temptation: Confessions of a Marriage Counselor. They’ll cover everything from small town dreams in the big city, Brandy & Kim Kardashian’s roles, Vanessa Williams’ French accent, and how everyone has (spoiler alert) AIDS. Plus, we hear from Vanessa Williams on her French accent, Tyler Perry’s thoughts on the movie, and this episode breaks a HDTGM record for the most 5 Star Reviews during 2nd Opinions.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/36200233",
+            "amazonURL": "https://www.amazon.com/gp/product/B00DN7LUHE",
+            "itunesURL": "https://itunes.apple.com/us/movie/id617471956"
+        }
+    }]
+}

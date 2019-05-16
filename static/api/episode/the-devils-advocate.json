@@ -1,0 +1,31 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Devil's Advocate",
+            "summary": "An exceptionally adept Florida lawyer is offered a job at a high-end New York City law firm with a high-end boss - the biggest opportunity of his career to date.",
+            "trailer": "https://www.youtube.com/watch?v=40hHA9n4C2o",
+            "poster": "/static/assets/posters/the-devils-advocate-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Julie Klausner",
+                "photo": "/static/assets/guests/julie-klausner.jpg",
+                "bio": "Julie Klausner is a former writer for VH1’s Best Week Ever, host of the popular podcast How Was Your Week (named one of the best 10 comedy podcasts of the moment by Rolling Stone), and author of I Don’t Care About Your Band which is currently being adapted into a television series. She has also written for publications such as The New York Times, The A.V. Club and writes a “Fuck/Marry/Kill” column for The Hairpin.",
+                "plugs": [
+                    {
+                        "title": "Difficult People",
+                        "URL": "https://www.amazon.com/Pilot/dp/B017I3L4UQ",
+                        "media": "/static/assets/plugs/difficult-people.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "STOP. RESET. This might be the sexiest/dirtiest movie we’ve done! Special guest Julie Klausner joined us to talk about The Devil’s Advocate on this week’s How Did This Get Made? LIVE at the Bell House! We cover everything from Keanu’s multiple southern accents, Pacino’s 30 minute monologue, and the insane double twist. Also, we debate with the audience over the country of origin of different actors, share our favorite Pacino line, and cast our dream sequel!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/56631182",
+            "amazonURL": "https://www.amazon.com/Devils-Advocate-Keanu-Reeves/dp/B001EBYM9Y",
+            "youtubeURL": "https://www.youtube.com/watch?v=vP-hg2tFtKM",
+            "itunesURL": "https://itunes.apple.com/us/movie/id279598771"
+        }
+    }]
+}

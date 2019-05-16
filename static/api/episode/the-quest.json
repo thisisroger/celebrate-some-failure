@@ -1,0 +1,51 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Quest",
+            "summary": "A group of gentlemen of fortune visits a legendary \"Lost City\", located in Tibet. They plan to steal a priceless statue \"Golden Dragon\" during the martial arts tournament.",
+            "trailer": "https://www.youtube.com/watch?v=EaCbSlAsQoE",
+            "poster": "/static/assets/posters/the-quest-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jon Gabrus",
+                "photo": "/static/assets/guests/jon-gabrus.jpg",
+                "bio": "Jon Gabrus is an actor, writer, and comedian. Jon most recently shot an episode of the new POP TV sketch series HOT DATE for College Humor’s Brian Murphy and Emily Axford. He previously appeared in THE 5th QUARTER and had a small role in GAME OVER, MAN!. He previously wrapped production on the Comedy Central pilot THE COUCH, for which he was the host. He was last seen opposite Alison Brie, John C. Reilly and Dave Franco in THE LITTLE HOURS.",
+                "plugs": [
+                    {
+                        "title": "Raised By TV",
+                        "URL": "https://itunes.apple.com/us/podcast/raised-by-tv/id1301535199",
+                        "media": "/static/assets/plugs/raised-by-tv.jpg"
+                    },
+                    {
+                        "title": "What We Do in the Shadows",
+                        "URL": "https://www.amazon.com/First-Look/dp/B07PLT8QQ6",
+                        "media": "/static/assets/plugs/what-we-do-in-the-shadows.jpg"
+                    },
+                    {
+                        "title": "Comedy Bang! Bang!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B008578B0Q",
+                        "media": "/static/assets/plugs/comedy-bang-bang.jpg"
+                    },
+                    {
+                        "title": "Game Over, Man!",
+                        "URL": "https://www.netflix.com/title/80169617",
+                        "media": "/static/assets/plugs/game-over-man.jpg"
+                    },
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Imagine Bloodsport but a much watered down version that takes place in the past and is not that good. High and Mighty podcast host and JCVD aficionado Jon Gabrus joins Paul, June, and Jason in studio to discuss Jean Claude Van Damme's directorial debut The Quest.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131010",
+            "amazonURL": "https://www.amazon.com/Quest-Jean-Claude-Van-Damme/dp/B007P0ZFS0",
+            "youtubeURL": "https://www.youtube.com/watch?v=1RCMJKWUsrw",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-quest/id503526479"
+        }
+    }]
+}

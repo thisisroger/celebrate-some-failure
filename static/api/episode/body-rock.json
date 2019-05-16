@@ -1,0 +1,45 @@
+{
+    "results": [{
+        "film": {
+            "title": "Body Rock",
+            "summary": "Chilly is just a guy from the streets with a talent for break-dancing. When his wicked moves catch the eye of an industry pro, Chilly finds his dreams of fame and fortune coming true, for better or for worse.",
+            "trailer": "https://www.youtube.com/watch?v=LA1falzcjV0",
+            "poster": "/static/assets/posters/body-rock-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Alison Brie",
+                "photo": "/static/assets/guests/alison-brie.jpg",
+                "bio": "Alison Brie is an actress best known for portraying Trudy Campbell on Mad Men, Rebecca Walters in Scream 4, and everyone’s favorite teacher’s pet, Annie Edison, on NBC’s Community.",
+                "plugs": [
+                    {
+                        "title": "Community",
+                        "URL": "https://www.amazon.com/Spanish-101/dp/B002N7CTKM",
+                        "media": "/static/assets/plugs/community.jpg"
+                    },
+                    {
+                        "title": "GLOW",
+                        "URL": "https://www.netflix.com/title/80114988",
+                        "media": "/static/assets/plugs/glow.jpg"
+                    },
+                    {
+                        "title": "The Disaster Artist",
+                        "URL": "https://www.amazon.com/Disaster-Artist-James-Franco/dp/B077THGZTS",
+                        "media": "/static/assets/plugs/the-disaster-artist.jpg"
+                    },
+                    {
+                        "title": "The Little Hours",
+                        "URL": "https://www.amazon.com/Little-Hours-Alison-Brie/dp/B073HPCKN9",
+                        "media": "/static/assets/plugs/the-little-hours.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Alison Brie (Glow) joins Paul, June and Jason to discuss the 1984 film Body Rock starring Lorenzo Lamas. Recored live from Largo at the Coronet in Los Angeles, they talk about Chilly’s hairy chest, breakdancing, post shower roast beef, and breaking the fourth wall. Plus, June believes she can breakdance with no practice.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/54433729",
+            "amazonURL": "https://www.amazon.com/Body-Rock-Lorenzo-Lamas/dp/B000Q6ZW0G",
+            "youtubeURL": "https://www.youtube.com/watch?v=cdvRr5lIUGA"
+        }       
+    }]
+}

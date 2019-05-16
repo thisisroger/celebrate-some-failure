@@ -1,0 +1,57 @@
+{
+    "results": [{
+        "film": {
+            "title": "Simply Irresistible",
+            "summary": "A magical crab works wonders for a terrible chef's culinary skills, leading her towards the man of her dreams.",
+            "trailer": "https://www.youtube.com/watch?v=MqV-bMYRZMw",
+            "poster": "/static/assets/posters/simply-irresistible-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Jensen Karp",
+                "photo": "/static/assets/guests/jensen-karp.jpg",
+                "bio": "Jensen Karp, formerly known as rapper Hot Karl, is an LA-based writer, comedian, and co-owner of Gallery 1988, the nation’s leading destination for pop-cultured themed artwork. He has written and produced for Funny or Die, the MTV VMAs, The Late Late Show with James Corden, Rolling Stone, WWE Raw, The Hundreds, and the ESPYs. His book, Kanye West Owes Me $300 (and other true stories from a white rapper who ALMOST made it big) is now in stores and he’s an executive producer on the upcoming “Drop The Mic” battle rap TV show on TBS.",
+                "plugs": [
+                    {
+                        "title": "Get Up On This",
+                        "URL": "https://www.earwolf.com/show/get-up-on-this",
+                        "media": "/static/assets/plugs/get-up-on-this.jpg"
+                    },
+                    {
+                        "title": "Gallery 1988",
+                        "URL": "http://nineteeneightyeight.com",
+                        "media": "/static/assets/plugs/gallery-1988.jpg"
+                    },
+                    {
+                        "title": "Kanye West Owes Me $300",
+                        "URL": "https://www.amazon.com/Kanye-West-Owes-Me-300/dp/0451498879",
+                        "media": "/static/assets/plugs/kanye-west-owes-me-300.jpg"
+                    },
+                    {
+                        "title": "Baby Talk",
+                        "URL": "https://www.amazon.com/dp/B01N1QA9TI",
+                        "media": "/static/assets/plugs/baby-talk.jpg"
+                    },
+                    {
+                        "title": "Scheer RL",
+                        "URL": "https://www.amazon.com/dp/B01G2T5CK0",
+                        "media": "/static/assets/plugs/scheer-rl.jpg"
+                    },
+                    {
+                        "title": "Drop the Mic",
+                        "URL": "https://www.amazon.com/dp/B07C6H8GM3",
+                        "media": "/static/assets/plugs/drop-the-mic.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HDTGM All-star Jensen Karp (Get Up On This, Kanye West Owes Me $300) joins Paul, June, and Jason in-studio to talk about the Sarah Michelle Gellar 1999 romantic comedy Simply Irresistible. Why is there so much unwarranted sexuality in the movie? Is the crab giving SMG magical powers to cook? Do guys really touch their belts when thinking about sex?",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48130997",
+            "amazonURL": "https://www.amazon.com/gp/product/B001II0M9W",
+            "youtubeURL": "https://www.youtube.com/watch?v=rweO7FQn0HY",
+            "itunesURL": "https://itunes.apple.com/us/movie/id288927574"
+        }
+        
+    }]
+}

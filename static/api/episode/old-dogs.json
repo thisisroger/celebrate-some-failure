@@ -1,0 +1,47 @@
+{
+    "results": [{
+        "id": "old-dogs",
+        "film": {
+            "title": "Old Dogs",
+            "summary": "Two friends and business partners find their lives turned upside down when strange circumstances lead them to be the temporary guardians of seven year-old twins.",
+            "trailer": "https://www.youtube.com/watch?v=RhY8AP806tU",
+            "poster": "/static/assets/posters/old-dogs-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Casey Wilson",
+                "photo": "/static/assets/guests/casey-wilson.jpg",
+                "bio": "Casey Wilson was a series regular on the sitcoms Marry Me and Happy Endings. She was twice nominated for a Critics’ Choice Award for her performance on the latter show, and Variety has called her one of the “Top 10 Comics to Watch.”",
+                "plugs": [
+                    {
+                        "title": "Happy Endings",
+                        "URL": "https://www.amazon.com/dp/B004V2E8SS",
+                        "media": "/static/assets/plugs/happy-endings.jpg"
+                    },
+                    {
+                        "title": "Ass Backwards",
+                        "URL": "https://www.amazon.com/dp/B00FJ01BN6",
+                        "media": "/static/assets/plugs/ass-backwards.jpg"
+                    },
+                    {
+                        "title": "Bored to Death",
+                        "URL": "https://www.amazon.com/dp/B002P3ODNU",
+                        "media": "/static/assets/plugs/bored-to-death.jpg"
+                    },
+                    {
+                        "title": "Marry Me",
+                        "URL": "https://www.amazon.com/dp/B00OBTFUPQ",
+                        "media": "/static/assets/plugs/marry-me.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Where do we start with Old Dogs? Human puppet suits? A cross-eyed Rita Wilson? Sports marketing? Paul, June, and Jason invite Casey Wilson to help sift through the farts and crotch-shots that make up this 87 minute masterpiece. Casey and Paul reenact one of the more subtle, dramatic moments from the film, while Jason crosses the line with his jet-pack criticisms.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131267",
+            "amazonURL": "https://www.amazon.com/dp/B003V5CGHG",
+            "youtubeURL": "https://www.youtube.com/watch?v=-IM7LjtdHiQ",
+            "itunesURL": "https://itunes.apple.com/us/movie/id345150880"
+        }
+    }]
+}

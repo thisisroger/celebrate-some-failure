@@ -1,0 +1,31 @@
+{
+    "results": [{
+        "film": {
+            "title": "Miami Connection",
+            "summary": "A martial arts rock band goes up against a band of motorcycle ninjas who have tightened their grip on Florida's narcotics trade.",
+            "trailer": "https://www.youtube.com/watch?v=VpZu69OB2KM",
+            "poster": "/static/assets/posters/miami-connection-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Chris Geere",
+                "photo": "/static/assets/guests/chris-geere.jpg",
+                "bio": "Christopher William 'Chris' Geere is an English actor. He is best known for playing the lead role of Jimmy Shive-Overly in the FX/FXX comedy You’re the Worst.",
+                "plugs": [
+                    {
+                        "title": "You're the Worst",
+                        "URL": "https://www.amazon.com/Pilot/dp/B00LT8CSHU",
+                        "media": "/static/assets/plugs/youre-the-worst.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Actor Chris Geere of Youre the Worst joins Paul, June, and Jason to discuss the 1987 martial arts film Miami Connection. Recorded live from Largo at the Coronet in Los Angeles, they talk about the music band of ninjas, the connection to Miami, orphan beach, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/51486274",
+            "amazonURL": "https://www.amazon.com/Miami-Connection-Y-K-Kim/dp/B079P7527T",
+            "youtubeURL": "https://www.youtube.com/watch?v=yfAK_ebqHRM",
+            "itunesURL": "https://itunes.apple.com/us/movie/id865758980"
+        }       
+    }]
+}

@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Sleepaway Camp",
+            "summary": "Angela Baker, a traumatized and very shy young girl, is sent to summer camp with her cousin. Shortly after her arrival, anyone with sinister or less than honorable intentions gets their comeuppance.",
+            "trailer": "https://www.youtube.com/watch?v=T9K2ARikYzE",
+            "poster": "/static/assets/posters/sleepaway-camp-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Zack Pearlman",
+                "photo": "/static/assets/guests/zack-pearlman.jpg",
+                "bio": "Zack Pearlman is an American actor. He is best known for playing the role of Zack in the feature film, The Virginity Hit. Pearlman’s acting career began after he submitted an entry for a contest with the website Funny or Die and was given the opportunity to audition for a role in the film The Virginity Hit. Pearlman can be seen as Jay in the American remake of the British series The Inbetweeners on MTV.",
+                "plugs": [
+                    {
+                        "title": "Shameless",
+                        "URL": "https://www.amazon.com/gp/video/detail/B005FDW4KG",
+                        "media": "/static/assets/plugs/shameless.jpg"
+                    },
+                    {
+                        "title": "Staten Island Summer",
+                        "URL": "https://www.amazon.com/Staten-Island-Summer-Graham-Phillips/dp/B010NCZ0N6",
+                        "media": "/static/assets/plugs/staten-island-summer.jpg"
+                    },
+                    {
+                        "title": "Why Him?",
+                        "URL": "https://www.amazon.com/Why-Him-James-Franco/dp/B01MZ1M46F",
+                        "media": "/static/assets/plugs/why-him.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Paul, Jason, June Diane, and MTV's Zack Pearlman talk 1983's  Sleepaway Camp  on this Halloween episode of How Did This Get Made.   We learn about incest, how much salt to add to boiling water, and, most importantly, to be cautious of water snakes.  Also, we discuss the performance of Robert Earl Jones (father to James Earl Jones) and Paul's understanding of the AIDS epidemic. Enjoy this not-so-low-budget ode to side pony-tails and short shorts.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/48131181",
+            "amazonURL": "https://www.amazon.com/gp/product/B07J6THPF4",
+            "youtubeURL": "https://www.youtube.com/watch?v=ZAOgk9968hI",
+            "itunesURL": "https://itunes.apple.com/us/movie/id878350002"
+        }
+    }]
+}

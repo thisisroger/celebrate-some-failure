@@ -1,0 +1,39 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Apple",
+            "summary": "In 1994, a young couple enters the world of the music industry, and subsequently the world of drugs.",
+            "trailer": "https://www.youtube.com/watch?v=Uix3tbov65o",
+            "poster": "/static/assets/posters/the-apple-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Andy Richter",
+                "photo": "/static/assets/guests/andy-richter.jpg",
+                "bio": "Andy Richter has made a home for himself in the hearts of comedy fans all across the country. Beyond his role as the sidekick on Late Night with Conan O’Brien, he has found his own fanbase through shows like Andy Richter Controls the Universe and Andy Barker, P.I. You can watch him Monday through Thursday nights on Conan, and if you’re lucky you can catch him performing at the UCB Theatre in Los Angeles.",
+                "plugs": [
+                    {
+                        "title": "Conan O'Brien Can't Stop",
+                        "URL": "https://www.amazon.com/Conan-OBrien-Cant-Rodman-Flender/dp/B005BW1MMM",
+                        "media": "/static/assets/plugs/conan-obrien-cant-stop.jpg"
+                    },
+                    {
+                        "title": "Cabin Boy",
+                        "URL": "https://www.amazon.com/Cabin-Boy-Chris-Elliott/dp/B00C4QMV78",
+                        "media": "/static/assets/plugs/cabin-boy.jpg"
+                    },
+                    {
+                        "title": "Arrested Development",
+                        "URL": "https://www.amazon.com/dp/B006IWJAXM",
+                        "media": "/static/assets/plugs/arrested-development.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "LIVE from Largo in Los Angeles, Andy Richter of Conan joins Paul, June, and Jason to discuss the 1980 disco/rock opera The Apple. Theyll cover June believing the movie took place in space, Paul not realizing the movie's connection to Adam and Eve, and the BIM mandated hour exercise.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131018",
+            "amazonURL": "https://www.amazon.com/Apple-Catherine-Mary-Stewart/dp/B00950U0PQ"
+        }
+    }]
+}

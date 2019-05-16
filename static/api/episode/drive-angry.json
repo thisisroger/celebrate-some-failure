@@ -1,0 +1,37 @@
+{
+    "results": [{
+        "id": "drive-angry",
+        "film": {
+            "title": "Drive Angry",
+            "summary": "A vengeful father escapes from hell and chases after the men who killed his daughter and kidnapped his granddaughter.",
+            "trailer": "https://www.youtube.com/watch?v=FKeKCGbUctI",
+            "poster": "/static/assets/posters/drive-angry-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Curtis Gwinn",
+                "photo": "/static/assets/guests/curtis-gwinn.jpg",
+                "bio": "Curtis Gwinn is yet another UCB alum and member of Death by Roo Roo to have graced Earwolf. He has written for television shows as diverse as The Man Show and The Onion News Network, and executive produced shows like The Grid, Fat Guy Stuck in the Internet, and the upcoming NTSF:SD:SUV.",
+                "plugs": [
+                    {
+                        "title": "NTSF:SD:SUV",
+                        "URL": "https://www.amazon.com/dp/B009JW4LFK",
+                        "media": "/static/assets/plugs/ntsf.jpg"
+                    },
+                    {
+                        "title": "Stranger Things",
+                        "URL": "https://www.netflix.com/title/80057281",
+                        "media": "/static/assets/plugs/stranger-things.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "After our nap through The Last Airbender, we thought we'd take an adrenaline-fueled ride through hell with Drive Angry 3D. If you like your movies illogical, uninspiring, and full of weird sex, you've come to the right place. Curtis Gwinn joins Paul, June, and Jason to figure out why there are muscle cars in hell, how the casting process works, and what a 'God Gun' is.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131263",
+            "amazonURL": "https://www.amazon.com/Drive-Angry-Nicolas-Cage/dp/B004XJNPAQ",
+            "youtubeURL": "https://www.youtube.com/watch?v=TpW_glTW7u8",
+            "itunesURL": "https://itunes.apple.com/us/movie/drive-angry/id425853073"
+        }
+    }]
+}

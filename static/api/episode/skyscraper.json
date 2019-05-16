@@ -1,0 +1,63 @@
+{
+    "results": [{
+        "film": {
+            "title": "Skyscraper",
+            "summary": "A security expert must infiltrate a burning skyscraper, 225 stories above ground, when his family is trapped inside by criminals.",
+            "trailer": "https://www.youtube.com/watch?v=t9QePUT-Yt8",
+            "poster": "/static/assets/posters/skyscraper-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Rhea Butcher",
+                "photo": "/static/assets/guests/rhea-butcher.jpg",
+                "bio": "Rhea Butcher is a stand up comedian from Akron, Ohio. She has opened for the likes of Maria Bamford and Bobcat Goldthwait. After moving to LA in fall 2012, Rhea quickly got to work in her new city and recently produced and hosted the first of a series of sold out Qweirdo shows at UCB LA. Rhea has performed at all the LA “alt” rooms; The Meltdown, UCB, Comedy Palace, Holy F*ck and more!",
+                "plugs": [
+                    {
+                        "title": "2 Dope Queens",
+                        "URL": "https://www.amazon.com/gp/video/detail/B078HZQMW3",
+                        "media": "/static/assets/plugs/two-dope-queens.jpg"
+                    },
+                    {
+                        "title": "Take My Wife",
+                        "URL": "https://www.amazon.com/Set-up/dp/B01IU9LWN6",
+                        "media": "/static/assets/plugs/take-my-wife.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Paul F. Tompkins",
+                "photo": "/static/assets/guests/paul-f-tompkins.jpg",
+                "bio": "Paul F. Tompkins is a comedian and actor. He plays the role of “Dean Rosedragon” on Seeso’s Bajillion Dollar Propertie$ and provides the voice of “Mr. Peanutbutter” for the Netflix animated series Bojack Horseman.",
+                "plugs": [
+                    {
+                        "title": "Pod F. Tomcast",
+                        "URL": "http://pft.libsyn.com",
+                        "media": "/static/assets/plugs/pod-f-tomcast.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    },
+                    {
+                        "title": "Tenacious D in The Pick of Destiny",
+                        "URL": "https://www.amazon.com/dp/B002OCA0AC",
+                        "media": "/static/assets/plugs/the-pick-of-destiny.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Paul F. Tompkins (Spontaneanation, BoJack Horseman) and Rhea Butcher (Three Swings, Put Your Hands Together) join Paul and Jason in-studio to discuss Dwayne “The Rock” Johnson in the 2018 action film Skyscraper. They talk about why it would be impossible for The Rock to make the jump from the crane to the burning building, the hall of digital mirrors room, and the duct tape budget.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/57148577",
+            "amazonURL": "https://www.amazon.com/Skyscraper-Dwayne-Rock-Johnson/dp/B07FD5T12N",
+            "youtubeURL": "https://www.youtube.com/watch?v=7Ecg0PyYg-A",
+            "itunesURL": "https://itunes.apple.com/us/movie/skyscraper/id1405620210"
+        }       
+    }]
+}

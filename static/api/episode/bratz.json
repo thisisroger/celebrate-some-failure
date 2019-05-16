@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Bratz",
+            "summary": "During their first year of high school, four best girlfriends face off against the domineering student body President, who wants to split them up into different social cliques.",
+            "trailer": "https://www.youtube.com/watch?v=5neffSN1XPs",
+            "poster": "/static/assets/posters/bratz-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Kate Berlant",
+                "photo": "/static/assets/guests/kate-berlant.jpg",
+                "bio": "Kate Berlant is an explosive stand-up comedian with a force that cannot be contained.",
+                "plugs": [
+                    {
+                        "title": "Animals",
+                        "URL": "https://www.amazon.com/Episode-One-Rats/dp/B01MSIJB5T",
+                        "media": "/static/assets/plugs/animals.jpg"
+                    },
+                    {
+                        "title": "Sorry to Bother You",
+                        "URL": "https://www.amazon.com/dp/B07FN8STFS",
+                        "media": "/static/assets/plugs/sorry-to-bother-you.jpg"
+                    },
+                    {
+                        "title": "High Maintenance",
+                        "URL": "https://www.amazon.com/Meth-od/dp/B01MFHDHMH",
+                        "media": "/static/assets/plugs/high-maintenance.jpg"
+                    },
+                    {
+                        "title": "Little Bitches",
+                        "URL": "https://www.amazon.com/Little-Bitches-Jennette-McCurdy/dp/B0792CMVP1",
+                        "media": "/static/assets/plugs/little-bitches.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Comedian Kate Berlant (555, The Comedians) joins Paul, June, and Jason to talk about the 2007 live-action teen comedy Bratz based on the popular childrens toy. Theyll dive into the futuristic fashion of the Bratz, the deaf boy, Jon Voights fake nose and ears, and so much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/51314444",
+            "amazonURL": "https://www.amazon.com/Bratz-Movie-Logan-Browning/dp/B008Y7GJOC",
+            "youtubeURL": "https://www.youtube.com/watch?v=2Uxx6fiHYE4",
+            "itunesURL": "https://itunes.apple.com/us/movie/id272778634"
+        }       
+    }]
+}

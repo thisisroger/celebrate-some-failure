@@ -1,0 +1,73 @@
+{
+    "results": [{
+        "film": {
+            "title": "Sky Captain and the World of Tomorrow",
+            "summary": "After New York City receives a series of attacks from giant flying robots, a reporter teams up with a pilot in search of their origin, as well as the reason for the disappearances of famous scientists around the world.",
+            "trailer": "https://www.youtube.com/watch?v=cY3ypQD6p2s",
+            "poster": "/static/assets/posters/sky-captain-and-the-world-of-tomorrow-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Tawny Newsome",
+                "photo": "/static/assets/guests/tawny-newsome.jpg",
+                "bio": "Tawny Newsome is an improviser and a musician who you might know from Bajillion Dollar Propertie$, or maybe from The Comedy Get Down on BET or perhaps TVLand’s Nobodies? Or maybe you know her from one zillion podcasts like Comedy Bang Bang, Spontaneanation or Hollywood Handbook, or as the co-host of Yo, is This Racist? The point is: I don’t know where you know her from, dawg. She’s also in a band called Four Lost Souls, and, this is exciting for you because now you can say you know at least one black person in the alt-country scene. They recorded their 2016 album in Muscle Shoals, AL and she once called Robert Plant “Dad” to his face on Fathers’ Day. He didn’t love it.",
+                "plugs": [
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    },
+                    {
+                        "title": "Do You Want to See a Dead Body?",
+                        "URL": "https://www.youtube.com/channel/UCFGGYi2aZoXzdeOeeNAD1sw",
+                        "media": "/static/assets/plugs/do-you-want-to-see-a-dead-body.jpg"
+                    },
+                    {
+                        "title": "Documentary Now!",
+                        "URL": "https://www.amazon.com/gp/video/detail/B013B3JLE8",
+                        "media": "/static/assets/plugs/documentary-now.jpg"
+                    },
+                    {
+                        "title": "Brockmire",
+                        "URL": "https://www.amazon.com/gp/video/detail/B06XRMJVZF",
+                        "media": "/static/assets/plugs/brockmire.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Joe Mande",
+                "photo": "/static/assets/guests/joe-mande.jpg",
+                "bio": "Joe Mande is so funny that his work speaks for itself. Is that a lazy excuse for a bio? Fine, I’ll make it better! Gimme a second! I’m really busy!",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Joe Mande's Award-Winning Comedy Special",
+                        "URL": "https://www.netflix.com/title/80185321",
+                        "media": "/static/assets/plugs/joe-mande-comedy-special.jpg"
+                    },
+                    {
+                        "title": "Master of None",
+                        "URL": "https://www.netflix.com/title/80049714",
+                        "media": "/static/assets/plugs/master-of-none.jpg"
+                    },
+                    {
+                        "title": "The Good Place",
+                        "URL": "https://www.amazon.com/Everything-Is-Fine/dp/B01L3GQG7K",
+                        "media": "/static/assets/plugs/the-good-place.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Comedians Joe Mande (The Good Place) and Tawny Newsome (Yo, Is This Racist, Bajillion Dollar Propertie$) joins Paul and Jason to discuss the 2004 science fiction action adventure film Sky Captain and the World of Tomorrow. Recored live from Largo at the Coronet in Los Angeles, they talk about the awful blue screen effects, Gwyneth Paltrow getting punched, bird planes, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/54623401",
+            "amazonURL": "https://www.amazon.com/Captain-World-Tomorrow-Gwyneth-Paltrow/dp/B007Y612KA",
+            "youtubeURL": "https://www.youtube.com/watch?v=GgyVUDFL1Uk",
+            "itunesURL": "https://itunes.apple.com/us/movie/id208716130"
+        }       
+    }]
+}

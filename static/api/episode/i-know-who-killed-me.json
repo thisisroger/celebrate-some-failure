@@ -1,0 +1,71 @@
+{
+    "results": [{
+        "film": {
+            "title": "I Know Who Killed Me",
+            "summary": "A young woman who was missing reappears, but she claims to be someone else entirely.",
+            "trailer": "https://www.youtube.com/watch?v=nZgwl7nlP5E",
+            "poster": "/static/assets/posters/i-know-who-killed-me-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Ken Marino",
+                "photo": "/static/assets/guests/ken-marino.jpg",
+                "bio": "Ken Marino is an original member of The State, Ron Donald from Party Down, Dr. Glenn Richie from Childrens Hospital, Jim Stansel from Role Models, and… do I really have to list all his credits? He’s been in just about everything that’s hip and cool and funny. The Ten, Reno 911, The Sarah Silverman Program, Ken’s been on all of them! He even made his own movie starring Paul Rudd called Diggers. To quote his most beloved character Louie: “I wanna dip my balls in it!”",
+                "plugs": [
+                    {
+                        "title": "Party Down",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0040J4LH0",
+                        "media": "/static/assets/plugs/party-down.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Reno 911!",
+                        "URL": "https://www.amazon.com/s?k=reno+911&i=instant-video",
+                        "media": "/static/assets/plugs/reno-911.jpg"
+                    },
+                    {
+                        "title": "Burning Love",
+                        "URL": "https://www.amazon.com/dp/B00E3P3SPC",
+                        "media": "/static/assets/plugs/burning-love.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    },
+                    {
+                        "title": "Marry Me",
+                        "URL": "https://www.amazon.com/dp/B00OBTFUPQ",
+                        "media": "/static/assets/plugs/marry-me.jpg"
+                    },
+                    {
+                        "title": "Wet Hot American Summer",
+                        "URL": "https://www.amazon.com/dp/B005EYLFOW",
+                        "media": "/static/assets/plugs/wet-hot-american-summer.jpg"
+                    },
+                    {
+                        "title": "East Bound and Down",
+                        "URL": "https://www.amazon.com/dp/B003OURXEO",
+                        "media": "/static/assets/plugs/east-bound-and-down.jpg"
+                    },
+                    {
+                        "title": "Reaper",
+                        "URL": "https://www.amazon.com/Pilot/dp/B003YDWQUW",
+                        "media": "/static/assets/plugs/reaper.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Is Aubrey a piano prodigy or a stripper? Is it all real or a piece of creative writing? Is this the worst movie Lindsay Lohan has ever been in or flat out the worst movie ever? These are just a few of the questions I Know Who Killed Me left us with. Ken Marino is our victim this week and he helps Paul, June, and Jason piece together the plot, characters, and ridiculous symbols that make this horror thriller such a bomb.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/53859281",
+            "amazonURL": "https://www.amazon.com/gp/product/B001024T86",
+            "youtubeURL": "https://www.youtube.com/watch?v=uWeM6k__Dks",
+            "itunesURL": "https://itunes.apple.com/us/movie/i-know-who-killed-me/id273078530"
+        }
+    }]
+}

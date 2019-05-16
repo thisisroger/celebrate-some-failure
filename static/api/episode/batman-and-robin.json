@@ -1,0 +1,57 @@
+{
+    "results": [{
+        "film": {
+            "title": "Batman & Robin",
+            "summary": "Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City.",
+            "trailer": "https://www.youtube.com/watch?v=4RBXypX4qWI",
+            "poster": "/static/assets/posters/batman-and-robin-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Matt Mira",
+                "photo": "/static/assets/guests/matt-mira.jpg",
+                "bio": "Matt Mira is a writer, comedian and podcaster. Matt started podcasting way back in 2008 and has continued despite America’s wishes. He hosts podcasts with Matt Gourley, Kevin Smith, Scott Mosier, Chris Hardwick, Andy Secunda and even his own wife. Currently Matt is a writer on ABC’s The Goldberg’s and a lover of James Bond.",
+                "plugs": [
+                    {
+                        "title": "ID10T",
+                        "URL": "https://itunes.apple.com/us/podcast/id355187485?mt=2",
+                        "media": "/static/assets/plugs/id10t.jpg"
+                    },
+                    {
+                        "title": "James Bonding",
+                        "URL": "https://itunes.apple.com/us/podcast/james-bonding/id695880236",
+                        "media": "/static/assets/plugs/james-bonding.jpg"
+                    },
+                    {
+                        "title": "The Goldbergs",
+                        "URL": "https://www.amazon.com/The-Circle-of-Driving/dp/B00F2PH3F8",
+                        "media": "/static/assets/plugs/the-goldbergs.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Jesse Falcon",
+                "photo": "/static/assets/guests/jesse-falcon.jpg",
+                "bio": "Jesse Falcon is an American improv and sketch comedy performer based in New York. He began his theatrical training at Albion College and has been a featured performer in numerous shows at the Upright Citizens Brigade Theatre since 1998 — most notably Switchblade Pussycats, Girl Crush 2040, and Telethon. Jesse has done sound-alike voiceovers of Dave Grohl and Carson Daly on MTV’s Celebrity Deathmatch. He is also Marvel’s Director of Merchandising.",
+                "plugs": [
+                    {
+                        "title": "Kroll Show",
+                        "URL": "https://www.amazon.com/dp/B00AVXZ5O2",
+                        "media": "/static/assets/plugs/kroll-show.jpg"
+                    },
+                    {
+                        "title": "Children's Hospital",
+                        "URL": "https://www.amazon.com/dp/B003VSA8VO",
+                        "media": "/static/assets/plugs/childrens-hospital.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Superhero butt shots, bat nipples, and freeze puns are all up for discussion on this week's How Did This Get Made? The Nerdist podcast's Matt Mira and Marvel's Jesse Falcon join us to chat about a movie that easily can be seen as a really long action figure commercial, Batman & Robin! So Stay cool and be sure to winterize your podcast ears!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/48131193",
+            "amazonURL": "https://www.amazon.com/Batman-Robin-Arnold-Schwarzenegger/dp/B001XV75MG",
+            "itunesURL": "https://itunes.apple.com/us/movie/batman-robin/id577790444"
+        }
+    }]
+}

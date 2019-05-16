@@ -1,0 +1,36 @@
+{
+    "results": [{
+        "film": {
+            "title": "Daredevil",
+            "summary": "A man blinded by toxic waste which also enhanced his remaining senses fights crime as an acrobatic martial arts superhero.",
+            "trailer": "https://www.youtube.com/watch?v=LmP3YFk_YHA",
+            "poster": "/static/assets/posters/daredevil-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Ed Brubaker",
+                "photo": "/static/assets/guests/ed-brubaker.jpg",
+                "bio": "Ed Brubaker is an American comic book writer and cartoonist. Brubaker’s first early comics work was primarily in the crime fiction genre with works such as Lowlife, The Fall, Sandman Presents: Dead Boy Detectives and Scene of the Crime. He later became known for writing superhero comics such as Batman, Daredevil, Captain America, Catwoman, Uncanny X-Men, and The Authority. He has won an Eisner Award on four separate occasions.",
+                "plugs": [
+                    {
+                        "title": "Captain America: The Winter Soldier",
+                        "URL": "https://www.amazon.com/Captain-America-Winter-Soldier-Theatrical/dp/B00NFQT7QY",
+                        "media": "/static/assets/plugs/captain-america-winter-soldier.jpg"
+                    },
+                    {
+                        "title": "Westworld",
+                        "URL": "https://www.amazon.com/The-Original/dp/B01N05UD06",
+                        "media": "/static/assets/plugs/westworld.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Writer and Daredevil expert Ed Brubaker join Paul, June, and Jason to break down Ben Affleck's blind performance in both the theatrical version and director's cut of Daredevil. They'll cover everything from the sitcom looking streets, Bullseye treating his forehead like a nipple, the playground fight/dance scene, and the huge subplot involving a drug addict played by Coolio which was cut from the theatrical version. Spoiler: June loved it!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/30194699",
+            "amazonURL": "https://www.amazon.com/gp/product/B001GJ1BBQ",
+            "youtubeURL": "https://www.youtube.com/watch?v=FdLFp-ocwaQ",
+            "itunesURL": "https://itunes.apple.com/us/movie/id289455267"
+        }
+    }]
+}

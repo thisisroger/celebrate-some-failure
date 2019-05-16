@@ -1,0 +1,41 @@
+{
+    "results": [{
+        "film": {
+            "title": "Judge Dredd",
+            "summary": "In a dystopian future, Joseph Dredd, the most famous Judge (a police officer with instant field judiciary powers), is convicted for a crime he did not commit and must face his murderous counterpart.",
+            "trailer": "https://www.youtube.com/watch?v=4NCtpXG6Az4",
+            "poster": "/static/assets/posters/judge-dredd-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Erica Oyama",
+                "photo": "/static/assets/guests/erica-oyama.jpg",
+                "bio": "Erica Oyama is a comedy writer who is not so secretly obsessed with reality television. Her love of reality dating shows inspired her to write and produce the web series, BURNING LOVE, on Yahoo Screen. Erica has written for the Adult Swim comedy series, CHILDRENS HOSPITAL, for the past three seasons as well as the hit web series, WAINY DAYS. She is the proud mother of two, and hopes to shield her children from her work for as long as possible. At least until they are in their late twenties.",
+                "plugs": [
+                    {
+                        "title": "Burning Love",
+                        "URL": "https://www.amazon.com/dp/B00E3P3SPC",
+                        "media": "/static/assets/plugs/burning-love.jpg"
+                    },
+                    {
+                        "title": "Wanderlust",
+                        "URL": "https://www.amazon.com/Wanderlust-Paul-Rudd/dp/B008CP92ZO",
+                        "media": "/static/assets/plugs/wanderlust.jpg"
+                    },
+                    {
+                        "title": "Fresh off the Boat",
+                        "URL": "https://www.amazon.com/Pilot/dp/B00T7AP27U",
+                        "media": "/static/assets/plugs/fresh-off-the-boat.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Pick up a plate of recycled spaghetti and join Erica Oyama and the How Did This Get Made? crew for a look at Judge Dredd. Block wars. That about covers it. Join us on this trip to Aspen with Rob Schneider and enjoy the horrible sets and futuristic insanity.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made/e/55884903",
+            "amazonURL": "https://www.amazon.com/gp/product/B004IDG97S",
+            "youtubeURL": "https://www.youtube.com/watch?v=7GV_7q8EFmg",
+            "itunesURL": "https://itunes.apple.com/us/movie/id444656214"
+        }
+    }]
+}

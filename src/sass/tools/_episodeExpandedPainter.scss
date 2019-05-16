@@ -1,0 +1,1070 @@
+@mixin episodeExpandedPainter($primaryColor, $secondaryColor) {
+    .plyr__control--overlaid {
+        background: $secondaryColor;
+    }
+
+    .plyr--video .plyr__control.plyr__tab-focus,
+    .plyr--video .plyr__control:hover,
+    .plyr--video .plyr__control[aria-expanded=true],
+    .subscribe__button {
+        background: $primaryColor;
+    }
+
+    .film__link {
+        color: $secondaryColor;
+    }
+
+    .subscribe__content a:hover {
+        color: $primaryColor;
+    }
+
+    .episode__content__film:first-letter,
+    .plyr--full-ui input[type=range] {
+        color: $secondaryColor;
+    }
+}
+
+// BURLESQUE
+.episode__expanded.burlesque {
+    @include episodeExpandedPainter($burlesquePink,$burlesqueBlack);
+}
+
+// SEASON OF THE WITCH
+.episode__expanded.season-of-the-witch {
+    @include episodeExpandedPainter($seasonOfTheWitchOrange, $seasonOfTheWitchBrown);
+}
+
+// OLD DOGS
+.episode__expanded.old-dogs {
+    @include episodeExpandedPainter($oldDogsTan, $oldDogsBrown);
+}
+
+// THE LAST AIRBENDER
+.episode__expanded.the-last-airbender {
+    @include episodeExpandedPainter($theLastAirbenderBlue, $theLastAirbenderBlack);
+}
+
+// DRIVE ANGRY
+.episode__expanded.drive-angry {
+    @include episodeExpandedPainter($driveAngryOrange, $driveAngryYellow);
+}
+
+// BATTLEFIELD EARTH
+.episode__expanded.battlefield-earth {
+    @include episodeExpandedPainter($battleFieldEarthGreen, $battleFieldEarthBlue);
+}
+
+// ALL ABOUT STEVE
+.episode__expanded.all-about-steve {
+    @include episodeExpandedPainter($allAboutSteveYellow, $allAboutSteveRed);
+}
+
+// SUCKER PUNCH
+.episode__expanded.sucker-punch {
+    @include episodeExpandedPainter($suckerPunchGreen, $suckerPunchBlack);
+}
+
+// FAST FIVE
+.episode__expanded.fast-five {
+    @include episodeExpandedPainter($fastFiveBlue, $fastFiveSilver);
+}
+
+// MAC AND ME
+.episode__expanded.mac-and-me {
+    @include episodeExpandedPainter($macAndMeOrange, $macAndMePurple);
+}
+
+// THE TOURIST
+.episode__expanded.the-tourist {
+    @include episodeExpandedPainter($theTouristBlue, $theTouristRed);
+}
+
+// THE LOVE GURU
+.episode__expanded.the-love-guru {
+    @include episodeExpandedPainter($theLoveGuruBlue, $theLoveGuruYellow);
+}
+
+// CRANK HIGH VOLTAGE
+.episode__expanded.crank-high-voltage {
+    @include episodeExpandedPainter($crankHighVoltageRed, $crankHighVoltageGrey);
+}
+
+// GREEN LANTERN
+.episode__expanded.green-lantern {
+    @include episodeExpandedPainter($greenLanternGreen, $greenLanternBlack);
+}
+
+// THE BACK UP PLAN
+.episode__expanded.the-back-up-plan {
+    @include episodeExpandedPainter($theBackUpPlanPink, $theBackUpPlanBlack);
+}
+
+// THE SMURFS
+.episode__expanded.the-smurfs {
+    @include episodeExpandedPainter($theSmurfsBlue, $theSmurfsGrey);
+}
+
+// SKYLINE
+.episode__expanded.skyline {
+    @include episodeExpandedPainter($skylineBlue, $skylineGrey);
+}
+
+// GIGLI
+.episode__expanded.gigli {
+    @include episodeExpandedPainter($gigliRed, $gigliBlack);
+}
+
+// THE WICKER MAN
+.episode__expanded.the-wicker-man {
+    @include episodeExpandedPainter($theWickerManOrange, $theWickerManRed);
+}
+
+// PUNISHER WAR ZONE
+.episode__expanded.punisher-war-zone {
+    @include episodeExpandedPainter($punisherWarZoneRed, $punisherWarZoneGrey);
+}
+
+// I KNOW WHO KILLED ME
+.episode__expanded.i-know-who-killed-me {
+    @include episodeExpandedPainter($iKnowWhoKilledMeRed, $iKnowWhoKilledMePurple);
+}
+
+// LEPRECHAUN IN THE HOOD
+.episode__expanded.leprechaun-in-the-hood {
+    @include episodeExpandedPainter($leprechaunInTheHoodGreen, $leprechaunInTheHoodBlack);
+}
+
+// THE ROOM
+.episode__expanded.the-room {
+    @include episodeExpandedPainter($theRoomRed, $theRoomGreen);
+}
+
+// SUPERMAN III
+.episode__expanded.superman-iii {
+    @include episodeExpandedPainter($superman3Blue, $superman3Red);
+}
+
+// CATWOMAN
+.episode__expanded.catwoman {
+    @include episodeExpandedPainter($catwomanYellow, $catwomanGreen);
+}
+
+// JINGLE ALL THE WAY
+.episode__expanded.jingle-all-the-way {
+    @include episodeExpandedPainter($jingleAllTheWayRed, $jingleAllTheWayGreen);
+}
+
+// TWIGHLIGHT BREAKING DAWN PART 1
+.episode__expanded.twighlight-breaking-dawn-part-one {
+    @include episodeExpandedPainter($twighlightBreakingDawnPart1Brown, $twighlightBreakingDawnPart1Red);
+}
+
+// CRANK
+.episode__expanded.crank {
+    @include episodeExpandedPainter($crankOrange, $crankBrown);
+}
+
+// TRESPASS
+.episode__expanded.trespass {
+    @include episodeExpandedPainter($trespassTan, $trespassBlack);
+}
+
+// COOL AS ICE
+.episode__expanded.cool-as-ice {
+    @include episodeExpandedPainter($coolAsIcePink, $coolAsIcePurple);
+}
+
+// BIRDEMIC
+.episode__expanded.birdemic-shock-and-terror {
+    @include episodeExpandedPainter($birdemicBlue, $birdemicGrey);
+}
+
+// 88 MINUTES
+.episode__expanded.eighty-eight-minutes {
+    @include episodeExpandedPainter($eightyEightMinutesDarkRed, $eightyEightMinutesRed);
+}
+
+// ABDUCTION
+.episode__expanded.abduction {
+    @include episodeExpandedPainter($abductionGrey, $abductionBlue);
+}
+
+// THE ADVENTURES OF PLUTO NASH
+.episode__expanded.the-adventures-of-pluto-nash {
+    @include episodeExpandedPainter($theAdventuresOfPlutoNashGreen, $theAdventuresOfPlutoNashBlue);
+}
+
+// TIPTOES
+.episode__expanded.tiptoes {
+    @include episodeExpandedPainter($tiptoesYellow, $tiptoesGreen);
+}
+
+// ON THE LINE
+.episode__expanded.on-the-line {
+    @include episodeExpandedPainter($onTheLineYellow, $onTheLineOrange);
+}
+
+// SPEED 2 CRUISE CONTROL
+.episode__expanded.speed-two-cruise-control {
+    @include episodeExpandedPainter($speed2CruiseControlBlue, $speed2CruiseControlRed);
+}
+
+// BAD ASS
+.episode__expanded.bad-ass {
+    @include episodeExpandedPainter($badAssYellow, $badAssRed);
+}
+
+// GODZILLA
+.episode__expanded.godzilla {
+    @include episodeExpandedPainter($godzillaBlue, $godzillaGreen);
+}
+
+// JUDGE DREDD
+.episode__expanded.judge-dredd {
+    @include episodeExpandedPainter($judgeDreddOrange, $judgeDreddRed);
+}
+
+// SPIDER MAN 3
+.episode__expanded.spider-man-three {
+    @include episodeExpandedPainter($spiderMan3Red, $spiderMan3Blue);
+}
+
+// BATMAN AND ROBIN
+.episode__expanded.batman-and-robin {
+    @include episodeExpandedPainter($batmanAndRobinBlue, $batmanAndRobinPurple);
+}
+
+// WILD WILD WEST
+.episode__expanded.wild-wild-west {
+    @include episodeExpandedPainter($wildWildWestBrown, $wildWildWestOrange);
+}
+
+// JAWS 4
+.episode__expanded.jaws-four-the-revenge {
+    @include episodeExpandedPainter($jaws4Blue, $jaws4Red);
+}
+
+// ROAD HOUSE
+.episode__expanded.road-house {
+    @include episodeExpandedPainter($roadHouseRed, $roadHouseBlue);
+}
+
+// BARB WIRE
+.episode__expanded.barb-wire {
+    @include episodeExpandedPainter($barbWireRed, $barbWireBlack);
+}
+
+// SUPER MARIO BROS
+.episode__expanded.super-mario-bros {
+    @include episodeExpandedPainter($superMarioBrosRed, $superMarioBrosGreen);
+}
+
+// SLEEPAWAY CAMP
+.episode__expanded.sleepaway-camp {
+    @include episodeExpandedPainter($sleepawayCampPink, $sleepawayCampBlue);
+}
+
+// COBRA
+.episode__expanded.cobra {
+    @include episodeExpandedPainter($cobraRed, $cobraBlack);
+}
+
+// TWIGHLIGHT BREAKING DAWN PART 2
+.episode__expanded.twighlight-breaking-dawn-part-two {
+    @include episodeExpandedPainter($twighlightBreakingDawnPart2Yellow, $twighlightBreakingDawnPart2Black);
+}
+
+// LIZ AND DICK
+.episode__expanded.liz-and-dick {
+    @include episodeExpandedPainter($lizAndDickRed, $lizAndDickGrey);
+}
+
+// REINDEER GAMES
+.episode__expanded.reindeer-games {
+    @include episodeExpandedPainter($reindeerGamesOrange, $reindeerGamesBlack);
+}
+
+// ANACONDA
+.episode__expanded.anaconda {
+    @include episodeExpandedPainter($anacondaRed, $anacondaGreen);
+}
+
+// THE ODD LIFE OF TIMOTHY GREEN
+.episode__expanded.the-odd-life-of-timothy-green {
+    @include episodeExpandedPainter($theOddLifeOfTimothyGreenGreen, $theOddLifeOfTimothyGreenDarkGreen);
+}
+
+// THE DEVILS ADVOCATE
+.episode__expanded.the-devils-advocate {
+    @include episodeExpandedPainter($theDevilsAdvocateRed, $theDevilsAdvocateBlack);
+}
+
+// NOTHING BUT TROUBLE
+.episode__expanded.nothing-but-trouble {
+    @include episodeExpandedPainter($nothingButTroubleOrange, $nothingButTroublePurple);
+}
+
+// FROM JUSTIN TO KELLY
+.episode__expanded.from-justin-to-kelly {
+    @include episodeExpandedPainter($fromJustinToKellyRed, $fromJustinToKellyBlue);
+}
+
+// IN THE NAME OF THE KING
+.episode__expanded.in-the-name-of-the-king {
+    @include episodeExpandedPainter($inTheNameOfTheKingBlue, $inTheNameOfTheKingGrey);
+}
+
+// SPICE WORLD
+.episode__expanded.spice-world {
+    @include episodeExpandedPainter($spiceWorldYellow, $spiceWorldBlue);
+}
+
+// STREET FIGHTER
+.episode__expanded.street-fighter {
+    @include episodeExpandedPainter($streetFighterBlue, $streetFighterRed);
+}
+
+// STOP OR MY MOM WILL SHOOT
+.episode__expanded.stop-or-my-mom-will-shoot {
+    @include episodeExpandedPainter($stopOrMyMomWillShootYellow, $stopOrMyMomWillShootPurple);
+}
+
+// JOYFUL NOISE
+.episode__expanded.joyful-noise {
+    @include episodeExpandedPainter($joyfulNoisePurple, $joyfulNoiseGrey);
+}
+
+// FAST AND FURIOUS 6
+.episode__expanded.fast-and-furious-six {
+    @include episodeExpandedPainter($fastAndFurious6Blue, $fastAndFurious6Black);
+}
+
+// AFTER EARTH
+.episode__expanded.after-earth {
+    @include episodeExpandedPainter($afterEarthBlue, $afterEarthRed);
+}
+
+// HOWARD THE DUCK
+.episode__expanded.howard-the-duck {
+    @include episodeExpandedPainter($howardTheDuckYellow, $howardTheDuckOrange);
+}
+
+// DEMOLITION MAN
+.episode__expanded.demolition-man {
+    @include episodeExpandedPainter($demolitionManGrey, $demolitionManPurple);
+}
+
+// SHARKNADO
+.episode__expanded.sharknado {
+    @include episodeExpandedPainter($sharknadoOrange, $sharknadoRed);
+}
+
+// OVER THE TOP
+.episode__expanded.over-the-top {
+    @include episodeExpandedPainter($overTheTopYellow, $overTheTopRed);
+}
+
+// CROCODILE DUNDEE IN LOS ANGELES
+.episode__expanded.crocodile-dundee-in-los-angeles {
+    @include episodeExpandedPainter($crocodileDundeeInLosAngelesPink, $crocodileDundeeInLosAngelesPurple);
+}
+
+// GYMKATA
+.episode__expanded.gymkata {
+    @include episodeExpandedPainter($gymkataPeach, $gymkataRed);
+}
+
+// THE GLIMMER MAN
+.episode__expanded.the-glimmer-man {
+    @include episodeExpandedPainter($theGlimmerManBlue, $theGlimmerManBlack);
+}
+
+// TOYS
+.episode__expanded.toys {
+    @include episodeExpandedPainter($toysBlue, $toysRed);
+}
+
+// CONGO
+.episode__expanded.congo {
+    @include episodeExpandedPainter($congoYellow, $congoGreen);
+}
+
+// HALLOWEEN 3
+.episode__expanded.halloween-iii-season-of-the-witch {
+    @include episodeExpandedPainter($halloween3Orange, $halloween3Red);
+}
+
+// DAREDEVIL
+.episode__expanded.daredevil {
+    @include episodeExpandedPainter($daredevilRed, $daredevilBlack);
+}
+
+// FAIR GAME
+.episode__expanded.fair-game {
+    @include episodeExpandedPainter($fairGameRed, $fairGameBlack);
+}
+
+// HUDSON HAWK
+.episode__expanded.hudson-hawk {
+    @include episodeExpandedPainter($hudsonHawkBlue, $hudsonHawkRed);
+}
+
+// CROSSROADS
+.episode__expanded.crossroads {
+    @include episodeExpandedPainter($crossroadsYellow, $crossroadsBlue);
+}
+
+// DECK THE HALLS
+.episode__expanded.deck-the-halls {
+    @include episodeExpandedPainter($deckTheHallsRed, $deckTheHallsBlue);
+}
+
+// JACK FROST
+.episode__expanded.jack-frost {
+    @include episodeExpandedPainter($jackFrostRed, $jackFrostBlue);
+}
+
+// MORTAL KOMBAT
+.episode__expanded.mortal-kombat {
+    @include episodeExpandedPainter($mortalKombatRed, $mortalKombatBrown);
+}
+
+// DOUBLE TEAM
+.episode__expanded.double-team {
+    @include episodeExpandedPainter($doubleTeamYellow, $doubleTeamBlue);
+}
+
+// WINTERS TALE
+.episode__expanded.winters-tale {
+    @include episodeExpandedPainter($wintersTaleBlue, $wintersTaleBlack);
+}
+
+// NO HOLDS BARRED
+.episode__expanded.no-holds-barred {
+    @include episodeExpandedPainter($noHoldsBarredBlue, $noHoldsBarredDarkBlue);
+}
+
+// COLOR OF NIGHT
+.episode__expanded.color-of-night {
+    @include episodeExpandedPainter($colorOfNightOrange, $colorOfNightRed);
+}
+
+// ERNEST GOES TO JAIL
+.episode__expanded.ernest-goes-to-jail {
+    @include episodeExpandedPainter($ernestGoesToJailYellow, $ernestGoesToJailRed);
+}
+
+// EASY RIDER THE RIDE BACK
+.episode__expanded.easy-rider-the-ride-back {
+    @include episodeExpandedPainter($easyRiderTheRideBackYellow, $easyRiderTheRideBackRed);
+}
+
+// MR NANNY
+.episode__expanded.mr-nanny {
+    @include episodeExpandedPainter($mrNannyPink, $mrNannyBlue);
+}
+
+// GOOBY
+.episode__expanded.gooby {
+    @include episodeExpandedPainter($goobyOrange, $goobyYellow);
+}
+
+// SHARKNADO 2
+.episode__expanded.sharknado-two-the-second-one {
+    @include episodeExpandedPainter($sharknado2Blue, $sharknado2Red);
+}
+
+// STAYING ALIVE
+.episode__expanded.staying-alive {
+    @include episodeExpandedPainter($stayingAliveYellow, $stayingAliveOrange);
+}
+
+// GLITTER
+.episode__expanded.glitter {
+    @include episodeExpandedPainter($glitterPink, $glitterPurple);
+}
+
+// TEMPTATION
+.episode__expanded.temptation-confessions-of-a-marriage-counselor {
+    @include episodeExpandedPainter($temptationRed, $temptationBlack);
+}
+
+// MONKEY SHINES
+.episode__expanded.monkey-shines {
+    @include episodeExpandedPainter($monkeyShinesOrange, $monkeyShinesRed);
+}
+
+// RHINESTONE
+.episode__expanded.rhinestone {
+    @include episodeExpandedPainter($rhinestoneYellow, $rhinestoneRed);
+}
+
+// LOL
+.episode__expanded.lol {
+    @include episodeExpandedPainter($lolPink, $lolBlack);
+}
+
+// A VIEW TO A KILL
+.episode__expanded.a-view-to-a-kill {
+    @include episodeExpandedPainter($aViewToAKillRed, $aViewToAKillBlue);
+}
+
+// JUNIOR
+.episode__expanded.junior {
+    @include episodeExpandedPainter($juniorYellow, $juniorOrange);
+}
+
+// XANADU
+.episode__expanded.xanadu {
+    @include episodeExpandedPainter($xanaduOrange, $xanaduPurple);
+}
+
+// TANGO AND CASH
+.episode__expanded.tango-and-cash {
+    @include episodeExpandedPainter($tangoAndCashRed, $tangoAndCashBlack);
+}
+
+// ZARDOZ
+.episode__expanded.zardoz {
+    @include episodeExpandedPainter($zardozBlue, $zardozGreen);
+}
+
+// SAFE HAVEN
+.episode__expanded.safe-haven {
+    @include episodeExpandedPainter($safeHavenBlue, $safeHavenTan);
+}
+
+// DEEP BLUE SEA
+.episode__expanded.deep-blue-sea {
+    @include episodeExpandedPainter($deepBlueSeaGrey, $deepBlueSeaBlue);
+}
+
+// LAKE PLACID
+.episode__expanded.lake-placid {
+    @include episodeExpandedPainter($lakePlacidBlue, $lakePlacidRed);
+}
+
+// CON AIR
+.episode__expanded.con-air {
+    @include episodeExpandedPainter($conAirOrange, $conAirRed);
+}
+
+// FACE OFF
+.episode__expanded.face-off {
+    @include episodeExpandedPainter($faceOffBlue, $faceOffBlack);
+}
+
+// THE ISLAND OF DR MOREAU
+.episode__expanded.the-island-of-dr-moreau {
+    @include episodeExpandedPainter($theIslandOfDrMoreauGreen, $theIslandOfDrMoreauBlack);
+}
+
+// HERCULES IN NEW YORK
+.episode__expanded.hercules-in-new-york {
+    @include episodeExpandedPainter($herculesInNewYorkPeach, $herculesInNewYorkRed);
+}
+
+// JUPITER ACENDING
+.episode__expanded.jupiter-acending {
+    @include episodeExpandedPainter($jupiterAcendingOrange, $jupiterAcendingGreen);
+}
+
+// TMNT2
+.episode__expanded.tmnt-ii-the-secret-of-the-oooze {
+    @include episodeExpandedPainter($tmnt2Purple, $tmnt2Green);
+}
+
+// RUNAWAY
+.episode__expanded.runaway {
+    @include episodeExpandedPainter($runawayRed, $runawayGrey);
+}
+
+// SHARKNADO 3
+.episode__expanded.sharknado-three-oh-hell-no {
+    @include episodeExpandedPainter($sharknado3Red, $sharknado3Blue);
+}
+
+// TOP DOG
+.episode__expanded.top-dog {
+    @include episodeExpandedPainter($topDogBlue, $topDogRed);
+}
+
+// THEODORE REX
+.episode__expanded.theodore-rex {
+    @include episodeExpandedPainter($theodoreRexOrange, $theodoreRexPurple);
+}
+
+// FURIOUS 7
+.episode__expanded.furious-seven {
+    @include episodeExpandedPainter($furious7Grey, $furious7Black);
+}
+
+// MAXIMUM OVERDRIVE
+.episode__expanded.maximum-overdrive {
+    @include episodeExpandedPainter($maximumOverdriveRed, $maximumOverdrivePurple);
+}
+
+// MASTERS OF THE UNIVERSE
+.episode__expanded.masters-of-the-universe {
+    @include episodeExpandedPainter($mastersOfTheUniverseOrange, $mastersOfTheUniverseBlue);
+}
+
+// PERFECT
+.episode__expanded.perfect {
+    @include episodeExpandedPainter($perfectRed, $perfectBlue);
+}
+
+// DEATH SPA
+.episode__expanded.death-spa {
+    @include episodeExpandedPainter($deathSpaRed, $deathSpaOrange);
+}
+
+// LIFEFORCE
+.episode__expanded.lifeforce {
+    @include episodeExpandedPainter($lifeforceRed, $lifeforceBlue);
+}
+
+// HACKERS
+.episode__expanded.hackers {
+    @include episodeExpandedPainter($hackersPink, $hackersBlue);
+}
+
+// STEEL
+.episode__expanded.steel {
+    @include episodeExpandedPainter($steelOrange, $steelBlue);
+}
+
+// STAR WARS HOLIDAY SPECIAL
+.episode__expanded.star-wars-holiday-special {
+    @include episodeExpandedPainter($starWarsHolidaySpecialGrey, $starWarsHolidaySpecialBlack);
+}
+
+// KAZAAM
+.episode__expanded.kazaam {
+    @include episodeExpandedPainter($kazaamGreen, $kazaamPurple);
+}
+
+// STREETS OF FIRE
+.episode__expanded.streets-of-fire {
+    @include episodeExpandedPainter($streetsOfFireYellow, $streetsOfFireRed);
+}
+
+// THE APPLE
+.episode__expanded.the-apple {
+    @include episodeExpandedPainter($theAppleYellow, $theAppleRed);
+}
+
+// TEEN WITCH
+.episode__expanded.teen-witch {
+    @include episodeExpandedPainter($teenWitchOrange, $teenWitchGreen);
+}
+
+// THE COVENANT
+.episode__expanded.the-covenant {
+    @include episodeExpandedPainter($theCovenantBlue, $theCovenantBlack);
+}
+
+// BLOODSPORT
+.episode__expanded.bloodsport {
+    @include episodeExpandedPainter($bloodsportRed, $bloodsportBlack);
+}
+
+// THE QUEST
+.episode__expanded.the-quest {
+    @include episodeExpandedPainter($theQuestOrange, $theQuestRed);
+}
+
+// CANT STOP THE MUSIC
+.episode__expanded.cant-stop-the-music {
+    @include episodeExpandedPainter($cantStopTheMusicRed, $cantStopTheMusicBlue);
+}
+
+// SOLARBABIES
+.episode__expanded.solarbabies {
+    @include episodeExpandedPainter($solarbabiesPink, $solarbabiesPurple);
+}
+
+// HELL COMES TO FROGTOWN
+.episode__expanded.hell-comes-to-frogtown {
+    @include episodeExpandedPainter($hellComesToFrogtownOrange, $hellComesToFrogtownYellow);
+}
+
+// THE AVENGERS
+.episode__expanded.the-avengers {
+    @include episodeExpandedPainter($theAvengersOrange, $theAvengersBlue);
+}
+
+// THE BOY NEXT DOOR
+.episode__expanded.the-boy-next-door {
+    @include episodeExpandedPainter($theBoyNextDoorPink, $theBoyNextDoorBlue);
+}
+
+// SIMPLY IRRESISTIBLE
+.episode__expanded.simply-irresistible {
+    @include episodeExpandedPainter($simplyIrresistiblePink, $simplyIrresistiblePurple);
+}
+
+// MANNEQUIN TWO
+.episode__expanded.mannequin-two-on-the-move {
+    @include episodeExpandedPainter($mannequinTwoPink, $mannequinTwoBlue);
+}
+
+// THE SHADOW
+.episode__expanded.the-shadow {
+    @include episodeExpandedPainter($theShadowGreen, $theShadowBlue);
+}
+
+// THE PHANTOM
+.episode__expanded.the-phantom {
+    @include episodeExpandedPainter($thePhantomPink, $thePhantomBlack);
+}
+
+// GODS OF EGYPT
+.episode__expanded.gods-of-egypt {
+    @include episodeExpandedPainter($godsOfEgyptOrange, $godsOfEgyptYellow);
+}
+
+// STEALTH
+.episode__expanded.stealth {
+    @include episodeExpandedPainter($stealthYellow, $stealthOrange);
+}
+
+// VAMPIRE ACADEMY
+.episode__expanded.vampire-academy {
+    @include episodeExpandedPainter($vampireAcademyGreen, $vampireAcademyPink);
+}
+
+// DREAMCATCHER
+.episode__expanded.dreamcatcher {
+    @include episodeExpandedPainter($dreamcatcherBlue, $dreamcatcherGrey);
+}
+
+// GAMER
+.episode__expanded.gamer {
+    @include episodeExpandedPainter($gamerRed, $gamerBlack);
+}
+
+// VAMPIRES KISS
+.episode__expanded.vampires-kiss {
+    @include episodeExpandedPainter($vampiresKissRed, $vampiresKissBlue);
+}
+
+// THE LAWNMOWER MAN
+.episode__expanded.the-lawnmower-man {
+    @include episodeExpandedPainter($theLawnmowerManGreen, $theLawnmowerManBlue);
+}
+
+// GREASE 2
+.episode__expanded.grease-two {
+    @include episodeExpandedPainter($grease2Pink, $grease2Purple);
+}
+
+// ESCAPE FROM LA
+.episode__expanded.escape-from-la {
+    @include episodeExpandedPainter($escapeFromLaYellow, $escapeFromLaRed);
+}
+
+// HIGHLANDER 2
+.episode__expanded.highlander-ii-the-quickening {
+    @include episodeExpandedPainter($highlander2Pink, $highlander2Blue);
+}
+
+// AIRBORNE
+.episode__expanded.airborne {
+    @include episodeExpandedPainter($airbornePink, $airborneBlue);
+}
+
+// XXX
+.episode__expanded.xxx-return-of-xander-cage {
+    @include episodeExpandedPainter($xxxRed, $xxxBlue);
+}
+
+// SURF NINJAS
+.episode__expanded.surf-ninjas {
+    @include episodeExpandedPainter($surfNinjasYellow, $surfNinjasRed);
+}
+
+// BODY PARTS
+.episode__expanded.body-parts {
+    @include episodeExpandedPainter($bodyPartsRed, $bodyPartsBlack);
+}
+
+// SLEEPWALKERS
+.episode__expanded.sleepwalkers {
+    @include episodeExpandedPainter($sleepwalkersGreen, $sleepwalkersPink);
+}
+
+// THE LAKE HOUSE
+.episode__expanded.the-lake-house {
+    @include episodeExpandedPainter($theLakeHouseGrey, $theLakeHouseBlack);
+}
+
+// THE FATE OF THE FURIOUS
+.episode__expanded.the-fate-of-the-furious {
+    @include episodeExpandedPainter($theFateOfTheFuriousBlue, $theFateOfTheFuriousGrey);
+}
+
+// MY STEPMOTHER IS AN ALIEN
+.episode__expanded.my-stepmother-is-an-alien {
+    @include episodeExpandedPainter($myStepmotherIsAnAlienYellow, $myStepmotherIsAnAlienBlue);
+}
+
+// THE RUNNING MAN
+.episode__expanded.the-running-man {
+    @include episodeExpandedPainter($theRunningManRed, $theRunningManGrey);
+}
+
+// THE WRAITH
+.episode__expanded.the-wraith {
+    @include episodeExpandedPainter($theWraithBlue, $theWraithPurple);
+}
+
+// NINJA TERMINATOR
+.episode__expanded.ninja-terminator {
+    @include episodeExpandedPainter($ninjaTerminatorGreen, $ninjaTerminatorYellow);
+}
+
+// TIMECOP
+.episode__expanded.timecop {
+    @include episodeExpandedPainter($timecopGreen, $timecopRed);
+}
+
+// CHOPPING MALL
+.episode__expanded.chopping-mall {
+    @include episodeExpandedPainter($choppingMallRed, $choppingMallBlue);
+}
+
+// HARD TICKET TO HAWAII
+.episode__expanded.hard-ticket-to-hawaii {
+    @include episodeExpandedPainter($hardTicketToHawaiiOrange, $hardTicketToHawaiiYellow);
+}
+
+// THE GARBAGE PAIL KIDS MOVIE
+.episode__expanded.the-garbage-pail-kids-movie {
+    @include episodeExpandedPainter($theGarbagePailKidsMovieBlue, $theGarbagePailKidsMoviePurple);
+}
+
+// BRATZ
+.episode__expanded.bratz {
+    @include episodeExpandedPainter($bratzPink, $bratzBlue);
+}
+
+// MIAMI CONNECTION
+.episode__expanded.miami-connection {
+    @include episodeExpandedPainter($miamiConnectionBlue, $miamiConnectionPink);
+}
+
+// THE LAST DRAGON
+.episode__expanded.the-last-dragon {
+    @include episodeExpandedPainter($theLastDragonOrange, $theLastDragonRed);
+}
+
+// VIRTUOSITY
+.episode__expanded.virtuosity {
+    @include episodeExpandedPainter($virtuosityGreen, $virtuosityYellow);
+}
+
+// JASON X
+.episode__expanded.jason-x {
+    @include episodeExpandedPainter($jasonXBlue, $jasonXGrey);
+}
+
+// ULTRAVIOLET
+.episode__expanded.ultraviolet {
+    @include episodeExpandedPainter($ultravioletBlue, $ultravioletGrey);
+}
+
+// JAZZ SINGER
+.episode__expanded.jazz-singer {
+    @include episodeExpandedPainter($theJazzSingerGold, $theJazzSingerBlack);
+}
+
+// THE DISASTER ARTIST
+.episode__expanded.the-disaster-artist {
+    @include episodeExpandedPainter($theDisasterArtistGrey, $theDisasterArtistBlack);
+}
+
+// VALERIAN AND THE CITY OF A THOUSAND PLANETS
+.episode__expanded.valerian-and-the-city-of-a-thousand-planets {
+    @include episodeExpandedPainter($valerianAndTheCityOfAThousandPlanetsBlue, $valerianAndTheCityOfAThousandPlanetsPurple);
+}
+
+// SUPERMAN IV THE QUEST FOR PEACE
+.episode__expanded.superman-iv-the-quest-for-peace {
+    @include episodeExpandedPainter($superman4Blue, $superman4Red);
+}
+
+// SECOND SIGHT
+.episode__expanded.second-sight {
+    @include episodeExpandedPainter($secondSightYellow, $secondSightRed);
+}
+
+// HOWLING II YOUR SISTER IS A WEREWOLF
+.episode__expanded.howling-ii-your-sister-is-a-werewolf {
+    @include episodeExpandedPainter($howling2Orange, $howling2Red);
+}
+
+// FREEJACK
+.episode__expanded.freejack {
+    @include episodeExpandedPainter($freejackBlue, $freejackBlack);
+}
+
+// ROCK STAR
+.episode__expanded.rock-star {
+    @include episodeExpandedPainter($rockStarRed, $rockStarGrey);
+}
+
+// LADYBUGS
+.episode__expanded.ladybugs {
+    @include episodeExpandedPainter($ladybugsRed, $ladybugsBlack);
+}
+
+// JOHNNY MNEMONIC
+.episode__expanded.johnny-mnemonic {
+    @include episodeExpandedPainter($johnnyMnemonicRed, $johnnyMnemonicYellow);
+}
+
+// ADORE
+.episode__expanded.adore {
+    @include episodeExpandedPainter($adoreBlue, $adoreBrown);
+}
+
+// GEOSTORM
+.episode__expanded.geostorm {
+    @include episodeExpandedPainter($geostormRed, $geostormBlue);
+}
+
+// BEAUTIFUL CREATURES
+.episode__expanded.beautiful-creatures {
+    @include episodeExpandedPainter($beautifulCreaturesYellow, $beautifulCreaturesGreen);
+}
+
+// BODY ROCK
+.episode__expanded.body-rock {
+    @include episodeExpandedPainter($bodyRockPink, $bodyRockGreen);
+}
+
+// SKY CAPTAIN AND THE WORLD OF TOMORROW
+.episode__expanded.sky-captain-and-the-world-of-tomorrow {
+    @include episodeExpandedPainter($skyCaptainAndTheWorldOfTomorrowGrey, $skyCaptainAndTheWorldOfTomorrowBlue);
+}
+
+// HURRICANE HEIST
+.episode__expanded.hurricane-heist {
+    @include episodeExpandedPainter($theHurricaneHeistRed, $theHurricaneHeistGrey);
+}
+
+// RAD
+.episode__expanded.rad {
+    @include episodeExpandedPainter($radRed, $radYellow);
+}
+
+// STRIPTEASE
+.episode__expanded.striptease {
+    @include episodeExpandedPainter($stripteaseGrey, $stripteaseRed);
+}
+
+// BLUES BROTHERS 2000
+.episode__expanded.blues-brothers-2000 {
+    @include episodeExpandedPainter($bluesBrothers2000Grey, $bluesBrothers2000Purple);
+}
+
+// YES GIORGIO
+.episode__expanded.yes-giorgio {
+    @include episodeExpandedPainter($yesGiorgioTan, $yesGiorgioRed);
+}
+
+// NEVER TOO YOUNG TO DIE
+.episode__expanded.never-too-young-to-die {
+    @include episodeExpandedPainter($neverTooYoungToDieYellow, $neverTooYoungToDieRed);
+}
+
+// THE MEG
+.episode__expanded.the-meg {
+    @include episodeExpandedPainter($theMegYellow, $theMegGreen);
+}
+
+// BEASTLY
+.episode__expanded.beastly {
+    @include episodeExpandedPainter($beastlyBlue, $beastlyTan);
+}
+
+// LOOK WHOS TALKING TOO
+.episode__expanded.look-whos-talking-too {
+    @include episodeExpandedPainter($lookWhosTalkingTooBlue, $lookWhosTalkingTooPurple);
+}
+
+// A NIGHT IN HEAVEN
+.episode__expanded.a-night-in-heaven {
+    @include episodeExpandedPainter($aNightInHeavenYellow, $aNightInHeavenPurple);
+}
+
+// ACTION JACKSON
+.episode__expanded.action-jackson {
+    @include episodeExpandedPainter($actionJacksonRed, $actionJacksonPurple);
+}
+
+// SKYSCRAPER
+.episode__expanded.skyscraper {
+    @include episodeExpandedPainter($skyscraperOrange, $skyscraperRed);
+}
+
+// LOOK WHOS TALKING NOW
+.episode__expanded.look-whos-talking-now {
+    @include episodeExpandedPainter($lookWhosTalkingNowBlue, $lookWhosTalkingNowPurple);
+}
+
+// PERFECT STRANGER
+.episode__expanded.perfect-stranger {
+    @include episodeExpandedPainter($perfectStrangerRed, $perfectStrangerGrey);
+}
+
+// HOLIDAY IN HANDCUFFS
+.episode__expanded.holiday-in-handcuffs {
+    @include episodeExpandedPainter($holidayInHandcuffsRed, $holidayInHandcuffsGreen);
+}
+
+// CELLULAR
+.episode__expanded.cellular {
+    @include episodeExpandedPainter($cellularRed, $cellularYellow);
+}
+
+// LITTLE ITALY
+.episode__expanded.little-italy {
+    @include episodeExpandedPainter($littleItalyRed, $littleItalyGrey);
+}
+
+// DRAGON BLADE
+.episode__expanded.dragon-blade {
+    @include episodeExpandedPainter($dragonBladeYellow, $dragonBladeBlack);
+}
+
+// HARRY AND MEGHAN A ROYAL ROMANCE
+.episode__expanded.harry-and-meghan-a-royal-romance {
+    @include episodeExpandedPainter($harryAndMeghanARoyalRomanceBlue, $harryAndMeghanARoyalRomanceRed);
+}
+
+// THE SNOWMAN
+.episode__expanded.the-snowman {
+    @include episodeExpandedPainter($theSnowmanRed, $theSnowmanBlack);
+}
+
+// VAN HELSING
+.episode__expanded.van-helsing {
+    @include episodeExpandedPainter($vanHelsingGreen, $vanHelsingBlack);
+}
+
+// THE SECRET
+.episode__expanded.the-secret {
+    @include episodeExpandedPainter($theSecretRed, $theSecretBlack);
+}
+
+// PROM NIGHT II
+.episode__expanded.prom-night-ii {
+    @include episodeExpandedPainter($promNight2Red, $promNight2Purple);
+}
+
+// SHANGHAI SURPRISE
+.episode__expanded.shanghai-surprise {
+    @include episodeExpandedPainter($shanghaiSurpriseRed, $shanghaiSurpriseBlue);
+}
