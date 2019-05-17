@@ -11,6 +11,7 @@ import resource from './plugins/resource'
 import deviceQueries from './plugins/device-queries'
 import Pace from 'pace-progress'
 import VueLocalStorage from 'vue-localstorage'
+import VueAnalytics from 'vue-analytics'
 
 library.add(faAmazon, faItunesNote, faYoutube, faInfoCircle, faSignOutAlt, faArrowAltCircleUp, faArrowAltCircleLeft, faSearch, faWindowClose)
 
@@ -23,6 +24,11 @@ Vue.use(VueLocalStorage)
 Vue.use(resource, {
   resources,
   endpoint: '/static/api'
+})
+
+Vue.use(VueAnalytics, {
+  id: 'UA-140388051-1',
+  checkDuplicatedScript: true
 })
 
 Vue.use(VuePlyr)
