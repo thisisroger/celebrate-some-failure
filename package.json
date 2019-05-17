@@ -18,6 +18,7 @@
     "lodash.merge": "^4.6.0",
     "scrollto-with-animation": "^4.5.2",
     "vue": "^2.5.2",
+    "vue-analytics": "^5.16.4",
     "vue-disqus": "^2.0.3",
     "vue-localstorage": "^0.6.2",
     "vue-plyr": "^5.1.3",

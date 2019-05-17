@@ -1,6 +1,6 @@
 <template>
   <main class="series" :class="{ 'series--expanded': this.episode }">
-    <span class="nav__info" @click="isInfoOpen = !isInfoOpen">
+    <span class="nav__info" @click="openInfoView">
       <font-awesome-icon size="2x" :icon="{ prefix: 'fas', iconName: 'info-circle' }"/>
     </span>
     <span class="nav__back-to-top" @click="scrollTo(0, 220)">
@@ -88,6 +88,10 @@ export default {
       } else if (window.scrollY > 100) {
         backToTopEl.classList.remove('element--fade-out');
       }
+    },
+    openInfoView() {
+      this.isInfoOpen = true;
+      this.$ga.event('send', 'click', 'Info Viewed', 1);
     }
   },
   watch: {

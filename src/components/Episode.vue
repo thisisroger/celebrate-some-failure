@@ -6,17 +6,17 @@
               <img :src="film.poster" :alt="film.title" />
             </div>
             <ul class="film__links">
-              <li v-if="mediaLinks.amazonURL">
+              <li :click="filmJuice('Amazon')" v-if="mediaLinks.amazonURL">
                 <a class="film__link" :href="mediaLinks.amazonURL + '/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010R08PO&linkCode=as2&tag=csf0622-20'">
                   <font-awesome-icon size="3x" :icon="{ prefix: 'fab', iconName: 'amazon' }"/>
                 </a>
               </li>
-              <li v-if="mediaLinks.youtubeURL">
+              <li :click="filmJuice('YouTube')" v-if="mediaLinks.youtubeURL">
                 <a class="film__link" :href="mediaLinks.youtubeURL">
                   <font-awesome-icon size="3x" :icon="{ prefix: 'fab', iconName: 'youtube' }"/>
                 </a>
               </li>
-              <li v-if="mediaLinks.itunesURL">
+              <li :click="filmJuice('iTunes')" v-if="mediaLinks.itunesURL">
                 <a class="film__link" :href="mediaLinks.itunesURL">
                   <font-awesome-icon size="3x" :icon="{ prefix: 'fab', iconName: 'itunes-note' }"/>
                 </a>
@@ -27,7 +27,7 @@
           <div class="episode__content">
             <p class="episode__content__film">{{film.summary}}</p>
             <vue-plyr class="episode__content__trailer" v-if="film.trailer" ref="player">
-              <div class="plyr__video-embed">
+              <div :click="trailerGA" class="plyr__video-embed">
                 <iframe :src="film.trailer" allowfullscreen allowtransparency allow="autoplay"></iframe>
               </div>
             </vue-plyr>
@@ -45,7 +45,7 @@
                       <h5 class="guest__name">{{guests.guestOne.name}}</h5>
                       <p class="guest__bio">{{guests.guestOne.bio}}</p>
                       <ul class="guest-plugs">
-                        <li v-for="plug in guests.guestOne.plugs">
+                        <li :click="plugJuice(plug.title, guests.guestOne.name)" v-for="plug in guests.guestOne.plugs">
                           <a class="button" :href="plug.URL">
                             <img :src="plug.media" :alt="plug.title">
                             <p class="button__text">{{ plug.title }}</p>
@@ -62,7 +62,7 @@
                       <h5 class="guest__name">{{guests.guestTwo.name}}</h5>
                       <p class="guest__bio">{{guests.guestTwo.bio}}</p>
                       <ul class="guest-plugs">
-                        <li v-for="plug in guests.guestTwo.plugs">
+                        <li :click="plugJuice(plug.title, guests.guestTwo.name)" v-for="plug in guests.guestTwo.plugs">
                           <a :href="plug.URL">
                             <img :src="plug.media" :alt="plug.title">
                           </a>
@@ -71,7 +71,7 @@
                       </ul>
                     </div>
                 </li>
-                <li v-if="guests.guestThree" class="guest-list__item">
+                <li :click="plugJuice(plug.title, guests.guestThree.name)" v-if="guests.guestThree" class="guest-list__item">
                     <div class="guest-media">
                         <img class="guest__img" :src="guests.guestThree.photo" :alt="guests.guestThree.name" />
                     </div>
@@ -140,7 +140,16 @@
     
       methods: {
         kebabify,
-        prettyDate
+        prettyDate,
+        filmJuice(ref) {
+          this.$ga.event('send', 'click', this.film.title + ' - ' + ref, 2);
+        },
+        plugJuice(ref, guest) {
+          this.$ga.event('send', 'click', guest + ' - ' + ref, 3);
+        },
+        trailerGA() {
+          this.$ga.event('send', 'click', 'Trailer Watched', 5);
+        }
       },
     
       mounted() {
