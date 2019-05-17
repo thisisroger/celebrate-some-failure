@@ -1,7 +1,7 @@
 <template>
   <nav class="nav">
     <span class="nav__goback" @click="navBack">
-      <font-awesome-icon size="3x" :icon="{ prefix: 'fas', iconName: 'long-arrow-alt-left' }"/>
+      <font-awesome-icon size="2x" :icon="{ prefix: 'fas', iconName: 'arrow-alt-circle-left' }"/>
     </span>
     <h6 class="logo logo--mark" @scroll="handleScroll">
       <span>f!</span>
@@ -45,9 +45,9 @@ export default {
     handleScroll(event) {
       let logo = document.querySelector('.logo--mark');
       if (window.scrollY > 100) {
-        logo.classList.add('logo--fade-out');
+        logo.classList.add('element--fade-out');
       } else if (window.scrollY < 100) {
-        logo.classList.remove('logo--fade-out');
+        logo.classList.remove('element--fade-out');
       }
     }
   },

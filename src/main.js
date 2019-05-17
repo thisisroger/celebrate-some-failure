@@ -4,7 +4,7 @@ import App from './App'
 import router from './router'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { faAmazon, faItunesNote, faYoutube } from '@fortawesome/free-brands-svg-icons'
-import { faInfoCircle, faSignOutAlt, faLongArrowAltLeft, faSearch, faWindowClose } from '@fortawesome/free-solid-svg-icons'
+import { faInfoCircle, faSignOutAlt, faArrowAltCircleUp, faArrowAltCircleLeft, faSearch, faWindowClose } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import * as resources from './resources'
 import resource from './plugins/resource'
@@ -12,7 +12,7 @@ import deviceQueries from './plugins/device-queries'
 import Pace from 'pace-progress'
 import VueLocalStorage from 'vue-localstorage'
 
-library.add(faAmazon, faItunesNote, faYoutube, faInfoCircle, faSignOutAlt, faLongArrowAltLeft, faSearch, faWindowClose)
+library.add(faAmazon, faItunesNote, faYoutube, faInfoCircle, faSignOutAlt, faArrowAltCircleUp, faArrowAltCircleLeft, faSearch, faWindowClose)
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
 
