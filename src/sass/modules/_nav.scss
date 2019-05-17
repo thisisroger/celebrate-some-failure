@@ -1,4 +1,4 @@
-.nav {
+.nav__goback {
     left: 15px;
     position: absolute;
     top: 15px;
@@ -10,5 +10,13 @@
     position: fixed;
     right: 15px;
     top: 15px;
+    z-index: 1000;
+}
+
+.nav__back-to-top {
+    color: $white;
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
     z-index: 1000;
 }

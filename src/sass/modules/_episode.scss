@@ -14,7 +14,9 @@
     }
 }
 
-.nav__goback {display: none;}
+.nav__goback {
+  display: none;
+}
 
 .nav__search {
   color: $white;
@@ -90,12 +92,14 @@
     .logo--mark,
     .episode__search,
     .nav__search,
-    .intro {display: none;}
+    .nav__back-to-top {
+      display: none;
+    }
 
     .nav__goback {
         color: $white;
         cursor: pointer;
-        display: inline-block;
+        display: block;
     }
 
     .nav__info {
