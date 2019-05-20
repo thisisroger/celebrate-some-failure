@@ -3,7 +3,7 @@ import VuePlyr from 'vue-plyr'
 import App from './App'
 import router from './router'
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { faAmazon, faItunesNote, faYoutube } from '@fortawesome/free-brands-svg-icons'
+import { faAmazon, faItunesNote, faYoutube, faPinterest, faFacebookF, faRedditAlien, faTwitter } from '@fortawesome/free-brands-svg-icons'
 import { faInfoCircle, faSignOutAlt, faArrowAltCircleUp, faArrowAltCircleLeft, faSearch, faWindowClose } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import * as resources from './resources'
@@ -12,8 +12,9 @@ import deviceQueries from './plugins/device-queries'
 import Pace from 'pace-progress'
 import VueLocalStorage from 'vue-localstorage'
 import VueAnalytics from 'vue-analytics'
+import SocialSharing from 'vue-social-sharing'
 
-library.add(faAmazon, faItunesNote, faYoutube, faInfoCircle, faSignOutAlt, faArrowAltCircleUp, faArrowAltCircleLeft, faSearch, faWindowClose)
+library.add(faAmazon, faItunesNote, faYoutube, faInfoCircle, faSignOutAlt, faArrowAltCircleUp, faArrowAltCircleLeft, faSearch, faWindowClose, faPinterest, faFacebookF, faRedditAlien, faTwitter)
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
 
@@ -32,6 +33,8 @@ Vue.use(VueAnalytics, {
 })
 
 Vue.use(VuePlyr)
+
+Vue.use(SocialSharing);
 
 Vue.use(deviceQueries, {
   phone: 'max-width: 567px',
