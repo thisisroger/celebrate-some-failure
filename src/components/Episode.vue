@@ -7,17 +7,17 @@
             </div>
             <ul class="film__links">
               <li :click="filmJuice('Amazon')" v-if="mediaLinks.amazonURL">
-                <a class="film__link" :href="mediaLinks.amazonURL + '/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010R08PO&linkCode=as2&tag=csf0622-20'">
+                <a target="_blank" class="film__link" :href="mediaLinks.amazonURL">
                   <font-awesome-icon size="3x" :icon="{ prefix: 'fab', iconName: 'amazon' }"/>
                 </a>
               </li>
               <li :click="filmJuice('YouTube')" v-if="mediaLinks.youtubeURL">
-                <a class="film__link" :href="mediaLinks.youtubeURL">
+                <a target="_blank" class="film__link" :href="mediaLinks.youtubeURL">
                   <font-awesome-icon size="3x" :icon="{ prefix: 'fab', iconName: 'youtube' }"/>
                 </a>
               </li>
               <li :click="filmJuice('iTunes')" v-if="mediaLinks.itunesURL">
-                <a class="film__link" :href="mediaLinks.itunesURL">
+                <a target="_blank" class="film__link" :href="mediaLinks.itunesURL">
                   <font-awesome-icon size="3x" :icon="{ prefix: 'fab', iconName: 'itunes-note' }"/>
                 </a>
               </li>
@@ -46,7 +46,7 @@
                       <p class="guest__bio">{{guests.guestOne.bio}}</p>
                       <ul class="guest-plugs">
                         <li :click="plugJuice(plug.title, guests.guestOne.name)" v-for="plug in guests.guestOne.plugs">
-                          <a class="button" :href="plug.URL">
+                          <a target="_blank" class="button" :href="plug.URL">
                             <img :src="plug.media" :alt="plug.title">
                             <p class="button__text">{{ plug.title }}</p>
                           </a>
@@ -63,7 +63,7 @@
                       <p class="guest__bio">{{guests.guestTwo.bio}}</p>
                       <ul class="guest-plugs">
                         <li :click="plugJuice(plug.title, guests.guestTwo.name)" v-for="plug in guests.guestTwo.plugs">
-                          <a :href="plug.URL">
+                          <a target="_blank" :href="plug.URL">
                             <img :src="plug.media" :alt="plug.title">
                           </a>
                           <p>{{ plug.title }}</p>
@@ -80,7 +80,7 @@
                       <p class="guest__bio">{{guests.guestThree.bio}}</p>
                       <ul class="guest-plugs">
                         <li v-for="plug in guests.guestThree.plugs">
-                          <a :href="plug.URL">
+                          <a target="_blank" :href="plug.URL">
                             <img :src="plug.media" :alt="plug.title">
                           </a>
                           <p>{{ plug.title }}</p>
@@ -92,10 +92,39 @@
             </div>
           </div>
 
-          <div class="subscribe">
-            <h6 class="subscribe__heading">How Did This Get Made?</h6>
-            <p class="subscribe__content">Get an email delivered to your inbox every time a new episode is available. Or just listen to this episode on <a :href="mediaLinks.stitcherURL">Stitcher</a>.</p>
-            <a  class="subscribe__button" href="">Subscribe</a>
+          <div class="share">
+            <h6 class="share__heading">How Did This Get Made?</h6>
+            <p class="share__content">Share this episode with your friends. Or just listen on <a :href="mediaLinks.stitcherURL">Stitcher</a>.</p>
+            <social-sharing url="https://www.celebratesomefailure.com"
+                      title="Celebrate Some Failure - A HDTGM Fan Site"
+                      description="A comprehensive list of all the truly terrible movies Paul, June, and Jason have reviewed"
+                      quote="What exactly is a streetfighter"
+                      hashtags="bonkers,hdtgm"
+                      twitter-user="rogerflanagan"
+                      inline-template>
+              <ul class="share-list">
+                  <li>
+                    <network network="facebook">
+                      <font-awesome-icon size="2x" :icon="{ prefix: 'fab', iconName: 'facebook-f' }"/>
+                    </network>
+                  </li>
+                  <li>
+                    <network network="pinterest">
+                      <font-awesome-icon size="2x" :icon="{ prefix: 'fab', iconName: 'pinterest' }"/>
+                    </network>
+                  </li>
+                  <li>
+                    <network network="reddit">
+                      <font-awesome-icon size="2x" :icon="{ prefix: 'fab', iconName: 'reddit-alien' }"/>
+                    </network>
+                  </li>
+                  <li>
+                    <network network="twitter">
+                      <font-awesome-icon size="2x" :icon="{ prefix: 'fab', iconName: 'twitter' }"/>
+                    </network>
+                  </li>
+              </ul>
+            </social-sharing>
           </div>
           
         </article>

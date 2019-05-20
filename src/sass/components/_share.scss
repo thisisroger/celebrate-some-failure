@@ -1,4 +1,4 @@
-.subscribe {
+.share {
     margin: 0 auto;
     max-width: 525px;
     padding: 20px;
@@ -21,7 +21,7 @@
     }
 }
 
-.subscribe__heading {
+.share__heading {
     color: #666666;
     font-size: 22px;
     font-family: 'Montserrat', sans-serif;
@@ -32,7 +32,7 @@
     }
 }
 
-.subscribe__content {
+.share__content {
     font-size: 16px;
     color: #999999;
     font-family: 'Roboto', sans-serif;
@@ -44,12 +44,19 @@
     }
 }
 
-.subscribe__button {
-    border-radius: 5px;
-    color: $white;
-    display: inline-block;
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    padding: 10px 20px;
-    text-decoration: none;
+.share-list {
+    > * + * {
+        margin-left: 10px;
+    }
+
+    > li {
+        cursor: pointer;
+        display: inline-block;
+        transition: transform 125ms ease-in-out;
+        vertical-align: middle;
+
+        &:hover {
+            transform: translate3d(0,-15%,0) rotate(-5deg);
+        }
+    }
 }
