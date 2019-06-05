@@ -2541,6 +2541,20 @@
                 "name": "Jordan Rubin"
             }
         }
+    },
+    {
+        "id": "hercules",
+        "film": {
+            "title": "Hercules"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Leslye Headland"
+            },
+            "guestTwo": {
+                "name": "Sasheer Zamata"
+            }
+        }
     }
 ]
 }

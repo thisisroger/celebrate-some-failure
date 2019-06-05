@@ -1068,3 +1068,8 @@
 .episode__expanded.shanghai-surprise {
     @include episodeExpandedPainter($shanghaiSurpriseRed, $shanghaiSurpriseBlue);
 }
+
+// HERCULES
+.episode__expanded.hercules {
+    @include episodeExpandedPainter($herculesOrange, $herculesYellow);
+}
