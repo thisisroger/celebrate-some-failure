@@ -1,0 +1,63 @@
+{
+    "results": [{
+        "film": {
+            "title": "Hercules",
+            "summary": "In this adaptation of the Greek myth, Hercules (Lou Ferrigno) -- a semi-divine being -- squares off against King Minos (William Berger), who is attempting to use science to gain power and take over the world.",
+            "trailer": "https://www.youtube.com/watch?v=I3czCEgxDDM",
+            "poster": "/static/assets/posters/hercules-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Leslye Headland",
+                "photo": "/static/assets/guests/leslye-headland.jpg",
+                "bio": "Leslye Headland is an American playwright, screenwriter, and director. She is best known for the play and 2012 film Bachelorette and 2015 film Sleeping with Other People.",
+                "plugs": [
+                    {
+                        "title": "Sleeping with Other People",
+                        "URL": "https://www.amazon.com/Sleeping-Other-People-Jason-Sudeikis/dp/B019HURJZM",
+                        "media": "/static/assets/plugs/sleeping-with-other-people.jpg"
+                    },
+                    {
+                        "title": "Heathers",
+                        "URL": "https://www.amazon.com/Pilot/dp/B079VLJS5X",
+                        "media": "/static/assets/plugs/heathers.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Sasheer Zamata",
+                "photo": "/static/assets/guests/sasheer-zamata.jpg",
+                "bio": "Sasheer Zamata Moore, known professionally as Sasheer Zamata, is an American actress and comedienne who became a featured player on Saturday Night Live beginning January 18, 2014. Zamata was raised in Indianapolis, Indiana and is a 2004 graduate of Pike High School. She is the daughter of Ivory Steward and a father who was a lieutenant colonel in the Air Force. She attended the University of Virginia, and graduated in 2008 with a Bachelor of Arts degree. Zamata was a founding member of the University’s long-form improv comedy troupe, Amuse Bouche.",
+                "plugs": [
+                    {
+                        "title": "SNL",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0190TMIZG",
+                        "media": "/static/assets/plugs/snl.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    },
+                    {
+                        "title": "Night Train with Wyatt Cenac",
+                        "URL": "https://www.amazon.com/Ep-105-Fitting-Fighting/dp/B07CGHD1DV",
+                        "media": "/static/assets/plugs/night-train.jpg"
+                    },
+                    {
+                        "title": "People of Earth",
+                        "URL": "https://www.amazon.com/Acceptance/dp/B01N19ARDW",
+                        "media": "/static/assets/plugs/people-of-earth.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Director Leslye Headland (Russian Doll) and Sasheer Zamata (Best Friends, SNL) joins Paul and Jason to discuss the 1983 science fiction-fantasy adventure film Hercules starring Lou Ferrigno. Recorded live at Largo in Los Angeles, they talk about the robots, Hercules tossing a bear into space, Lou Ferrigno’s dubbed voice, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/60995135",
+            "amazonURL": "https://www.amazon.com/gp/video/detail/B002BUCCX0",
+            "youtubeURL": "http://www.youtube.com/watch?v=oo7oVuYYf9U",
+            "itunesURL": "https://itunes.apple.com/us/movie/hercules-1983/id355786928"
+        }       
+    }]
+}

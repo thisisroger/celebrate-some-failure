@@ -1050,3 +1050,8 @@
 .episode--shanghai-surprise {
     @include episodeMetaPainter($shanghaiSurpriseRed, $shanghaiSurpriseBlue);
 }
+
+// HERCULES
+.episode--hercules {
+    @include episodeMetaPainter($herculesOrange, $herculesYellow);
+}
