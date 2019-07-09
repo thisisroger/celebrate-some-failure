@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "Serenity",
+            "summary": "A fishing boat captain juggles facing his mysterious past and finding himself ensnared in a reality where nothing is what it seems.",
+            "trailer": "https://www.youtube.com/watch?v=k3zMlsEK8xA",
+            "poster": "/static/assets/posters/serenity-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Nick Kroll",
+                "photo": "/static/assets/guests/nick-kroll.jpg",
+                "bio": "Nick Kroll is dearly beloved here at Earwolf, in case you can’t tell from the El Chupcabra tag on the Earwolf theme. He’s a quick improviser and hilarious stand-up, and you can watch his special Thank You Very Cool or the semi-improvised The League for verification on that. His credits are unending, and incredibly impressive.",
+                "plugs": [
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Kroll Show",
+                        "URL": "https://www.amazon.com/dp/B00AVXZ5O2",
+                        "media": "/static/assets/plugs/kroll-show.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Adult Beginners",
+                        "URL": "https://www.amazon.com/dp/B00WKZ2YWK",
+                        "media": "/static/assets/plugs/adult-beginners.jpg"
+                    },
+                    {
+                        "title": "Sausage Party",
+                        "URL": "https://www.amazon.com/dp/B01JBARY4O",
+                        "media": "/static/assets/plugs/sausage-party.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/Pilot/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HDTGM All-star Nick Kroll (Big Mouth) joins Paul, June, and Jason to discuss the 2019 neo-noir thriller Serenity. Recorded live from Austin City Limits at the Moody Theater, they talk about the big twist that comes way too early, McConaughey being so wet in the movie, the sex scene on the boat, and more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/62065318",
+            "amazonURL": "https://www.amazon.com/Serenity-Matthew-McConaughey/dp/B07MGJ65YH",
+            "youtubeURL": "https://www.youtube.com/watch?v=S7TEEN7jpV4",
+            "itunesURL": "https://itunes.apple.com/us/movie/serenity-2019/id1449065699"
+        }
+    }]
+}

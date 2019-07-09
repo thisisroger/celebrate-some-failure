@@ -1,0 +1,56 @@
+{
+    "results": [{
+        "film": {
+            "title": "The Country Bears",
+            "summary": "Beary Barrington goes on an adventure to save Country Bear Hall by getting the Country Bears back together for a reunion concert.",
+            "trailer": "https://www.youtube.com/watch?v=xeQRV0pskyw",
+            "poster": "/static/assets/posters/the-country-bears-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Kulap Vilaysack",
+                "photo": "/static/assets/guests/kulap-vilaysack.jpg",
+                "bio": "Kulap Vilaysack is the creator, showrunner, executive producer and sometimes director of the SeeSo Original shows BAJILLION DOLLAR PROPERTIE$ and BAJILLION DOLLAR PROPERTIE$: POCKET LISTINGS. She is also directing an upcoming autobiographical documentary, ORIGIN STORY. You’ve probably seen her on television in shows like LOVE, PARKS & RECREATION, COMEDY BANG! BANG!, THE OFFICE, and CHILDRENS HOSPITAL. Or maybe you recognize her from movies like WELCOME TO ME or I LOVE YOU MAN. You can find Kulap with Howard Kremer every Wednesday hosting WHO CHARTED right here on Earwolf!",
+                "plugs": [
+                    {
+                        "title": "Reno 911!",
+                        "URL": "https://www.amazon.com/s?k=reno+911&i=instant-video",
+                        "media": "/static/assets/plugs/reno-911.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Garfunkel and Oates",
+                        "URL": "https://www.amazon.com/dp/B00M4FA40K",
+                        "media": "/static/assets/plugs/garfunkel-and-oates.jpg"
+                    },
+                    {
+                        "title": "Who Charted",
+                        "URL": "https://itunes.apple.com/us/podcast/who-charted/id408711228",
+                        "media": "/static/assets/plugs/who-charted.jpg"
+                    },
+                    {
+                        "title": "Bajillion Dollar Propertie$",
+                        "URL": "https://www.amazon.com/Uncle-Jerry/dp/B01EN8DBXW",
+                        "media": "/static/assets/plugs/bajillion-dollar-properties.jpg"
+                    },
+                    {
+                        "title": "The Office",
+                        "URL": "https://www.amazon.com/The-Office-An-American-Workplace/dp/B000U7O8LA",
+                        "media": "/static/assets/plugs/the-office.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Kulap Vilaysack (Origin Story) joins Paul, June, and Jason to discuss the 2002 family musical comedy The Country Bears. They talk about the scale of the bears, Queen Latifah appearing as herself and a character, why Trixie wasn’t one of the Country Bears, honey being booze for bears, and much more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/61751099",
+            "amazonURL": "https://www.amazon.com/Country-Bears-Christopher-Walken/dp/B004IADV5Y",
+            "youtubeURL": "https://www.youtube.com/watch?v=8uu8aVeEMSM",
+            "itunesURL": "https://itunes.apple.com/us/movie/the-country-bears/id188702395"
+        }
+    }]
+}
