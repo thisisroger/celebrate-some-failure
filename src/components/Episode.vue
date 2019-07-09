@@ -79,8 +79,13 @@
                       <h5 class="guest__name">{{guests.guestThree.name}}</h5>
                       <p class="guest__bio">{{guests.guestThree.bio}}</p>
                       <ul class="guest-plugs">
+<<<<<<< Updated upstream
                         <li v-for="plug in guests.guestThree.plugs">
                           <a :href="plug.URL">
+=======
+                        <li :click="plugJuice(plug.title, guests.guestThree.name)" v-for="plug in guests.guestThree.plugs">
+                          <a target="_blank" :href="plug.URL">
+>>>>>>> Stashed changes
                             <img :src="plug.media" :alt="plug.title">
                           </a>
                           <p>{{ plug.title }}</p>
