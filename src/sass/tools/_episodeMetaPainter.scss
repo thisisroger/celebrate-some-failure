@@ -1080,3 +1080,8 @@
 .episode--drop-dead-fred {
     @include episodeMetaPainter($dropDeadFredPurple, $dropDeadFredYellow);
 }
+
+// HOBBS & SHAW
+.episode--hobbs-and-shaw {
+    @include episodeMetaPainter($hobbsAndShawBlack, $hobbsAndShawYellow);
+}

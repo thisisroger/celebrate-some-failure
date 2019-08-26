@@ -1,0 +1,76 @@
+{
+    "results": [{
+        "film": {
+            "title": "Hobbs & Shaw",
+            "summary": "Lawman Luke Hobbs and outcast Deckard Shaw form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+            "trailer": "https://www.youtube.com/watch?v=HZ7PAyCDwEg",
+            "poster": "/static/assets/posters/hobbs-and-shaw-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Nicole Byer",
+                "photo": "/static/assets/guests/nicole-byer.jpg",
+                "bio": "Nicole is an actress and comedian who moved from New York to Los Angeles for comedy and dreams. Nicole currently performs sketch on Maude Night with New Money. Past improv and sketch teams include Dweeb, Standard Oil, Fambly, Bucky, Dance Break, Johnny Romance and her favorite maybe of all time Cooper.  She’s also 1/3 of the smart award winning lady group Doppelganger who are currently on hiatus except when Nicole is in New York.",
+                "plugs": [
+                    {
+                        "title": "Nailed It",
+                        "URL": "https://www.netflix.com/title/80179138",
+                        "media": "/static/assets/plugs/nailed-it.jpg"
+                    },
+                    {
+                        "title": "Mike and Dave Need Wedding Dates",
+                        "URL": "https://www.amazon.com/Mike-Dave-Need-Wedding-Dates/dp/B01I2CNZ72",
+                        "media": "/static/assets/plugs/mike-and-dave-need-wedding-dates.jpg"
+                    },
+                    {
+                        "title": "Bojack Horeseman",
+                        "URL": "https://www.netflix.com/title/70300800",
+                        "media": "/static/assets/plugs/bojack-horseman.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Adam Scott",
+                "photo": "/static/assets/guests/adam-scott.jpg",
+                "bio": "Adam Scott is perhaps best known for his roles in Knocked Up, Step Brothers, Party Down, Eastbound & Down, Parks and Recreation, and many Funny or Die videos. Additionally, he’s been a guest on shows such as The Sarah Silverman Program, Childrens Hospital, Veronica Mars and more. So, basically he’s great. Handsome, funny, good actor, the whole package.",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Party Down",
+                        "URL": "https://www.amazon.com/gp/video/detail/B0040J4LH0",
+                        "media": "/static/assets/plugs/party-down.jpg"
+                    },
+                    {
+                        "title": "Step Brothers",
+                        "URL": "https://www.amazon.com/dp/B007OXHVSU",
+                        "media": "/static/assets/plugs/step-brothers.jpg"
+                    },
+                    {
+                        "title": "The Overnight",
+                        "URL": "https://www.amazon.com/dp/B07LGCQ3Q4",
+                        "media": "/static/assets/plugs/the-overnight.jpg"
+                    },
+                    {
+                        "title": "My Blind Brother",
+                        "URL": "https://www.amazon.com/dp/B01LXLQUKZ",
+                        "media": "/static/assets/plugs/my-blind-brother.jpg"
+                    },
+                    {
+                        "title": "A.C.O.D",
+                        "URL": "https://www.amazon.com/gp/video/detail/B00GT8AV6U",
+                        "media": "/static/assets/plugs/acod.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HDTGM All-stars Nicole Byer (Nailed It!, Why Won’t You Date Me?) and Adam Scott (Big Little Lies, R U Talkin’ R.E.M. RE: ME?) join Paul and Jason to talk about the 2018 science fiction thriller The Meg starring Jason Statham. Recorded live at Largo at the Coronet in Los Angeles, they talk about Statham’s incredible diving, the secondary characters being stereotypes, and the Meg eye stab.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/63252476",
+            "itunesURL": "https://itunes.apple.com/us/movie/fast-furious-presents-hobbs-shaw/id1473845018"
+        }       
+    }]
+}

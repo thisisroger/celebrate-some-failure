@@ -1098,3 +1098,8 @@
 .episode__expanded.drop-dead-fred {
     @include episodeExpandedPainter($dropDeadFredPurple, $dropDeadFredYellow);
 }
+
+// HOBBS & SHAW
+.episode__expanded.hobbs-and-shaw {
+    @include episodeExpandedPainter($hobbsAndShawYellow, $hobbsAndShawBlack);
+}
