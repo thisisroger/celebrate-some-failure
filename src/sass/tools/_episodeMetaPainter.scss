@@ -1070,3 +1070,8 @@
 .episode--jaws-3d {
     @include episodeMetaPainter($jaws3dRed, $jaws3dYellow);
 }
+
+// DEADFALL
+.episode--deadfall {
+    @include episodeMetaPainter($deadfallRed, $deadfallGreen);
+}

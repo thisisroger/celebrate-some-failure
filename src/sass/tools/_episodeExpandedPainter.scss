@@ -1088,3 +1088,8 @@
 .episode__expanded.jaws-3d {
     @include episodeExpandedPainter($jaws3dRed, $jaws3dYellow);
 }
+
+// DEADFALL
+.episode__expanded.deadfall {
+    @include episodeExpandedPainter($deadfallRed, $deadfallGreen);
+}
