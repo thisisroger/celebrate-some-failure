@@ -1093,3 +1093,8 @@
 .episode__expanded.deadfall {
     @include episodeExpandedPainter($deadfallRed, $deadfallGreen);
 }
+
+// DROP DEAD FRED
+.episode__expanded.drop-dead-fred {
+    @include episodeExpandedPainter($dropDeadFredPurple, $dropDeadFredYellow);
+}

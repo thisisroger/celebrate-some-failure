@@ -1075,3 +1075,8 @@
 .episode--deadfall {
     @include episodeMetaPainter($deadfallRed, $deadfallGreen);
 }
+
+// DROP DEAD FRED
+.episode--drop-dead-fred {
+    @include episodeMetaPainter($dropDeadFredPurple, $dropDeadFredYellow);
+}

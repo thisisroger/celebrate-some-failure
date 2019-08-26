@@ -1,0 +1,46 @@
+{
+    "results": [{
+        "film": {
+            "title": "Drop Dead Fred",
+            "summary": "A young woman finds her already unstable life rocked by the presence of a rambunctious imaginary friend from childhood.",
+            "trailer": "https://www.youtube.com/watch?v=eJNNuuCa_5U",
+            "poster": "/static/assets/posters/drop-dead-fred-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Casey Wilson",
+                "photo": "/static/assets/guests/casey-wilson.jpg",
+                "bio": "Casey Wilson was a series regular on the sitcoms Marry Me and Happy Endings. She was twice nominated for a Critics’ Choice Award for her performance on the latter show, and Variety has called her one of the “Top 10 Comics to Watch.”",
+                "plugs": [
+                    {
+                        "title": "Happy Endings",
+                        "URL": "https://www.amazon.com/dp/B004V2E8SS",
+                        "media": "/static/assets/plugs/happy-endings.jpg"
+                    },
+                    {
+                        "title": "Ass Backwards",
+                        "URL": "https://www.amazon.com/dp/B00FJ01BN6",
+                        "media": "/static/assets/plugs/ass-backwards.jpg"
+                    },
+                    {
+                        "title": "Bored to Death",
+                        "URL": "https://www.amazon.com/dp/B002P3ODNU",
+                        "media": "/static/assets/plugs/bored-to-death.jpg"
+                    },
+                    {
+                        "title": "Marry Me",
+                        "URL": "https://www.amazon.com/dp/B00OBTFUPQ",
+                        "media": "/static/assets/plugs/marry-me.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Casey Wilson (Bitch Seth) joins Paul, June, and Jason to discuss the 1991 comedy Drop Dead Fred. Recorded live at The Bell Theater in Los Angeles, they talk about why this movie made June want to pursue acting, Phoebe Cates’ character’s relationship with Drop Dead Fred, Casey’s hatred of the movie, and more. It’s the most divisive episode in HDTGM history!",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/62959393",
+            "amazonURL": "https://www.amazon.com/Drop-Dead-Fred-Phoebe-Cates/dp/B01BUNPASM",
+            "youtubeURL": "https://www.youtube.com/watch?v=ZxKegT1z7Jc",
+            "itunesURL": "https://itunes.apple.com/us/movie/drop-dead-fred-1991/id735787419"
+        }       
+    }]
+}
