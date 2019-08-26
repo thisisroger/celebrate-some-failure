@@ -1050,3 +1050,28 @@
 .episode--shanghai-surprise {
     @include episodeMetaPainter($shanghaiSurpriseRed, $shanghaiSurpriseBlue);
 }
+
+// HERCULES
+.episode--hercules {
+    @include episodeMetaPainter($herculesOrange, $herculesYellow);
+}
+
+// THE COUNTRY BEARS
+.episode--the-country-bears {
+    @include episodeMetaPainter($theCountryBearsGold, $theCountryBearsBrown);
+}
+
+// SERENITY
+.episode--serenity {
+    @include episodeMetaPainter($serenityRed, $serenityGrey);
+}
+
+// JAWS 3D
+.episode--jaws-3d {
+    @include episodeMetaPainter($jaws3dRed, $jaws3dYellow);
+}
+
+// DEADFALL
+.episode--deadfall {
+    @include episodeMetaPainter($deadfallRed, $deadfallGreen);
+}

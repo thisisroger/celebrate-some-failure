@@ -96,10 +96,12 @@ export default {
     searchOpen() {
       document.getElementById('search').focus();
       this.isSearchOpen = true;
+      this.$ga.event('send', 'click', 'Search Open', 4);
     },
     searchClose() {
       this.isSearchOpen = false;
       this.searchQuery = '';
+      this.$ga.event('send', 'click', 'Search Close', 5);
     }
   },
 

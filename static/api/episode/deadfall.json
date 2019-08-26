@@ -1,0 +1,52 @@
+{
+    "results": [{
+        "id": "deadfall",
+        "film": {
+            "title": "Deadfall",
+            "summary": "When Joe loses his dad in a sting, he contacts his dad's twin, Lou, who has a major sting planned. Lou's helper feels threatened by Joe. Who's conning who?",
+            "trailer": "https://www.youtube.com/watch?v=E1kbITvaV7Y",
+            "poster": "/static/assets/posters/deadfall-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Chelsea Peretti",
+                "photo": "/static/assets/guests/chelsea-peretti.jpg",
+                "bio": "Chelsea Peretti is a stand-up comedian and writer who has worked on shows such as Parks and Recreation and The Sarah Silverman Program. In early 2011 Chelsea’s first Comedy Central Presents aired which was preceded by her inclusion in Comedy Central’s 2010 Hot List. Before moving to Los Angeles, Chelsea performed in the monthly show Variety Shac.",
+                "plugs": [
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    },
+                    {
+                        "title": "Brooklyn Nine-Nine",
+                        "URL": "https://www.amazon.com/dp/B00ESB6EUC",
+                        "media": "/static/assets/plugs/brooklyn-nine-nine.jpg"
+                    },
+                    {
+                        "title": "One of The Greats",
+                        "URL": "https://www.netflix.com/title/80004534",
+                        "media": "/static/assets/plugs/one-of-the-greats.jpg"
+                    },
+                    {
+                        "title": "Game Night",
+                        "URL": "https://www.amazon.com/dp/B079XX3P4R",
+                        "media": "/static/assets/plugs/game-night.jpg"
+                    },
+                    {
+                        "title": "Popstar: Never Stop Never Stopping",
+                        "URL": "https://www.amazon.com/dp/B01GHBYIEY",
+                        "media": "/static/assets/plugs/popstar.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "HDTGM All-star Chelsea Peretti (Brooklyn Nine-Nine) joins Paul, June, and Jason to discuss the 1993 Nicolas Cage film Deadfall. Recorded live in front of an unhinged audience at The Wiltern in Los Angeles, they talk about the other Deadfall film, deadfall definitions, Cage’s Tony Clifton inspired performance, cake, and so much more. Plus, they touch upon the sequel Arsenal, in which Nicolas Cage reprises his role as Eddie King.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/62665894",
+            "amazonURL": "https://www.amazon.com/Deadfall-Michael-Biehn/dp/B018YMQE14",
+            "youtubeURL": "https://www.youtube.com/watch?v=ULSKBelQo2Y",
+            "itunesURL": "https://itunes.apple.com/nz/movie/deadfall-1993/id363155810"
+        }
+    }]
+}

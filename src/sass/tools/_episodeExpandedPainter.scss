@@ -1068,3 +1068,28 @@
 .episode__expanded.shanghai-surprise {
     @include episodeExpandedPainter($shanghaiSurpriseRed, $shanghaiSurpriseBlue);
 }
+
+// HERCULES
+.episode__expanded.hercules {
+    @include episodeExpandedPainter($herculesOrange, $herculesYellow);
+}
+
+// THE COUNTRY BEARS
+.episode__expanded.the-country-bears {
+    @include episodeExpandedPainter($theCountryBearsGold, $theCountryBearsBrown);
+}
+
+// SERENITY
+.episode__expanded.serenity {
+    @include episodeExpandedPainter($serenityRed, $serenityGrey);
+}
+
+// JAWS 3D
+.episode__expanded.jaws-3d {
+    @include episodeExpandedPainter($jaws3dRed, $jaws3dYellow);
+}
+
+// DEADFALL
+.episode__expanded.deadfall {
+    @include episodeExpandedPainter($deadfallRed, $deadfallGreen);
+}

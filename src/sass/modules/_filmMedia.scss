@@ -55,7 +55,6 @@
     transition: transform 125ms ease-in-out;
 
     &:hover {
-        color: $white;
         transform: translate3d(0,-15%,0) rotate(-5deg);
     }
 }

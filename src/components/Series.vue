@@ -1,19 +1,10 @@
 <template>
   <main class="series" :class="{ 'series--expanded': this.episode }">
-
-    <div class="intro" :class="{'intro--closed': isIntroClosed}">
-      <div class="quote">
-        <blockquote>"There's a boozy, birdy housewife with a glass of chardonnay and her tits out diddling herself in the bath. Guess what this isn't for? Fourth graders. Guess what this is for? My spank bank."</blockquote>
-        <cite>- <img class="cite__pic" src="/static/assets/hosts/jason.jpg" alt="Jason Mantzoukas" /></cite>
-      </div>
-
-      <div class="intro__cta">
-        <span @click="closeIntro()" class="button__continue">Continue!</span>
-      </div>
-    </div>
-
-    <span class="nav__info" @click="isInfoOpen = !isInfoOpen">
+    <span class="nav__info" @click="openInfoView">
       <font-awesome-icon size="2x" :icon="{ prefix: 'fas', iconName: 'info-circle' }"/>
+    </span>
+    <span class="nav__back-to-top" @click="scrollTo(0, 220)">
+      <font-awesome-icon size="2x" :icon="{ prefix: 'fas', iconName: 'arrow-alt-circle-up' }"/>
     </span>
     <blog-nav :content="content" :filters="filters" :navs="navs"/>
     <series-feed :filters="filters" />
@@ -52,6 +43,8 @@ import BlogNav from './BlogNav'
 import SeriesFeed from './SeriesFeed'
 import Episode from './Episode'
 
+import { scrollTo } from '../helpers'
+
 export default {
   name: 'series',
   components: { BlogNav, SeriesFeed, Episode },
@@ -87,9 +80,18 @@ export default {
     }
   },
   methods: {
-    closeIntro() {
-      this.isIntroClosed = true;
-      this.$localStorage.set('introViewed', true);
+    scrollTo,
+    handleScroll(event) {
+      let backToTopEl = document.querySelector('.nav__back-to-top');
+      if (window.scrollY < 100) {
+        backToTopEl.classList.add('element--fade-out');
+      } else if (window.scrollY > 100) {
+        backToTopEl.classList.remove('element--fade-out');
+      }
+    },
+    openInfoView() {
+      this.isInfoOpen = true;
+      this.$ga.event('send', 'click', 'Info Viewed', 1);
     }
   },
   watch: {
@@ -103,6 +105,12 @@ export default {
     if (introSeen) {
       this.isIntroClosed = true;
     }
+  },
+  created() {
+    window.addEventListener('scroll', this.handleScroll);
+  },
+  destroyed() {
+    window.removeEventListener('scroll', this.handleScroll);
   }
 }
 </script>
