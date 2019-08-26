@@ -2605,6 +2605,17 @@
                 "name": "Chelsea Peretti"
             }
         }
+    },
+    {
+        "id": "drop-dead-fred",
+        "film": {
+            "title": "Drop Dead Fred"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Casey Wilson"
+            }
+        }
     }
 ]
 }
