@@ -109,9 +109,9 @@ export default {
     this.$getResource('series')
       .then(episodes => {
         if (!Object.keys(this.filters).length) {
-          this.stackPosts(episodes)
+          this.stackPosts(episodes.reverse())
         } else {
-          this.episodes = episodes
+          this.episodes = episodes.reverse()
           this.transition = 'preview'
         }
       })
