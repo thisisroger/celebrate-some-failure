@@ -1085,3 +1085,8 @@
 .episode--hobbs-and-shaw {
     @include episodeMetaPainter($hobbsAndShawBlack, $hobbsAndShawYellow);
 }
+
+// HOTTIE AND THE NOTTIE
+.episode--hottie-and-the-nottie {
+    @include episodeMetaPainter($hottieAndTheNottieYellow, $hottieAndTheNottieOrange);
+}
