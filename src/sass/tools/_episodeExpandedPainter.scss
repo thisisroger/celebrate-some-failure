@@ -1103,3 +1103,8 @@
 .episode__expanded.hobbs-and-shaw {
     @include episodeExpandedPainter($hobbsAndShawYellow, $hobbsAndShawBlack);
 }
+
+// HOTTIE AND THE NOTTIE
+.episode__expanded.hottie-and-the-nottie {
+    @include episodeExpandedPainter($hottieAndTheNottieYellow, $hottieAndTheNottieOrange);
+}
