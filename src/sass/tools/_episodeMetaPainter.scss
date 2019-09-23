@@ -1090,3 +1090,8 @@
 .episode--hottie-and-the-nottie {
     @include episodeMetaPainter($hottieAndTheNottieYellow, $hottieAndTheNottieOrange);
 }
+
+// UNFORGETTABLE
+.episode--unforgettable {
+    @include episodeMetaPainter($unforgettableBlack, $unforgettableRed);
+}
