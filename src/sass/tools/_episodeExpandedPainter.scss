@@ -1108,3 +1108,8 @@
 .episode__expanded.hottie-and-the-nottie {
     @include episodeExpandedPainter($hottieAndTheNottieYellow, $hottieAndTheNottieOrange);
 }
+
+// UNFORGETTABLE
+.episode__expanded.unforgettable {
+    @include episodeExpandedPainter($unforgettableBlack, $unforgettableRed);
+}
