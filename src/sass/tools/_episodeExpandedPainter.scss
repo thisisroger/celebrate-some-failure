@@ -1113,3 +1113,8 @@
 .episode__expanded.unforgettable {
     @include episodeExpandedPainter($unforgettableBlack, $unforgettableRed);
 }
+
+// DISCLOSURE
+.episode__expanded.disclosure {
+    @include episodeExpandedPainter($disclosureRed, $disclosureTan);
+}

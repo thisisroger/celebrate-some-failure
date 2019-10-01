@@ -1,0 +1,79 @@
+{
+    "results": [{
+        "id": "disclosure",
+        "film": {
+            "title": "Disclosure",
+            "summary": "A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.",
+            "trailer": "https://www.youtube.com/watch?v=34WwXUlx7E4",
+            "poster": "/static/assets/posters/disclosure-poster.jpg"
+        },
+        "guests": {
+            "guestOne": {
+                "name": "Nick Kroll",
+                "photo": "/static/assets/guests/nick-kroll.jpg",
+                "bio": "Nick Kroll is dearly beloved here at Earwolf, in case you can’t tell from the El Chupcabra tag on the Earwolf theme. He’s a quick improviser and hilarious stand-up, and you can watch his special Thank You Very Cool or the semi-improvised The League for verification on that. His credits are unending, and incredibly impressive.",
+                "plugs": [
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Kroll Show",
+                        "URL": "https://www.amazon.com/dp/B00AVXZ5O2",
+                        "media": "/static/assets/plugs/kroll-show.jpg"
+                    },
+                    {
+                        "title": "The League",
+                        "URL": "https://www.amazon.com/dp/B002UXCJVI",
+                        "media": "/static/assets/plugs/the-league.jpg"
+                    },
+                    {
+                        "title": "Adult Beginners",
+                        "URL": "https://www.amazon.com/dp/B00WKZ2YWK",
+                        "media": "/static/assets/plugs/adult-beginners.jpg"
+                    },
+                    {
+                        "title": "Sausage Party",
+                        "URL": "https://www.amazon.com/dp/B01JBARY4O",
+                        "media": "/static/assets/plugs/sausage-party.jpg"
+                    },
+                    {
+                        "title": "Parks and Recreation",
+                        "URL": "https://www.amazon.com/Pilot/dp/B0026Q9XJA",
+                        "media": "/static/assets/plugs/parks-and-recreation.jpg"
+                    }
+                ]
+            },
+            "guestTwo": {
+                "name": "Emily Altman",
+                "photo": "/static/assets/guests/emily-altman.jpg",
+                "bio": "Emily Altman is a writer known for her work on Big Mouth, Unbreakable Kimmy Schmidt, and Inside Amy Schumer.",
+                "plugs": [
+                    {
+                        "title": "Big Mouth",
+                        "URL": "https://www.netflix.com/title/80117038",
+                        "media": "/static/assets/plugs/big-mouth.jpg"
+                    },
+                    {
+                        "title": "Inside Amy Schumer",
+                        "URL": "https://www.amazon.com/Bad-Decisions/dp/B00CDU8C6O",
+                        "media": "/static/assets/plugs/inside-amy-schumer.jpg"
+                    },
+                    {
+                        "title": "Unbreakable Kimmy Schmidt",
+                        "URL": "https://www.netflix.com/title/80025384",
+                        "media": "/static/assets/plugs/unbreakable-kimmy-schmidt.jpg"
+                    }
+                ]
+            }
+        },
+        "episodeDescription": "Nick Kroll (Big Mouth) and Emily Altman (Big Mouth) join Paul and Jason in-studio to discuss the 1994 erotic thriller Disclosure starring Michael Douglas and Demi Moore. They talk about the Big Mouth tie-in to the movie, Demi Moore speaking on the internet & virtual reality, Michael Douglas’s character getting sexually harassed, and more.",
+        "mediaLinks": {
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf/how-did-this-get-made",
+            "amazonURL": "https://www.amazon.com/dp/B000GOTKJW",
+            "youtubeURL": "https://www.youtube.com/watch?v=QoWE-Lm0p-Y",
+            "itunesURL": "https://itunes.apple.com/us/movie/disclosure/id299674932"
+        }
+    }]
+}

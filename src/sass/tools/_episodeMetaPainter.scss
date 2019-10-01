@@ -1095,3 +1095,8 @@
 .episode--unforgettable {
     @include episodeMetaPainter($unforgettableBlack, $unforgettableRed);
 }
+
+// DISCLOSURE
+.episode--disclosure {
+    @include episodeMetaPainter($disclosureRed, $disclosureTan);
+}
