@@ -1100,3 +1100,8 @@
 .episode--disclosure {
     @include episodeMetaPainter($disclosureRed, $disclosureTan);
 }
+
+// STARCRASH
+.episode--starcrash {
+    @include episodeMetaPainter($starcrashBlue, $starcrashYellow);
+}

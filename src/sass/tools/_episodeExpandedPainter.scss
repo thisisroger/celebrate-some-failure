@@ -1118,3 +1118,8 @@
 .episode__expanded.disclosure {
     @include episodeExpandedPainter($disclosureRed, $disclosureTan);
 }
+
+// STARCRASH
+.episode__expanded.starcrash {
+    @include episodeExpandedPainter($starcrashBlue, $starcrashYellow);
+}
