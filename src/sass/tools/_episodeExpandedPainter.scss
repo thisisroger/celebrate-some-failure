@@ -1128,3 +1128,8 @@
 .episode__expanded.jason-lives {
     @include episodeExpandedPainter($jasonLivesRed, $jasonLivesBlue);
 }
+
+// BODY OF EVIDENCE
+.episode__expanded.body-of-evidence {
+    @include episodeExpandedPainter($bodyOfEvidenceRed, $bodyOfEvidenceYellow);
+}

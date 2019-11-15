@@ -1110,3 +1110,8 @@
 .episode--jason-lives {
     @include episodeMetaPainter($jasonLivesRed, $jasonLivesBlue);
 }
+
+// BODY OF EVIDENCE
+.episode--body-of-evidence {
+    @include episodeMetaPainter($bodyOfEvidenceRed, $bodyOfEvidenceYellow);
+}
