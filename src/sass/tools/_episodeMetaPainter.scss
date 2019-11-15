@@ -1105,3 +1105,8 @@
 .episode--starcrash {
     @include episodeMetaPainter($starcrashBlue, $starcrashYellow);
 }
+
+// FRIDAY THE 13TH PART IV JASON LIVES
+.episode--jason-lives {
+    @include episodeMetaPainter($jasonLivesRed, $jasonLivesBlue);
+}
