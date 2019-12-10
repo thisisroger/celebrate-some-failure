@@ -1138,3 +1138,8 @@
 .episode__expanded.double-dragon {
     @include episodeExpandedPainter($doubleDragonGreen, $doubleDragonRed);
 }
+
+// HIGH STRUNG
+.episode__expanded.high-strung {
+    @include episodeExpandedPainter($highStrungPurple, $highStrungYellow);
+}

@@ -1120,3 +1120,8 @@
 .episode--double-dragon {
     @include episodeMetaPainter($doubleDragonGreen, $doubleDragonRed);
 }
+
+// HIGH STRUNG
+.episode--high-strung {
+    @include episodeMetaPainter($highStrungPurple, $highStrungYellow);
+}
