@@ -1,10 +1,10 @@
 {
     "results": [{
         "film": {
-            "title": "Body of Evidence",
-            "summary": "A lawyer defends a woman accused of killing her older lover by having sex with him.",
-            "trailer": "https://www.youtube.com/watch?v=51xEHzC-rjQ",
-            "poster": "/static/assets/posters/body-of-evidence-poster.jpg"
+            "title": "Double Dragon",
+            "summary": "Two brothers have half of a powerful ancient Chinese talisman. An evil gang leader has the other half, and determines to get the brothers' half and have a complete medallion so he can gain absolute power.",
+            "trailer": "https://www.youtube.com/watch?v=oh9ioolJrd0",
+            "poster": "/static/assets/posters/double-dragon-poster.jpg"
         },
         "guests": {
             "guestOne": {
@@ -214,12 +214,11 @@
                 ]
             }
         },
-        "episodeDescription": "Recorded live from Washington D.C., Paul, June, and Jason discuss the 1993 erotic thriller Body of Evidence starring Madonna and Willem Dafoe. They talk about the sassiest judge of all time, the houseboat, the parking garage sex scene, and much more.",
+        "episodeDescription": "Live from Philadelphia, Paul, June, and Jason discuss the 1994 live action film Double Dragon based on the video game series. They talk about Alyssa Milano’s pants, weather man Andy Dick, Bo Abobo, and more.",
         "mediaLinks": {
-            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/65139623",
-            "amazonURL": "https://www.amazon.com/Body-Evidence-Madonna/dp/B07GT735D1",
-            "youtubeURL": "https://www.youtube.com/watch?v=wznoO6UynHQ",
-            "itunesURL": "https://itunes.apple.com/us/movie/body-of-evidence/id284930029"
+            "stitcherURL": "https://www.stitcher.com/podcast/earwolf-premium/HDTGM/e/65456058",
+            "amazonURL": "https://www.amazon.com/Double-Dragon-Scott-Wolf/dp/B003600DN0",
+            "itunesURL": "https://itunes.apple.com/us/movie/double-dragon/id1403504484"
         }       
     }]
 }

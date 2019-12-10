@@ -1133,3 +1133,8 @@
 .episode__expanded.body-of-evidence {
     @include episodeExpandedPainter($bodyOfEvidenceRed, $bodyOfEvidenceYellow);
 }
+
+// DOUBLE DRAGON
+.episode__expanded.double-dragon {
+    @include episodeExpandedPainter($doubleDragonGreen, $doubleDragonRed);
+}

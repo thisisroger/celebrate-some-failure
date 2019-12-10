@@ -1115,3 +1115,8 @@
 .episode--body-of-evidence {
     @include episodeMetaPainter($bodyOfEvidenceRed, $bodyOfEvidenceYellow);
 }
+
+// DOUBLE DRAGON
+.episode--double-dragon {
+    @include episodeMetaPainter($doubleDragonGreen, $doubleDragonRed);
+}
